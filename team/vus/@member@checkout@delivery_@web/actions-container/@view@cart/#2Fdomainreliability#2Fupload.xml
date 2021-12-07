@@ -1,0 +1,41 @@
+<http-page executeResourcesDynamically="false"
+    name="/domainreliability/upload" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/df87ec26-3cf9-4b0e-bb6a-00caa6a1580e.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="df87ec26-3cf9-4b0e-bb6a-00caa6a1580e">
+    <embedded-action>03efd275-dcd9-4aa3-8fd3-b6ec8e741245</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/javascript; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/domainreliability/upload"
+    path="/domainreliability/upload" postType="4"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/df87ec26-3cf9-4b0e-bb6a-00caa6a1580e.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="beacons.gcp.gvt2.com" slaProfileEnabled="false"
+    uid="03efd275-dcd9-4aa3-8fd3-b6ec8e741245" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_03efd275-dcd9-4aa3-8fd3-b6ec8e741245</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_03efd275-dcd9-4aa3-8fd3-b6ec8e741245.txt</requestContentFileDescription>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="content-type" value="application/json; charset=utf-8"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+Content-Length: 0&#xd;
+content-type: application/javascript; charset=utf-8&#xd;
+date: Mon, 29 Nov 2021 09:34:13 GMT&#xd;
+location: https://e2c46.gcp.gvt2.com/nel/&#xd;
+nel: {"failure_fraction":1,"include_subdomains":false,"max_age":604800,"report_to":"nel","success_fraction":0.050000000000000003}&#xd;
+server: Domain Reliability Server&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-xss-protection: 0&#xd;
+via: 1.1 google&#xd;
+report-to: {"endpoints":[{"priority":1,"url":"https://b1.nel.goog/upload/1/AHDprHq5xlsn5D2wWGk63LdVI2QEDhygg4ZtR1WDJ-uwmotdGBRVp5f95svOLnoUnTrnrDD4NSZ67wfcwd_A1BOLtVdK06Z2vESJkLo7jWk7LXCpBUYqHAj1B3c8oFjaEAo2KxS3b0MxJioTljidvLSYQPLUZrf3MZ8KMcolPZWJHkizoKUUXaIFT5gtkS2t4qYwD1fUIE7_pvHIbZHnG6ecdU7WOkAvXRgeTnYF","weight":1}],"group":"nel","max_age":604800}&#xd;
+alt-svc: clear</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"entries":[{"failure_data":{"custom_error":"net::ERR_ABORTED"},"http_response_code":200,"network_changed":false,"protocol":"SPDY","request_age_ms":68569,"request_elapsed_ms":148,"sample_rate":1.0,"server_ip":"","status":"aborted","url":"https://beacons.gcp.gvt2.com/domainreliability/upload","was_proxied":true},{"failure_data":{"custom_error":"net::ERR_ABORTED"},"http_response_code":200,"network_changed":false,"protocol":"SPDY","request_age_ms":63573,"request_elapsed_ms":148,"sample_rate":1.0,"server_ip":"","status":"aborted","url":"https://beacons.gcp.gvt2.com/domainreliability/upload","was_proxied":true}],"reporter":"chrome"}]]></textPostContent>
+</http-action>

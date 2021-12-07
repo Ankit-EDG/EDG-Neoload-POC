@@ -1,0 +1,197 @@
+<http-page executeResourcesDynamically="false"
+    name="/v1/pages/ChNDaHJvbWUvOTYuMC40NjY0LjQ1EhcJ8d4tHl5gzHUSBQ1QC6-wEgUNNYZUHBIQCSaZo6iDdjcBEgUNU1pHx"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/f9685fe5-28a2-4c15-9cfb-6d7c0ef6ca95.zip"
+    slaProfileEnabled="false" thinkTime="29"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="f9685fe5-28a2-4c15-9cfb-6d7c0ef6ca95">
+    <embedded-action>45c4dea6-992b-41bf-bcd8-b2c00cc3c6ee</embedded-action>
+    <embedded-action>71451805-cf5b-4349-997c-917445c0cf4f</embedded-action>
+    <embedded-action>6c126546-21fd-4e03-9ae8-2ef72e36d956</embedded-action>
+    <embedded-action>966e6815-4bf3-4b70-b914-ffaf8c0f1278</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/plain"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/v1/pages/ChNDaHJvbWUvOTYuMC40NjY0LjQ1EhcJ8d4tHl5gzHUSBQ1QC6-wEgUNNYZUHBIQCSaZo6iDdjcBEgUNU1pHxQ=="
+    path="/v1/pages/ChNDaHJvbWUvOTYuMC40NjY0LjQ1EhcJ8d4tHl5gzHUSBQ1QC6-wEgUNNYZUHBIQCSaZo6iDdjcBEgUNU1pHxQ=="
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/f9685fe5-28a2-4c15-9cfb-6d7c0ef6ca95.zip"
+    recordedResponseCode="200" responseSize="44"
+    serverUid="content-autofill.googleapis.com"
+    slaProfileEnabled="false" uid="45c4dea6-992b-41bf-bcd8-b2c00cc3c6ee" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_45c4dea6-992b-41bf-bcd8-b2c00cc3c6ee</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_45c4dea6-992b-41bf-bcd8-b2c00cc3c6ee.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="alt"
+        recordRawValue="proto" separator="=" value="proto" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="x-goog-encode-response-if-executable" value="base64"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-goog-api-key" value="AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"/>
+    <header name="x-client-data" value="CK21yQEIi7bJAQiktskBCMG2yQEIqZ3KAQjQoMoBCL3+ygEI6/LLAQjmhMwBCPqEzAEItoXMAQjLicwBCMGLzAEIrY7MAQjbjswBGI6eywE="/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+cache-control: private,max-age=604800&#xd;
+content-type: text/plain&#xd;
+x-goog-safety-encoding: base64&#xd;
+x-goog-safety-content-type: application/x-protobuf&#xd;
+vary: Origin&#xd;
+vary: X-Origin&#xd;
+vary: Referer&#xd;
+content-encoding: gzip&#xd;
+date: Mon, 29 Nov 2021 09:27:40 GMT&#xd;
+server: ESF&#xd;
+content-length: 60&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: nosniff&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/recaptcha/api2/webworker.js"
+    path="/recaptcha/api2/webworker.js" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/f9685fe5-28a2-4c15-9cfb-6d7c0ef6ca95.zip"
+    recordedResponseCode="200" responseSize="102"
+    serverUid="www.google.com" slaProfileEnabled="false"
+    uid="71451805-cf5b-4349-997c-917445c0cf4f" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_71451805-cf5b-4349-997c-917445c0cf4f</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_71451805-cf5b-4349-997c-917445c0cf4f.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="hl"
+        recordRawValue="en" separator="=" value="en" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="v"
+        recordRawValue="_7Co1fh8iT2hcjvquYJ_3zSP" separator="="
+        value="_7Co1fh8iT2hcjvquYJ_3zSP" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="same-origin"/>
+    <header name="referer" value="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LdEuYoUAAAAAEewef5-dy4QEbaymkizMrPj5V7s&amp;co=aHR0cHM6Ly9zdGFnZS5kYW5tdXJwaHlzLmNvbS5hdTo0NDM.&amp;hl=en&amp;v=_7Co1fh8iT2hcjvquYJ_3zSP&amp;size=invisible&amp;cb=5qlyv1u4qyxz"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-client-data" value="CK21yQEIi7bJAQiktskBCMG2yQEIqZ3KAQjQoMoBCOaEzAEI+oTMAQi2hcwBCMuJzAEYjp7LAQ=="/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="worker"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+expires: Mon, 29 Nov 2021 09:27:40 GMT&#xd;
+date: Mon, 29 Nov 2021 09:27:40 GMT&#xd;
+cache-control: private, max-age=300&#xd;
+cross-origin-embedder-policy: require-corp&#xd;
+report-to: {"group":"recaptcha","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/recaptcha"}]}&#xd;
+content-type: text/javascript; charset=UTF-8&#xd;
+content-encoding: gzip&#xd;
+x-content-type-options: nosniff&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+content-security-policy: frame-ancestors 'self'&#xd;
+x-xss-protection: 1; mode=block&#xd;
+content-length: 112&#xd;
+server: GSE&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="font/woff2"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2"
+    path="/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/f9685fe5-28a2-4c15-9cfb-6d7c0ef6ca95.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="fonts.gstatic.com" slaProfileEnabled="false"
+    uid="6c126546-21fd-4e03-9ae8-2ef72e36d956" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_6c126546-21fd-4e03-9ae8-2ef72e36d956</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_6c126546-21fd-4e03-9ae8-2ef72e36d956.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://www.google.com/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-client-data" value="CK21yQEIi7bJAQiktskBCMG2yQEIqZ3KAQjQoMoBCOaEzAEI+oTMAQi2hcwBCMuJzAEYjp7LAQ=="/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="origin" value="https://www.google.com"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="font"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+content-type: font/woff2&#xd;
+access-control-allow-origin: *&#xd;
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"&#xd;
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}&#xd;
+timing-allow-origin: *&#xd;
+content-length: 15344&#xd;
+date: Wed, 24 Nov 2021 01:14:33 GMT&#xd;
+expires: Thu, 24 Nov 2022 01:14:33 GMT&#xd;
+last-modified: Mon, 16 Oct 2017 17:32:55 GMT&#xd;
+x-content-type-options: nosniff&#xd;
+server: sffe&#xd;
+x-xss-protection: 0&#xd;
+age: 461587&#xd;
+cache-control: public, max-age=31536000&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="font/woff2"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2"
+    path="/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/f9685fe5-28a2-4c15-9cfb-6d7c0ef6ca95.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="fonts.gstatic.com" slaProfileEnabled="false"
+    uid="966e6815-4bf3-4b70-b914-ffaf8c0f1278" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_966e6815-4bf3-4b70-b914-ffaf8c0f1278</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_966e6815-4bf3-4b70-b914-ffaf8c0f1278.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://www.google.com/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-client-data" value="CK21yQEIi7bJAQiktskBCMG2yQEIqZ3KAQjQoMoBCOaEzAEI+oTMAQi2hcwBCMuJzAEYjp7LAQ=="/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="origin" value="https://www.google.com"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="font"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+content-type: font/woff2&#xd;
+access-control-allow-origin: *&#xd;
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+cross-origin-opener-policy-report-only: same-origin; report-to="apps-themes"&#xd;
+report-to: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}&#xd;
+timing-allow-origin: *&#xd;
+content-length: 15552&#xd;
+date: Wed, 24 Nov 2021 16:00:33 GMT&#xd;
+expires: Thu, 24 Nov 2022 16:00:33 GMT&#xd;
+last-modified: Mon, 16 Oct 2017 17:33:02 GMT&#xd;
+x-content-type-options: nosniff&#xd;
+server: sffe&#xd;
+x-xss-protection: 0&#xd;
+age: 408427&#xd;
+cache-control: public, max-age=31536000&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

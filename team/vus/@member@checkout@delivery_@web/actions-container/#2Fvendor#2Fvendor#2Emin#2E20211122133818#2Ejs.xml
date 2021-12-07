@@ -1,0 +1,268 @@
+<http-page executeResourcesDynamically="false"
+    name="/vendor/vendor.min.20211122133818.js"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/6d121d05-72ac-419e-8f3c-d2226f4d933d.zip"
+    slaProfileEnabled="false" thinkTime="189"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="6d121d05-72ac-419e-8f3c-d2226f4d933d">
+    <embedded-action>ef4daea6-312f-4a0c-9062-aa2543fb3112</embedded-action>
+    <embedded-action>dabb4cb7-7902-4c59-9f45-9d69c72b9ea6</embedded-action>
+    <embedded-action>5ca28096-d05b-4678-9a5b-aeed2be3287d</embedded-action>
+    <embedded-action>b632fc0f-fbac-4470-ac06-d0f38c47a21a</embedded-action>
+    <embedded-action>c5cc557d-10fe-489e-94da-3b4aea2b19b6</embedded-action>
+    <embedded-action>11822f19-14be-49cb-9748-761fa5d9cdc8</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="application/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/vendor/vendor.min.20211122133818.js"
+    path="/vendor/vendor.min.20211122133818.js" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/6d121d05-72ac-419e-8f3c-d2226f4d933d.zip"
+    recordedResponseCode="200" responseSize="764318"
+    serverUid="danmurphys-widgets-stg.salesfloor.net"
+    slaProfileEnabled="false" uid="ef4daea6-312f-4a0c-9062-aa2543fb3112" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_ef4daea6-312f-4a0c-9062-aa2543fb3112</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_ef4daea6-312f-4a0c-9062-aa2543fb3112.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://danmurphys-widgets-stg.salesfloor.net/cookies/manager?sf_locale=undefined"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="cacheBustKey=1638177901733"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Mon, 29 Nov 2021 09:25:02 GMT&#xd;
+content-type: application/javascript&#xd;
+content-length: 226146&#xd;
+last-modified: Mon, 22 Nov 2021 18:38:18 GMT&#xd;
+cache-control: max-age=2592000&#xd;
+expires: Wed, 29 Dec 2021 08:48:16 GMT&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+x-varnish: 109367 80078&#xd;
+age: 2205&#xd;
+accept-ranges: bytes&#xd;
+via: 1.1 google&#xd;
+alt-svc: clear</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/js/cookieTemplate.min.1638177901733.js"
+    path="/js/cookieTemplate.min.1638177901733.js" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/6d121d05-72ac-419e-8f3c-d2226f4d933d.zip"
+    recordedResponseCode="200" responseSize="57559"
+    serverUid="danmurphys-widgets-stg.salesfloor.net"
+    slaProfileEnabled="false" uid="dabb4cb7-7902-4c59-9f45-9d69c72b9ea6" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_dabb4cb7-7902-4c59-9f45-9d69c72b9ea6</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_dabb4cb7-7902-4c59-9f45-9d69c72b9ea6.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://danmurphys-widgets-stg.salesfloor.net/cookies/manager?sf_locale=undefined"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="cacheBustKey=1638177901733"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Mon, 29 Nov 2021 09:25:02 GMT&#xd;
+content-type: application/javascript&#xd;
+content-length: 14165&#xd;
+last-modified: Mon, 22 Nov 2021 18:38:14 GMT&#xd;
+cache-control: max-age=2592000&#xd;
+expires: Wed, 29 Dec 2021 09:18:50 GMT&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+x-varnish: 136755 12117&#xd;
+age: 371&#xd;
+accept-ranges: bytes&#xd;
+via: 1.1 google&#xd;
+alt-svc: clear</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/x-javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/de5f8b0ded67/b819e6b11ab5/385e972aa86a/RCb072e8a18a21406bbf384001106add61-source.min.js"
+    path="/de5f8b0ded67/b819e6b11ab5/385e972aa86a/RCb072e8a18a21406bbf384001106add61-source.min.js"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/6d121d05-72ac-419e-8f3c-d2226f4d933d.zip"
+    recordedResponseCode="200" responseSize="1431"
+    serverUid="assets.adobedtm.com" slaProfileEnabled="false"
+    uid="5ca28096-d05b-4678-9a5b-aeed2be3287d" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_5ca28096-d05b-4678-9a5b-aeed2be3287d</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_5ca28096-d05b-4678-9a5b-aeed2be3287d.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+content-type: application/x-javascript&#xd;
+etag: "8e08eaf99ca93e0785e980d71b75e13b:1637714261.452587"&#xd;
+last-modified: Wed, 24 Nov 2021 00:37:41 GMT&#xd;
+server: AkamaiNetStorage&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+content-length: 724&#xd;
+cache-control: max-age=3600&#xd;
+expires: Mon, 29 Nov 2021 10:25:02 GMT&#xd;
+date: Mon, 29 Nov 2021 09:25:02 GMT&#xd;
+access-control-allow-origin: https://stage.danmurphys.com.au&#xd;
+timing-allow-origin: *</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/x-javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/de5f8b0ded67/b819e6b11ab5/385e972aa86a/RC00955c8375044a68a7bbbf37459d0e2a-source.min.js"
+    path="/de5f8b0ded67/b819e6b11ab5/385e972aa86a/RC00955c8375044a68a7bbbf37459d0e2a-source.min.js"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/6d121d05-72ac-419e-8f3c-d2226f4d933d.zip"
+    recordedResponseCode="200" responseSize="1026"
+    serverUid="assets.adobedtm.com" slaProfileEnabled="false"
+    uid="b632fc0f-fbac-4470-ac06-d0f38c47a21a" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_b632fc0f-fbac-4470-ac06-d0f38c47a21a</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_b632fc0f-fbac-4470-ac06-d0f38c47a21a.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+content-type: application/x-javascript&#xd;
+etag: "8e08eaf99ca93e0785e980d71b75e13b:1637714261.452587"&#xd;
+last-modified: Wed, 24 Nov 2021 00:37:41 GMT&#xd;
+server: AkamaiNetStorage&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+content-length: 540&#xd;
+cache-control: max-age=3600&#xd;
+expires: Mon, 29 Nov 2021 10:25:02 GMT&#xd;
+date: Mon, 29 Nov 2021 09:25:02 GMT&#xd;
+access-control-allow-origin: https://stage.danmurphys.com.au&#xd;
+timing-allow-origin: *</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/x-javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/de5f8b0ded67/b819e6b11ab5/385e972aa86a/RC34a4e4857055400fa852978f41b56a5a-source.min.js"
+    path="/de5f8b0ded67/b819e6b11ab5/385e972aa86a/RC34a4e4857055400fa852978f41b56a5a-source.min.js"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/6d121d05-72ac-419e-8f3c-d2226f4d933d.zip"
+    recordedResponseCode="200" responseSize="697"
+    serverUid="assets.adobedtm.com" slaProfileEnabled="false"
+    uid="c5cc557d-10fe-489e-94da-3b4aea2b19b6" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_c5cc557d-10fe-489e-94da-3b4aea2b19b6</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_c5cc557d-10fe-489e-94da-3b4aea2b19b6.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+content-type: application/x-javascript&#xd;
+etag: "8e08eaf99ca93e0785e980d71b75e13b:1637714261.452587"&#xd;
+last-modified: Wed, 24 Nov 2021 00:37:41 GMT&#xd;
+server: AkamaiNetStorage&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+content-length: 414&#xd;
+cache-control: max-age=3600&#xd;
+expires: Mon, 29 Nov 2021 10:25:02 GMT&#xd;
+date: Mon, 29 Nov 2021 09:25:02 GMT&#xd;
+access-control-allow-origin: https://stage.danmurphys.com.au&#xd;
+timing-allow-origin: *</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/egw/5/qceuv8449dzg58ptt1bhda9g8ue19c7s/track/__cool.gif"
+    path="/egw/5/qceuv8449dzg58ptt1bhda9g8ue19c7s/track/__cool.gif"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/6d121d05-72ac-419e-8f3c-d2226f4d933d.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="udc-neb.kampyle.com" slaProfileEnabled="false"
+    uid="11822f19-14be-49cb-9748-761fa5d9cdc8" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_11822f19-14be-49cb-9748-761fa5d9cdc8.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_11822f19-14be-49cb-9748-761fa5d9cdc8.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="false" name="data"
+        recordRawValue="eyJldmVudHMiOiBbCiAgICB7InNlc3Npb25fc2NyZWVuX3NpemUiOiAiMTM2Nng3NjgiLCJzZXNzaW9uX2R1YSI6ICJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvOTYuMC40NjY0LjQ1IFNhZmFyaS81MzcuMzYiLCJzZXNzaW9uX3BsYXRmb3JtIjogIldpbjMyIiwicmVmZXJyaW5nX3VybCI6ICJodHRwOi8vd3d3Lm5lb3R5cy5jb20vIiwicmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cubmVvdHlzLmNvbSIsInBhZ2VfdGl0bGUiOiAiQnV5IEJlZXIsIFdpbmUgJiBTcGlyaXRzIE9ubGluZSAoTG93ZXN0IFByaWNlIEd1YXJhbnRlZWQpIHwgQWxjb2hvbCBEZWxpdmVyeSBBdXN0cmFsaWEgOiBEYW4gTXVycGh54oCZcyIsInBhZ2VfdXJsIjogImh0dHBzOi8vc3RhZ2UuZGFubXVycGh5cy5jb20uYXUvZG0vaG9tZSIsInRyYWNrZXJfdHlwZSI6ICJqYXZhc2NyaXB0IiwidHJhY2tlcl92ZXJzaW9uIjogIjIuMi4yMCIsImV2ZW50X25hbWUiOiAibmVidWxhX3BhZ2VfdmlldyIsImV2ZW50X3RpbWVzdGFtcF9lcG9jaCI6ICIxNjM4MTc3OTAxNDU0IiwiZXZlbnRfdGltZXpvbmVfb2Zmc2V0IjogMTEsInVzZXJfaWQiOiAiMTdjNWY0MDVhZGYxNy0wMTJlNzg3YmJjZTc2Yi1iN2ExYjM4LTEwMDIwMC0xN2M1ZjQwNWFlMzU5MiIsImVudmlyb21lbnQiOiAicHJvZEF1U3lkbmV5IiwiYWNjb3VudElkIjogNjg3MzYsInVybCI6ICJodHRwczovL3N0YWdlLmRhbm11cnBoeXMuY29tLmF1L2RtL2hvbWUiLCJ3ZWJzaXRlSWQiOiA3MjgwMSwiZm9ybUlkIjogbnVsbCwiZm9ybVRyaWdnZXJUeXBlIjogbnVsbCwia2FtcHlsZV9kYXRhIjogeyJMQVNUX0lOVklUQVRJT05fVklFVyI6ICIiLCJERUNMSU5FRF9EQVRFIjogIiIsImthbXB5bGVJbnZpdGVQcmVzZW50ZWQiOiAiIiwia2FtcHlsZV91c2VyaWQiOiAiY2NhMS1kMjU5LWRkODctZDQ5Ni1jMzU3LTAxM2EtYjI5MS03ZDkxIiwia2FtcHlsZVVzZXJTZXNzaW9uIjogIjE2MzgxNzc5MDE0NTAiLCJrYW1weWxlVXNlclBlcmNlbnRpbGUiOiAiIiwiU1VCTUlUVEVEX0RBVEUiOiAiIn0sImNvb2tpZV9zaXplIjogMTA2NCwia2FtcHlsZV92ZXJzaW9uIjogIjIuNDAuMCIsIm9uc2l0ZV92ZXJzaW9uIjogIjIuNDAuMCIsImhpc3RvcnlfbGVuZ3RoIjogMiwiZXZlbnRfbG9jYWxfdGltZXN0YW1wIjogMTYzODE3NzkwMTQ1NCwicG9zaXRpb24iOiBudWxsLCJpc1VzZXJJZGVudGlmaWVkIjogZmFsc2UsImZlZWRiYWNrX2NvcnJlbGF0aW9uX3V1aWQiOiBudWxsfQpdfQ=="
+        separator="="
+        value="eyJldmVudHMiOiBbCiAgICB7InNlc3Npb25fc2NyZWVuX3NpemUiOiAiMTM2Nng3NjgiLCJzZXNzaW9uX2R1YSI6ICJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvOTYuMC40NjY0LjQ1IFNhZmFyaS81MzcuMzYiLCJzZXNzaW9uX3BsYXRmb3JtIjogIldpbjMyIiwicmVmZXJyaW5nX3VybCI6ICJodHRwOi8vd3d3Lm5lb3R5cy5jb20vIiwicmVmZXJyaW5nX2RvbWFpbiI6ICJ3d3cubmVvdHlzLmNvbSIsInBhZ2VfdGl0bGUiOiAiQnV5IEJlZXIsIFdpbmUgJiBTcGlyaXRzIE9ubGluZSAoTG93ZXN0IFByaWNlIEd1YXJhbnRlZWQpIHwgQWxjb2hvbCBEZWxpdmVyeSBBdXN0cmFsaWEgOiBEYW4gTXVycGh54oCZcyIsInBhZ2VfdXJsIjogImh0dHBzOi8vc3RhZ2UuZGFubXVycGh5cy5jb20uYXUvZG0vaG9tZSIsInRyYWNrZXJfdHlwZSI6ICJqYXZhc2NyaXB0IiwidHJhY2tlcl92ZXJzaW9uIjogIjIuMi4yMCIsImV2ZW50X25hbWUiOiAibmVidWxhX3BhZ2VfdmlldyIsImV2ZW50X3RpbWVzdGFtcF9lcG9jaCI6ICIxNjM4MTc3OTAxNDU0IiwiZXZlbnRfdGltZXpvbmVfb2Zmc2V0IjogMTEsInVzZXJfaWQiOiAiMTdjNWY0MDVhZGYxNy0wMTJlNzg3YmJjZTc2Yi1iN2ExYjM4LTEwMDIwMC0xN2M1ZjQwNWFlMzU5MiIsImVudmlyb21lbnQiOiAicHJvZEF1U3lkbmV5IiwiYWNjb3VudElkIjogNjg3MzYsInVybCI6ICJodHRwczovL3N0YWdlLmRhbm11cnBoeXMuY29tLmF1L2RtL2hvbWUiLCJ3ZWJzaXRlSWQiOiA3MjgwMSwiZm9ybUlkIjogbnVsbCwiZm9ybVRyaWdnZXJUeXBlIjogbnVsbCwia2FtcHlsZV9kYXRhIjogeyJMQVNUX0lOVklUQVRJT05fVklFVyI6ICIiLCJERUNMSU5FRF9EQVRFIjogIiIsImthbXB5bGVJbnZpdGVQcmVzZW50ZWQiOiAiIiwia2FtcHlsZV91c2VyaWQiOiAiY2NhMS1kMjU5LWRkODctZDQ5Ni1jMzU3LTAxM2EtYjI5MS03ZDkxIiwia2FtcHlsZVVzZXJTZXNzaW9uIjogIjE2MzgxNzc5MDE0NTAiLCJrYW1weWxlVXNlclBlcmNlbnRpbGUiOiAiIiwiU1VCTUlUVEVEX0RBVEUiOiAiIn0sImNvb2tpZV9zaXplIjogMTA2NCwia2FtcHlsZV92ZXJzaW9uIjogIjIuNDAuMCIsIm9uc2l0ZV92ZXJzaW9uIjogIjIuNDAuMCIsImhpc3RvcnlfbGVuZ3RoIjogMiwiZXZlbnRfbG9jYWxfdGltZXN0YW1wIjogMTYzODE3NzkwMTQ1NCwicG9zaXRpb24iOiBudWxsLCJpc1VzZXJJZGVudGlmaWVkIjogZmFsc2UsImZlZWRiYWNrX2NvcnJlbGF0aW9uX3V1aWQiOiBudWxsfQpdfQ==" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Mon, 29 Nov 2021 09:25:02 GMT&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-origin: *&#xd;
+access-control-allow-methods: GET, POST, PUT, DELETE&#xd;
+access-control-allow-headers: X-Requested-With, Origin, Content-Type, Accept&#xd;
+access-control-max-age: 1800&#xd;
+x-me: prod-instance-gatewayservice-green-ssf6&#xd;
+x-application-context: application:9090&#xd;
+content-type: image/gif; charset=UTF-8&#xd;
+Content-Length: 0&#xd;
+server: Jetty(9.2.11.v20150529)&#xd;
+via: 1.1 google&#xd;
+alt-svc: clear</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

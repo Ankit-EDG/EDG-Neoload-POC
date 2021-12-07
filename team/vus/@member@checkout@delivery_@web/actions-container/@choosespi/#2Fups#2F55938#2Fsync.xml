@@ -1,0 +1,86 @@
+<http-page executeResourcesDynamically="false" name="/ups/55938/sync"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/ad372e84-f746-4881-9516-742673f22964.zip"
+    slaProfileEnabled="false" thinkTime="1518"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="ad372e84-f746-4881-9516-742673f22964">
+    <embedded-action>a8490a6c-7d20-47bb-921d-a584783ed307</embedded-action>
+    <embedded-action>7ebbab3d-7082-4fa8-954a-b2084030b23a</embedded-action>
+</http-page>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/ups/55938/sync" path="/ups/55938/sync"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/ad372e84-f746-4881-9516-742673f22964.zip"
+    recordedResponseCode="302" responseSize="0"
+    serverUid="pixel.advertising.com" slaProfileEnabled="false"
+    uid="a8490a6c-7d20-47bb-921d-a584783ed307" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_a8490a6c-7d20-47bb-921d-a584783ed307</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_a8490a6c-7d20-47bb-921d-a584783ed307.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="uid"
+        recordRawValue="46d861a4-9c64-4600-b29d-cedecb0f4672"
+        separator="=" value="46d861a4-9c64-4600-b29d-cedecb0f4672" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_origin"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://pixel.mathtag.com/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 302&#xd;
+date: Mon, 29 Nov 2021 09:30:47 GMT&#xd;
+Content-Length: 0&#xd;
+location: https://pixel.advertising.com/ups/55938/sync?uid=46d861a4-9c64-4600-b29d-cedecb0f4672&amp;_origin=1&amp;verify=true&#xd;
+strict-transport-security: max-age=31536000&#xd;
+set-cookie: APID=UP08a49307-50f7-11ec-90c7-02aded64098e;Version=1;Domain=.advertising.com;Path=/;Max-Age=31622400;Expires=Wed, 30-Nov-2022 09:30:47 GMT;Secure;SameSite=None&#xd;
+p3p: CP=NOI DSP COR LAW CURa DEVa TAIa PSAa PSDa OUR BUS UNI COM NAV</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="2" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/ups/55938/sync" path="/ups/55938/sync"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/ad372e84-f746-4881-9516-742673f22964.zip"
+    recordedResponseCode="302" responseSize="0"
+    serverUid="pixel.advertising.com" slaProfileEnabled="false"
+    uid="7ebbab3d-7082-4fa8-954a-b2084030b23a" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_7ebbab3d-7082-4fa8-954a-b2084030b23a</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_7ebbab3d-7082-4fa8-954a-b2084030b23a.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="uid"
+        recordRawValue="46d861a4-9c64-4600-b29d-cedecb0f4672"
+        separator="=" value="46d861a4-9c64-4600-b29d-cedecb0f4672" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_origin"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="verify"
+        recordRawValue="true" separator="=" value="true" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://pixel.mathtag.com/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="APID=UP08a49307-50f7-11ec-90c7-02aded64098e"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 302&#xd;
+date: Mon, 29 Nov 2021 09:30:47 GMT&#xd;
+Content-Length: 0&#xd;
+location: https://ups.analytics.yahoo.com/ups/55938/sync?uid=46d861a4-9c64-4600-b29d-cedecb0f4672&amp;_origin=1&amp;apid=UP08a49307-50f7-11ec-90c7-02aded64098e&#xd;
+strict-transport-security: max-age=31536000&#xd;
+set-cookie: APID=UP08a49307-50f7-11ec-90c7-02aded64098e;Version=1;Domain=.advertising.com;Path=/;Max-Age=31622400;Expires=Wed, 30-Nov-2022 09:30:47 GMT;Secure;SameSite=None&#xd;
+p3p: CP=NOI DSP COR LAW CURa DEVa TAIa PSAa PSDa OUR BUS UNI COM NAV</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

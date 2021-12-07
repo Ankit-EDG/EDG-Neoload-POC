@@ -1,0 +1,12 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="SeelctCider" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="75207336-401a-48de-b777-bc67fa084a6b" weightsEnabled="false">
+    <weighted-embedded-action uid="69819155-c0a2-4539-b84a-0e718103f67d"/>
+    <weighted-embedded-action uid="0278a067-c617-4e85-b835-020efd8e5d01"/>
+    <weighted-embedded-action uid="3e8ea93a-2a97-4947-b69d-076c301f2dff"/>
+    <weighted-embedded-action uid="fce4c9ba-6036-4f79-873c-9253d275377e"/>
+    <weighted-embedded-action uid="ea0f3dd7-ae03-4314-8904-42fe3dd9bcdb"/>
+    <weighted-embedded-action uid="578e789c-e7f4-4f09-a63a-de2f34d7474d"/>
+    <weighted-embedded-action uid="0c7603e2-2d25-4a1e-9429-4cc6910c205f"/>
+</basic-logical-action-container>

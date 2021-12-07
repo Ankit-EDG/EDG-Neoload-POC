@@ -1,0 +1,142 @@
+<http-page executeResourcesDynamically="false" name="/pixel_1"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/2485e97f-0511-4e59-a160-8d6cbfe8c44e.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="2485e97f-0511-4e59-a160-8d6cbfe8c44e">
+    <embedded-action>1de2ff84-d8c7-490e-b913-aba09e8eca1e</embedded-action>
+    <embedded-action>2180f1fd-2c2a-4532-b075-4e00d91a6c04</embedded-action>
+    <embedded-action>ff94ed62-de5c-4758-9ef3-97df0a323c60</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/pixel" path="/pixel" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/2485e97f-0511-4e59-a160-8d6cbfe8c44e.zip"
+    recordedResponseCode="302" responseSize="306"
+    serverUid="cm.g.doubleclick.net" slaProfileEnabled="false"
+    uid="1de2ff84-d8c7-490e-b913-aba09e8eca1e" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_1de2ff84-d8c7-490e-b913-aba09e8eca1e.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_1de2ff84-d8c7-490e-b913-aba09e8eca1e.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="google_nid"
+        recordRawValue="mediamath_dmp" separator="="
+        value="mediamath_dmp" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="google_cm"
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://pixel.mathtag.com/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="IDE=AHWqTUnH79cuPFQ-Riqya4KVXdzotrMulRNWBZ_cy0EEYnk6At6EqGt817KYyOrjOpY"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-client-data" value="CK21yQEIi7bJAQiktskBCMG2yQEIqZ3KAQjQoMoBCOaEzAEI+oTMAQi2hcwBCMuJzAEYjp7LAQ=="/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 302&#xd;
+p3p: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"&#xd;
+location: https://pixel.mathtag.com/sync/img?mt_exid=10074&amp;google_gid=CAESEMVK-SkHH3KBFegN36r2P7c&amp;google_cver=1&#xd;
+date: Mon, 29 Nov 2021 09:30:41 GMT&#xd;
+pragma: no-cache&#xd;
+expires: Fri, 01 Jan 1990 00:00:00 GMT&#xd;
+cache-control: no-cache, must-revalidate&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+content-type: text/html; charset=UTF-8&#xd;
+server: HTTP server (unknown)&#xd;
+content-length: 306&#xd;
+x-xss-protection: 0&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/sync" path="/sync" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/2485e97f-0511-4e59-a160-8d6cbfe8c44e.zip"
+    recordedResponseCode="302" responseSize="0"
+    serverUid="x.bidswitch.net" slaProfileEnabled="false"
+    uid="2180f1fd-2c2a-4532-b075-4e00d91a6c04" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_2180f1fd-2c2a-4532-b075-4e00d91a6c04</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_2180f1fd-2c2a-4532-b075-4e00d91a6c04.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="dsp_id"
+        recordRawValue="80" separator="=" value="80" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="user_id"
+        recordRawValue="46d861a4-9c64-4600-b29d-cedecb0f4672"
+        separator="=" value="46d861a4-9c64-4600-b29d-cedecb0f4672" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="expires"
+        recordRawValue="30" separator="=" value="30" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="x.bidswitch.net"/>
+    <header name="Referer" value="https://pixel.mathtag.com/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 302 Moved Temporarily&#xd;
+Server: nginx&#xd;
+Date: Mon, 29 Nov 2021 09:30:41 GMT&#xd;
+Content-Length: 0&#xd;
+Connection: keep-alive&#xd;
+Cache-Control: no-cache, no-store, must-revalidate&#xd;
+Location: https://x.bidswitch.net/ul_cb/sync?dsp_id=80&amp;user_id=46d861a4-9c64-4600-b29d-cedecb0f4672&amp;expires=30&#xd;
+Set-Cookie: tuuid=f302808e-7c9f-4ef9-839d-296df5021816; path=/; expires=Tue, 29-Nov-2022 09:30:41 GMT; domain=.bidswitch.net; samesite=none; secure&#xd;
+Set-Cookie: c=1638178241; path=/; expires=Tue, 29-Nov-2022 09:30:41 GMT; domain=.bidswitch.net; samesite=none; secure&#xd;
+Set-Cookie: tuuid_lu=1638178241; path=/; expires=Tue, 29-Nov-2022 09:30:41 GMT; domain=.bidswitch.net; samesite=none; secure&#xd;
+Set-Cookie: c=1638178241; path=/; expires=Tue, 29-Nov-2022 09:30:41 GMT; domain=.bidswitch.net; samesite=none; secure</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="2" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/ul_cb/sync" path="/ul_cb/sync" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/2485e97f-0511-4e59-a160-8d6cbfe8c44e.zip"
+    recordedResponseCode="302" responseSize="0"
+    serverUid="x.bidswitch.net" slaProfileEnabled="false"
+    uid="ff94ed62-de5c-4758-9ef3-97df0a323c60" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_ff94ed62-de5c-4758-9ef3-97df0a323c60</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_ff94ed62-de5c-4758-9ef3-97df0a323c60.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="dsp_id"
+        recordRawValue="80" separator="=" value="80" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="user_id"
+        recordRawValue="46d861a4-9c64-4600-b29d-cedecb0f4672"
+        separator="=" value="46d861a4-9c64-4600-b29d-cedecb0f4672" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="expires"
+        recordRawValue="30" separator="=" value="30" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="tuuid=f302808e-7c9f-4ef9-839d-296df5021816; c=1638178241; tuuid_lu=1638178241"/>
+    <header name="Host" value="x.bidswitch.net"/>
+    <header name="Referer" value="https://pixel.mathtag.com/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 302 Moved Temporarily&#xd;
+Server: nginx&#xd;
+Date: Mon, 29 Nov 2021 09:30:41 GMT&#xd;
+Content-Length: 0&#xd;
+Connection: keep-alive&#xd;
+Cache-Control: no-cache, no-store, must-revalidate&#xd;
+Location: //sync-t1.taboola.com/sg/bidswitch-network/1/rtb-h?taboola_hm=f302808e-7c9f-4ef9-839d-296df5021816&#xd;
+Set-Cookie: tuuid=f302808e-7c9f-4ef9-839d-296df5021816; path=/; expires=Tue, 29-Nov-2022 09:30:41 GMT; domain=.bidswitch.net; samesite=none; secure&#xd;
+Set-Cookie: tuuid_lu=1638178241; path=/; expires=Tue, 29-Nov-2022 09:30:41 GMT; domain=.bidswitch.net; samesite=none; secure</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

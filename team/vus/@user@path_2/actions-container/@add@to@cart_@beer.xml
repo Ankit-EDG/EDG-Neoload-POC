@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="AddToCart_Beer" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="14188569-457e-45e7-931e-f8c3c17d151d" weightsEnabled="false">
+    <weighted-embedded-action uid="a7b361f4-3199-45b5-ae6e-dca9d70a7ef4"/>
+    <weighted-embedded-action uid="cfec6d58-ff66-4400-b1a8-0809863b207f"/>
+</basic-logical-action-container>

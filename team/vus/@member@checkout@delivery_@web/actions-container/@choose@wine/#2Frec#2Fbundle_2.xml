@@ -1,0 +1,66 @@
+<http-page executeResourcesDynamically="false" name="/rec/bundle_2"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/098a2ef2-424e-4ac1-99da-ae42522028c8.zip"
+    slaProfileEnabled="false" thinkTime="1724"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="098a2ef2-424e-4ac1-99da-ae42522028c8">
+    <embedded-action>120a0e2d-446d-448f-a8ce-6f2a4a13dfb2</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/rec/bundle" path="/rec/bundle" postType="4"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/098a2ef2-424e-4ac1-99da-ae42522028c8.zip"
+    recordedResponseCode="200" responseSize="29"
+    serverUid="rs.fullstory.com" slaProfileEnabled="false"
+    uid="120a0e2d-446d-448f-a8ce-6f2a4a13dfb2" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_120a0e2d-446d-448f-a8ce-6f2a4a13dfb2</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_120a0e2d-446d-448f-a8ce-6f2a4a13dfb2.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true" name="OrgId"
+        recordRawValue="TQCFZ" separator="=" value="TQCFZ" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="UserId"
+        recordRawValue="6094149355069440" separator="="
+        value="6094149355069440" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="SessionId" recordRawValue="5407716160069632" separator="="
+        value="5407716160069632" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="PageId"
+        recordRawValue="6304641898012672" separator="="
+        value="6304641898012672" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="Seq"
+        recordRawValue="25" separator="=" value="25" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="PageStart" recordRawValue="1638177899114" separator="="
+        value="1638177899114" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="PrevBundleTime" recordRawValue="1638178154593"
+        separator="=" value="1638178154593" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="LastActivity" recordRawValue="33" separator="=" value="33" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://stage.danmurphys.com.au"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="text/plain"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-origin: https://stage.danmurphys.com.au&#xd;
+content-type: application/json; charset=utf-8&#xd;
+date: Mon, 29 Nov 2021 09:29:19 GMT&#xd;
+content-length: 29&#xd;
+via: 1.1 google&#xd;
+alt-svc: clear</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"Seq":25,"When":256485,"Evts":[{"Kind":63,"Args":["POST","https://rs.fullstory.com/rec/bundle?OrgId=TQCFZ&UserId=6094149355069440&SessionId=5407716160069632&PageId=6304641898012672&Seq=24&PageStart=1638177899114&PrevBundleTime=1638178149583&LastActivity=4121",201,200,"content-type: text/plain\r\n","content-length: 29\r\ncontent-type: application/json; charset=utf-8\r\n",1638178154487,1170,29,null,null,1,1],"When":256485},{"Kind":57,"Args":[2,"https://rs.fullstory.com/rec/bundle?OrgId=TQCFZ&UserId=6094149355069440&SessionId=5407716160069632&PageId=6304641898012672&Seq=24&PageStart=1638177899114&PrevBundleTime=1638178149583&LastActivity=4121",274034.09999990463,199.09999990463257,"xmlhttprequest",0,0,274034.09999990463,0,0,0,0,0,0,0,274233.19999980927,0,0,0],"When":256722},{"Kind":8,"Args":[677,95,6683],"When":257060},{"Kind":9,"Args":[257212,596,406,-285.1333333333333,-132.09677419354838,145,166,72.8,-20.548387096774192,8312],"When":257121},{"Kind":8,"Args":[385,158,8312],"When":257244},{"Kind":9,"Args":[257398,377,378,0,1.9354838709677418,156,144,-14.482758620689655,-9.677419354838708,8312],"When":257338},{"Kind":9,"Args":[257458,392,405,13,13,123,116,-7,-7,5332],"When":257428},{"Kind":8,"Args":[395,117,5332],"When":257520},{"Kind":9,"Args":[257673,337,311,-112,8.266666666666666,118,113,0,-8.266666666666666,4437],"When":257549},{"Kind":9,"Args":[257734,311,313,2,2,111,108,-3,-3,4437],"When":257704},{"Kind":9,"Args":[257827,315,325,11.272727272727273,8.551724137931036,107,101,-7.515151515151516,-4.275862068965518,4437],"When":257765},{"Kind":52,"Args":[],"When":259337},{"Kind":12,"Args":[325,101],"When":259340},{"Kind":17,"Args":[4437,true],"When":259345},{"Kind":13,"Args":[325,101],"When":259476},{"Kind":16,"Args":[4437,325,101,276.28125,65,79.09375,64],"When":259477},{"Kind":2,"Args":[4448,4449,[591,[1208,3],"hero-panel-img ng-star-inserted",600,"https://media.danmurphys.com.au/dmo/content/meganav/heropanel/redwine/redwinedesktop.png?impolicy=MEGA_NAV&width=325",594,2049,1780,"325"]],"When":259524},{"Kind":78,"Args":[[0,1,2,259524,0]],"When":259524},{"Kind":2,"Args":[4615,4616,[[1884,3],465,"img-inline ng-star-inserted",600,"https://media.danmurphys.com.au/dmo/e-commerce/brand/wynns-release/meganav/wynns-desk-mg.jpg?impolicy=MEGA_NAV&width=265",594,"Here's what to expect from the latest Wynns releas"]],"When":259524},{"Kind":78,"Args":[[0,1,2,259524,0]],"When":259524},{"Kind":4,"Args":[235,"ng-reflect-is-nav-active","true"],"When":259524},{"Kind":4,"Args":[234,"class","mega-nav ng-star-inserted is-active"],"When":259524},{"Kind":4,"Args":[4341,"ng-reflect-is-nav-active","true"],"When":259524},{"Kind":4,"Args":[4435,"ng-reflect-is-nav-active","true"],"When":259524},{"Kind":4,"Args":[4437,"class","btn-primary-nav ng-star-inserted is-active"],"When":259524},{"Kind":4,"Args":[4437,"aria-expanded","true"],"When":259524},{"Kind":4,"Args":[4439,"ng-reflect-is-parent-active","true"],"When":259524},{"Kind":4,"Args":[4439,"class","secondary-list ng-star-inserted"],"When":259524},{"Kind":4,"Args":[4442,"ng-reflect-is-parent-selected","true"],"When":259524},{"Kind":4,"Args":[4445,"ng-reflect-is-active","true"],"When":259524},{"Kind":4,"Args":[4447,"ng-reflect-is-tab-active","true"],"When":259524},{"Kind":4,"Args":[4614,"ng-reflect-show","true"],"When":259524},{"Kind":4,"Args":[4623,"ng-reflect-is-parent-selected","true"],"When":259524},{"Kind":4,"Args":[4806,"ng-reflect-is-parent-selected","true"],"When":259524},{"Kind":4,"Args":[4951,"ng-reflect-is-parent-selected","true"],"When":259524},{"Kind":4,"Args":[5117,"ng-reflect-is-parent-selected","true"],"When":259524},{"Kind":4,"Args":[5240,"ng-reflect-is-parent-selected","true"],"When":259524},{"Kind":4,"Args":[5330,"ng-reflect-is-nav-active","true"],"When":259524},{"Kind":4,"Args":[6407,"ng-reflect-is-nav-active","true"],"When":259524},{"Kind":4,"Args":[6571,"ng-reflect-is-nav-active","true"],"When":259524},{"Kind":4,"Args":[6681,"ng-reflect-is-nav-active","true"],"When":259524},{"Kind":4,"Args":[6803,"ng-reflect-is-nav-active","true"],"When":259524},{"Kind":4,"Args":[6913,"ng-reflect-is-nav-active","true"],"When":259524},{"Kind":4,"Args":[7055,"ng-reflect-is-nav-active","true"],"When":259524},{"Kind":4,"Args":[236,"class","nav-list-primary ng-trigger ng-trigger-showLevels ng-animate-disabled is-active"],"When":259524},{"Kind":4,"Args":[233,"class","meganav-overlay header-overlay is-active"],"When":259524},{"Kind":9,"Args":[259672,328,653,106.53333333333333,616.875,101,206,47,176.25,4517],"When":259578},{"Kind":9,"Args":[259733,708,720,12,12,219,221,2,2,4522],"When":259701},{"When":259732,"Kind":8197,"Args":["eVars","{\"eVar4_str\":\"wine\"}","dlo"]},{"When":259735,"Kind":8197,"Args":["props","{\"prop3_str\":\"https://stage.danmurphys.com.au/dm/home\"}","dlo"]},{"Kind":8,"Args":[724,221,4522],"When":259763},{"Kind":57,"Args":[2,"https://fs-obfuscated.invalid?url-id=678",277266.90000009537,46.59999990463257,"img",0,0,277266.90000009537,0,0,0,0,0,0,0,277313.5,0,0,0],"When":259825},{"Kind":57,"Args":[2,"https://fs-obfuscated.invalid?url-id=677",277266.5,66.5,"img",0,0,277266.5,0,0,0,0,0,0,0,277333,0,0,0],"When":259825},{"Kind":9,"Args":[260071,727,731,4,4,221,223,2,2,4522],"When":260040},{"Kind":87,"Args":[["https://media.danmurphys.com.au/dmo/content/meganav/heropanel/redwine/redwinedesktop.png?impolicy=MEGA_NAV&width=325",677],["https://media.danmurphys.com.au/dmo/e-commerce/brand/wynns-release/meganav/wynns-desk-mg.jpg?impolicy=MEGA_NAV&width=265",678]],"When":260069},{"Kind":9,"Args":[260229,753,778,22.257731958762886,33.86666666666667,241,259,17.02061855670103,21.166666666666668,4446],"When":260102},{"Kind":9,"Args":[260383,791,805,19.375,4.275862068965518,264,266,7.75,0,4576],"When":260259},{"Kind":8,"Args":[806,266,4576],"When":260478},{"Kind":8,"Args":[808,269,4576],"When":260508},{"Kind":9,"Args":[260663,813,816,4.133333333333333,0,294,384,49.6,196,4588],"When":260539},{"Kind":9,"Args":[260725,816,816,0,0,392,397,5,5,4588],"When":260695},{"Kind":9,"Args":[260943,895,1329,1051.7692307692307,151.25,408,358,-41.88461538461539,-45.375,233],"When":260822},{"Kind":8,"Args":[1332,356,233],"When":260973},{"Kind":9,"Args":[261065,1333,1334,0,2.137931034482759,352,343,-3.757575757575758,-14.965517241379311,233],"When":261003},{"Kind":9,"Args":[261220,1335,1352,4.1000000000000005,67.86206896551724,340,308,-8.200000000000001,-110.27586206896551,3],"When":261097},{"Kind":78,"Args":[[0,1,3,261097,0,[3,0]]],"When":261097}]}]]></textPostContent>
+</http-action>

@@ -1,0 +1,8 @@
+<websocket-action name="websocket_request_1" slaProfileEnabled="false"
+    status-code="1000" synchronous-type="ASYNCHRONOUS"
+    uid="f909e37a-b05e-4de5-be72-f441128a321d"
+    websocket-body-type="TEXT" websocket-channel-uid="c2de8005-aee6-4695-b2cc-06a69d0d686f">
+    <binaryPostContentBase64><![CDATA[MTYzODE3NzkwMjU5MQozLjg5ODk4MjkwOTUwNTQ3NgoyCjMKZAp7InBhdGgiOlsicm9vdCIsImxpdmVjaGF0IiwicHJvZmlsZSJdLCJ2YWx1ZSI6eyJhY3RpdmUkaW50IjoxNjM4MTc3ODk5Mzc2fX0KeyJwYXRoIjpbInJvb3QiLCJsaXZlY2hhdCIsInByb2ZpbGUiXSwidmFsdWUiOnsiZGVwYXJ0bWVudF9pZCRpbnQiOjM2MDAwNDI0NDkxNn0sIl9fbWVzc2FnZUlEIjoxfQp7InBhdGgiOlsicm9vdCIsImxpdmVjaGF0IiwicHJvZmlsZSJdLCJ2YWx1ZSI6eyJkaXNjb25uZWN0X3RpbWVvdXQkaW50IjozNH19]]></binaryPostContentBase64>
+    <responsePageFileDescription>team/vus/@member@checkout@delivery_@web/%resources%/recorded-responses/res_f909e37a-b05e-4de5-be72-f441128a321d</responsePageFileDescription>
+    <requestContentFileDescription>team/vus/@member@checkout@delivery_@web/%resources%/recorded-requests/req_f909e37a-b05e-4de5-be72-f441128a321d.txt</requestContentFileDescription>
+</websocket-action>

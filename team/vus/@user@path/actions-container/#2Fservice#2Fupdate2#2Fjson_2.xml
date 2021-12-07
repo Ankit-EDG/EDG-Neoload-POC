@@ -1,0 +1,47 @@
+<http-page executeResourcesDynamically="false"
+    name="/service/update2/json_2" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/166d24aa-fcf8-4ac9-b69e-7f6f5a34ec5f.zip"
+    slaProfileEnabled="false" thinkTime="23381"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="166d24aa-fcf8-4ac9-b69e-7f6f5a34ec5f">
+    <embedded-action>29095c3a-07e5-48a7-8099-6b9c32e74347</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/service/update2/json"
+    path="/service/update2/json" postType="4"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/166d24aa-fcf8-4ac9-b69e-7f6f5a34ec5f.zip"
+    recordedResponseCode="200" responseSize="250"
+    serverUid="update.googleapis.com" slaProfileEnabled="false"
+    uid="29095c3a-07e5-48a7-8099-6b9c32e74347" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_29095c3a-07e5-48a7-8099-6b9c32e74347</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_29095c3a-07e5-48a7-8099-6b9c32e74347.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="content-type" value="application/json"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-security-policy: script-src 'report-sample' 'nonce-NhclMiFn/XiGctMP9oaRFg' 'unsafe-inline' 'strict-dynamic' https: http:;object-src 'none';base-uri 'self';report-uri https://csp.withgoogle.com/csp/clientupdate-aus/1&#xd;
+cache-control: no-cache, no-store, max-age=0, must-revalidate&#xd;
+pragma: no-cache&#xd;
+expires: Mon, 01 Jan 1990 00:00:00 GMT&#xd;
+date: Mon, 29 Nov 2021 07:45:15 GMT&#xd;
+content-type: application/json; charset=utf-8&#xd;
+x-daynum: 5445&#xd;
+x-daystart: 85515&#xd;
+content-encoding: gzip&#xd;
+x-content-type-options: nosniff&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-xss-protection: 1; mode=block&#xd;
+content-length: 172&#xd;
+server: GSE&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"request":{"@os":"win","@updater":"chrome","acceptformat":"crx2,crx3","app":[{"appid":"hfnkpimlhhgieaddgfemjhofmfblmnib","event":[{"download_time_ms":4300,"downloaded":0,"downloader":"bits","errorcode":-2145844848,"eventresult":0,"eventtype":14,"nextversion":"7004","previousversion":"7001","url":"http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/acysi2jjyxqp7pl4i2t4hm5k3q2q_7004/hfnkpimlhhgieaddgfemjhofmfblmnib_7004_all_ph7u6utqp6xw6g6k662adcnomm.crx3"},{"download_time_ms":4029,"downloaded":0,"downloader":"bits","errorcode":-2145844848,"eventresult":0,"eventtype":14,"nextversion":"7004","previousversion":"7001","url":"http://redirector.gvt1.com/edgedl/release2/chrome_component/acysi2jjyxqp7pl4i2t4hm5k3q2q_7004/hfnkpimlhhgieaddgfemjhofmfblmnib_7004_all_ph7u6utqp6xw6g6k662adcnomm.crx3"},{"download_time_ms":16048,"downloaded":25226,"downloader":"bits","eventresult":1,"eventtype":14,"nextversion":"7004","previousversion":"7001","total":25226,"url":"https://edgedl.me.gvt1.com/edgedl/release2/chrome_component/acysi2jjyxqp7pl4i2t4hm5k3q2q_7004/hfnkpimlhhgieaddgfemjhofmfblmnib_7004_all_ph7u6utqp6xw6g6k662adcnomm.crx3"},{"eventresult":1,"eventtype":3,"nextfp":"1.32feecb98a6f4957512b6873adb419bbe3e9839cf4dcad0907bb6be541daa72f","nextversion":"7004","previousfp":"1.f30fbfaa5917e9107b8c7affd266c7ff58aab45577b70436011d3b2913a11fa3","previousversion":"7001"}],"version":"7004"}],"arch":"x64","dedup":"cr","hw":{"physmemory":32},"ismachine":true,"lang":"en-US","nacl_arch":"x86-64","os":{"arch":"x86_64","platform":"Windows","version":"10.0.14393.4169"},"prodversion":"96.0.4664.45","protocol":"3.1","requestid":"{f8b4be53-fc93-488a-9f17-a54cc50fb246}","sessionid":"{d14a1131-607b-4394-bd44-6a39af0cefb9}","updaterversion":"96.0.4664.45"}}]]></textPostContent>
+</http-action>

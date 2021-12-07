@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="AddToCat" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="b66a4ad1-19a3-47f2-9b99-9216fd4415c9" weightsEnabled="false">
+    <weighted-embedded-action uid="33037f89-5e87-45ba-90ed-610cc69dec56"/>
+</basic-logical-action-container>

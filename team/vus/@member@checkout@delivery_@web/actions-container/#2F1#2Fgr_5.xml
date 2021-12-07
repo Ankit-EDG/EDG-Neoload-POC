@@ -1,0 +1,211 @@
+<http-page executeResourcesDynamically="false" name="/1/gr_5"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/038aa745-f48a-4c92-8803-75d7c9645182.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="038aa745-f48a-4c92-8803-75d7c9645182">
+    <embedded-action>cd9b46f7-0218-4c14-8c70-59721537ce09</embedded-action>
+    <embedded-action>810d4173-f9ba-4a5e-892c-2a904a4d4285</embedded-action>
+    <embedded-action>fc0cb701-b647-4690-b65a-8adc52ec952c</embedded-action>
+    <embedded-action>5bb3b41b-f5ef-40c0-b143-9e2acdb3197d</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=iso-8859-1"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/1/gr" path="/1/gr" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/038aa745-f48a-4c92-8803-75d7c9645182.zip"
+    recordedResponseCode="302" responseSize="457"
+    serverUid="pixel.everesttech.net" slaProfileEnabled="false"
+    uid="cd9b46f7-0218-4c14-8c70-59721537ce09" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_cd9b46f7-0218-4c14-8c70-59721537ce09.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_cd9b46f7-0218-4c14-8c70-59721537ce09.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="url"
+        recordRawValue="https%3A%2F%2Fdsum-sec.casalemedia.com%2Frum%3Fcm_dsp_id%3D71%26external_user_id%3D__EFGSURFER__.__EFGCK__"
+        separator="="
+        value="https://dsum-sec.casalemedia.com/rum?cm_dsp_id=71&amp;external_user_id=__EFGSURFER__.__EFGCK__" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="everest_g_v2=g_surferid~YaScZwAAAFvL2QP9"/>
+    <header name="Host" value="pixel.everesttech.net"/>
+    <header name="Referer" value="https://wwg.demdex.net/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 302 Found&#xd;
+Date: Mon, 29 Nov 2021 09:24:59 GMT&#xd;
+Content-Type: text/html; charset=iso-8859-1&#xd;
+Content-Length: 457&#xd;
+Connection: keep-alive&#xd;
+Server: Apache&#xd;
+Location: https://cm.g.doubleclick.net/pixel?google_nid=everest&amp;google_cm&amp;google_sc&amp;ev_rs=1&amp;google_hm=WWFTY1p3QUFBRnZMMlFQOQ&amp;url=/1/gr%3furl=https%253A%252F%252Fdsum-sec.casalemedia.com%252Frum%253Fcm_dsp_id%253D71%2526external_user_id%253D__EFGSURFER__.__EFGCK__</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="2" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/pixel" path="/pixel" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/038aa745-f48a-4c92-8803-75d7c9645182.zip"
+    recordedResponseCode="302" responseSize="487"
+    serverUid="cm.g.doubleclick.net" slaProfileEnabled="false"
+    uid="810d4173-f9ba-4a5e-892c-2a904a4d4285" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_810d4173-f9ba-4a5e-892c-2a904a4d4285.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_810d4173-f9ba-4a5e-892c-2a904a4d4285.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="google_nid"
+        recordRawValue="everest" separator="=" value="everest" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="google_cm"
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="google_sc"
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ev_rs"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="google_hm"
+        recordRawValue="WWFTY1p3QUFBRnZMMlFQOQ" separator="="
+        value="WWFTY1p3QUFBRnZMMlFQOQ" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="url"
+        recordRawValue="/1/gr%3furl=https%253A%252F%252Fdsum-sec.casalemedia.com%252Frum%253Fcm_dsp_id%253D71%2526external_user_id%253D__EFGSURFER__.__EFGCK__"
+        separator="="
+        value="/1/gr%3furl=https%253A%252F%252Fdsum-sec.casalemedia.com%252Frum%253Fcm_dsp_id%253D71%2526external_user_id%253D__EFGSURFER__.__EFGCK__" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://wwg.demdex.net/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 302&#xd;
+p3p: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"&#xd;
+location: https://cm.g.doubleclick.net/pixel?google_nid=everest&amp;google_cm=&amp;google_sc=&amp;ev_rs=1&amp;google_hm=WWFTY1p3QUFBRnZMMlFQOQ&amp;url=/1/gr%3Furl=https%253A%252F%252Fdsum-sec.casalemedia.com%252Frum%253Fcm_dsp_id%253D71%2526external_user_id%253D__EFGSURFER__.__EFGCK__&amp;google_tc=&#xd;
+date: Mon, 29 Nov 2021 09:25:01 GMT&#xd;
+pragma: no-cache&#xd;
+expires: Fri, 01 Jan 1990 00:00:00 GMT&#xd;
+cache-control: no-cache, must-revalidate&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+content-type: text/html; charset=UTF-8&#xd;
+server: HTTP server (unknown)&#xd;
+content-length: 487&#xd;
+x-xss-protection: 0&#xd;
+set-cookie: test_cookie=CheckForPermission; expires=Mon, 29-Nov-2021 09:40:01 GMT; path=/; domain=.doubleclick.net; Secure; HttpOnly; SameSite=none&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="2" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/pixel" path="/pixel" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/038aa745-f48a-4c92-8803-75d7c9645182.zip"
+    recordedResponseCode="302" responseSize="455"
+    serverUid="cm.g.doubleclick.net" slaProfileEnabled="false"
+    uid="fc0cb701-b647-4690-b65a-8adc52ec952c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_fc0cb701-b647-4690-b65a-8adc52ec952c.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_fc0cb701-b647-4690-b65a-8adc52ec952c.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="google_nid"
+        recordRawValue="everest" separator="=" value="everest" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="google_cm"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="google_sc"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ev_rs"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="google_hm"
+        recordRawValue="WWFTY1p3QUFBRnZMMlFQOQ" separator="="
+        value="WWFTY1p3QUFBRnZMMlFQOQ" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="url"
+        recordRawValue="/1/gr%3Furl=https%253A%252F%252Fdsum-sec.casalemedia.com%252Frum%253Fcm_dsp_id%253D71%2526external_user_id%253D__EFGSURFER__.__EFGCK__"
+        separator="="
+        value="/1/gr%3Furl=https%253A%252F%252Fdsum-sec.casalemedia.com%252Frum%253Fcm_dsp_id%253D71%2526external_user_id%253D__EFGSURFER__.__EFGCK__" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="google_tc"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://wwg.demdex.net/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="test_cookie=CheckForPermission"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 302&#xd;
+p3p: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"&#xd;
+location: https://cm.everesttech.net/cm/ax?cookieid=&amp;ev_rs=1&amp;url=/1/gr%3Furl=https%253A%252F%252Fdsum-sec.casalemedia.com%252Frum%253Fcm_dsp_id%253D71%2526external_user_id%253D__EFGSURFER__.__EFGCK__&amp;google_gid=CAESEEY7TD2orSVVP-51IPXdCnM&amp;google_cver=1&#xd;
+date: Mon, 29 Nov 2021 09:25:01 GMT&#xd;
+pragma: no-cache&#xd;
+expires: Fri, 01 Jan 1990 00:00:00 GMT&#xd;
+cache-control: no-cache, must-revalidate&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+content-type: text/html; charset=UTF-8&#xd;
+server: HTTP server (unknown)&#xd;
+content-length: 455&#xd;
+x-xss-protection: 0&#xd;
+set-cookie: IDE=AHWqTUl88HqPNnVhnHtULuOK1I9InA54G_a2b4YHkbkU0Coh2t25IzbVnxtcCuh3O1U; expires=Wed, 29-Nov-2023 09:25:01 GMT; path=/; domain=.doubleclick.net; Secure; HttpOnly; SameSite=none&#xd;
+set-cookie: test_cookie=; expires=Fri, 01-Aug-2008 22:45:55 GMT; path=/; domain=.doubleclick.net; Secure; HttpOnly; SameSite=none&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="2" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/cm/ax" path="/cm/ax" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/038aa745-f48a-4c92-8803-75d7c9645182.zip"
+    recordedResponseCode="302" responseSize="0"
+    serverUid="cm.everesttech.net" slaProfileEnabled="false"
+    uid="5bb3b41b-f5ef-40c0-b143-9e2acdb3197d" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_5bb3b41b-f5ef-40c0-b143-9e2acdb3197d</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_5bb3b41b-f5ef-40c0-b143-9e2acdb3197d.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="cookieid"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ev_rs"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="url"
+        recordRawValue="/1/gr%3Furl=https%253A%252F%252Fdsum-sec.casalemedia.com%252Frum%253Fcm_dsp_id%253D71%2526external_user_id%253D__EFGSURFER__.__EFGCK__"
+        separator="="
+        value="/1/gr%3Furl=https%253A%252F%252Fdsum-sec.casalemedia.com%252Frum%253Fcm_dsp_id%253D71%2526external_user_id%253D__EFGSURFER__.__EFGCK__" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="google_gid"
+        recordRawValue="CAESEEY7TD2orSVVP-51IPXdCnM" separator="="
+        value="CAESEEY7TD2orSVVP-51IPXdCnM" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="google_cver"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="everest_g_v2=g_surferid~YaScZwAAAFvL2QP9; ev_sync_yh=20211129"/>
+    <header name="Host" value="cm.everesttech.net"/>
+    <header name="Referer" value="https://wwg.demdex.net/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 302 &#xd;
+Date: Mon, 29 Nov 2021 09:25:02 GMT&#xd;
+Content-Length: 0&#xd;
+Connection: keep-alive&#xd;
+Set-Cookie: ev_sync_ax=20211129;path=/;Max-Age=2678400;domain=.everesttech.net;Secure;SameSite=None&#xd;
+P3P: CP="NOI NID DEVa PSAa PSDa OUR IND PUR COM NAV INT DEM"&#xd;
+Cache-Control: no-cache&#xd;
+Location: https://pixel.everesttech.net/1x1&#xd;
+Server: AMO-cookiemap/1.1</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

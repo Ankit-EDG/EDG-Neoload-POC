@@ -1,0 +1,67 @@
+<http-page executeResourcesDynamically="false" name="/rec/bundle_5"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/9c33d5c9-65a7-4c7d-8683-467f5b43e5ef.zip"
+    slaProfileEnabled="false" thinkTime="1763"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="9c33d5c9-65a7-4c7d-8683-467f5b43e5ef">
+    <embedded-action>078d836a-17af-463d-9489-c53aeddfbd32</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/rec/bundle" path="/rec/bundle" postType="4"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/9c33d5c9-65a7-4c7d-8683-467f5b43e5ef.zip"
+    recordedResponseCode="200" responseSize="29"
+    serverUid="rs.fullstory.com" slaProfileEnabled="false"
+    uid="078d836a-17af-463d-9489-c53aeddfbd32" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_078d836a-17af-463d-9489-c53aeddfbd32</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_078d836a-17af-463d-9489-c53aeddfbd32.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true" name="OrgId"
+        recordRawValue="TQCFZ" separator="=" value="TQCFZ" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="UserId"
+        recordRawValue="6094149355069440" separator="="
+        value="6094149355069440" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="SessionId" recordRawValue="5407716160069632" separator="="
+        value="5407716160069632" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="PageId"
+        recordRawValue="6304641898012672" separator="="
+        value="6304641898012672" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="Seq"
+        recordRawValue="28" separator="=" value="28" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="PageStart" recordRawValue="1638177899114" separator="="
+        value="1638177899114" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="PrevBundleTime" recordRawValue="1638178169968"
+        separator="=" value="1638178169968" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="LastActivity" recordRawValue="1966" separator="="
+        value="1966" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://stage.danmurphys.com.au"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="text/plain"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-origin: https://stage.danmurphys.com.au&#xd;
+content-type: application/json; charset=utf-8&#xd;
+date: Mon, 29 Nov 2021 09:29:34 GMT&#xd;
+content-length: 29&#xd;
+via: 1.1 google&#xd;
+alt-svc: clear</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"Seq":28,"When":271377,"Evts":[{"Kind":63,"Args":["GET","https://stageapi.danmurphys.com.au/apis/ui/Products/Bundles/824027,682505,682396,824097,418873,824024,676580,608178,768994,131651,346878,147609,6815,906225,406121,130687,79908,723049,473632,712299?ExcludeUnavailable=true",1059,200,"accept: application/json, text/plain, */*\r\n","cache-control: no-cache, no-store, must-revalidate\r\ncontent-length: 20317\r\ncontent-type: application/json; charset=utf-8\r\nexpires: -1\r\npragma: no-cache\r\nx-eventid\r\n",1638178168263,0,120346,null,null,0,1],"When":271377},{"Kind":42,"Args":[1349,5194.1875],"When":271431},{"Kind":10,"Args":[3,0,289],"When":271431},{"Kind":11,"Args":[271592,3,0,0,0,0,297,333,36,36],"When":271498},{"Kind":57,"Args":[2,"https://stageapi.danmurphys.com.au/apis/ui/Products/Bundles/824027,682505,682396,824097,418873,824024,676580,608178,768994,131651,346878,147609,6815,906225,406121,130687,79908,723049,473632,712299?ExcludeUnavailable=true",287810.19999980927,1057.4000000953674,"xmlhttprequest",0,0,287810.19999980927,0,0,0,0,0,0,0,288867.59999990463,0,0,0],"When":271598},{"Kind":57,"Args":[2,"https://fs-obfuscated.invalid?url-id=772",289068.59999990463,16.09999990463257,"img",0,0,289068.59999990463,0,0,0,0,0,0,0,289084.69999980927,0,0,0],"When":271598},{"Kind":57,"Args":[2,"https://fs-obfuscated.invalid?url-id=773",289069,82,"img",0,0,289069,0,0,0,0,0,0,0,289151,0,0,0],"When":271598},{"Kind":57,"Args":[2,"https://fs-obfuscated.invalid?url-id=774",289069.40000009537,120.59999990463257,"img",0,0,289069.40000009537,0,0,0,0,0,0,0,289190,0,0,0],"When":271598},{"Kind":57,"Args":[2,"https://fs-obfuscated.invalid?url-id=775",289070.69999980927,204.7000002861023,"img",0,0,289070.69999980927,0,0,0,0,0,0,0,289275.40000009537,0,0,0],"When":271599},{"Kind":57,"Args":[2,"https://fs-obfuscated.invalid?url-id=776",289069.69999980927,207,"img",0,0,289069.69999980927,0,0,0,0,0,0,0,289276.69999980927,0,0,0],"When":271599},{"Kind":57,"Args":[2,"https://fs-obfuscated.invalid?url-id=777",289070.2999997139,209.80000019073486,"img",0,0,289070.2999997139,0,0,0,0,0,0,0,289280.09999990463,0,0,0],"When":271599},{"Kind":57,"Args":[2,"https://fs-obfuscated.invalid?url-id=778",289070.59999990463,214.19999980926514,"img",0,0,289070.59999990463,0,0,0,0,0,0,0,289284.7999997139,0,0,0],"When":271599},{"Kind":57,"Args":[2,"https://fs-obfuscated.invalid?url-id=779",289070,219.90000009536743,"img",0,0,289070,0,0,0,0,0,0,0,289289.90000009537,0,0,0],"When":271599},{"Kind":4,"Args":[11357,"style","opacity: 0.445133;"],"When":271742},{"Kind":4,"Args":[11133,"style","opacity: 0.445133;"],"When":271742},{"Kind":4,"Args":[11244,"style","opacity: 0.0380602;"],"When":271742},{"Kind":4,"Args":[11298,"style","opacity: 0.0380602;"],"When":271742},{"Kind":4,"Args":[11190,"style","opacity: 0.0380602;"],"When":271742},{"Kind":4,"Args":[11357,"src","https://dmouatmedia.blob.core.windows.net/dmo/product/418873-1.png?impolicy=PROD_SM"],"When":271742},{"Kind":4,"Args":[11133,"src","https://dmouatmedia.blob.core.windows.net/dmo/product/824027-1.png?impolicy=PROD_SM"],"When":271742},{"Kind":4,"Args":[11244,"src","https://dmouatmedia.blob.core.windows.net/dmo/product/682396-1.png?impolicy=PROD_SM"],"When":271742},{"Kind":4,"Args":[11298,"src","https://dmouatmedia.blob.core.windows.net/dmo/product/824097-1.png?impolicy=PROD_SM"],"When":271742},{"Kind":4,"Args":[11190,"src","https://dmouatmedia.blob.core.windows.net/dmo/product/682505-1.png?impolicy=PROD_SM"],"When":271742},{"Kind":10,"Args":[3,0,350],"When":271769},{"Kind":13,"Args":[1365,119],"When":271859},{"Kind":8,"Args":[1365,119,3],"When":271859},{"Kind":57,"Args":[2,"https://fs-obfuscated.invalid?url-id=775",289408.90000009537,9.5,"img",0,0,289408.90000009537,0,0,0,0,0,0,0,289418.40000009537,0,0,0],"When":271926},{"Kind":57,"Args":[2,"https://rs.fullstory.com/rec/bundle?OrgId=TQCFZ&UserId=6094149355069440&SessionId=5407716160069632&PageId=6304641898012672&Seq=27&PageStart=1638177899114&PrevBundleTime=1638178164594&LastActivity=83",289229.59999990463,380.69999980926514,"xmlhttprequest",0,0,289229.59999990463,0,0,0,0,0,0,0,289610.2999997139,0,0,0],"When":271926},{"Kind":87,"Args":[["https://stage.danmurphys.com.au/product/DM_824027/casillero-del-diablo-cabernet-sauvignon",754],["https://stage.danmurphys.com.au/product/DM_682505/casillero-del-diablo-reserve-carmenere",755],["https://stage.danmurphys.com.au/product/DM_682396/casillero-del-diablo-reserve-cabernet-sauvignon",756],["https://stage.danmurphys.com.au/product/DM_824097/casillero-del-diablo-shiraz",757],["https://stage.danmurphys.com.au/product/DM_418873/frontera-carmenere",758],["https://stage.danmurphys.com.au/product/DM_824024/frontera-pinot-noir",759],["https://stage.danmurphys.com.au/product/DM_676580/castello-di-albola-chianti-classico",760],["https://stage.danmurphys.com.au/product/DM_608178/elephant-in-the-room-pinot-noir",761],["https://stage.danmurphys.com.au/product/DM_768994/les-trois-clefs-c-tes-du-rh-ne",762],["https://stage.danmurphys.com.au/product/DM_131651/porta-6-lisboa",763],["https://stage.danmurphys.com.au/product/DM_147609/madam-sass-pinot-noir",764],["https://stage.danmurphys.com.au/product/DM_906225/santa-julia-malbec",765],["https://stage.danmurphys.com.au/product/DM_406121/tasca-regaleali-nero-d-avola",766],["https://stage.danmurphys.com.au/product/DM_130687/maison-de-la-villette-mourvedre",767],["https://stage.danmurphys.com.au/product/DM_79908/dos-almas-gran-reserva-pinot-noir",768],["https://stage.danmurphys.com.au/product/DM_723049/cat-amongst-the-pigeons-barossa-cabernet-sauvignon",769],["https://stage.danmurphys.com.au/product/DM_473632/trivento-reserva-malbec",770],["https://stage.danmurphys.com.au/product/DM_712299/principi-di-butera-amira-nero-d-avola",771],["https://uatmedia.danmurphys.com.au/dmo/content/Badges/DanMurphysWinePanel-93.png",772],["https://uatmedia.danmurphys.com.au/dmo/content/Badges/DanMurphysWinePanel-90.png",773],["https://uatmedia.danmurphys.com.au/dmo/content/Badges/DanMurphysWinePanel-92.png",774],["https://dmouatmedia.blob.core.windows.net/dmo/product/418873-1.png?impolicy=PROD_SM",775],["https://dmouatmedia.blob.core.windows.net/dmo/product/824027-1.png?impolicy=PROD_SM",776],["https://dmouatmedia.blob.core.windows.net/dmo/product/682396-1.png?impolicy=PROD_SM",777],["https://dmouatmedia.blob.core.windows.net/dmo/product/824097-1.png?impolicy=PROD_SM",778],["https://dmouatmedia.blob.core.windows.net/dmo/product/682505-1.png?impolicy=PROD_SM",779]],"When":271979},{"Kind":4,"Args":[11357,"style","opacity: 1;"],"When":271984},{"Kind":4,"Args":[11133,"style","opacity: 1;"],"When":271984},{"Kind":4,"Args":[11244,"style","opacity: 1;"],"When":271984},{"Kind":4,"Args":[11298,"style","opacity: 1;"],"When":271984},{"Kind":4,"Args":[11190,"style","opacity: 1;"],"When":271984},{"Kind":4,"Args":[11357,"data-lazy",null],"When":271984},{"Kind":4,"Args":[11357,"class","lazy-transition"],"When":271984},{"Kind":4,"Args":[11133,"data-lazy",null],"When":271984},{"Kind":4,"Args":[11133,"class","lazy-transition"],"When":271984},{"Kind":4,"Args":[11244,"data-lazy",null],"When":271984},{"Kind":4,"Args":[11244,"class","lazy-transition"],"When":271984},{"Kind":4,"Args":[11298,"data-lazy",null],"When":271984},{"Kind":4,"Args":[11298,"class","lazy-transition"],"When":271984},{"Kind":4,"Args":[11190,"data-lazy",null],"When":271984},{"Kind":4,"Args":[11190,"class","lazy-transition"],"When":271984},{"Kind":63,"Args":["POST","https://rs.fullstory.com/rec/bundle?OrgId=TQCFZ&UserId=6094149355069440&SessionId=5407716160069632&PageId=6304641898012672&Seq=27&PageStart=1638177899114&PrevBundleTime=1638178164594&LastActivity=83",386,200,"content-type: text/plain\r\n","content-length: 29\r\ncontent-type: application/json; charset=utf-8\r\n",1638178169681,297046,29,null,null,1,1],"When":271984},{"Kind":9,"Args":[272016,1365,1365,0,0,120,122,2,2,3],"When":271988},{"Kind":9,"Args":[272169,1365,1300,-105.38709677419355,-22.40740740740741,170,379,456.6774193548387,44.81481481481482,9220],"When":272048},{"Kind":8,"Args":[1231,456,9810],"When":272201},{"Kind":9,"Args":[272293,1213,1212,-1,-1,465,465,0,0,9810],"When":272262},{"Kind":9,"Args":[272451,1208,1183,-104.16666666666667,15.625,463,407,-145.83333333333334,-19.53125,9808],"When":272326},{"Kind":8,"Args":[1184,405,9808],"When":272481},{"Kind":4,"Args":[12227,"hidden",null],"When":272485},{"Kind":8,"Args":[1186,403,9808],"When":272512},{"Kind":9,"Args":[272668,1186,1186,0,0,401,399,-2,-2,9808],"When":272621},{"Kind":9,"Args":[272858,1186,1181,0,-4.352941176470588,398,390,-8.222222222222221,-6.529411764705882,9808],"When":272784},{"Kind":9,"Args":[272980,1175,1170,-8.71875,0,385,375,-5.812499999999999,-9.3,9808],"When":272887},{"Kind":8,"Args":[1168,372,9808],"When":273011},{"Kind":9,"Args":[273075,1167,1167,0,0,371,370,-1,-1,9808],"When":273043},{"Kind":8,"Args":[1167,369,9808],"When":273188},{"Kind":9,"Args":[273574,1166,1164,-2,-2,369,362,-7,-7,9808],"When":273541},{"Kind":9,"Args":[273668,1162,1160,-4.214285714285714,0,357,361,2.107142857142857,5.709677419354838,9808],"When":273609},{"Kind":8,"Args":[1160,362,9808],"When":274264}]}]]></textPostContent>
+</http-action>

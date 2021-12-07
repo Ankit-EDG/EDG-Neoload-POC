@@ -1,0 +1,100 @@
+<http-page executeResourcesDynamically="false"
+    name="/rest/v1/delivery_1" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/c66163c7-6a6b-4b4f-a361-6761f4cd222d.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="c66163c7-6a6b-4b4f-a361-6761f4cd222d">
+    <embedded-action>23e49834-4f14-4b92-90d4-5183e30c4951</embedded-action>
+    <embedded-action>9660090e-cf59-4ca7-b2cb-b7622d2cf665</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="application/json;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/rest/v1/delivery" path="/rest/v1/delivery"
+    postType="4"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/c66163c7-6a6b-4b4f-a361-6761f4cd222d.zip"
+    recordedResponseCode="200" responseSize="419"
+    serverUid="wwservices.tt.omtrdc.net" slaProfileEnabled="false"
+    uid="23e49834-4f14-4b92-90d4-5183e30c4951" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_23e49834-4f14-4b92-90d4-5183e30c4951</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_23e49834-4f14-4b92-90d4-5183e30c4951.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true" name="client"
+        recordRawValue="wwservices" separator="=" value="wwservices" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="sessionId"
+        recordRawValue="98b83df6a72049128407435d76e121d0" separator="="
+        value="98b83df6a72049128407435d76e121d0" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="version" recordRawValue="2.6.1" separator="="
+        value="2.6.1" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://stage.danmurphys.com.au"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="text/plain"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Mon, 29 Nov 2021 09:29:35 GMT&#xd;
+content-type: application/json;charset=UTF-8&#xd;
+vary: origin,access-control-request-method,access-control-request-headers,accept-encoding&#xd;
+x-request-id: 15b7771765d690a0e0e2e8798e92ac61&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-origin: https://stage.danmurphys.com.au&#xd;
+content-encoding: gzip</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"requestId":"c99377dc4310430590ef75e40640605e","context":{"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36","timeOffsetInMinutes":660,"channel":"web","screen":{"width":1366,"height":768,"orientation":"landscape","colorDepth":24,"pixelRatio":1},"window":{"width":1349,"height":625},"browser":{"host":"stage.danmurphys.com.au","webGLRenderer":"ANGLE (Google, Vulkan 1.2.0 (SwiftShader Device (Subzero) (0x0000C0DE)), SwiftShader driver-5.0.0)"},"address":{"url":"https://stage.danmurphys.com.au/product/DM_MYSTERY202/under-wraps-mornington-peninsula-pinot-noir-2019","referringUrl":"http://www.neotys.com/"}},"id":{"tntId":"98b83df6a72049128407435d76e121d0.36_0","marketingCloudVisitorId":"62974577823596621581061727074359824665","customerIds":[{"id":"8004469","integrationCode":"crm_id","authenticatedState":"authenticated","type":"DS"}]},"property":{"token":"976af739-6f6d-8004-1155-9bfbb7c20775"},"experienceCloud":{"audienceManager":{"locationHint":8,"blob":"RKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y"},"analytics":{"logging":"server_side","supplementalDataId":"0269ABD63260508A-0486BD5D42FAB038","trackingServer":"adobeanalytics.danmurphys.com.au","trackingServerSecure":"adobeanalytics.danmurphys.com.au"}},"execute":{"pageLoad":{}}}]]></textPostContent>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/rest/v1/delivery" path="/rest/v1/delivery"
+    postType="4"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/c66163c7-6a6b-4b4f-a361-6761f4cd222d.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="wwservices.tt.omtrdc.net" slaProfileEnabled="false"
+    uid="9660090e-cf59-4ca7-b2cb-b7622d2cf665" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_9660090e-cf59-4ca7-b2cb-b7622d2cf665</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_9660090e-cf59-4ca7-b2cb-b7622d2cf665.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true" name="client"
+        recordRawValue="wwservices" separator="=" value="wwservices" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="sessionId"
+        recordRawValue="98b83df6a72049128407435d76e121d0" separator="="
+        value="98b83df6a72049128407435d76e121d0" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="version" recordRawValue="2.6.1" separator="="
+        value="2.6.1" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://stage.danmurphys.com.au"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="text/plain;charset=UTF-8"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+date: Mon, 29 Nov 2021 09:29:35 GMT&#xd;
+vary: Origin&#xd;
+vary: Access-Control-Request-Method&#xd;
+vary: Access-Control-Request-Headers&#xd;
+access-control-allow-origin: https://stage.danmurphys.com.au&#xd;
+access-control-allow-credentials: true&#xd;
+x-request-id: 83306dfa897804bb57a98a0f22742976</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"requestId":"f09476753d4b40f0b03e9de8ca551808","context":{"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36","timeOffsetInMinutes":660,"channel":"web","screen":{"width":1366,"height":768,"orientation":"landscape","colorDepth":24,"pixelRatio":1},"window":{"width":1349,"height":625},"browser":{"host":"stage.danmurphys.com.au","webGLRenderer":"ANGLE (Google, Vulkan 1.2.0 (SwiftShader Device (Subzero) (0x0000C0DE)), SwiftShader driver-5.0.0)"},"address":{"url":"https://stage.danmurphys.com.au/product/DM_MYSTERY202/under-wraps-mornington-peninsula-pinot-noir-2019","referringUrl":"http://www.neotys.com/"},"beacon":true},"id":{"tntId":"98b83df6a72049128407435d76e121d0.36_0","marketingCloudVisitorId":"62974577823596621581061727074359824665","customerIds":[{"id":"8004469","integrationCode":"crm_id","authenticatedState":"authenticated","type":"DS"}]},"property":{"token":"976af739-6f6d-8004-1155-9bfbb7c20775"},"experienceCloud":{"audienceManager":{"locationHint":8,"blob":"RKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y"},"analytics":{"logging":"server_side","supplementalDataId":"71D770F7A3248A19-1960BDC5BE028CD3","trackingServer":"adobeanalytics.danmurphys.com.au","trackingServerSecure":"adobeanalytics.danmurphys.com.au"}},"notifications":[{"id":"95662a0bb7374b54843c35996ac2a1ea","type":"display","timestamp":1638178175721,"view":{"name":"product/dm_mystery202/under-wraps-mornington-peninsula-pinot-noir-2019"}}],"impressionId":"786875e9d5b446c2ada7100b44007907"}]]></textPostContent>
+</http-action>

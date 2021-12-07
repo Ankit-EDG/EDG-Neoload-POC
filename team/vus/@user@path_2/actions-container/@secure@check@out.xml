@@ -1,0 +1,21 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="SecureCheckOut" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="1747a227-633e-40e6-9cb8-165015f95027" weightsEnabled="false">
+    <weighted-embedded-action uid="44165f70-bf7b-4a02-b466-1683038a7d7d"/>
+    <weighted-embedded-action uid="54530a7f-d21f-4754-87fd-035fdb3c992d"/>
+    <weighted-embedded-action uid="c79f39ff-0a48-4345-8a4d-b9575d39c004"/>
+    <weighted-embedded-action uid="be3a50df-e6fa-43b0-9e0f-3c4c59fcbd64"/>
+    <weighted-embedded-action uid="ad3e67ac-a261-4bbc-9684-d4cd1c8dc62f"/>
+    <weighted-embedded-action uid="e4350fef-7876-4bd3-8a39-4cc05ac6017a"/>
+    <weighted-embedded-action uid="85f897ba-8d4c-4e0b-b7b6-a67c0714466a"/>
+    <weighted-embedded-action uid="3b386c8a-98d3-4fa5-9938-bd00f8e06ec6"/>
+    <weighted-embedded-action uid="c9c18d04-970d-45ef-b9e8-28fbff5d772f"/>
+    <weighted-embedded-action uid="1739d13d-7428-446d-be98-5cdc90f2df2c"/>
+    <weighted-embedded-action uid="1656d13d-0765-4660-a2ff-097a66cc08f2"/>
+    <weighted-embedded-action uid="759f624d-b6b1-4e40-95b3-2693d8014f48"/>
+    <weighted-embedded-action uid="08f2bc38-f207-4edd-8922-4bec0ff7caf4"/>
+    <weighted-embedded-action uid="874f0468-b20b-4ef5-8246-1bf4f42b530b"/>
+    <weighted-embedded-action uid="092e20b7-f524-40bd-b2fa-0152c92dfba9"/>
+    <weighted-embedded-action uid="38c0c70b-ebf4-4462-b117-9ce69fd84ac3"/>
+</basic-logical-action-container>

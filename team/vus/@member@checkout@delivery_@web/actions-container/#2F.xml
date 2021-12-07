@@ -1,0 +1,265 @@
+<http-page executeResourcesDynamically="false" name="/"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/0b5b5bfe-9f53-4b91-a4a3-11ce35e05ad6.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="0b5b5bfe-9f53-4b91-a4a3-11ce35e05ad6">
+    <embedded-action>fe563100-df0f-46cd-8b9b-56cea92c1867</embedded-action>
+    <embedded-action>e76c527f-1523-4d8f-907d-95f0f33421ec</embedded-action>
+    <embedded-action>6fb50c76-2486-4e3b-8dc1-5119989a931c</embedded-action>
+    <embedded-action>9ae90162-90dd-4d27-8b3e-0334f2c3fc0c</embedded-action>
+    <embedded-action>769e9369-448c-4ad8-9103-a9e293b667a1</embedded-action>
+    <embedded-action>27bf875e-eb3e-434f-af4e-3fad1d883fe1</embedded-action>
+    <embedded-action>8c483d92-8516-435e-9e24-9bd54f2c0600</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="application/pkix-crl"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/" path="/" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/0b5b5bfe-9f53-4b91-a4a3-11ce35e05ad6.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="x1.c.lencr.org" slaProfileEnabled="false"
+    uid="fe563100-df0f-46cd-8b9b-56cea92c1867" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_fe563100-df0f-46cd-8b9b-56cea92c1867</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_fe563100-df0f-46cd-8b9b-56cea92c1867.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Cache-Control" value="max-age = 3600"/>
+    <header name="Host" value="x1.c.lencr.org"/>
+    <header name="If-Modified-Since" value="Mon, 26 Jul 2021 16:20:55 GMT"/>
+    <header name="If-None-Match" value="&quot;60fee0e7-2cd&quot;"/>
+    <header name="Proxy-Connection" value="Keep-Alive"/>
+    <header name="User-Agent" value="Microsoft-CryptoAPI/10.0"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx&#xd;
+Content-Type: application/pkix-crl&#xd;
+Last-Modified: Mon, 26 Jul 2021 16:20:55 GMT&#xd;
+ETag: "60fee0e7-2cd"&#xd;
+Cache-Control: max-age=3600&#xd;
+Expires: Mon, 29 Nov 2021 10:24:38 GMT&#xd;
+Date: Mon, 29 Nov 2021 09:24:38 GMT&#xd;
+Content-Length: 717&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/ocsp-response"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/MEowSDBGMEQwQjAJBgUrDgMCGgUABBToZI35nvnlbqQAOxgex2VgV2SjmAQUoHNJmWjchVtl45soL1efvTO8B0gCCRK5sPpy4NhIxg%3D%3D"
+    path="/MEowSDBGMEQwQjAJBgUrDgMCGgUABBToZI35nvnlbqQAOxgex2VgV2SjmAQUoHNJmWjchVtl45soL1efvTO8B0gCCRK5sPpy4NhIxg%3D%3D"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/0b5b5bfe-9f53-4b91-a4a3-11ce35e05ad6.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="scrootca1.ocsp.secomtrust.net" slaProfileEnabled="false"
+    uid="e76c527f-1523-4d8f-907d-95f0f33421ec" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_e76c527f-1523-4d8f-907d-95f0f33421ec</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_e76c527f-1523-4d8f-907d-95f0f33421ec.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Cache-Control" value="max-age = 1957"/>
+    <header name="Host" value="scrootca1.ocsp.secomtrust.net"/>
+    <header name="If-Modified-Since" value="Thu, 07 Oct 2021 05:47:25 GMT"/>
+    <header name="If-None-Match" value="&quot;40bd2cb7e61dc1b819f463fff5c93f4d&quot;"/>
+    <header name="Proxy-Connection" value="Keep-Alive"/>
+    <header name="User-Agent" value="Microsoft-CryptoAPI/10.0"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Apache&#xd;
+Content-Length: 1520&#xd;
+Content-Type: application/ocsp-response&#xd;
+Last-Modified: Thu, 07 Oct 2021 05:47:25 GMT&#xd;
+ETag: "20e59537fb1680a08a9367bd7c40f971"&#xd;
+Cache-Control: max-age=1334&#xd;
+Expires: Mon, 29 Nov 2021 09:46:52 GMT&#xd;
+Date: Mon, 29 Nov 2021 09:24:38 GMT&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/ocsp-response"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/MEowSDBGMEQwQjAJBgUrDgMCGgUABBTyDvPjcY8Z0TDZzHotwwMWHLKc0AQUCoWpd2UFmHxAgfgPlyw48QrsPM8CCSK5sWMM7LQ8Lg%3D%3D"
+    path="/MEowSDBGMEQwQjAJBgUrDgMCGgUABBTyDvPjcY8Z0TDZzHotwwMWHLKc0AQUCoWpd2UFmHxAgfgPlyw48QrsPM8CCSK5sWMM7LQ8Lg%3D%3D"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/0b5b5bfe-9f53-4b91-a4a3-11ce35e05ad6.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="scrootca2.ocsp.secomtrust.net" slaProfileEnabled="false"
+    uid="6fb50c76-2486-4e3b-8dc1-5119989a931c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_6fb50c76-2486-4e3b-8dc1-5119989a931c</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_6fb50c76-2486-4e3b-8dc1-5119989a931c.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Cache-Control" value="max-age = 2664"/>
+    <header name="Host" value="scrootca2.ocsp.secomtrust.net"/>
+    <header name="If-Modified-Since" value="Thu, 07 Oct 2021 06:04:32 GMT"/>
+    <header name="If-None-Match" value="&quot;c26ce7a7ce2a6936a2708cf3b68c59ee&quot;"/>
+    <header name="Proxy-Connection" value="Keep-Alive"/>
+    <header name="User-Agent" value="Microsoft-CryptoAPI/10.0"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Apache&#xd;
+Content-Length: 1533&#xd;
+Content-Type: application/ocsp-response&#xd;
+Last-Modified: Thu, 07 Oct 2021 06:04:32 GMT&#xd;
+ETag: "1df1ae5d6e9784a2876f05fefe51a393"&#xd;
+Cache-Control: max-age=762&#xd;
+Expires: Mon, 29 Nov 2021 09:37:20 GMT&#xd;
+Date: Mon, 29 Nov 2021 09:24:38 GMT&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/pkix-crl"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/gts1c3/QOvJ0N1sT2A.crl"
+    path="/gts1c3/QOvJ0N1sT2A.crl" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/0b5b5bfe-9f53-4b91-a4a3-11ce35e05ad6.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="crls.pki.goog" slaProfileEnabled="false"
+    uid="9ae90162-90dd-4d27-8b3e-0334f2c3fc0c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_9ae90162-90dd-4d27-8b3e-0334f2c3fc0c</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_9ae90162-90dd-4d27-8b3e-0334f2c3fc0c.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Cache-Control" value="max-age = 3000"/>
+    <header name="Host" value="crls.pki.goog"/>
+    <header name="If-Modified-Since" value="Mon, 29 Nov 2021 06:30:47 GMT"/>
+    <header name="Proxy-Connection" value="Keep-Alive"/>
+    <header name="User-Agent" value="Microsoft-CryptoAPI/10.0"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Accept-Ranges: bytes&#xd;
+Vary: Accept-Encoding&#xd;
+Content-Type: application/pkix-crl&#xd;
+Content-Security-Policy-Report-Only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/cacerts&#xd;
+Cross-Origin-Resource-Policy: cross-origin&#xd;
+Cross-Origin-Opener-Policy-Report-Only: same-origin; report-to="cacerts"&#xd;
+Report-To: {"group":"cacerts","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/cacerts"}]}&#xd;
+Content-Length: 7052&#xd;
+Date: Mon, 29 Nov 2021 09:01:53 GMT&#xd;
+Expires: Mon, 29 Nov 2021 09:51:53 GMT&#xd;
+Last-Modified: Mon, 29 Nov 2021 06:30:47 GMT&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Server: sffe&#xd;
+X-XSS-Protection: 0&#xd;
+Age: 1365&#xd;
+Cache-Control: public, max-age=3000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/pkix-crl"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/gts1c3/moVDfISia2k.crl"
+    path="/gts1c3/moVDfISia2k.crl" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/0b5b5bfe-9f53-4b91-a4a3-11ce35e05ad6.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="crls.pki.goog" slaProfileEnabled="false"
+    uid="769e9369-448c-4ad8-9103-a9e293b667a1" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_769e9369-448c-4ad8-9103-a9e293b667a1</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_769e9369-448c-4ad8-9103-a9e293b667a1.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Cache-Control" value="max-age = 3000"/>
+    <header name="Host" value="crls.pki.goog"/>
+    <header name="If-Modified-Since" value="Mon, 29 Nov 2021 06:31:08 GMT"/>
+    <header name="Proxy-Connection" value="Keep-Alive"/>
+    <header name="User-Agent" value="Microsoft-CryptoAPI/10.0"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Accept-Ranges: bytes&#xd;
+Vary: Accept-Encoding&#xd;
+Content-Type: application/pkix-crl&#xd;
+Content-Security-Policy-Report-Only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/cacerts&#xd;
+Cross-Origin-Resource-Policy: cross-origin&#xd;
+Cross-Origin-Opener-Policy-Report-Only: same-origin; report-to="cacerts"&#xd;
+Report-To: {"group":"cacerts","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/cacerts"}]}&#xd;
+Content-Length: 5747&#xd;
+Date: Mon, 29 Nov 2021 08:35:00 GMT&#xd;
+Expires: Mon, 29 Nov 2021 09:25:00 GMT&#xd;
+Last-Modified: Mon, 29 Nov 2021 06:31:08 GMT&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Server: sffe&#xd;
+X-XSS-Protection: 0&#xd;
+Age: 2978&#xd;
+Cache-Control: public, max-age=3000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/pkix-crl"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/gts1c3/fVJxbV-Ktmk.crl"
+    path="/gts1c3/fVJxbV-Ktmk.crl" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/0b5b5bfe-9f53-4b91-a4a3-11ce35e05ad6.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="crls.pki.goog" slaProfileEnabled="false"
+    uid="27bf875e-eb3e-434f-af4e-3fad1d883fe1" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_27bf875e-eb3e-434f-af4e-3fad1d883fe1</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_27bf875e-eb3e-434f-af4e-3fad1d883fe1.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Cache-Control" value="max-age = 3000"/>
+    <header name="Host" value="crls.pki.goog"/>
+    <header name="If-Modified-Since" value="Mon, 29 Nov 2021 03:47:40 GMT"/>
+    <header name="Proxy-Connection" value="Keep-Alive"/>
+    <header name="User-Agent" value="Microsoft-CryptoAPI/10.0"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Accept-Ranges: bytes&#xd;
+Vary: Accept-Encoding&#xd;
+Content-Type: application/pkix-crl&#xd;
+Content-Security-Policy-Report-Only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/cacerts&#xd;
+Cross-Origin-Resource-Policy: cross-origin&#xd;
+Cross-Origin-Opener-Policy-Report-Only: same-origin; report-to="cacerts"&#xd;
+Report-To: {"group":"cacerts","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/cacerts"}]}&#xd;
+Content-Length: 5891&#xd;
+Date: Mon, 29 Nov 2021 08:42:48 GMT&#xd;
+Expires: Mon, 29 Nov 2021 09:32:48 GMT&#xd;
+Last-Modified: Mon, 29 Nov 2021 03:47:40 GMT&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Server: sffe&#xd;
+X-XSS-Protection: 0&#xd;
+Age: 2510&#xd;
+Cache-Control: public, max-age=3000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/pkix-crl"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/gts1c3/zdATt0Ex_Fk.crl"
+    path="/gts1c3/zdATt0Ex_Fk.crl" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/0b5b5bfe-9f53-4b91-a4a3-11ce35e05ad6.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="crls.pki.goog" slaProfileEnabled="false"
+    uid="8c483d92-8516-435e-9e24-9bd54f2c0600" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_8c483d92-8516-435e-9e24-9bd54f2c0600</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_8c483d92-8516-435e-9e24-9bd54f2c0600.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Cache-Control" value="max-age = 3000"/>
+    <header name="Host" value="crls.pki.goog"/>
+    <header name="If-Modified-Since" value="Mon, 29 Nov 2021 07:31:52 GMT"/>
+    <header name="Proxy-Connection" value="Keep-Alive"/>
+    <header name="User-Agent" value="Microsoft-CryptoAPI/10.0"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Accept-Ranges: bytes&#xd;
+Vary: Accept-Encoding&#xd;
+Content-Type: application/pkix-crl&#xd;
+Content-Security-Policy-Report-Only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/cacerts&#xd;
+Cross-Origin-Resource-Policy: cross-origin&#xd;
+Cross-Origin-Opener-Policy-Report-Only: same-origin; report-to="cacerts"&#xd;
+Report-To: {"group":"cacerts","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/cacerts"}]}&#xd;
+Content-Length: 5351&#xd;
+Date: Mon, 29 Nov 2021 08:36:20 GMT&#xd;
+Expires: Mon, 29 Nov 2021 09:26:20 GMT&#xd;
+Last-Modified: Mon, 29 Nov 2021 07:31:52 GMT&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Server: sffe&#xd;
+X-XSS-Protection: 0&#xd;
+Cache-Control: public, max-age=3000&#xd;
+Age: 2898</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

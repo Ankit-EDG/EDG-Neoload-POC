@@ -1,0 +1,4 @@
+<http-server hostname="h.online-metrix.net" port="443" ssl="true"
+    uid="h.online-metrix.net" urlrewriting-argument-name="CIS3SID"
+    urlrewriting-enabled="true" urlrewriting-path-extension="true"
+    urlrewriting-path-not-equals="false" urlrewriting-path-separator=";"/>

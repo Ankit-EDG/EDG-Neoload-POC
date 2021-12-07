@@ -1,0 +1,126 @@
+<http-page executeResourcesDynamically="false" name="/v2/event/standard"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/ba1ba89c-8928-4963-952d-52d340df558e.zip"
+    slaProfileEnabled="false" thinkTime="24"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="ba1ba89c-8928-4963-952d-52d340df558e">
+    <embedded-action>2a89898a-627e-49ad-9479-4847ff2b3e90</embedded-action>
+    <embedded-action>65ee8269-51d6-499d-bb4c-aca812a6e6c2</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/v2/event/standard" path="/v2/event/standard"
+    postCharset="iso-8859-1" postType="1"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/ba1ba89c-8928-4963-952d-52d340df558e.zip"
+    recordedResponseCode="200" responseSize="2"
+    serverUid="api2.branch.io" slaProfileEnabled="false"
+    uid="2a89898a-627e-49ad-9479-4847ff2b3e90" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[bmFtZT1WSUVXX0lURU0mdXNlcl9kYXRhPSU3QiUyMmh0dHBfb3JpZ2luJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZzdGFnZS5kYW5tdXJwaHlzLmNvbS5hdSUyRnByb2R1Y3QlMkZETV9NWVNURVJZMjAyJTJGdW5kZXItd3JhcHMtbW9ybmluZ3Rvbi1wZW5pbnN1bGEtcGlub3Qtbm9pci0yMDE5JTIyJTJDJTIydXNlcl9hZ2VudCUyMiUzQSUyMk1vemlsbGElMkY1LjAlMjAoV2luZG93cyUyME5UJTIwMTAuMCUzQiUyMFdpbjY0JTNCJTIweDY0KSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwKEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvKSUyMENocm9tZSUyRjk2LjAuNDY2NC40NSUyMFNhZmFyaSUyRjUzNy4zNiUyMiUyQyUyMmxhbmd1YWdlJTIyJTNBJTIyRU4lMjIlMkMlMjJzY3JlZW5fd2lkdGglMjIlM0ExMzY2JTJDJTIyc2NyZWVuX2hlaWdodCUyMiUzQTc2OCUyQyUyMmh0dHBfcmVmZXJyZXIlMjIlM0ElMjJodHRwJTNBJTJGJTJGd3d3Lm5lb3R5cy5jb20lMkYlMjIlMkMlMjJicm93c2VyX2ZpbmdlcnByaW50X2lkJTIyJTNBJTIyOTc0OTU1MDMxMDYyNTU5MDU0JTIyJTJDJTIyZGV2ZWxvcGVyX2lkZW50aXR5JTIyJTNBJTIyODAxOTcwNiUyMiUyQyUyMmlkZW50aXR5JTIyJTNBJTIyODAxOTcwNiUyMiUyQyUyMnNkayUyMiUzQSUyMndlYiUyMiUyQyUyMnNka192ZXJzaW9uJTIyJTNBJTIyMi41OS4wJTIyJTdEJmN1c3RvbV9kYXRhPSU3QiU3RCZldmVudF9kYXRhPSU3QiUyMmN1cnJlbmN5JTIyJTNBJTIyQVVEJTIyJTdEJmNvbnRlbnRfaXRlbXM9JTVCJTdCJTIyJTI0c2t1JTIyJTNBJTIyRE1fTVlTVEVSWTIwMiUyMiUyQyUyMiUyNHByb2R1Y3RfbmFtZSUyMiUzQSUyMlVuZGVyJTIwV3JhcHMlMjBNb3JuaW5ndG9uJTIwUGVuaW5zdWxhJTIwUGlub3QlMjBOb2lyJTIwMjAxOCUyMiUyQyUyMiUyNHByb2R1Y3RfYnJhbmQlMjIlM0ElMjJVbmRlciUyMFdyYXBzJTIyJTJDJTIyJTI0cHJvZHVjdF92YXJpYW50JTIyJTNBJTIyQm90aCUyMiUyQyUyMnByb2R1Y3RfY2F0ZWdvcnklMjIlM0ElMjJSZWQlMjBXaW5lJTIyJTJDJTIyJTI0cHJpY2UlMjIlM0E0NC45OSU3RCU1RCZicmFuY2hfa2V5PWtleV90ZXN0X29tSWZ0dXhUT3JEZ0gyTGc0YnFmUGZma3RCbEg5bEVW]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_2a89898a-627e-49ad-9479-4847ff2b3e90</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_2a89898a-627e-49ad-9479-4847ff2b3e90.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="name"
+        recordRawValue="VIEW_ITEM" separator="=" value="VIEW_ITEM" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="user_data"
+        recordRawValue="%7B%22http_origin%22%3A%22https%3A%2F%2Fstage.danmurphys.com.au%2Fproduct%2FDM_MYSTERY202%2Funder-wraps-mornington-peninsula-pinot-noir-2019%22%2C%22user_agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F96.0.4664.45%20Safari%2F537.36%22%2C%22language%22%3A%22EN%22%2C%22screen_width%22%3A1366%2C%22screen_height%22%3A768%2C%22http_referrer%22%3A%22http%3A%2F%2Fwww.neotys.com%2F%22%2C%22browser_fingerprint_id%22%3A%22974955031062559054%22%2C%22developer_identity%22%3A%228019706%22%2C%22identity%22%3A%228019706%22%2C%22sdk%22%3A%22web%22%2C%22sdk_version%22%3A%222.59.0%22%7D"
+        separator="="
+        value="%7B%22http_origin%22%3A%22https%3A%2F%2Fstage.danmurphys.com.au%2Fproduct%2FDM_MYSTERY202%2Funder-wraps-mornington-peninsula-pinot-noir-2019%22%2C%22user_agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F96.0.4664.45%20Safari%2F537.36%22%2C%22language%22%3A%22EN%22%2C%22screen_width%22%3A1366%2C%22screen_height%22%3A768%2C%22http_referrer%22%3A%22http%3A%2F%2Fwww.neotys.com%2F%22%2C%22browser_fingerprint_id%22%3A%22974955031062559054%22%2C%22developer_identity%22%3A%228019706%22%2C%22identity%22%3A%228019706%22%2C%22sdk%22%3A%22web%22%2C%22sdk_version%22%3A%222.59.0%22%7D" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="custom_data"
+        recordRawValue="%7B%7D" separator="=" value="{}" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="event_data"
+        recordRawValue="%7B%22currency%22%3A%22AUD%22%7D" separator="="
+        value="{&quot;currency&quot;:&quot;AUD&quot;}" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="content_items"
+        recordRawValue="%5B%7B%22%24sku%22%3A%22DM_MYSTERY202%22%2C%22%24product_name%22%3A%22Under%20Wraps%20Mornington%20Peninsula%20Pinot%20Noir%202018%22%2C%22%24product_brand%22%3A%22Under%20Wraps%22%2C%22%24product_variant%22%3A%22Both%22%2C%22product_category%22%3A%22Red%20Wine%22%2C%22%24price%22%3A44.99%7D%5D"
+        separator="="
+        value="[{&quot;$sku&quot;:&quot;DM_MYSTERY202&quot;,&quot;$product_name&quot;:&quot;Under Wraps Mornington Peninsula Pinot Noir 2018&quot;,&quot;$product_brand&quot;:&quot;Under Wraps&quot;,&quot;$product_variant&quot;:&quot;Both&quot;,&quot;product_category&quot;:&quot;Red Wine&quot;,&quot;$price&quot;:44.99}]" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="branch_key"
+        recordRawValue="key_test_omIftuxTOrDgH2Lg4bqfPffktBlH9lEV"
+        separator="=" value="key_test_omIftuxTOrDgH2Lg4bqfPffktBlH9lEV" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://stage.danmurphys.com.au"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="application/x-www-form-urlencoded"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/json&#xd;
+content-length: 2&#xd;
+access-control-allow-origin: *&#xd;
+date: Mon, 29 Nov 2021 09:29:41 GMT&#xd;
+x-branch-event-extra: {}&#xd;
+x-branch-request-id: af6f0c5a037d4661b832534e77a752d3-2021112909&#xd;
+x-cache: Miss from cloudfront&#xd;
+via: 1.1 a57d5b106eeca2cda8fd1ae27bc6a7d3.cloudfront.net (CloudFront)&#xd;
+x-amz-cf-pop: MEL50-C2&#xd;
+x-amz-cf-id: As2zzzMM2i-hSLbFYeo2bLrO13nNEea5nF07VpvCGv2AlNyzok-pyQ==</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/v2/1p.jpg" path="/v2/1p.jpg" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/ba1ba89c-8928-4963-952d-52d340df558e.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="tracker.unbxdapi.com" slaProfileEnabled="false"
+    uid="65ee8269-51d6-499d-bb4c-aca812a6e6c2" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_65ee8269-51d6-499d-bb4c-aca812a6e6c2</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_65ee8269-51d6-499d-bb4c-aca812a6e6c2.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="data"
+        recordRawValue="%7B%22pid%22%3A%22MYSTERY202%22%2C%22url%22%3A%22https%3A%2F%2Fstage.danmurphys.com.au%2Fproduct%2FDM_MYSTERY202%2Funder-wraps-mornington-peninsula-pinot-noir-2019%22%2C%22referrer%22%3A%22http%3A%2F%2Fwww.neotys.com%2F%22%2C%22visit_type%22%3A%22first_time%22%2C%22ver%22%3A%224.0.28%22%2C%22_uf%22%3A763782300%2C%22visitId%22%3A%22visitId-1638177886953-75957%22%7D"
+        separator="="
+        value="{&quot;pid&quot;:&quot;MYSTERY202&quot;,&quot;url&quot;:&quot;https://stage.danmurphys.com.au/product/DM_MYSTERY202/under-wraps-mornington-peninsula-pinot-noir-2019&quot;,&quot;referrer&quot;:&quot;http://www.neotys.com/&quot;,&quot;visit_type&quot;:&quot;first_time&quot;,&quot;ver&quot;:&quot;4.0.28&quot;,&quot;_uf&quot;:763782300,&quot;visitId&quot;:&quot;visitId-1638177886953-75957&quot;}" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="UnbxdKey"
+        recordRawValue="ss-unbxd-prod-danmurphys-com-au9191615187601"
+        separator="="
+        value="ss-unbxd-prod-danmurphys-com-au9191615187601" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="action"
+        recordRawValue="product_view" separator="=" value="product_view" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="uid"
+        recordRawValue="uid-1638177886946-17373" separator="="
+        value="uid-1638177886946-17373" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="t"
+        recordRawValue="1638178178154|0.6703867958354761" separator="="
+        value="1638178178154|0.6703867958354761" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="tracker.unbxdapi.com"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Content-Encoding: gzip&#xd;
+Content-Type: image/jpeg; charset=utf-8&#xd;
+Date: Mon, 29 Nov 2021 09:29:41 GMT&#xd;
+Region: ap-southeast-2-(prod)&#xd;
+Server: Wingman-3.4.15-[1636957337]&#xd;
+Unbxd-Request-Id: 1bc19e8f-4498-489d-a8d8-4dd216951fb2&#xd;
+Unx-Accept-Encoding: gzip, deflate, br&#xd;
+Unx-Conn: tracker-ext-v2&#xd;
+Unx-Request-Id: 1bc19e8f-4498-489d-a8d8-4dd216951fb2&#xd;
+Unx-Server: Wingman-3.4.15-[1636957337]&#xd;
+Unx-Site: ss-unbxd-prod-danmurphys-com-au9191615187601&#xd;
+Vary: Accept-Encoding&#xd;
+X-Request-Id: 1bc19e8f-4498-489d-a8d8-4dd216951fb2&#xd;
+Content-Length: 137&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

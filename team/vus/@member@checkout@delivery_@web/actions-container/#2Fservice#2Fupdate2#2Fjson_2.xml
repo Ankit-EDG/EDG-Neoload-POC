@@ -1,0 +1,47 @@
+<http-page executeResourcesDynamically="false"
+    name="/service/update2/json_2" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/bee8210f-2797-4370-997b-69a1c21dbd6d.zip"
+    slaProfileEnabled="false" thinkTime="2709"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="bee8210f-2797-4370-997b-69a1c21dbd6d">
+    <embedded-action>6f871ca6-8d04-4671-a461-55d72b3d2c0a</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/service/update2/json"
+    path="/service/update2/json" postType="4"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/bee8210f-2797-4370-997b-69a1c21dbd6d.zip"
+    recordedResponseCode="200" responseSize="217"
+    serverUid="update.googleapis.com" slaProfileEnabled="false"
+    uid="6f871ca6-8d04-4671-a461-55d72b3d2c0a" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_6f871ca6-8d04-4671-a461-55d72b3d2c0a</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_6f871ca6-8d04-4671-a461-55d72b3d2c0a.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="content-type" value="application/json"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-security-policy: script-src 'report-sample' 'nonce-J3FRsULWNxzj7kvfBptniw' 'unsafe-inline' 'strict-dynamic' https: http:;object-src 'none';base-uri 'self';report-uri https://csp.withgoogle.com/csp/clientupdate-aus/1&#xd;
+cache-control: no-cache, no-store, max-age=0, must-revalidate&#xd;
+pragma: no-cache&#xd;
+expires: Mon, 01 Jan 1990 00:00:00 GMT&#xd;
+date: Mon, 29 Nov 2021 09:25:54 GMT&#xd;
+content-type: application/json; charset=utf-8&#xd;
+x-daynum: 5446&#xd;
+x-daystart: 5154&#xd;
+content-encoding: gzip&#xd;
+x-content-type-options: nosniff&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-xss-protection: 1; mode=block&#xd;
+content-length: 170&#xd;
+server: GSE&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"request":{"@os":"win","@updater":"chrome","acceptformat":"crx2,crx3","app":[{"appid":"hfnkpimlhhgieaddgfemjhofmfblmnib","event":[{"download_time_ms":16297,"downloaded":25226,"downloader":"bits","eventresult":1,"eventtype":14,"nextversion":"7005","previousversion":"7004","total":25226,"url":"http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/g5blinfutcueujujy7flk7b2dm_7005/hfnkpimlhhgieaddgfemjhofmfblmnib_7005_all_acepqjydcf352osqy54bp236fvnq.crx3"},{"eventresult":1,"eventtype":3,"nextfp":"1.82243457a6dd4dc48b84f3908957c3390aca5211ea598e05b19aeeeb91d9396e","nextversion":"7005","previousfp":"1.32feecb98a6f4957512b6873adb419bbe3e9839cf4dcad0907bb6be541daa72f","previousversion":"7004"}],"version":"7005"}],"arch":"x64","dedup":"cr","hw":{"physmemory":32},"ismachine":true,"lang":"en-US","nacl_arch":"x86-64","os":{"arch":"x86_64","platform":"Windows","version":"10.0.14393.4169"},"prodversion":"96.0.4664.45","protocol":"3.1","requestid":"{90abff7c-e1fa-466c-bc76-320c78a83d0a}","sessionid":"{8ad99f24-922e-4f57-91d1-b62459a9909e}","updaterversion":"96.0.4664.45"}}]]></textPostContent>
+</http-action>

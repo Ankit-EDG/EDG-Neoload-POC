@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" enabled="false"
+    execution-type="0" name="addNewCreditCard" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="8c50c884-2003-42d5-bd1f-1a33571edc15" weightsEnabled="false">
+    <weighted-embedded-action uid="01f27998-70f5-4a12-bad8-522b580f2231"/>
+    <weighted-embedded-action uid="663bce95-bbb0-4d1b-afad-cda4f767bc99"/>
+</basic-logical-action-container>

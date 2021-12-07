@@ -1,0 +1,67 @@
+<http-page executeResourcesDynamically="false" name="/rec/bundle_8"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/abf3f7ac-6a80-4d9c-9127-cd50345423aa.zip"
+    slaProfileEnabled="false" thinkTime="2634"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="abf3f7ac-6a80-4d9c-9127-cd50345423aa">
+    <embedded-action>1ee46f29-6048-452a-83b9-1ce17ef40c46</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/rec/bundle" path="/rec/bundle" postType="4"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/abf3f7ac-6a80-4d9c-9127-cd50345423aa.zip"
+    recordedResponseCode="200" responseSize="29"
+    serverUid="rs.fullstory.com" slaProfileEnabled="false"
+    uid="1ee46f29-6048-452a-83b9-1ce17ef40c46" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_1ee46f29-6048-452a-83b9-1ce17ef40c46</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_1ee46f29-6048-452a-83b9-1ce17ef40c46.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true" name="OrgId"
+        recordRawValue="TQCFZ" separator="=" value="TQCFZ" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="UserId"
+        recordRawValue="6094149355069440" separator="="
+        value="6094149355069440" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="SessionId" recordRawValue="5407716160069632" separator="="
+        value="5407716160069632" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="PageId"
+        recordRawValue="6304641898012672" separator="="
+        value="6304641898012672" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="Seq"
+        recordRawValue="86" separator="=" value="86" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="PageStart" recordRawValue="1638177899114" separator="="
+        value="1638177899114" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="PrevBundleTime" recordRawValue="1638178464803"
+        separator="=" value="1638178464803" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="LastActivity" recordRawValue="8035" separator="="
+        value="8035" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://stage.danmurphys.com.au"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="text/plain"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-origin: https://stage.danmurphys.com.au&#xd;
+content-type: application/json; charset=utf-8&#xd;
+date: Mon, 29 Nov 2021 09:34:29 GMT&#xd;
+content-length: 29&#xd;
+via: 1.1 google&#xd;
+alt-svc: clear</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"Seq":86,"When":566504,"Evts":[{"Kind":3,"Args":[31520],"When":566504},{"Kind":2,"Args":[31419,-1,[17,"Â Â Â "]],"When":566504},{"Kind":78,"Args":[[0,1,2,566504,0]],"When":566504},{"Kind":3,"Args":[31521,31419],"When":566754},{"Kind":63,"Args":["POST","https://rs.fullstory.com/rec/bundle?OrgId=TQCFZ&UserId=6094149355069440&SessionId=5407716160069632&PageId=6304641898012672&Seq=85&PageStart=1638177899114&PrevBundleTime=1638178459608&LastActivity=3037",389,200,"content-type: text/plain\r\n","content-length: 29\r\ncontent-type: application/json; charset=utf-8\r\n",1638178464510,161457,29,null,null,1,1],"When":566754},{"Kind":57,"Args":[2,"https://rs.fullstory.com/rec/bundle?OrgId=TQCFZ&UserId=6094149355069440&SessionId=5407716160069632&PageId=6304641898012672&Seq=85&PageStart=1638177899114&PrevBundleTime=1638178459608&LastActivity=3037",584038.7999997139,384.80000019073486,"xmlhttprequest",0,0,584038.7999997139,0,0,0,0,0,0,0,584423.5999999046,0,0,0],"When":566932},{"When":567256,"Kind":54,"Args":[4002]},{"Kind":57,"Args":[2,"https://h.online-metrix.net/fp/clear3.png;CIS3SID=B6CB1B2F6BD2B932897B96FA0F6A6BE2?org_id=1snn5n9w&session_id=dan_murphys2c1uui-2ozosyuv&nonce=d79801f6091083b5&jac=1&je=null",586249.9000000954,153.5,"script",0,0,586249.9000000954,0,0,0,0,0,0,0,586403.4000000954,0,0,0],"When":568911},{"Kind":78,"Args":[[0,1,3,568911,0]],"When":568911}]}]]></textPostContent>
+</http-action>

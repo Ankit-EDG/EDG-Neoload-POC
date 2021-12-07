@@ -1,0 +1,62 @@
+<http-page executeResourcesDynamically="false" name="/ListAccounts"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/2a3e9022-e53e-4723-b2b7-c612b22483f4.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="2a3e9022-e53e-4723-b2b7-c612b22483f4">
+    <embedded-action>607b0840-f010-4bc7-876e-01f8ec945747</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/ListAccounts" path="/ListAccounts"
+    postCharset="iso-8859-1" postType="1"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/2a3e9022-e53e-4723-b2b7-c612b22483f4.zip"
+    recordedResponseCode="200" responseSize="17"
+    serverUid="accounts.google.com" slaProfileEnabled="false"
+    uid="607b0840-f010-4bc7-876e-01f8ec945747" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[IA==]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_607b0840-f010-4bc7-876e-01f8ec945747</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_607b0840-f010-4bc7-876e-01f8ec945747.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name=""
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="gpsia"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="source"
+        recordRawValue="ChromiumBrowser" separator="="
+        value="ChromiumBrowser" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="json"
+        recordRawValue="standard" separator="=" value="standard" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://www.google.com"/>
+    <header name="content-type" value="application/x-www-form-urlencoded"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/json; charset=utf-8&#xd;
+access-control-allow-origin: https://www.google.com&#xd;
+access-control-allow-credentials: true&#xd;
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site&#xd;
+x-content-type-options: nosniff&#xd;
+cache-control: no-cache, no-store, max-age=0, must-revalidate&#xd;
+pragma: no-cache&#xd;
+expires: Mon, 01 Jan 1990 00:00:00 GMT&#xd;
+date: Mon, 29 Nov 2021 07:43:51 GMT&#xd;
+strict-transport-security: max-age=31536000&#xd;
+content-security-policy: script-src 'report-sample' 'nonce-2C1QPb3uxJ8rGBHwaqxvpw' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/IdentityListAccountsHttp/cspreport;worker-src 'self'&#xd;
+content-security-policy: script-src 'nonce-2C1QPb3uxJ8rGBHwaqxvpw' 'self' https://apis.google.com https://ssl.gstatic.com https://www.google.com https://www.gstatic.com https://www.google-analytics.com;report-uri /_/IdentityListAccountsHttp/cspreport&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+cross-origin-opener-policy: same-origin; report-to="IdentityListAccountsHttp"&#xd;
+report-to: {"group":"IdentityListAccountsHttp","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/IdentityListAccountsHttp/external"}]}&#xd;
+content-encoding: gzip&#xd;
+server: ESF&#xd;
+x-xss-protection: 0&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

@@ -1,0 +1,41 @@
+<http-page executeResourcesDynamically="false"
+    name="/domainreliability/upload_2" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/ab9eb774-73e5-434b-9028-4b2947ebea40.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="ab9eb774-73e5-434b-9028-4b2947ebea40">
+    <embedded-action>4d46e4ac-1611-451a-a710-256d5b088683</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/javascript; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/domainreliability/upload"
+    path="/domainreliability/upload" postType="4"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/ab9eb774-73e5-434b-9028-4b2947ebea40.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="beacons.gcp.gvt2.com" slaProfileEnabled="false"
+    uid="4d46e4ac-1611-451a-a710-256d5b088683" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_4d46e4ac-1611-451a-a710-256d5b088683</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_4d46e4ac-1611-451a-a710-256d5b088683.txt</requestContentFileDescription>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="content-type" value="application/json; charset=utf-8"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+Content-Length: 0&#xd;
+content-type: application/javascript; charset=utf-8&#xd;
+date: Mon, 29 Nov 2021 09:34:14 GMT&#xd;
+location: https://e2c14.gcp.gvt2.com/nel/&#xd;
+nel: {"failure_fraction":1,"include_subdomains":false,"max_age":604800,"report_to":"nel","success_fraction":0.050000000000000003}&#xd;
+server: Domain Reliability Server&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-xss-protection: 0&#xd;
+via: 1.1 google&#xd;
+report-to: {"endpoints":[{"priority":1,"url":"https://b1.nel.goog/upload/1/AHDprHpI37dmOwwKMStT-oqgk4X1AzROlnrNixN5uIGP7-XeSlQA93UOHwbk7St42GovSdEz8GfExD9Pycb5kozPdJYi9IVzwRYqab5Ne6L_WEJIXkXl74AkH7fO6v1dWYFA1j1u9suOOumllaMR7D1cMCb7hoOqmkx_SaHoz-oUjLK0b9s59A1OJn9UfRxr0YCB5PBI8ysNzY7EdAZ9Sk9cHe74ZhHBFCjJ-Ry1","weight":1}],"group":"nel","max_age":604800}&#xd;
+alt-svc: clear</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"entries":[{"failure_data":{"custom_error":"net::ERR_ABORTED"},"http_response_code":302,"network_changed":false,"protocol":"SPDY","request_age_ms":60171,"request_elapsed_ms":153,"sample_rate":1.0,"server_ip":"","status":"aborted","url":"https://10298563.fls.doubleclick.net/","was_proxied":true},{"failure_data":{"custom_error":"net::ERR_ABORTED"},"http_response_code":302,"network_changed":false,"protocol":"SPDY","request_age_ms":39019,"request_elapsed_ms":102,"sample_rate":1.0,"server_ip":"","status":"aborted","url":"https://10298563.fls.doubleclick.net/","was_proxied":true},{"failure_data":{"custom_error":"net::ERR_ABORTED"},"http_response_code":302,"network_changed":false,"protocol":"SPDY","request_age_ms":20490,"request_elapsed_ms":107,"sample_rate":1.0,"server_ip":"","status":"aborted","url":"https://10298563.fls.doubleclick.net/","was_proxied":true},{"failure_data":{"custom_error":"net::ERR_ABORTED"},"http_response_code":302,"network_changed":false,"protocol":"SPDY","request_age_ms":626,"request_elapsed_ms":146,"sample_rate":1.0,"server_ip":"","status":"aborted","url":"https://10298563.fls.doubleclick.net/","was_proxied":true},{"failure_data":{"custom_error":"net::ERR_ABORTED"},"http_response_code":302,"network_changed":false,"protocol":"SPDY","request_age_ms":201,"request_elapsed_ms":103,"sample_rate":1.0,"server_ip":"","status":"aborted","url":"https://10298563.fls.doubleclick.net/","was_proxied":true}],"reporter":"chrome"}]]></textPostContent>
+</http-action>

@@ -1,0 +1,47 @@
+<http-page executeResourcesDynamically="false"
+    name="/service/update2/json_4" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/67d64e58-7768-4904-8eab-3c3459564eb0.zip"
+    slaProfileEnabled="false" thinkTime="16231"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="67d64e58-7768-4904-8eab-3c3459564eb0">
+    <embedded-action>3c676536-6f0f-43ac-b9de-4b1c23bd9d9b</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/service/update2/json"
+    path="/service/update2/json" postType="4"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/67d64e58-7768-4904-8eab-3c3459564eb0.zip"
+    recordedResponseCode="200" responseSize="250"
+    serverUid="update.googleapis.com" slaProfileEnabled="false"
+    uid="3c676536-6f0f-43ac-b9de-4b1c23bd9d9b" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_3c676536-6f0f-43ac-b9de-4b1c23bd9d9b</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_3c676536-6f0f-43ac-b9de-4b1c23bd9d9b.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="content-type" value="application/json"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-security-policy: script-src 'report-sample' 'nonce-DagG3uH1Do2mH3vdlVV7rA' 'unsafe-inline' 'strict-dynamic' https: http:;object-src 'none';base-uri 'self';report-uri https://csp.withgoogle.com/csp/clientupdate-aus/1&#xd;
+cache-control: no-cache, no-store, max-age=0, must-revalidate&#xd;
+pragma: no-cache&#xd;
+expires: Mon, 01 Jan 1990 00:00:00 GMT&#xd;
+date: Mon, 29 Nov 2021 07:45:43 GMT&#xd;
+content-type: application/json; charset=utf-8&#xd;
+x-daynum: 5445&#xd;
+x-daystart: 85543&#xd;
+content-encoding: gzip&#xd;
+x-content-type-options: nosniff&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-xss-protection: 1; mode=block&#xd;
+content-length: 172&#xd;
+server: GSE&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"request":{"@os":"win","@updater":"chrome","acceptformat":"crx2,crx3","app":[{"appid":"jamhcnnkihinmdlkakkaopbjbbcngflc","event":[{"download_time_ms":4031,"downloaded":0,"downloader":"bits","errorcode":-2145844848,"eventresult":0,"eventtype":14,"nextversion":"98.0.4736.0","previousversion":"98.0.4733.0","url":"http://edgedl.me.gvt1.com/edgedl/release2/chrome_component/hnmfudy5nbguwdwbqmeucourp4_98.0.4736.0/jamhcnnkihinmdlkakkaopbjbbcngflc_98.0.4736.0_all_hnq3jkfyr7ovwcqmyx432obp.crx3"},{"download_time_ms":4038,"downloaded":0,"downloader":"bits","errorcode":-2145844848,"eventresult":0,"eventtype":14,"nextversion":"98.0.4736.0","previousversion":"98.0.4733.0","url":"http://redirector.gvt1.com/edgedl/release2/chrome_component/hnmfudy5nbguwdwbqmeucourp4_98.0.4736.0/jamhcnnkihinmdlkakkaopbjbbcngflc_98.0.4736.0_all_hnq3jkfyr7ovwcqmyx432obp.crx3"},{"download_time_ms":8036,"downloaded":818379,"downloader":"bits","eventresult":1,"eventtype":14,"nextversion":"98.0.4736.0","previousversion":"98.0.4733.0","total":818379,"url":"https://edgedl.me.gvt1.com/edgedl/release2/chrome_component/hnmfudy5nbguwdwbqmeucourp4_98.0.4736.0/jamhcnnkihinmdlkakkaopbjbbcngflc_98.0.4736.0_all_hnq3jkfyr7ovwcqmyx432obp.crx3"},{"eventresult":1,"eventtype":3,"nextfp":"1.0a4156444468b15f8be99d1504c2783be8ff336aa3ad497967cdb775154af546","nextversion":"98.0.4736.0","previousfp":"1.f6cbba1af461eabf4ae22b5d14b8e43e69b3a49f389702b2912a9f0c3fb87872","previousversion":"98.0.4733.0"}],"version":"98.0.4736.0"}],"arch":"x64","dedup":"cr","hw":{"physmemory":32},"ismachine":true,"lang":"en-US","nacl_arch":"x86-64","os":{"arch":"x86_64","platform":"Windows","version":"10.0.14393.4169"},"prodversion":"96.0.4664.45","protocol":"3.1","requestid":"{c182e688-5d53-45d2-9405-581da2a36eae}","sessionid":"{d14a1131-607b-4394-bd44-6a39af0cefb9}","updaterversion":"96.0.4664.45"}}]]></textPostContent>
+</http-action>

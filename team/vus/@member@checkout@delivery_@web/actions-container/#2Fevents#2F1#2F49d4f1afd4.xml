@@ -1,0 +1,69 @@
+<http-page executeResourcesDynamically="false"
+    name="/events/1/49d4f1afd4" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/f5cd0e8b-2d9c-4388-af89-b376ad350563.zip"
+    slaProfileEnabled="false" thinkTime="6679"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="f5cd0e8b-2d9c-4388-af89-b376ad350563">
+    <embedded-action>98548f7e-8209-4a10-887a-0bb1effb0c18</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/events/1/49d4f1afd4"
+    path="/events/1/49d4f1afd4" postType="4"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/f5cd0e8b-2d9c-4388-af89-b376ad350563.zip"
+    recordedResponseCode="202" responseSize="0"
+    serverUid="bam-cell.nr-data.net" slaProfileEnabled="false"
+    uid="98548f7e-8209-4a10-887a-0bb1effb0c18" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_98548f7e-8209-4a10-887a-0bb1effb0c18.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_98548f7e-8209-4a10-887a-0bb1effb0c18.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true" name="a"
+        recordRawValue="992047049" separator="=" value="992047049" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="v"
+        recordRawValue="1212.e95d35c" separator="=" value="1212.e95d35c" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="to"
+        recordRawValue="Z1VQbRQFV0RRARJZX14fc1oSDVZZHyUjZG9TX11SDwFKaF0DCFFXVUI%3D"
+        separator="="
+        value="Z1VQbRQFV0RRARJZX14fc1oSDVZZHyUjZG9TX11SDwFKaF0DCFFXVUI=" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="rst"
+        recordRawValue="15895" separator="=" value="15895" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="ck"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="false" name="ref"
+        recordRawValue="https://danmurphys-widgets-stg.salesfloor.net/cookies/manager"
+        separator="="
+        value="https://danmurphys-widgets-stg.salesfloor.net/cookies/manager" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="content-type" value="text/plain"/>
+    <header name="Cookie" value="JSESSIONID=eca3861b9f2d51e7"/>
+    <header name="Host" value="bam-cell.nr-data.net"/>
+    <header name="Origin" value="https://danmurphys-widgets-stg.salesfloor.net"/>
+    <header name="Referer" value="https://danmurphys-widgets-stg.salesfloor.net/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 202 Accepted&#xd;
+Date: Mon, 29 Nov 2021 09:25:17 GMT&#xd;
+Content-Type: image/gif&#xd;
+Content-Length: 24&#xd;
+Connection: keep-alive&#xd;
+CF-Ray: 6b5ac9af89745527-SYD&#xd;
+Access-Control-Allow-Origin: https://danmurphys-widgets-stg.salesfloor.net&#xd;
+CF-Cache-Status: DYNAMIC&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-methods: GET, POST, PUT, HEAD, OPTIONS&#xd;
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"&#xd;
+Vary: Accept-Encoding&#xd;
+Server: cloudflare</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[bel.6;e,'load,146,1;6,'cls,0.]]></textPostContent>
+</http-action>

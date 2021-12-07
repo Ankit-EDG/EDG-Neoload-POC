@@ -1,0 +1,265 @@
+<http-page executeResourcesDynamically="false"
+    name="/activityi;dc_pre=CKnN_8qivfQCFYUEcgodiSMEbw;src=10298563;type=dm_si0;cat=edg_d00;ord=580833218"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/1cf4659f-9db0-4d1f-966a-58ebd7c3cae6.zip"
+    slaProfileEnabled="false" thinkTime="6"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="1cf4659f-9db0-4d1f-966a-58ebd7c3cae6">
+    <embedded-action>a1d3d6e4-1341-4c6d-8b37-2741bb9180ba</embedded-action>
+    <embedded-action>37b7738c-d8f5-422f-bac3-b0dc9024ffc0</embedded-action>
+    <embedded-action>badff2fa-dcad-46ac-b36d-7c027a6e4ea3</embedded-action>
+    <embedded-action>d61c3697-e730-4319-a1bd-cc4693b1b708</embedded-action>
+    <embedded-action>b52214a6-8aa1-414f-bd7f-a38196e95475</embedded-action>
+    <embedded-action>1dc5922d-1654-4c33-a381-69a665b8f11f</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/activityi;dc_pre=CKnN_8qivfQCFYUEcgodiSMEbw;src=10298563;type=dm_si0;cat=edg_d00;ord=5808332189708;gtm=2odba1;auiddc=1006025353.1638177903;u1=guest;u10=HomePage;u11=;u12=;u13=;u14=;u15=;u16=;u17=;u18=;u19=;u2=;u20=;u21=https%3A%2F%2Fstage.danmurphys.com.au%2Fdm%2Fhome;u3=Desktop;u4=;u5=;u6=;u7=;u8=;u9=;ps=1;~oref=https%3A%2F%2Fstage.danmurphys.com.au%2Fdm%2Fhome"
+    path="/activityi;dc_pre=CKnN_8qivfQCFYUEcgodiSMEbw;src=10298563;type=dm_si0;cat=edg_d00;ord=5808332189708;gtm=2odba1;auiddc=1006025353.1638177903;u1=guest;u10=HomePage;u11=;u12=;u13=;u14=;u15=;u16=;u17=;u18=;u19=;u2=;u20=;u21=https%3A%2F%2Fstage.danmurphys.com.au%2Fdm%2Fhome;u3=Desktop;u4=;u5=;u6=;u7=;u8=;u9=;ps=1;~oref=https%3A%2F%2Fstage.danmurphys.com.au%2Fdm%2Fhome"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/1cf4659f-9db0-4d1f-966a-58ebd7c3cae6.zip"
+    recordedResponseCode="200" responseSize="580"
+    serverUid="10298563.fls.doubleclick.net" slaProfileEnabled="false"
+    uid="a1d3d6e4-1341-4c6d-8b37-2741bb9180ba" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_a1d3d6e4-1341-4c6d-8b37-2741bb9180ba.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_a1d3d6e4-1341-4c6d-8b37-2741bb9180ba.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name=""
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="navigate"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="cookie" value="IDE=AHWqTUnH79cuPFQ-Riqya4KVXdzotrMulRNWBZ_cy0EEYnk6At6EqGt817KYyOrjOpY"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="x-client-data" value="CK21yQEIi7bJAQiktskBCMG2yQEIqZ3KAQjQoMoBCOaEzAEI+oTMAQi2hcwBCMuJzAEYjp7LAQ=="/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="upgrade-insecure-requests" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="iframe"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+p3p: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"&#xd;
+timing-allow-origin: *&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+date: Mon, 29 Nov 2021 09:35:30 GMT&#xd;
+expires: Mon, 29 Nov 2021 09:35:30 GMT&#xd;
+cache-control: private, max-age=0&#xd;
+strict-transport-security: max-age=21600&#xd;
+content-type: text/html; charset=UTF-8&#xd;
+x-content-type-options: nosniff&#xd;
+content-encoding: gzip&#xd;
+server: cafe&#xd;
+content-length: 409&#xd;
+x-xss-protection: 0&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/xml"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/dmo/product/175542-1.png"
+    path="/dmo/product/175542-1.png" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/1cf4659f-9db0-4d1f-966a-58ebd7c3cae6.zip"
+    recordedResponseCode="404" responseSize="215"
+    serverUid="dmouatmedia.blob.core.windows.net"
+    slaProfileEnabled="false" uid="37b7738c-d8f5-422f-bac3-b0dc9024ffc0" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_37b7738c-d8f5-422f-bac3-b0dc9024ffc0.xml</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_37b7738c-d8f5-422f-bac3-b0dc9024ffc0.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="impolicy"
+        recordRawValue="PROD_MD" separator="=" value="PROD_MD" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="chatbotUserId=5bb71d99-6316-498c-8fed-38e007e5e470; __zlcmid=17IkW6S13t8gHoI"/>
+    <header name="Host" value="dmouatmedia.blob.core.windows.net"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 404 The specified blob does not exist.&#xd;
+Content-Length: 215&#xd;
+Content-Type: application/xml&#xd;
+Server: Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0&#xd;
+x-ms-request-id: a6752f46-601e-0018-7c04-e5f193000000&#xd;
+x-ms-version: 2014-02-14&#xd;
+Access-Control-Expose-Headers: x-ms-request-id,Server,x-ms-version,Content-Length,Date,Transfer-Encoding&#xd;
+Access-Control-Allow-Origin: *&#xd;
+Date: Mon, 29 Nov 2021 09:35:29 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/xml"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/dmo/product/153208-1.png"
+    path="/dmo/product/153208-1.png" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/1cf4659f-9db0-4d1f-966a-58ebd7c3cae6.zip"
+    recordedResponseCode="404" responseSize="215"
+    serverUid="dmouatmedia.blob.core.windows.net"
+    slaProfileEnabled="false" uid="badff2fa-dcad-46ac-b36d-7c027a6e4ea3" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_badff2fa-dcad-46ac-b36d-7c027a6e4ea3.xml</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_badff2fa-dcad-46ac-b36d-7c027a6e4ea3.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="impolicy"
+        recordRawValue="PROD_MD" separator="=" value="PROD_MD" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="chatbotUserId=5bb71d99-6316-498c-8fed-38e007e5e470; __zlcmid=17IkW6S13t8gHoI"/>
+    <header name="Host" value="dmouatmedia.blob.core.windows.net"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 404 The specified blob does not exist.&#xd;
+Content-Length: 215&#xd;
+Content-Type: application/xml&#xd;
+Server: Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0&#xd;
+x-ms-request-id: 490a3351-d01e-000a-1e04-e5c58f000000&#xd;
+x-ms-version: 2014-02-14&#xd;
+Access-Control-Expose-Headers: x-ms-request-id,Server,x-ms-version,Content-Length,Date,Transfer-Encoding&#xd;
+Access-Control-Allow-Origin: *&#xd;
+Date: Mon, 29 Nov 2021 09:35:29 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/xml"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/dmo/product/153616-1.png"
+    path="/dmo/product/153616-1.png" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/1cf4659f-9db0-4d1f-966a-58ebd7c3cae6.zip"
+    recordedResponseCode="404" responseSize="215"
+    serverUid="dmouatmedia.blob.core.windows.net"
+    slaProfileEnabled="false" uid="d61c3697-e730-4319-a1bd-cc4693b1b708" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_d61c3697-e730-4319-a1bd-cc4693b1b708.xml</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d61c3697-e730-4319-a1bd-cc4693b1b708.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="impolicy"
+        recordRawValue="PROD_MD" separator="=" value="PROD_MD" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="chatbotUserId=5bb71d99-6316-498c-8fed-38e007e5e470; __zlcmid=17IkW6S13t8gHoI"/>
+    <header name="Host" value="dmouatmedia.blob.core.windows.net"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 404 The specified blob does not exist.&#xd;
+Content-Length: 215&#xd;
+Content-Type: application/xml&#xd;
+Server: Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0&#xd;
+x-ms-request-id: f4e2ab9a-a01e-000e-7f04-e5300d000000&#xd;
+x-ms-version: 2014-02-14&#xd;
+Access-Control-Expose-Headers: x-ms-request-id,Server,x-ms-version,Content-Length,Date,Transfer-Encoding&#xd;
+Access-Control-Allow-Origin: *&#xd;
+Date: Mon, 29 Nov 2021 09:35:29 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/xml"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/dmo/product/178304-1.png"
+    path="/dmo/product/178304-1.png" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/1cf4659f-9db0-4d1f-966a-58ebd7c3cae6.zip"
+    recordedResponseCode="404" responseSize="215"
+    serverUid="dmouatmedia.blob.core.windows.net"
+    slaProfileEnabled="false" uid="b52214a6-8aa1-414f-bd7f-a38196e95475" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_b52214a6-8aa1-414f-bd7f-a38196e95475.xml</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_b52214a6-8aa1-414f-bd7f-a38196e95475.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="impolicy"
+        recordRawValue="PROD_MD" separator="=" value="PROD_MD" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="chatbotUserId=5bb71d99-6316-498c-8fed-38e007e5e470; __zlcmid=17IkW6S13t8gHoI"/>
+    <header name="Host" value="dmouatmedia.blob.core.windows.net"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 404 The specified blob does not exist.&#xd;
+Content-Length: 215&#xd;
+Content-Type: application/xml&#xd;
+Server: Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0&#xd;
+x-ms-request-id: d7599d31-101e-001c-1404-e50411000000&#xd;
+x-ms-version: 2014-02-14&#xd;
+Access-Control-Expose-Headers: x-ms-request-id,Server,x-ms-version,Content-Length,Date,Transfer-Encoding&#xd;
+Access-Control-Allow-Origin: *&#xd;
+Date: Mon, 29 Nov 2021 09:35:30 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/ddm/fls/z/dc_pre=CKnN_8qivfQCFYUEcgodiSMEbw;src=10298563;type=dm_si0;cat=edg_d00;ord=5808332189708;gtm=2odba1;auiddc=*;u1=guest;u10=HomePage;u11=;u12=;u13=;u14=;u15=;u16=;u17=;u18=;u19=;u2=;u20=;u21=https%3A%2F%2Fstage.danmurphys.com.au%2Fdm%2Fhome;u3=Desktop;u4=;u5=;u6=;u7=;u8=;u9=;ps=1;~oref=https%3A%2F%2Fstage.danmurphys.com.au%2Fdm%2Fhome"
+    path="/ddm/fls/z/dc_pre=CKnN_8qivfQCFYUEcgodiSMEbw;src=10298563;type=dm_si0;cat=edg_d00;ord=5808332189708;gtm=2odba1;auiddc=*;u1=guest;u10=HomePage;u11=;u12=;u13=;u14=;u15=;u16=;u17=;u18=;u19=;u2=;u20=;u21=https%3A%2F%2Fstage.danmurphys.com.au%2Fdm%2Fhome;u3=Desktop;u4=;u5=;u6=;u7=;u8=;u9=;ps=1;~oref=https%3A%2F%2Fstage.danmurphys.com.au%2Fdm%2Fhome"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/1cf4659f-9db0-4d1f-966a-58ebd7c3cae6.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="adservice.google.com" slaProfileEnabled="false"
+    uid="1dc5922d-1654-4c33-a381-69a665b8f11f" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_1dc5922d-1654-4c33-a381-69a665b8f11f.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_1dc5922d-1654-4c33-a381-69a665b8f11f.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://10298563.fls.doubleclick.net/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-client-data" value="CK21yQEIi7bJAQiktskBCMG2yQEIqZ3KAQjQoMoBCOaEzAEI+oTMAQi2hcwBCMuJzAEYjp7LAQ=="/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+p3p: policyref="https://www.googleadservices.com/pagead/p3p.xml", CP="NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC"&#xd;
+timing-allow-origin: *&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+date: Mon, 29 Nov 2021 09:35:30 GMT&#xd;
+pragma: no-cache&#xd;
+expires: Fri, 01 Jan 1990 00:00:00 GMT&#xd;
+cache-control: no-cache, must-revalidate&#xd;
+content-type: image/gif&#xd;
+x-content-type-options: nosniff&#xd;
+server: cafe&#xd;
+content-length: 42&#xd;
+x-xss-protection: 0&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

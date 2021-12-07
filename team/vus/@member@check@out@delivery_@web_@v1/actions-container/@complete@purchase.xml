@@ -1,0 +1,10 @@
+<basic-logical-action-container element-number="1" enabled="false"
+    execution-type="0" name="CompletePurchase" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="37d2c15d-a67a-4d9d-90db-ea7df9cdb8ae" weightsEnabled="false">
+    <weighted-embedded-action uid="c8046e17-0851-4785-9bd4-66c6f80ba9ab"/>
+    <weighted-embedded-action uid="7b7ef233-d7fa-45ed-a44e-1ae8f17c14f9"/>
+    <weighted-embedded-action uid="4f991745-033e-4888-a222-08ede688ee10"/>
+    <weighted-embedded-action uid="da5e4975-1246-4249-932c-19ce3571d2a3"/>
+    <weighted-embedded-action uid="94f67584-dca1-47dc-86ad-cc13cd7bf5e0"/>
+</basic-logical-action-container>

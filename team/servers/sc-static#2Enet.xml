@@ -1,0 +1,4 @@
+<http-server hostname="sc-static.net" port="443" ssl="true"
+    uid="sc-static.net" urlrewriting-argument-name=""
+    urlrewriting-enabled="false" urlrewriting-path-extension="false"
+    urlrewriting-path-not-equals="false" urlrewriting-path-separator=";"/>

@@ -1,0 +1,50 @@
+<http-page executeResourcesDynamically="false"
+    name="/static/sh.f48a1a04fe8dbf021b4cda1d.html"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/caa59753-1eaf-4deb-b3da-7a72a1b51abf.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="caa59753-1eaf-4deb-b3da-7a72a1b51abf">
+    <embedded-action>708d469f-354f-4a75-838b-a00b01aa4d0e</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/static/sh.f48a1a04fe8dbf021b4cda1d.html"
+    path="/static/sh.f48a1a04fe8dbf021b4cda1d.html" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/caa59753-1eaf-4deb-b3da-7a72a1b51abf.zip"
+    recordedResponseCode="200" responseSize="72412"
+    serverUid="s7.addthis.com" slaProfileEnabled="false"
+    uid="708d469f-354f-4a75-838b-a00b01aa4d0e" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_708d469f-354f-4a75-838b-a00b01aa4d0e.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_708d469f-354f-4a75-838b-a00b01aa4d0e.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="navigate"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="upgrade-insecure-requests" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="iframe"/>
+    <header name="accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+server: nginx/1.15.8&#xd;
+content-type: text/html&#xd;
+last-modified: Mon, 26 Oct 2020 18:11:48 GMT&#xd;
+etag: W/"5f971164-11adc"&#xd;
+timing-allow-origin: *&#xd;
+cache-control: public, max-age=86313600&#xd;
+p3p: CP="NON ADM OUR DEV IND COM STA"&#xd;
+strict-transport-security: max-age=15724800; includeSubDomains&#xd;
+content-encoding: gzip&#xd;
+content-length: 26421&#xd;
+date: Mon, 29 Nov 2021 09:29:37 GMT&#xd;
+vary: Accept-Encoding&#xd;
+x-host: s7.addthis.com</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

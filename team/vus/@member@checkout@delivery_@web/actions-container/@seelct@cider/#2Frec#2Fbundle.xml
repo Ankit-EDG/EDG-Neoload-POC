@@ -1,0 +1,163 @@
+<http-page executeResourcesDynamically="false" name="/rec/bundle"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/69819155-c0a2-4539-b84a-0e718103f67d.zip"
+    slaProfileEnabled="false" thinkTime="4781"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="69819155-c0a2-4539-b84a-0e718103f67d">
+    <embedded-action>611edfab-53b1-418d-b933-3ac7dae9b81c</embedded-action>
+    <embedded-action>04b9ac96-8cf9-4690-a9c5-73d1a4eddaec</embedded-action>
+    <embedded-action>74378974-2d77-4133-bc82-673de0fd924e</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/rec/bundle" path="/rec/bundle" postType="4"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/69819155-c0a2-4539-b84a-0e718103f67d.zip"
+    recordedResponseCode="200" responseSize="29"
+    serverUid="rs.fullstory.com" slaProfileEnabled="false"
+    uid="611edfab-53b1-418d-b933-3ac7dae9b81c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_611edfab-53b1-418d-b933-3ac7dae9b81c</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_611edfab-53b1-418d-b933-3ac7dae9b81c.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true" name="OrgId"
+        recordRawValue="TQCFZ" separator="=" value="TQCFZ" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="UserId"
+        recordRawValue="6094149355069440" separator="="
+        value="6094149355069440" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="SessionId" recordRawValue="5407716160069632" separator="="
+        value="5407716160069632" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="PageId"
+        recordRawValue="6304641898012672" separator="="
+        value="6304641898012672" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="Seq"
+        recordRawValue="61" separator="=" value="61" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="PageStart" recordRawValue="1638177899114" separator="="
+        value="1638177899114" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="PrevBundleTime" recordRawValue="1638178339596"
+        separator="=" value="1638178339596" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="LastActivity" recordRawValue="147" separator="="
+        value="147" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://stage.danmurphys.com.au"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="text/plain"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-origin: https://stage.danmurphys.com.au&#xd;
+content-type: application/json; charset=utf-8&#xd;
+date: Mon, 29 Nov 2021 09:32:24 GMT&#xd;
+content-length: 29&#xd;
+via: 1.1 google&#xd;
+alt-svc: clear</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"Seq":61,"When":441748,"Evts":[{"Kind":63,"Args":["POST","https://rs.fullstory.com/rec/bundle?OrgId=TQCFZ&UserId=6094149355069440&SessionId=5407716160069632&PageId=6304641898012672&Seq=60&PageStart=1638177899114&PrevBundleTime=1638178334593&LastActivity=1681",223,200,"content-type: text/plain\r\n","content-length: 29\r\ncontent-type: application/json; charset=utf-8\r\n",1638178339499,1086,29,null,null,1,1],"When":441748},{"Kind":57,"Args":[2,"https://rs.fullstory.com/rec/bundle?OrgId=TQCFZ&UserId=6094149355069440&SessionId=5407716160069632&PageId=6304641898012672&Seq=60&PageStart=1638177899114&PrevBundleTime=1638178334593&LastActivity=1681",459034.90000009537,220.2999997138977,"xmlhttprequest",0,0,459034.90000009537,0,0,0,0,0,0,0,459255.19999980927,0,0,0],"When":441768},{"When":443601,"Kind":54,"Args":[4001]},{"Kind":8,"Args":[899,54,201],"When":445393},{"Kind":9,"Args":[445456,883,865,-18,-18,92,105,13,13,6805],"When":445425},{"Kind":8,"Args":[723,91,6805],"When":445497},{"Kind":8,"Args":[619,0,186],"When":445713},{"Kind":8,"Args":[515,68,6409],"When":445929},{"Kind":8,"Args":[532,98,6573],"When":445992},{"Kind":9,"Args":[446111,560,576,38.18181818181819,3.1578947368421053,120,108,-24.545454545454547,-4.736842105263158,6573],"When":446021}]}]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="image/webp"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/dmo/content/meganav/heropanel/cider/ciderdesktop.png"
+    path="/dmo/content/meganav/heropanel/cider/ciderdesktop.png"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/69819155-c0a2-4539-b84a-0e718103f67d.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="media.danmurphys.com.au" slaProfileEnabled="false"
+    uid="04b9ac96-8cf9-4690-a9c5-73d1a4eddaec" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_04b9ac96-8cf9-4690-a9c5-73d1a4eddaec</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_04b9ac96-8cf9-4690-a9c5-73d1a4eddaec.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="impolicy"
+        recordRawValue="MEGA_NAV" separator="=" value="MEGA_NAV" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="width"
+        recordRawValue="325" separator="=" value="325" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="AMCVS_1124C2D754E497DC0A4C98C6%40AdobeOrg=1; unbxd.userId=uid-1638177886946-17373; unbxd.visit=first_time; unbxd.visitId=visitId-1638177886953-75957; s_ecid=MCMID%7C62974577823596621581061727074359824665; ORA_FPC=id=a310c3a6-f82a-4c3f-b069-bce5bb19de6c; WTPERSIST=; fs_uid=rs.fullstory.com#TQCFZ#6094149355069440:5407716160069632#f6ed06d6#/1669708215; stg_danmurphys_sf_wdt_session_expiration_session=1638177902969; stg_danmurphys_sf_wdt_customer_id=tltok50kf; stg_danmurphys_sf_wdt_fingerprint=83522446464543; _gcl_au=1.1.1006025353.1638177903; _fbp=fb.2.1638177903177.530554903; AMCV_1124C2D754E497DC0A4C98C6%40AdobeOrg=-1124106680%7CMCIDTS%7C18961%7CMCMID%7C62974577823596621581061727074359824665%7CMCAAMLH-1638782866%7C8%7CMCAAMB-1638782866%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1638185266s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-18968%7CMCCIDH%7C104992502%7CvVersion%7C5.2.0; BVBRANDID=6f56fbda-5583-410c-bcb0-78f69cfe3e73; BVBRANDSID=4b583641-b23a-493d-808a-152d922516da; s_nr30=1638178268426-New; rr_rcs=eF5j4cotK8lM4TMzM9A11DVkKU32MDUyNUxKMUjUNTBJStM1MTGw1E21SDLUTUo2TTO1sDRJMzAwAwCEmQ34"/>
+    <header name="Host" value="media.danmurphys.com.au"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Access-Control-Expose-Headers: x-ms-request-id,Server,x-ms-version,Content-Type,Last-Modified,ETag,Content-MD5,x-ms-lease-status,x-ms-lease-state,x-ms-blob-type,Content-Disposition,Accept-Ranges,Content-Length,Date,Transfer-Encoding&#xd;
+ETag: "0x8D880833E2B9EA5"&#xd;
+Access-Control-Allow-Origin: *&#xd;
+Last-Modified: Wed, 13 Oct 2021 11:29:58 GMT&#xd;
+Server: Akamai Image Manager&#xd;
+Content-Length: 38556&#xd;
+Content-Type: image/webp&#xd;
+Cache-Control: private, no-transform, max-age=47960&#xd;
+Expires: Mon, 29 Nov 2021 22:51:44 GMT&#xd;
+Date: Mon, 29 Nov 2021 09:32:24 GMT&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/webp"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/dmo/content/meganav/contentcard/Cider/cider-desk.jpg"
+    path="/dmo/content/meganav/contentcard/Cider/cider-desk.jpg"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/69819155-c0a2-4539-b84a-0e718103f67d.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="media.danmurphys.com.au" slaProfileEnabled="false"
+    uid="74378974-2d77-4133-bc82-673de0fd924e" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_74378974-2d77-4133-bc82-673de0fd924e</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_74378974-2d77-4133-bc82-673de0fd924e.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="impolicy"
+        recordRawValue="MEGA_NAV" separator="=" value="MEGA_NAV" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="width"
+        recordRawValue="265" separator="=" value="265" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="AMCVS_1124C2D754E497DC0A4C98C6%40AdobeOrg=1; unbxd.userId=uid-1638177886946-17373; unbxd.visit=first_time; unbxd.visitId=visitId-1638177886953-75957; s_ecid=MCMID%7C62974577823596621581061727074359824665; ORA_FPC=id=a310c3a6-f82a-4c3f-b069-bce5bb19de6c; WTPERSIST=; fs_uid=rs.fullstory.com#TQCFZ#6094149355069440:5407716160069632#f6ed06d6#/1669708215; stg_danmurphys_sf_wdt_session_expiration_session=1638177902969; stg_danmurphys_sf_wdt_customer_id=tltok50kf; stg_danmurphys_sf_wdt_fingerprint=83522446464543; _gcl_au=1.1.1006025353.1638177903; _fbp=fb.2.1638177903177.530554903; AMCV_1124C2D754E497DC0A4C98C6%40AdobeOrg=-1124106680%7CMCIDTS%7C18961%7CMCMID%7C62974577823596621581061727074359824665%7CMCAAMLH-1638782866%7C8%7CMCAAMB-1638782866%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1638185266s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-18968%7CMCCIDH%7C104992502%7CvVersion%7C5.2.0; BVBRANDID=6f56fbda-5583-410c-bcb0-78f69cfe3e73; BVBRANDSID=4b583641-b23a-493d-808a-152d922516da; s_nr30=1638178268426-New; rr_rcs=eF5j4cotK8lM4TMzM9A11DVkKU32MDUyNUxKMUjUNTBJStM1MTGw1E21SDLUTUo2TTO1sDRJMzAwAwCEmQ34"/>
+    <header name="Host" value="media.danmurphys.com.au"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Access-Control-Expose-Headers: x-ms-request-id,Server,x-ms-version,x-ms-meta-CbModifiedTime,Content-Type,Last-Modified,ETag,Content-MD5,x-ms-lease-status,x-ms-lease-state,x-ms-blob-type,Accept-Ranges,Content-Length,Date,Transfer-Encoding&#xd;
+ETag: "0x8D916F520F2207D"&#xd;
+Access-Control-Allow-Origin: *&#xd;
+Last-Modified: Thu, 03 Jun 2021 10:37:20 GMT&#xd;
+Server: Akamai Image Manager&#xd;
+Content-Length: 22530&#xd;
+Content-Type: image/webp&#xd;
+Cache-Control: private, no-transform, max-age=44075&#xd;
+Expires: Mon, 29 Nov 2021 21:46:59 GMT&#xd;
+Date: Mon, 29 Nov 2021 09:32:24 GMT&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

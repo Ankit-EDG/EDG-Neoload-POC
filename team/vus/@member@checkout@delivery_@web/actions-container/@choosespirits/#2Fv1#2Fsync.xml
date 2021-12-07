@@ -1,0 +1,57 @@
+<http-page executeResourcesDynamically="false" name="/v1/sync"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/c0b914ac-4889-48bd-8e02-87e942e2afd7.zip"
+    slaProfileEnabled="false" thinkTime="423"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="c0b914ac-4889-48bd-8e02-87e942e2afd7">
+    <embedded-action>2e1df3b8-29a1-4060-a1a7-5ba355923632</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/v1/sync" path="/v1/sync" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/c0b914ac-4889-48bd-8e02-87e942e2afd7.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="ad.as.amanad.adtdp.com" slaProfileEnabled="false"
+    uid="2e1df3b8-29a1-4060-a1a7-5ba355923632" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_2e1df3b8-29a1-4060-a1a7-5ba355923632.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_2e1df3b8-29a1-4060-a1a7-5ba355923632.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="dsp_id"
+        recordRawValue="28" separator="=" value="28" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="uid"
+        recordRawValue="46d861a4-9c64-4600-b29d-cedecb0f4672"
+        separator="=" value="46d861a4-9c64-4600-b29d-cedecb0f4672" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://pixel.mathtag.com/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: image/gif&#xd;
+content-length: 42&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-origin: *&#xd;
+cache-control: no-cache, no-store, must-revalidate&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+date: Mon, 29 Nov 2021 09:30:48 GMT&#xd;
+expires: Thu, 01 Jan 1970 09:00:00 GMT&#xd;
+pragma: no-cache&#xd;
+set-cookie: uid=ca35a6cc-3af7-42f1-847e-1cbe69852c79; Path=/; Domain=adtdp.com; Expires=Wed, 29 Nov 2023 09:30:48 GMT; HttpOnly; Secure; SameSite=None&#xd;
+set-cookie: pr=aja; Path=/; Domain=adtdp.com; Expires=Wed, 29 Nov 2023 09:30:48 GMT; HttpOnly; Secure; SameSite=None&#xd;
+set-cookie: uid_legacy=ca35a6cc-3af7-42f1-847e-1cbe69852c79; Path=/; Domain=adtdp.com; Expires=Wed, 29 Nov 2023 09:30:48 GMT; HttpOnly&#xd;
+set-cookie: pr_legacy=aja; Path=/; Domain=adtdp.com; Expires=Wed, 29 Nov 2023 09:30:48 GMT; HttpOnly&#xd;
+x-amzn-trace-id: Root=1-00000000-000000000000000000000000&#xd;
+x-cache: Miss from cloudfront&#xd;
+via: 1.1 332185989ef2da97d1a56bdaee204b78.cloudfront.net (CloudFront)&#xd;
+x-amz-cf-pop: SYD62-P1&#xd;
+x-amz-cf-id: 3JZ51uUpldI79-ULvbZiPS1UkL1AIi4uS-mpNW-ySmUHrafQMmydsg==</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

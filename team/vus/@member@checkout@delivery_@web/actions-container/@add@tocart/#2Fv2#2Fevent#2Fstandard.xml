@@ -1,0 +1,161 @@
+<http-page executeResourcesDynamically="false" name="/v2/event/standard"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/9f9a6a4a-4556-4297-9273-85136abda0dd.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="9f9a6a4a-4556-4297-9273-85136abda0dd">
+    <embedded-action>207c8017-7eca-4d95-9337-8567ce3cca42</embedded-action>
+    <embedded-action>50c786bf-81df-4d07-98ea-17fe78ed2c34</embedded-action>
+    <embedded-action>c8638982-61fc-446b-b70f-92644dc29df6</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/v2/event/standard" path="/v2/event/standard"
+    postCharset="iso-8859-1" postType="1"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/9f9a6a4a-4556-4297-9273-85136abda0dd.zip"
+    recordedResponseCode="200" responseSize="2"
+    serverUid="api2.branch.io" slaProfileEnabled="false"
+    uid="207c8017-7eca-4d95-9337-8567ce3cca42" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[bmFtZT1BRERfVE9fQ0FSVCZ1c2VyX2RhdGE9JTdCJTIyaHR0cF9vcmlnaW4lMjIlM0ElMjJodHRwcyUzQSUyRiUyRnN0YWdlLmRhbm11cnBoeXMuY29tLmF1JTJGcHJvZHVjdCUyRkRNXzE3NjIxJTJGZ2xlbmZpZGRpY2gtMTIteWVhci1vbGQtc2luZ2xlLW1hbHQtc2NvdGNoLXdoaXNreS03MDBtbCUyMiUyQyUyMnVzZXJfYWdlbnQlMjIlM0ElMjJNb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkY5Ni4wLjQ2NjQuNDUlMjBTYWZhcmklMkY1MzcuMzYlMjIlMkMlMjJsYW5ndWFnZSUyMiUzQSUyMkVOJTIyJTJDJTIyc2NyZWVuX3dpZHRoJTIyJTNBMTM2NiUyQyUyMnNjcmVlbl9oZWlnaHQlMjIlM0E3NjglMkMlMjJodHRwX3JlZmVycmVyJTIyJTNBJTIyaHR0cCUzQSUyRiUyRnd3dy5uZW90eXMuY29tJTJGJTIyJTJDJTIyYnJvd3Nlcl9maW5nZXJwcmludF9pZCUyMiUzQSUyMjk3NDk1NTAzMTA2MjU1OTA1NCUyMiUyQyUyMmRldmVsb3Blcl9pZGVudGl0eSUyMiUzQSUyMjgwMTk3MDYlMjIlMkMlMjJpZGVudGl0eSUyMiUzQSUyMjgwMTk3MDYlMjIlMkMlMjJzZGslMjIlM0ElMjJ3ZWIlMjIlMkMlMjJzZGtfdmVyc2lvbiUyMiUzQSUyMjIuNTkuMCUyMiU3RCZjdXN0b21fZGF0YT0lN0IlN0QmZXZlbnRfZGF0YT0lN0IlMjJjdXJyZW5jeSUyMiUzQSUyMkFVRCUyMiU3RCZjb250ZW50X2l0ZW1zPSU1QiU3QiUyMiUyNHByb2R1Y3RfbmFtZSUyMiUzQSUyMkdsZW5maWRkaWNoJTIwMTIlMjBZZWFyJTIwT2xkJTIwU2luZ2xlJTIwTWFsdCUyMFNjb3RjaCUyMFdoaXNreSUyMDcwMG1MJTIyJTJDJTIyJTI0c2t1JTIyJTNBJTIyRE1fMTc2MjElMjIlMkMlMjIlMjRwcm9kdWN0X2JyYW5kJTIyJTNBJTIyR2xlbmZpZGRpY2glMjIlMkMlMjIlMjRwcm9kdWN0X3ZhcmlhbnQlMjIlM0ElMjJCb3R0bGUlMjIlMkMlMjIlMjRwcmljZSUyMiUzQTY4Ljk1JTJDJTIycHJvZHVjdF9jYXRlZ29yeSUyMiUzQSUyMldoaXNreSUyMiUyQyUyMiUyNHF1YW50aXR5JTIyJTNBMSU3RCU1RCZicmFuY2hfa2V5PWtleV90ZXN0X29tSWZ0dXhUT3JEZ0gyTGc0YnFmUGZma3RCbEg5bEVW]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_207c8017-7eca-4d95-9337-8567ce3cca42</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_207c8017-7eca-4d95-9337-8567ce3cca42.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="name"
+        recordRawValue="ADD_TO_CART" separator="=" value="ADD_TO_CART" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="user_data"
+        recordRawValue="%7B%22http_origin%22%3A%22https%3A%2F%2Fstage.danmurphys.com.au%2Fproduct%2FDM_17621%2Fglenfiddich-12-year-old-single-malt-scotch-whisky-700ml%22%2C%22user_agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F96.0.4664.45%20Safari%2F537.36%22%2C%22language%22%3A%22EN%22%2C%22screen_width%22%3A1366%2C%22screen_height%22%3A768%2C%22http_referrer%22%3A%22http%3A%2F%2Fwww.neotys.com%2F%22%2C%22browser_fingerprint_id%22%3A%22974955031062559054%22%2C%22developer_identity%22%3A%228019706%22%2C%22identity%22%3A%228019706%22%2C%22sdk%22%3A%22web%22%2C%22sdk_version%22%3A%222.59.0%22%7D"
+        separator="="
+        value="%7B%22http_origin%22%3A%22https%3A%2F%2Fstage.danmurphys.com.au%2Fproduct%2FDM_17621%2Fglenfiddich-12-year-old-single-malt-scotch-whisky-700ml%22%2C%22user_agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F96.0.4664.45%20Safari%2F537.36%22%2C%22language%22%3A%22EN%22%2C%22screen_width%22%3A1366%2C%22screen_height%22%3A768%2C%22http_referrer%22%3A%22http%3A%2F%2Fwww.neotys.com%2F%22%2C%22browser_fingerprint_id%22%3A%22974955031062559054%22%2C%22developer_identity%22%3A%228019706%22%2C%22identity%22%3A%228019706%22%2C%22sdk%22%3A%22web%22%2C%22sdk_version%22%3A%222.59.0%22%7D" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="custom_data"
+        recordRawValue="%7B%7D" separator="=" value="{}" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="event_data"
+        recordRawValue="%7B%22currency%22%3A%22AUD%22%7D" separator="="
+        value="{&quot;currency&quot;:&quot;AUD&quot;}" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="content_items"
+        recordRawValue="%5B%7B%22%24product_name%22%3A%22Glenfiddich%2012%20Year%20Old%20Single%20Malt%20Scotch%20Whisky%20700mL%22%2C%22%24sku%22%3A%22DM_17621%22%2C%22%24product_brand%22%3A%22Glenfiddich%22%2C%22%24product_variant%22%3A%22Bottle%22%2C%22%24price%22%3A68.95%2C%22product_category%22%3A%22Whisky%22%2C%22%24quantity%22%3A1%7D%5D"
+        separator="="
+        value="[{&quot;$product_name&quot;:&quot;Glenfiddich 12 Year Old Single Malt Scotch Whisky 700mL&quot;,&quot;$sku&quot;:&quot;DM_17621&quot;,&quot;$product_brand&quot;:&quot;Glenfiddich&quot;,&quot;$product_variant&quot;:&quot;Bottle&quot;,&quot;$price&quot;:68.95,&quot;product_category&quot;:&quot;Whisky&quot;,&quot;$quantity&quot;:1}]" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="branch_key"
+        recordRawValue="key_test_omIftuxTOrDgH2Lg4bqfPffktBlH9lEV"
+        separator="=" value="key_test_omIftuxTOrDgH2Lg4bqfPffktBlH9lEV" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://stage.danmurphys.com.au"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="application/x-www-form-urlencoded"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/json&#xd;
+content-length: 2&#xd;
+access-control-allow-origin: *&#xd;
+date: Mon, 29 Nov 2021 09:31:22 GMT&#xd;
+x-branch-event-extra: {}&#xd;
+x-branch-request-id: 673cebf890d84efb9db28ebace70110d-2021112909&#xd;
+x-cache: Miss from cloudfront&#xd;
+via: 1.1 d9766b9925771288ecfcf1392328f115.cloudfront.net (CloudFront)&#xd;
+x-amz-cf-pop: SYD62-P1&#xd;
+x-amz-cf-id: df40MEmfAcJkl-5Fi7DtTtOhXWMa2LhJ4b1WmCZVoM8IqKlYtNp7bw==</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/event/js" path="/event/js" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/9f9a6a4a-4556-4297-9273-85136abda0dd.zip"
+    recordedResponseCode="200" responseSize="1014"
+    serverUid="pixel.mathtag.com" slaProfileEnabled="false"
+    uid="50c786bf-81df-4d07-98ea-17fe78ed2c34" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_50c786bf-81df-4d07-98ea-17fe78ed2c34</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_50c786bf-81df-4d07-98ea-17fe78ed2c34.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="mt_id"
+        recordRawValue="1538954" separator="=" value="1538954" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="mt_adid"
+        recordRawValue="239489" separator="=" value="239489" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="mt_exem"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="mt_excl"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="v1"
+        recordRawValue="775005720" separator="=" value="775005720" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="v2"
+        recordRawValue="member" separator="=" value="member" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="v3"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="s1"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="s2"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="s3"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="uuid=46d861a4-9c64-4600-b29d-cedecb0f4672; mt_misc=mt_bt:1638177909; mt_mop=4:1638177737|40:1638177737|10025:1638177737|21:1638177737|370:1638177737|10004:1638177737|10050:1638177737|10009:1638177737|10010:1638177737|42:1638177737|368:1638177737|13:1638177737|10017:1638177737|369:1638177737|10074:1638177737|36:1638177737|10072:1638177737|9:1638177737|15:1638177737|10040:1638177737|350:1638177737|10041:1638177737|46:1638177737|3:1638177737|17:1638177737|30:1638177737|5:1638177737|44:1638177737|10031:1638177737"/>
+    <header name="Host" value="pixel.mathtag.com"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Content-Type: text/javascript&#xd;
+Content-Length: 1014&#xd;
+Access-Control-Allow-Origin: *&#xd;
+Server: MT3 4103 f8fad19 master hkg-pixel-x6 config:1.0.0&#xd;
+Cache-Control: no-cache&#xd;
+P3P: CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"&#xd;
+Expires: Mon, 29 Nov 2021 09:31:21 GMT&#xd;
+Date: Mon, 29 Nov 2021 09:31:22 GMT&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/segment/1381/cart/DM_17621"
+    path="/segment/1381/cart/DM_17621" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/9f9a6a4a-4556-4297-9273-85136abda0dd.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="fm.flashtalking.com" slaProfileEnabled="false"
+    uid="c8638982-61fc-446b-b70f-92644dc29df6" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_c8638982-61fc-446b-b70f-92644dc29df6.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_c8638982-61fc-446b-b70f-92644dc29df6.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://servedby.flashtalking.com/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="flashtalkingad1=&quot;GUID=5081A662B4C350|segment=(agcg-t:5081,agch-t:5081)&quot;"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Mon, 29 Nov 2021 09:31:22 GMT&#xd;
+content-type: image/gif&#xd;
+server: nginx&#xd;
+x-powered-by: PHP/5.6.40&#xd;
+x-app-env: prod&#xd;
+content-encoding: gzip&#xd;
+vary: Accept-Encoding</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

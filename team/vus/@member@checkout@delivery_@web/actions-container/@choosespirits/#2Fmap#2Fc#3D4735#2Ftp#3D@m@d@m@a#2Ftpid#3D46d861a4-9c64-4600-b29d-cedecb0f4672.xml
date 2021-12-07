@@ -1,0 +1,135 @@
+<http-page executeResourcesDynamically="false"
+    name="/map/c=4735/tp=MDMA/tpid=46d861a4-9c64-4600-b29d-cedecb0f4672"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/c2164844-b740-48ef-bd9c-bfd7412a2556.zip"
+    slaProfileEnabled="false" thinkTime="255"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="c2164844-b740-48ef-bd9c-bfd7412a2556">
+    <embedded-action>4bcf7422-1e4a-467b-a8e1-4c2b3cbf899b</embedded-action>
+    <embedded-action>ac50bab1-1e1c-4576-8895-d44f85563d5a</embedded-action>
+    <embedded-action>0911bd77-e026-4b22-a0fa-595ac398bcef</embedded-action>
+</http-page>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/map/c=4735/tp=MDMA/tpid=46d861a4-9c64-4600-b29d-cedecb0f4672"
+    path="/map/c=4735/tp=MDMA/tpid=46d861a4-9c64-4600-b29d-cedecb0f4672"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/c2164844-b740-48ef-bd9c-bfd7412a2556.zip"
+    recordedResponseCode="302" responseSize="0"
+    serverUid="sync.crwdcntrl.net" slaProfileEnabled="false"
+    uid="4bcf7422-1e4a-467b-a8e1-4c2b3cbf899b" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_4bcf7422-1e4a-467b-a8e1-4c2b3cbf899b</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_4bcf7422-1e4a-467b-a8e1-4c2b3cbf899b.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://pixel.mathtag.com/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 302&#xd;
+date: Mon, 29 Nov 2021 09:30:48 GMT&#xd;
+Content-Length: 0&#xd;
+location: https://sync.crwdcntrl.net/map/ct=y/c=4735/tp=MDMA/tpid=46d861a4-9c64-4600-b29d-cedecb0f4672&#xd;
+p3p: CP=NOI DSP COR NID PSAa PSDa OUR UNI COM NAV&#xd;
+cache-control: no-cache&#xd;
+pragma: no-cache&#xd;
+expires: 0&#xd;
+x-server: 10.43.1.56&#xd;
+set-cookie: _cc_cc=ctst;Path=/;Domain=crwdcntrl.net;SameSite=None;Secure&#xd;
+server: Jetty(9.4.38.v20210224)</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="2" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/map/ct=y/c=4735/tp=MDMA/tpid=46d861a4-9c64-4600-b29d-cedecb0f4672"
+    path="/map/ct=y/c=4735/tp=MDMA/tpid=46d861a4-9c64-4600-b29d-cedecb0f4672"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/c2164844-b740-48ef-bd9c-bfd7412a2556.zip"
+    recordedResponseCode="200"
+    refererUid="4bcf7422-1e4a-467b-a8e1-4c2b3cbf899b" responseSize="0"
+    serverUid="sync.crwdcntrl.net" slaProfileEnabled="false"
+    uid="ac50bab1-1e1c-4576-8895-d44f85563d5a" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_ac50bab1-1e1c-4576-8895-d44f85563d5a.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_ac50bab1-1e1c-4576-8895-d44f85563d5a.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://pixel.mathtag.com/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="_cc_cc=ctst"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Mon, 29 Nov 2021 09:30:48 GMT&#xd;
+content-type: image/gif&#xd;
+content-length: 49&#xd;
+p3p: CP=NOI DSP COR NID PSAa PSDa OUR UNI COM NAV&#xd;
+cache-control: no-cache&#xd;
+pragma: no-cache&#xd;
+expires: 0&#xd;
+x-server: 10.43.18.134&#xd;
+set-cookie: _cc_dc=4;Path=/;Domain=crwdcntrl.net;Expires=Fri, 26-Aug-2022 09:08:00 GMT;SameSite=None;Secure&#xd;
+set-cookie: _cc_id=aa10c596619d3e55a92fcbd2b934ca1b;Path=/;Domain=crwdcntrl.net;Expires=Fri, 26-Aug-2022 09:08:00 GMT;SameSite=None;Secure&#xd;
+set-cookie: _cc_cc="ACZ4XmNQSEw0NEg2tTQzM7RMMU41NU20NEpLTkoxSrI0NklONExiAILEJXNPgGgoAABlVguh";Version=1;Path=/;Domain=crwdcntrl.net;Expires=Fri, 26-Aug-2022 09:08:00 GMT;Max-Age=23328000;SameSite=None;Secure&#xd;
+set-cookie: _cc_aud="ABR4XmNgYGBIXDL3BJCCAgAdqAJr";Version=1;Path=/;Domain=crwdcntrl.net;Expires=Fri, 26-Aug-2022 09:08:00 GMT;Max-Age=23328000;SameSite=None;Secure&#xd;
+access-control-allow-origin: *&#xd;
+server: Jetty(9.4.38.v20210224)</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/map" path="/map" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/c2164844-b740-48ef-bd9c-bfd7412a2556.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="sync.rfp.fout.jp" slaProfileEnabled="false"
+    uid="0911bd77-e026-4b22-a0fa-595ac398bcef" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_0911bd77-e026-4b22-a0fa-595ac398bcef.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_0911bd77-e026-4b22-a0fa-595ac398bcef.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="dsp_id"
+        recordRawValue="10" separator="=" value="10" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="uid"
+        recordRawValue="46d861a4-9c64-4600-b29d-cedecb0f4672"
+        separator="=" value="46d861a4-9c64-4600-b29d-cedecb0f4672" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://pixel.mathtag.com/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+server: openresty&#xd;
+date: Mon, 29 Nov 2021 09:30:48 GMT&#xd;
+content-type: image/gif&#xd;
+vary: Accept-Encoding&#xd;
+cache-control: private, no-cache, no-cache="Set-Cookie", proxy-revalidate&#xd;
+p3p: CP="ADM NOI OUR"&#xd;
+pragma: no-cache&#xd;
+content-encoding: gzip&#xd;
+via: 1.1 google&#xd;
+alt-svc: clear</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

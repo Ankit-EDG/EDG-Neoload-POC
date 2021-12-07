@@ -1,0 +1,15 @@
+<basic-logical-action-container element-number="1" enabled="false"
+    execution-type="0" name="seelctOneSpirits" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="5fdfd260-e3e6-440e-8ea8-5d82d2d268ff" weightsEnabled="false">
+    <weighted-embedded-action uid="df9723e8-c504-4743-b3ab-81f27112b30b"/>
+    <weighted-embedded-action uid="c7ee5c5b-bb87-41d9-9176-7aa148dddf46"/>
+    <weighted-embedded-action uid="960bfd8b-e9e3-468b-be0c-8dc6704723d8"/>
+    <weighted-embedded-action uid="e01c9c89-6f64-49b0-9290-0f28666d824d"/>
+    <weighted-embedded-action uid="bde80a33-67e7-406d-83c8-c9a9c094b7bf"/>
+    <weighted-embedded-action uid="8303550c-d47d-4bed-9ddd-a9f9d84c2500"/>
+    <weighted-embedded-action uid="c60a669e-b4ee-46b2-97e6-caa0b7a8ccb7"/>
+    <weighted-embedded-action uid="3c464f68-ec83-40e7-b7ff-39fd4335256b"/>
+    <weighted-embedded-action uid="77b6864a-303b-4382-bd4b-2d03ee932cfc"/>
+    <weighted-embedded-action uid="1038b351-7440-46c7-8d16-73a6ef1e387e"/>
+</basic-logical-action-container>

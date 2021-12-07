@@ -1,0 +1,94 @@
+<http-page executeResourcesDynamically="false"
+    name="/de5f8b0ded67/b819e6b11ab5/385e972aa86a/RC5774c86340e9431f964a6930d91b2be3-source.min.js"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/dcf3997c-8f69-4d23-917a-bac3682d9493.zip"
+    slaProfileEnabled="false" thinkTime="3575"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="dcf3997c-8f69-4d23-917a-bac3682d9493">
+    <embedded-action>491bf2a5-09d1-4bbb-a25d-63fdccb535c8</embedded-action>
+    <embedded-action>22b40265-4b2b-4a2d-83a9-a0a1646263d4</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="application/x-javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/de5f8b0ded67/b819e6b11ab5/385e972aa86a/RC5774c86340e9431f964a6930d91b2be3-source.min.js"
+    path="/de5f8b0ded67/b819e6b11ab5/385e972aa86a/RC5774c86340e9431f964a6930d91b2be3-source.min.js"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/dcf3997c-8f69-4d23-917a-bac3682d9493.zip"
+    recordedResponseCode="200" responseSize="731"
+    serverUid="assets.adobedtm.com" slaProfileEnabled="false"
+    uid="491bf2a5-09d1-4bbb-a25d-63fdccb535c8" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_491bf2a5-09d1-4bbb-a25d-63fdccb535c8</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_491bf2a5-09d1-4bbb-a25d-63fdccb535c8.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+content-type: application/x-javascript&#xd;
+etag: "8e08eaf99ca93e0785e980d71b75e13b:1637714261.452587"&#xd;
+last-modified: Wed, 24 Nov 2021 00:37:41 GMT&#xd;
+server: AkamaiNetStorage&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+content-length: 405&#xd;
+cache-control: max-age=3600&#xd;
+expires: Mon, 29 Nov 2021 10:34:13 GMT&#xd;
+date: Mon, 29 Nov 2021 09:34:13 GMT&#xd;
+access-control-allow-origin: https://stage.danmurphys.com.au&#xd;
+timing-allow-origin: *</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/x-javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/de5f8b0ded67/b819e6b11ab5/385e972aa86a/RC9cc6dd80c2944030923c106b916163e3-source.min.js"
+    path="/de5f8b0ded67/b819e6b11ab5/385e972aa86a/RC9cc6dd80c2944030923c106b916163e3-source.min.js"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/dcf3997c-8f69-4d23-917a-bac3682d9493.zip"
+    recordedResponseCode="200" responseSize="4867"
+    serverUid="assets.adobedtm.com" slaProfileEnabled="false"
+    uid="22b40265-4b2b-4a2d-83a9-a0a1646263d4" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_22b40265-4b2b-4a2d-83a9-a0a1646263d4</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_22b40265-4b2b-4a2d-83a9-a0a1646263d4.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+content-type: application/x-javascript&#xd;
+etag: "8e08eaf99ca93e0785e980d71b75e13b:1637714261.452587"&#xd;
+last-modified: Wed, 24 Nov 2021 00:37:41 GMT&#xd;
+server: AkamaiNetStorage&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+content-length: 1051&#xd;
+cache-control: max-age=3600&#xd;
+expires: Mon, 29 Nov 2021 10:34:13 GMT&#xd;
+date: Mon, 29 Nov 2021 09:34:13 GMT&#xd;
+access-control-allow-origin: https://stage.danmurphys.com.au&#xd;
+timing-allow-origin: *</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

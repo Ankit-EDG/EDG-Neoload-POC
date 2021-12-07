@@ -1,0 +1,51 @@
+<http-page executeResourcesDynamically="false"
+    name="/edgedl/release2/chrome_component/g5blinfutcueujujy7flk7b2dm_7005/hfnkpimlhhgieaddgfemjhofmfblm_2"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/9504ecb5-8072-4adc-9e93-b565f31106b6.zip"
+    slaProfileEnabled="false" thinkTime="1986"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="9504ecb5-8072-4adc-9e93-b565f31106b6">
+    <embedded-action>60468d2c-da81-426b-bc0a-ee97f84bce97</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/edgedl/release2/chrome_component/g5blinfutcueujujy7flk7b2dm_7005/hfnkpimlhhgieaddgfemjhofmfblmnib_7005_all_acepqjydcf352osqy54bp236fvnq.crx3"
+    path="/edgedl/release2/chrome_component/g5blinfutcueujujy7flk7b2dm_7005/hfnkpimlhhgieaddgfemjhofmfblmnib_7005_all_acepqjydcf352osqy54bp236fvnq.crx3"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/9504ecb5-8072-4adc-9e93-b565f31106b6.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="edgedl.me.gvt1.com" slaProfileEnabled="false"
+    uid="60468d2c-da81-426b-bc0a-ee97f84bce97" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_60468d2c-da81-426b-bc0a-ee97f84bce97</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_60468d2c-da81-426b-bc0a-ee97f84bce97.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="identity"/>
+    <header name="Host" value="edgedl.me.gvt1.com"/>
+    <header name="If-Unmodified-Since" value="Mon, 29 Nov 2021 08:05:36 GMT"/>
+    <header name="Proxy-Connection" value="Keep-Alive"/>
+    <header name="Range" value="bytes=15289-25225"/>
+    <header name="User-Agent" value="Microsoft BITS/7.8"/>
+    <responseHeaders>HTTP/1.1 206 Partial Content&#xd;
+accept-ranges: bytes&#xd;
+content-disposition: attachment&#xd;
+content-length: 9937&#xd;
+content-security-policy: default-src 'none'&#xd;
+content-type: application/octet-stream&#xd;
+etag: "b1753e"&#xd;
+last-modified: Mon, 29 Nov 2021 08:05:36 GMT&#xd;
+server: Google-Edge-Cache&#xd;
+x-content-type-options: nosniff&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-xss-protection: 0&#xd;
+date: Mon, 29 Nov 2021 08:06:01 GMT&#xd;
+age: 4790&#xd;
+content-range: bytes 15289-25225/25226&#xd;
+alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000&#xd;
+x-request-id: 47fdfb1e-2259-4c76-83b6-3724f0853d49&#xd;
+cache-control: public,max-age=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

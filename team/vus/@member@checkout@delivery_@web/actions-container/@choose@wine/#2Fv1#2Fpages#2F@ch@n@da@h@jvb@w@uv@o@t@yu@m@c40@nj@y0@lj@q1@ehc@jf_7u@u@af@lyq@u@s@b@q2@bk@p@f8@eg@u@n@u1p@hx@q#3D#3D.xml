@@ -1,0 +1,137 @@
+<http-page executeResourcesDynamically="false"
+    name="/v1/pages/ChNDaHJvbWUvOTYuMC40NjY0LjQ1EhcJf_7uUAfLyqUSBQ2BkPF8EgUNU1pHxQ=="
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/ae800af2-e045-4520-97ee-c388b7c6411a.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="ae800af2-e045-4520-97ee-c388b7c6411a">
+    <embedded-action>81fabd88-af09-41c7-8708-fc05a86ce5d8</embedded-action>
+    <embedded-action>66a9377d-c682-4cd3-80b8-2245b16b9930</embedded-action>
+    <embedded-action>c11af28f-ccb7-40e9-8209-4669444f1207</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/plain"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/v1/pages/ChNDaHJvbWUvOTYuMC40NjY0LjQ1EhcJf_7uUAfLyqUSBQ2BkPF8EgUNU1pHxQ=="
+    path="/v1/pages/ChNDaHJvbWUvOTYuMC40NjY0LjQ1EhcJf_7uUAfLyqUSBQ2BkPF8EgUNU1pHxQ=="
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/ae800af2-e045-4520-97ee-c388b7c6411a.zip"
+    recordedResponseCode="200" responseSize="28"
+    serverUid="content-autofill.googleapis.com"
+    slaProfileEnabled="false" uid="81fabd88-af09-41c7-8708-fc05a86ce5d8" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_81fabd88-af09-41c7-8708-fc05a86ce5d8</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_81fabd88-af09-41c7-8708-fc05a86ce5d8.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="alt"
+        recordRawValue="proto" separator="=" value="proto" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="x-goog-encode-response-if-executable" value="base64"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-goog-api-key" value="AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"/>
+    <header name="x-client-data" value="CK21yQEIi7bJAQiktskBCMG2yQEIqZ3KAQjQoMoBCL3+ygEI6/LLAQjmhMwBCPqEzAEItoXMAQjLicwBCMGLzAEIrY7MAQjbjswBGI6eywE="/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+cache-control: private,max-age=604800&#xd;
+content-type: text/plain&#xd;
+x-goog-safety-encoding: base64&#xd;
+x-goog-safety-content-type: application/x-protobuf&#xd;
+vary: Origin&#xd;
+vary: X-Origin&#xd;
+vary: Referer&#xd;
+content-encoding: gzip&#xd;
+date: Mon, 29 Nov 2021 09:29:37 GMT&#xd;
+server: ESF&#xd;
+content-length: 45&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: nosniff&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/js/250/addthis_widget.js"
+    path="/js/250/addthis_widget.js" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/ae800af2-e045-4520-97ee-c388b7c6411a.zip"
+    recordedResponseCode="200" responseSize="361292"
+    serverUid="s7.addthis.com" slaProfileEnabled="false"
+    uid="66a9377d-c682-4cd3-80b8-2245b16b9930" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_66a9377d-c682-4cd3-80b8-2245b16b9930</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_66a9377d-c682-4cd3-80b8-2245b16b9930.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+server: nginx/1.15.8&#xd;
+content-type: application/javascript&#xd;
+last-modified: Mon, 26 Oct 2020 18:11:48 GMT&#xd;
+etag: W/"5f971164-5834c"&#xd;
+cache-control: public, max-age=600&#xd;
+strict-transport-security: max-age=15724800; includeSubDomains&#xd;
+content-encoding: gzip&#xd;
+content-length: 116325&#xd;
+date: Mon, 29 Nov 2021 09:29:37 GMT&#xd;
+vary: Accept-Encoding&#xd;
+x-distribution: 99&#xd;
+x-host: s7.addthis.com</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/x-protobuf"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/v4/fullHashes:find" path="/v4/fullHashes:find"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/ae800af2-e045-4520-97ee-c388b7c6411a.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="safebrowsing.googleapis.com" slaProfileEnabled="false"
+    uid="c11af28f-ccb7-40e9-8209-4669444f1207" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_c11af28f-ccb7-40e9-8209-4669444f1207</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_c11af28f-ccb7-40e9-8209-4669444f1207.txt</requestContentFileDescription>
+    <parameter encodeName="false" encodeValue="false" name="$req"
+        recordRawValue="ChwKDGdvb2dsZWNocm9tZRIMOTYuMC40NjY0LjQ1EhsKDQgFEAYYASIDMDAxMAEQhvcMGgIYBEYt9usSGwoNCAEQBhgBIgMwMDEwARCh8gkaAhgEJ-TxihIbCg0IAxAGGAEiAzAwMTABEOGzCRoCGATnvmssEhsKDQgHEAYYASIDMDAxMAEQ2acKGgIYBAfIQ74SGQoNCAEQBhgBIgMwMDEwAxAUGgIYBE9dQu4SGgoNCAEQCBgBIgMwMDEwBBD1JBoCGAQEJ-2CEhkKDQgJEAYYASIDMDAxMAYQAxoCGAQyO0fDEhoKDQgPEAYYASIDMDAxMAEQ8XAaAhgEfQ8PQhIZCg0IChAIGAEiAzAwMTABEAcaAhgE756XZRIZCg0ICRAGGAEiAzAwMTABECAaAhgEfI3l_BIaCg0ICBAGGAEiAzAwMTABEOYNGgIYBA9KkxUSGwoNCA0QBhgBIgMwMDEwARCzqAEaAhgEoZEZ2RIbCg0IDhAGGAEiAzAwMTABELWWBhoCGASPLbZ7EhoKDQgQEAYYASIDMDAxMAEQzg4aAhgEx4e0FxouCAEIAwgFCAYIBwgICAkICggNCA4IDwgQCBEQARAIGgYKBF6vloEgASADIAQgBg=="
+        separator="="
+        value="ChwKDGdvb2dsZWNocm9tZRIMOTYuMC40NjY0LjQ1EhsKDQgFEAYYASIDMDAxMAEQhvcMGgIYBEYt9usSGwoNCAEQBhgBIgMwMDEwARCh8gkaAhgEJ-TxihIbCg0IAxAGGAEiAzAwMTABEOGzCRoCGATnvmssEhsKDQgHEAYYASIDMDAxMAEQ2acKGgIYBAfIQ74SGQoNCAEQBhgBIgMwMDEwAxAUGgIYBE9dQu4SGgoNCAEQCBgBIgMwMDEwBBD1JBoCGAQEJ-2CEhkKDQgJEAYYASIDMDAxMAYQAxoCGAQyO0fDEhoKDQgPEAYYASIDMDAxMAEQ8XAaAhgEfQ8PQhIZCg0IChAIGAEiAzAwMTABEAcaAhgE756XZRIZCg0ICRAGGAEiAzAwMTABECAaAhgEfI3l_BIaCg0ICBAGGAEiAzAwMTABEOYNGgIYBA9KkxUSGwoNCA0QBhgBIgMwMDEwARCzqAEaAhgEoZEZ2RIbCg0IDhAGGAEiAzAwMTABELWWBhoCGASPLbZ7EhoKDQgQEAYYASIDMDAxMAEQzg4aAhgEx4e0FxouCAEIAwgFCAYIBwgICAkICggNCA4IDwgQCBEQARAIGgYKBF6vloEgASADIAQgBg==" valueMode="USE_VALUE"/>
+    <parameter encodeName="false" encodeValue="false" name="$ct"
+        recordRawValue="application/x-protobuf" separator="="
+        value="application/x-protobuf" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="key"
+        recordRawValue="AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+        separator="=" value="AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="x-http-method-override" value="POST"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/x-protobuf&#xd;
+content-disposition: attachment&#xd;
+content-encoding: gzip&#xd;
+date: Mon, 29 Nov 2021 09:29:37 GMT&#xd;
+server: scaffolding on HTTPServer2&#xd;
+cache-control: private&#xd;
+content-length: 82&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: nosniff&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

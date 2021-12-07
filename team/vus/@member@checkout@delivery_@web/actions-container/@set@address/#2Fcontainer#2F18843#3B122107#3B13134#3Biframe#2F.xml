@@ -1,0 +1,166 @@
+<http-page executeResourcesDynamically="false"
+    name="/container/18843;122107;13134;iframe/"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/2bb372bc-60ca-4fc1-b854-7418274d7927.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="2bb372bc-60ca-4fc1-b854-7418274d7927">
+    <embedded-action>836bb683-ea65-48d5-87a1-f68ff121d4f4</embedded-action>
+    <embedded-action>d36a0c06-b59c-48cf-9e6c-a334c6b41de9</embedded-action>
+    <embedded-action>ef1dc923-a314-4f88-84ad-0fe4bed81dac</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/container/18843;122107;13134;iframe/"
+    path="/container/18843;122107;13134;iframe/" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/2bb372bc-60ca-4fc1-b854-7418274d7927.zip"
+    recordedResponseCode="200" responseSize="2653"
+    serverUid="servedby.flashtalking.com" slaProfileEnabled="false"
+    uid="836bb683-ea65-48d5-87a1-f68ff121d4f4" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_836bb683-ea65-48d5-87a1-f68ff121d4f4.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_836bb683-ea65-48d5-87a1-f68ff121d4f4.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="U1"
+        recordRawValue="member" separator="=" value="member" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="U2"
+        recordRawValue="https://stage.danmurphys.com.au/dm/home"
+        separator="=" value="https://stage.danmurphys.com.au/dm/home" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="U7"
+        recordRawValue="62974577823596621581061727074359824665"
+        separator="=" value="62974577823596621581061727074359824665" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="ft_referrer"
+        recordRawValue="https%3A//stage.danmurphys.com.au/dm/home"
+        separator="=" value="https%3A//stage.danmurphys.com.au/dm/home" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="ns"
+        recordRawValue="http%3A//www.neotys.com/" separator="="
+        value="http%3A//www.neotys.com/" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="cb"
+        recordRawValue="406486.3900978424" separator="="
+        value="406486.3900978424" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="flashtalkingad1=&quot;GUID=5081A662B4C350&quot;"/>
+    <header name="Host" value="servedby.flashtalking.com"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="iframe"/>
+    <header name="Sec-Fetch-Mode" value="navigate"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Mon, 29 Nov 2021 09:28:44 GMT&#xd;
+Connection: close&#xd;
+Cache-Control: no-cache, no-store&#xd;
+Content-Type: text/html&#xd;
+Server: prod-xre-app7.syd11&#xd;
+Pragma: no-cache&#xd;
+X-HW: 1638178124.dop016.sy2.t,1638178124.cds017.sy2.shn,1638178124.dop016.sy2.t,1638178124.cds021.sy2.sc,1638178124.cds021.sy2.p</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/spot/7/18843;122262;13134/"
+    path="/spot/7/18843;122262;13134/" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/2bb372bc-60ca-4fc1-b854-7418274d7927.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="servedby.flashtalking.com" slaProfileEnabled="false"
+    uid="d36a0c06-b59c-48cf-9e6c-a334c6b41de9" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_d36a0c06-b59c-48cf-9e6c-a334c6b41de9.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d36a0c06-b59c-48cf-9e6c-a334c6b41de9.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="U1"
+        recordRawValue="member" separator="=" value="member" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="U2"
+        recordRawValue="https://stage.danmurphys.com.au/dm/home"
+        separator="=" value="https://stage.danmurphys.com.au/dm/home" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="U7"
+        recordRawValue="62974577823596621581061727074359824665"
+        separator="=" value="62974577823596621581061727074359824665" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="ft_referrer"
+        recordRawValue="https%3A//stage.danmurphys.com.au/dm/home"
+        separator="=" value="https%3A//stage.danmurphys.com.au/dm/home" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="ns"
+        recordRawValue="http%3A//www.neotys.com/" separator="="
+        value="http%3A//www.neotys.com/" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="cb"
+        recordRawValue="406486.3900978424" separator="="
+        value="406486.3900978424" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="flashtalkingad1=&quot;GUID=5081A662B4C350&quot;"/>
+    <header name="Host" value="servedby.flashtalking.com"/>
+    <header name="Referer" value="https://servedby.flashtalking.com/container/18843;122107;13134;iframe/?U1=member&amp;U2=https://stage.danmurphys.com.au/dm/home&amp;U7=62974577823596621581061727074359824665&amp;ft_referrer=https%3A//stage.danmurphys.com.au/dm/home&amp;ns=http%3A//www.neotys.com/&amp;cb=406486.3900978424"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Mon, 29 Nov 2021 09:28:44 GMT&#xd;
+Connection: Keep-Alive&#xd;
+Cache-Control: no-cache,no-store&#xd;
+Content-Length: 42&#xd;
+Content-Type: image/gif&#xd;
+Server: prod-xre-app8.syd11&#xd;
+Pragma: no-cache&#xd;
+X-HW: 1638178124.dop015.sy2.t,1638178124.cds023.sy2.shn,1638178124.dop015.sy2.t,1638178124.cds203.sy2.sc,1638178124.cds203.sy2.p</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/segment/2/read/a;;pixel/"
+    path="/segment/2/read/a;;pixel/" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/2bb372bc-60ca-4fc1-b854-7418274d7927.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="servedby.flashtalking.com" slaProfileEnabled="false"
+    uid="ef1dc923-a314-4f88-84ad-0fe4bed81dac" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_ef1dc923-a314-4f88-84ad-0fe4bed81dac.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_ef1dc923-a314-4f88-84ad-0fe4bed81dac.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="s"
+        recordRawValue="13134" separator="=" value="13134" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="d"
+        recordRawValue="stage.danmurphys.com.au" separator="="
+        value="stage.danmurphys.com.au" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="r"
+        recordRawValue="dm/home" separator="=" value="dm/home" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="flashtalkingad1=&quot;GUID=5081A662B4C350&quot;"/>
+    <header name="Host" value="servedby.flashtalking.com"/>
+    <header name="Referer" value="https://servedby.flashtalking.com/container/18843;122107;13134;iframe/?U1=member&amp;U2=https://stage.danmurphys.com.au/dm/home&amp;U7=62974577823596621581061727074359824665&amp;ft_referrer=https%3A//stage.danmurphys.com.au/dm/home&amp;ns=http%3A//www.neotys.com/&amp;cb=406486.3900978424"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Mon, 29 Nov 2021 09:28:44 GMT&#xd;
+Connection: Keep-Alive&#xd;
+Cache-Control: no-cache, no-store&#xd;
+Content-Length: 42&#xd;
+Content-Type: image/gif&#xd;
+Server: prod-xre-app2.syd11&#xd;
+Pragma: no-cache&#xd;
+X-HW: 1638178124.dop015.sy2.t,1638178124.cds023.sy2.shn,1638178124.dop015.sy2.t,1638178124.cds017.sy2.sc,1638178124.cds017.sy2.p</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

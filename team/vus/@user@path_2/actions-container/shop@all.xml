@@ -1,0 +1,13 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="shopAll" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="31c7b1a3-11b3-4793-96da-b49939e0ba70" weightsEnabled="false">
+    <weighted-embedded-action uid="8cbe4f5a-cb43-465e-8d19-d69c860b8e65"/>
+    <weighted-embedded-action uid="66385026-f814-42de-b0db-ceb3f8009383"/>
+    <weighted-embedded-action uid="3f59973b-0852-4dd7-8c2d-06075fc500b6"/>
+    <weighted-embedded-action uid="b778b6f7-a6b2-4f4d-8172-a54fe8b18f3d"/>
+    <weighted-embedded-action uid="9ec315b1-3e5d-46e6-bb91-55ceb076e2d4"/>
+    <weighted-embedded-action uid="33a4ba87-b46a-4a50-aced-d5be547f4f8f"/>
+    <weighted-embedded-action uid="646c0729-8cd2-4077-980f-4539b41ab375"/>
+    <weighted-embedded-action uid="34edde69-9aaf-4dcb-8c29-11eabaa3bcf2"/>
+</basic-logical-action-container>

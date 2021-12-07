@@ -1,0 +1,92 @@
+<http-page executeResourcesDynamically="false"
+    name="/segment/1381/cart/DM_824111" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/02d32e32-f9fc-441e-ac91-2c58d44c8dff.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="02d32e32-f9fc-441e-ac91-2c58d44c8dff">
+    <embedded-action>d483ee41-a19a-4f88-afea-d6286fd74f33</embedded-action>
+    <embedded-action>04314c4c-d95a-483b-af7d-297dbb46033f</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/segment/1381/cart/DM_824111"
+    path="/segment/1381/cart/DM_824111" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/02d32e32-f9fc-441e-ac91-2c58d44c8dff.zip"
+    recordedResponseCode="302" responseSize="0"
+    serverUid="fm.flashtalking.com" slaProfileEnabled="false"
+    uid="d483ee41-a19a-4f88-afea-d6286fd74f33" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_d483ee41-a19a-4f88-afea-d6286fd74f33.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d483ee41-a19a-4f88-afea-d6286fd74f33.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://servedby.flashtalking.com/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="flashtalkingad1=&quot;GUID=5081A662B4C350|segment=(agcg-t:5081)&quot;"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 302&#xd;
+date: Mon, 29 Nov 2021 09:30:36 GMT&#xd;
+content-type: text/html; charset=UTF-8&#xd;
+location: https://servedby.flashtalking.com/segment/modify/agch;;pixel/?valuePairs=&amp;setTime=0&amp;granularity=day&amp;f=pwr_1381_CART&#xd;
+server: nginx&#xd;
+x-powered-by: PHP/5.6.38&#xd;
+x-app-env: prod</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="2" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/segment/modify/agch;;pixel/"
+    path="/segment/modify/agch;;pixel/" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/02d32e32-f9fc-441e-ac91-2c58d44c8dff.zip"
+    recordedResponseCode="200"
+    refererUid="d483ee41-a19a-4f88-afea-d6286fd74f33" responseSize="0"
+    serverUid="servedby.flashtalking.com" slaProfileEnabled="false"
+    uid="04314c4c-d95a-483b-af7d-297dbb46033f" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_04314c4c-d95a-483b-af7d-297dbb46033f.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_04314c4c-d95a-483b-af7d-297dbb46033f.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="valuePairs"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="setTime"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="granularity"
+        recordRawValue="day" separator="=" value="day" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="f"
+        recordRawValue="pwr_1381_CART" separator="="
+        value="pwr_1381_CART" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="flashtalkingad1=&quot;GUID=5081A662B4C350|segment=(agcg-t:5081)&quot;"/>
+    <header name="Host" value="servedby.flashtalking.com"/>
+    <header name="Referer" value="https://servedby.flashtalking.com/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Mon, 29 Nov 2021 09:30:36 GMT&#xd;
+Connection: Keep-Alive&#xd;
+Cache-Control: no-cache, no-store&#xd;
+Content-Length: 42&#xd;
+Content-Type: image/gif&#xd;
+Server: prod-xre-app3.syd11&#xd;
+Set-Cookie: flashtalkingad1="GUID=5081A662B4C350|segment=(agcg-t:5081,agch-t:5081)";Path=/;Domain=.flashtalking.com;Expires=Wed, 29-Nov-23 09:30:36 GMT;SameSite=None;Secure&#xd;
+Pragma: no-cache&#xd;
+X-HW: 1638178236.dop020.sy2.t,1638178236.cds016.sy2.shn,1638178236.dop020.sy2.t,1638178236.cds201.sy2.sc,1638178236.cds201.sy2.p</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

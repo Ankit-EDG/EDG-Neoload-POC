@@ -1,0 +1,100 @@
+<http-page executeResourcesDynamically="false"
+    name="/rest/v1/delivery_1" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/2f60689a-796e-410e-8653-2322d0eaa879.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="2f60689a-796e-410e-8653-2322d0eaa879">
+    <embedded-action>8e5df761-f247-4615-a9bb-aed1c6e3c252</embedded-action>
+    <embedded-action>48dfe2eb-762e-4320-9cec-2c1f8fe9704f</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="application/json;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/rest/v1/delivery" path="/rest/v1/delivery"
+    postType="4"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/2f60689a-796e-410e-8653-2322d0eaa879.zip"
+    recordedResponseCode="200" responseSize="419"
+    serverUid="wwservices.tt.omtrdc.net" slaProfileEnabled="false"
+    uid="8e5df761-f247-4615-a9bb-aed1c6e3c252" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_8e5df761-f247-4615-a9bb-aed1c6e3c252</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_8e5df761-f247-4615-a9bb-aed1c6e3c252.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true" name="client"
+        recordRawValue="wwservices" separator="=" value="wwservices" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="sessionId"
+        recordRawValue="98b83df6a72049128407435d76e121d0" separator="="
+        value="98b83df6a72049128407435d76e121d0" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="version" recordRawValue="2.6.1" separator="="
+        value="2.6.1" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://stage.danmurphys.com.au"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="text/plain"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Mon, 29 Nov 2021 09:30:12 GMT&#xd;
+content-type: application/json;charset=UTF-8&#xd;
+vary: origin,access-control-request-method,access-control-request-headers,accept-encoding&#xd;
+x-request-id: e836cff197b3475042dd108e8a836c46&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-origin: https://stage.danmurphys.com.au&#xd;
+content-encoding: gzip</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"requestId":"6d08295573c5453483a541d91aec0436","context":{"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36","timeOffsetInMinutes":660,"channel":"web","screen":{"width":1366,"height":768,"orientation":"landscape","colorDepth":24,"pixelRatio":1},"window":{"width":1349,"height":625},"browser":{"host":"stage.danmurphys.com.au","webGLRenderer":"ANGLE (Google, Vulkan 1.2.0 (SwiftShader Device (Subzero) (0x0000C0DE)), SwiftShader driver-5.0.0)"},"address":{"url":"https://stage.danmurphys.com.au/product/DM_824111/casillero-del-diablo-carmenere","referringUrl":"http://www.neotys.com/"}},"id":{"tntId":"98b83df6a72049128407435d76e121d0.36_0","marketingCloudVisitorId":"62974577823596621581061727074359824665","customerIds":[{"id":"8004469","integrationCode":"crm_id","authenticatedState":"authenticated","type":"DS"}]},"property":{"token":"976af739-6f6d-8004-1155-9bfbb7c20775"},"experienceCloud":{"audienceManager":{"locationHint":8,"blob":"RKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y"},"analytics":{"logging":"server_side","supplementalDataId":"2FC41987B015F2E6-75E694C4642E3BD0","trackingServer":"adobeanalytics.danmurphys.com.au","trackingServerSecure":"adobeanalytics.danmurphys.com.au"}},"execute":{"pageLoad":{}}}]]></textPostContent>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/rest/v1/delivery" path="/rest/v1/delivery"
+    postType="4"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/2f60689a-796e-410e-8653-2322d0eaa879.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="wwservices.tt.omtrdc.net" slaProfileEnabled="false"
+    uid="48dfe2eb-762e-4320-9cec-2c1f8fe9704f" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_48dfe2eb-762e-4320-9cec-2c1f8fe9704f</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_48dfe2eb-762e-4320-9cec-2c1f8fe9704f.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true" name="client"
+        recordRawValue="wwservices" separator="=" value="wwservices" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="sessionId"
+        recordRawValue="98b83df6a72049128407435d76e121d0" separator="="
+        value="98b83df6a72049128407435d76e121d0" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="version" recordRawValue="2.6.1" separator="="
+        value="2.6.1" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://stage.danmurphys.com.au"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="text/plain;charset=UTF-8"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+date: Mon, 29 Nov 2021 09:30:12 GMT&#xd;
+vary: Origin&#xd;
+vary: Access-Control-Request-Method&#xd;
+vary: Access-Control-Request-Headers&#xd;
+access-control-allow-origin: https://stage.danmurphys.com.au&#xd;
+access-control-allow-credentials: true&#xd;
+x-request-id: e7a1db56d469815814b1517f87ec5353</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"requestId":"cfc69e9b99384f8881204dd5fa490a08","context":{"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36","timeOffsetInMinutes":660,"channel":"web","screen":{"width":1366,"height":768,"orientation":"landscape","colorDepth":24,"pixelRatio":1},"window":{"width":1349,"height":625},"browser":{"host":"stage.danmurphys.com.au","webGLRenderer":"ANGLE (Google, Vulkan 1.2.0 (SwiftShader Device (Subzero) (0x0000C0DE)), SwiftShader driver-5.0.0)"},"address":{"url":"https://stage.danmurphys.com.au/product/DM_824111/casillero-del-diablo-carmenere","referringUrl":"http://www.neotys.com/"},"beacon":true},"id":{"tntId":"98b83df6a72049128407435d76e121d0.36_0","marketingCloudVisitorId":"62974577823596621581061727074359824665","customerIds":[{"id":"8004469","integrationCode":"crm_id","authenticatedState":"authenticated","type":"DS"}]},"property":{"token":"976af739-6f6d-8004-1155-9bfbb7c20775"},"experienceCloud":{"audienceManager":{"locationHint":8,"blob":"RKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y"},"analytics":{"logging":"server_side","supplementalDataId":"0269ABD63260508A-0486BD5D42FAB038","trackingServer":"adobeanalytics.danmurphys.com.au","trackingServerSecure":"adobeanalytics.danmurphys.com.au"}},"notifications":[{"id":"43692fc9c52545f8850a005dcdc00541","type":"display","timestamp":1638178212045,"view":{"name":"product/dm_824111/casillero-del-diablo-carmenere"}}],"impressionId":"1c7b999607c04981941902adb5512edd"}]]></textPostContent>
+</http-action>

@@ -1,0 +1,175 @@
+<http-page executeResourcesDynamically="false" name="/apis/ui/Trolley"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@check@out@delivery_@web_@v1/%resources%/recorded-artifacts/accc3b88-d626-4a0b-a226-e741c348fbdb.zip"
+    slaProfileEnabled="false" thinkTime="721"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="accc3b88-d626-4a0b-a226-e741c348fbdb">
+    <embedded-action>47e93ce3-1ebe-40d6-abdd-ee9f6bf87d95</embedded-action>
+    <embedded-action>d2b2ba72-622f-484c-98d4-c3fbf9759cf8</embedded-action>
+    <embedded-action>7275a6a8-f6ed-4764-9ebd-c509feb2537f</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/apis/ui/Trolley" path="/apis/ui/Trolley"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@check@out@delivery_@web_@v1/%resources%/recorded-artifacts/accc3b88-d626-4a0b-a226-e741c348fbdb.zip"
+    recordedResponseCode="200" responseSize="20219"
+    serverUid="stageapi.danmurphys.com.au" slaProfileEnabled="false"
+    uid="47e93ce3-1ebe-40d6-abdd-ee9f6bf87d95" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_47e93ce3-1ebe-40d6-abdd-ee9f6bf87d95</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_47e93ce3-1ebe-40d6-abdd-ee9f6bf87d95.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="summary"
+        recordRawValue="false" separator="=" value="false" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="IncludeOrderHeader" recordRawValue="true" separator="="
+        value="true" valueMode="USE_VALUE"/>
+    <header name="Accept" value="application/json, text/plain, */*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="AMCVS_1124C2D754E497DC0A4C98C6%40AdobeOrg=1; unbxd.userId=uid-1638178974506-63856; unbxd.visit=first_time; unbxd.visitId=visitId-1638178974515-29035; ARRAffinity=7e11ffc1b44b7b3464d3ec9f6c7380e88bded4524757c5db3bf64e1a5d2fec79; ARRAffinitySameSite=7e11ffc1b44b7b3464d3ec9f6c7380e88bded4524757c5db3bf64e1a5d2fec79; s_ecid=MCMID%7C20227339837400744711932472352927555733; w-arjshtsw=ge253b9cb9ea14174abac2de00840baffggflyuart; stg_danmurphys_sf_wdt_session_expiration_session=1638178980157; stg_danmurphys_sf_wdt_customer_id=iyersd1jx; stg_danmurphys_sf_wdt_fingerprint=53476515090717; ORA_FPC=id=a310c3a6-f82a-4c3f-b069-bce5bb19de6c; WTPERSIST=; _fbp=fb.2.1638178994094.350781761; _gcl_au=1.1.1594549354.1638178995; w-PRGATHCK0=0257fc92-9527-4117-b8ab-072f504228f0:ge253b9cb9ea14174abac2de00840baffggflyuart; w-rsjhf=PGcgLz4=; AMCV_1124C2D754E497DC0A4C98C6%40AdobeOrg=-1124106680%7CMCIDTS%7C18961%7CMCMID%7C20227339837400744711932472352927555733%7CMCAAMLH-1638784142%7C8%7CMCAAMB-1638784142%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1638186542s%7CNONE%7CMCSYNCSOP%7C411-18968%7CMCAID%7CNONE%7CMCCIDH%7C138322834%7CvVersion%7C5.2.0; fs_uid=rs.fullstory.com#TQCFZ#5260652654649344:6705541284126720#d3942b10#/1669715342; BVBRANDID=ee7b7c22-6eee-407d-b3f7-f1524882ce97; BVBRANDSID=a0d1791d-9f55-45c8-9005-ce67db4d8e45; s_nr30=1638179624168-New; rr_rcs=eF5j4cotK8lM4TMzM9A11DVkKU32MDUyNUxKMUjUNTBJStM1MTGw1E21SDLUTUo2TTO1sDRJMzAwAwCEmQ34; ADRUM_BTa=R:32|g:2531c5e6-aae6-44de-bb2c-1d8a2f52ebc9|n:Woolworths-Dev_2b311050-b631-46eb-a435-beea47816b7e"/>
+    <header name="Host" value="stageapi.danmurphys.com.au"/>
+    <header name="Origin" value="https://stage.danmurphys.com.au"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache, no-store, must-revalidate&#xd;
+Pragma: no-cache&#xd;
+Content-Length: 5225&#xd;
+Content-Type: application/json; charset=utf-8&#xd;
+Content-Encoding: gzip&#xd;
+Expires: -1&#xd;
+Vary: Accept,Accept-Encoding&#xd;
+Server: Microsoft-IIS/10.0&#xd;
+Set-Cookie: ADRUM_BTa=R:32|g:89fd9021-4da9-419d-8d59-4c38a48d242c|n:Woolworths-Dev_2b311050-b631-46eb-a435-beea47816b7e; expires=Mon, 29-Nov-2021 09:55:14 GMT; path=/&#xd;
+X-Powered-By: Olympic TRADER&#xd;
+Access-Control-Allow-Origin: https://stage.danmurphys.com.au&#xd;
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS&#xd;
+Access-Control-Allow-Headers: Content-Type, dmIV, Source, X-EventID&#xd;
+Access-Control-Expose-Headers: X-EventID&#xd;
+Access-Control-Allow-Credentials: true&#xd;
+X-EventID: 7ce7d9be-aa8f-47ab-b900-367a45f22fbe&#xd;
+X-Powered-By: ServiceStack/4.052 Win32NT/.NET&#xd;
+X-AspNet-Version: 4.0.30319&#xd;
+X-Powered-By: ASP.NET&#xd;
+Date: Mon, 29 Nov 2021 09:54:44 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/apis/ui/Fulfilment/Preferences"
+    path="/apis/ui/Fulfilment/Preferences" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@check@out@delivery_@web_@v1/%resources%/recorded-artifacts/accc3b88-d626-4a0b-a226-e741c348fbdb.zip"
+    recordedResponseCode="200" responseSize="3423"
+    serverUid="stageapi.danmurphys.com.au" slaProfileEnabled="false"
+    uid="d2b2ba72-622f-484c-98d4-c3fbf9759cf8" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_d2b2ba72-622f-484c-98d4-c3fbf9759cf8</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d2b2ba72-622f-484c-98d4-c3fbf9759cf8.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="IsCheckoutV2"
+        recordRawValue="false" separator="=" value="false" valueMode="USE_VALUE"/>
+    <header name="Accept" value="application/json, text/plain, */*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="AMCVS_1124C2D754E497DC0A4C98C6%40AdobeOrg=1; unbxd.userId=uid-1638178974506-63856; unbxd.visit=first_time; unbxd.visitId=visitId-1638178974515-29035; ARRAffinity=7e11ffc1b44b7b3464d3ec9f6c7380e88bded4524757c5db3bf64e1a5d2fec79; ARRAffinitySameSite=7e11ffc1b44b7b3464d3ec9f6c7380e88bded4524757c5db3bf64e1a5d2fec79; s_ecid=MCMID%7C20227339837400744711932472352927555733; w-arjshtsw=ge253b9cb9ea14174abac2de00840baffggflyuart; stg_danmurphys_sf_wdt_session_expiration_session=1638178980157; stg_danmurphys_sf_wdt_customer_id=iyersd1jx; stg_danmurphys_sf_wdt_fingerprint=53476515090717; ORA_FPC=id=a310c3a6-f82a-4c3f-b069-bce5bb19de6c; WTPERSIST=; _fbp=fb.2.1638178994094.350781761; _gcl_au=1.1.1594549354.1638178995; w-PRGATHCK0=0257fc92-9527-4117-b8ab-072f504228f0:ge253b9cb9ea14174abac2de00840baffggflyuart; w-rsjhf=PGcgLz4=; AMCV_1124C2D754E497DC0A4C98C6%40AdobeOrg=-1124106680%7CMCIDTS%7C18961%7CMCMID%7C20227339837400744711932472352927555733%7CMCAAMLH-1638784142%7C8%7CMCAAMB-1638784142%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1638186542s%7CNONE%7CMCSYNCSOP%7C411-18968%7CMCAID%7CNONE%7CMCCIDH%7C138322834%7CvVersion%7C5.2.0; fs_uid=rs.fullstory.com#TQCFZ#5260652654649344:6705541284126720#d3942b10#/1669715342; BVBRANDID=ee7b7c22-6eee-407d-b3f7-f1524882ce97; BVBRANDSID=a0d1791d-9f55-45c8-9005-ce67db4d8e45; s_nr30=1638179624168-New; rr_rcs=eF5j4cotK8lM4TMzM9A11DVkKU32MDUyNUxKMUjUNTBJStM1MTGw1E21SDLUTUo2TTO1sDRJMzAwAwCEmQ34; ADRUM_BTa=R:32|g:0f5dd8bf-5427-4082-ba19-dbfe7612d2a2|n:Woolworths-Dev_2b311050-b631-46eb-a435-beea47816b7e"/>
+    <header name="Host" value="stageapi.danmurphys.com.au"/>
+    <header name="Origin" value="https://stage.danmurphys.com.au"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache, no-store, must-revalidate&#xd;
+Pragma: no-cache&#xd;
+Content-Length: 1285&#xd;
+Content-Type: application/json; charset=utf-8&#xd;
+Content-Encoding: gzip&#xd;
+Expires: -1&#xd;
+Vary: Accept,Accept-Encoding&#xd;
+Server: Microsoft-IIS/10.0&#xd;
+Set-Cookie: ADRUM_BTa=R:32|g:26f746d9-130a-47ec-8b77-70a23e8b9c56|n:Woolworths-Dev_2b311050-b631-46eb-a435-beea47816b7e; expires=Mon, 29-Nov-2021 09:55:14 GMT; path=/&#xd;
+X-Powered-By: Olympic TRADER&#xd;
+Access-Control-Allow-Origin: https://stage.danmurphys.com.au&#xd;
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS&#xd;
+Access-Control-Allow-Headers: Content-Type, dmIV, Source, X-EventID&#xd;
+Access-Control-Expose-Headers: X-EventID&#xd;
+Access-Control-Allow-Credentials: true&#xd;
+X-EventID: bb5ca253-ff72-43ca-b3bf-bb8e459a037f&#xd;
+X-Powered-By: ServiceStack/4.052 Win32NT/.NET&#xd;
+X-AspNet-Version: 4.0.30319&#xd;
+X-Powered-By: ASP.NET&#xd;
+Date: Mon, 29 Nov 2021 09:54:44 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/apis/ui/Fulfilment/Preferences"
+    path="/apis/ui/Fulfilment/Preferences" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@check@out@delivery_@web_@v1/%resources%/recorded-artifacts/accc3b88-d626-4a0b-a226-e741c348fbdb.zip"
+    recordedResponseCode="200" responseSize="3423"
+    serverUid="stageapi.danmurphys.com.au" slaProfileEnabled="false"
+    uid="7275a6a8-f6ed-4764-9ebd-c509feb2537f" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_7275a6a8-f6ed-4764-9ebd-c509feb2537f</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_7275a6a8-f6ed-4764-9ebd-c509feb2537f.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="IsCheckoutV2"
+        recordRawValue="false" separator="=" value="false" valueMode="USE_VALUE"/>
+    <header name="Accept" value="application/json, text/plain, */*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="AMCVS_1124C2D754E497DC0A4C98C6%40AdobeOrg=1; unbxd.userId=uid-1638178974506-63856; unbxd.visit=first_time; unbxd.visitId=visitId-1638178974515-29035; ARRAffinity=7e11ffc1b44b7b3464d3ec9f6c7380e88bded4524757c5db3bf64e1a5d2fec79; ARRAffinitySameSite=7e11ffc1b44b7b3464d3ec9f6c7380e88bded4524757c5db3bf64e1a5d2fec79; s_ecid=MCMID%7C20227339837400744711932472352927555733; w-arjshtsw=ge253b9cb9ea14174abac2de00840baffggflyuart; stg_danmurphys_sf_wdt_session_expiration_session=1638178980157; stg_danmurphys_sf_wdt_customer_id=iyersd1jx; stg_danmurphys_sf_wdt_fingerprint=53476515090717; ORA_FPC=id=a310c3a6-f82a-4c3f-b069-bce5bb19de6c; WTPERSIST=; _fbp=fb.2.1638178994094.350781761; _gcl_au=1.1.1594549354.1638178995; w-PRGATHCK0=0257fc92-9527-4117-b8ab-072f504228f0:ge253b9cb9ea14174abac2de00840baffggflyuart; w-rsjhf=PGcgLz4=; AMCV_1124C2D754E497DC0A4C98C6%40AdobeOrg=-1124106680%7CMCIDTS%7C18961%7CMCMID%7C20227339837400744711932472352927555733%7CMCAAMLH-1638784142%7C8%7CMCAAMB-1638784142%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1638186542s%7CNONE%7CMCSYNCSOP%7C411-18968%7CMCAID%7CNONE%7CMCCIDH%7C138322834%7CvVersion%7C5.2.0; fs_uid=rs.fullstory.com#TQCFZ#5260652654649344:6705541284126720#d3942b10#/1669715342; BVBRANDID=ee7b7c22-6eee-407d-b3f7-f1524882ce97; BVBRANDSID=a0d1791d-9f55-45c8-9005-ce67db4d8e45; rr_rcs=eF5j4cotK8lM4TMzM9A11DVkKU32MDUyNUxKMUjUNTBJStM1MTGw1E21SDLUTUo2TTO1sDRJMzAwAwCEmQ34; s_nr30=1638179684463-New; ADRUM_BTa=R:32|g:89fd9021-4da9-419d-8d59-4c38a48d242c|n:Woolworths-Dev_2b311050-b631-46eb-a435-beea47816b7e"/>
+    <header name="Host" value="stageapi.danmurphys.com.au"/>
+    <header name="Origin" value="https://stage.danmurphys.com.au"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache, no-store, must-revalidate&#xd;
+Pragma: no-cache&#xd;
+Content-Length: 1285&#xd;
+Content-Type: application/json; charset=utf-8&#xd;
+Content-Encoding: gzip&#xd;
+Expires: -1&#xd;
+Vary: Accept,Accept-Encoding&#xd;
+Server: Microsoft-IIS/10.0&#xd;
+Set-Cookie: ADRUM_BTa=R:32|g:dd0b93e9-d7a1-47e9-8e16-1f00aa1508d9|n:Woolworths-Dev_2b311050-b631-46eb-a435-beea47816b7e; expires=Mon, 29-Nov-2021 09:55:14 GMT; path=/&#xd;
+X-Powered-By: Olympic TRADER&#xd;
+Access-Control-Allow-Origin: https://stage.danmurphys.com.au&#xd;
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS&#xd;
+Access-Control-Allow-Headers: Content-Type, dmIV, Source, X-EventID&#xd;
+Access-Control-Expose-Headers: X-EventID&#xd;
+Access-Control-Allow-Credentials: true&#xd;
+X-EventID: 2f66bdc5-b607-40d4-a2d8-d7bea33a3f10&#xd;
+X-Powered-By: ServiceStack/4.052 Win32NT/.NET&#xd;
+X-AspNet-Version: 4.0.30319&#xd;
+X-Powered-By: ASP.NET&#xd;
+Date: Mon, 29 Nov 2021 09:54:44 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

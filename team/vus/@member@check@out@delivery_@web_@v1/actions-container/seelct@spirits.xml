@@ -1,0 +1,13 @@
+<basic-logical-action-container element-number="1" enabled="false"
+    execution-type="0" name="seelctSpirits" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="93ddcad5-7727-4394-85d6-97e7a4bc6a4a" weightsEnabled="false">
+    <weighted-embedded-action uid="ef8d305c-e7b6-4cd5-915d-a661770a5db2"/>
+    <weighted-embedded-action uid="27bc139e-4138-4530-8dc7-039efcc854d5"/>
+    <weighted-embedded-action uid="3b6881c3-34d9-4875-820f-309a54142d99"/>
+    <weighted-embedded-action uid="954fa998-d7b7-4eed-aede-9c34d17ab077"/>
+    <weighted-embedded-action uid="9c6b0a56-3cb4-4c60-87a7-8d5265fe9497"/>
+    <weighted-embedded-action uid="8392de39-c879-4e1f-9c21-4fde50c38478"/>
+    <weighted-embedded-action uid="38c0ac26-fceb-4e36-a7cd-64db77e8e167"/>
+    <weighted-embedded-action uid="652dc02c-cea1-4af4-825a-3eb757ebd7f5"/>
+</basic-logical-action-container>

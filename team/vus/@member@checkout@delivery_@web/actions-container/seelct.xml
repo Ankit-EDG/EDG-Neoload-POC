@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="seelct" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="cd1295b0-bcc1-4bd6-b265-4ab0887a0652" weightsEnabled="false">
+    <weighted-embedded-action uid="414e1e68-4615-4ad1-be25-bb0e2b12673f"/>
+</basic-logical-action-container>

@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="AddToCartWine" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="e253488b-37b7-44c5-bb65-c0e87f9c3636" weightsEnabled="false">
+    <weighted-embedded-action uid="6cbdd9d3-0f65-40cf-8e91-27ca28d0bf33"/>
+    <weighted-embedded-action uid="e8d24a56-de69-4033-a350-fec0de591625"/>
+</basic-logical-action-container>

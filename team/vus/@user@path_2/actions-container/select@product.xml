@@ -1,0 +1,14 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="selectProduct" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="bc80c1e6-ed85-4c29-bf10-51ec919e12e0" weightsEnabled="false">
+    <weighted-embedded-action uid="eabab6c2-dbc6-4f3a-b16f-a5d9cd26b224"/>
+    <weighted-embedded-action uid="f1b9bfdb-e291-4365-aa2e-130109d1804e"/>
+    <weighted-embedded-action uid="032efe0b-836b-4731-bf0e-a391ab43ef69"/>
+    <weighted-embedded-action uid="705c8081-f8e1-4bb4-998e-9beaddff1c16"/>
+    <weighted-embedded-action uid="f84abe87-a3f8-44e3-9a64-3bc0b9238ebf"/>
+    <weighted-embedded-action uid="8121fb58-c0fe-4fc3-ae94-43b56a3cd0ea"/>
+    <weighted-embedded-action uid="290b083e-f470-4aac-ad2b-8ff8f24fb87e"/>
+    <weighted-embedded-action uid="273beb94-bcbe-4f16-b5a3-e251ccc1c342"/>
+    <weighted-embedded-action uid="14ba712d-d74b-4853-8cf0-a5f1fa0c2378"/>
+</basic-logical-action-container>

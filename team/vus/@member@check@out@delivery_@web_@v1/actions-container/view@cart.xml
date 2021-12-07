@@ -1,0 +1,12 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="viewCart" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="10797134-bc5a-4c20-82e4-53e31d68262d" weightsEnabled="false">
+    <weighted-embedded-action uid="29ee239d-aa11-4628-885a-ca161075d586"/>
+    <weighted-embedded-action uid="c804bef0-949a-495c-8b5c-a99733746f83"/>
+    <weighted-embedded-action uid="f0e3bb70-b49d-4571-81b7-732f6d3c6779"/>
+    <weighted-embedded-action uid="21bd5194-0c80-4cc6-bb32-fc33df2f875b"/>
+    <weighted-embedded-action uid="f282bf23-451d-4f76-9cf0-3b41f1319cb0"/>
+    <weighted-embedded-action uid="accc3b88-d626-4a0b-a226-e741c348fbdb"/>
+    <weighted-embedded-action uid="88d3ad0c-8db2-461d-97d0-3e7c59690359"/>
+</basic-logical-action-container>

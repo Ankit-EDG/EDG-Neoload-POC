@@ -1,0 +1,5 @@
+<http-server hostname="10298563.fls.doubleclick.net" port="443"
+    ssl="true" uid="10298563.fls.doubleclick.net"
+    urlrewriting-argument-name="register_conversion"
+    urlrewriting-enabled="true" urlrewriting-path-extension="true"
+    urlrewriting-path-not-equals="false" urlrewriting-path-separator=";"/>

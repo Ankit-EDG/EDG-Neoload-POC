@@ -1,0 +1,302 @@
+<http-page executeResourcesDynamically="false" name="/_1"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/569e2a4b-e1c3-4661-a317-0b6cd9928b33.zip"
+    slaProfileEnabled="false" thinkTime="197"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="569e2a4b-e1c3-4661-a317-0b6cd9928b33">
+    <embedded-action>0650a62e-c332-4c89-870b-c4292a1d8714</embedded-action>
+    <embedded-action>1dc7a36a-9bcb-4df6-a635-4e862e690d63</embedded-action>
+    <embedded-action>ffae0679-5f1b-4cfd-981b-c0fd87709aac</embedded-action>
+    <embedded-action>e089071e-7d90-49f4-b899-cc489b8db514</embedded-action>
+    <embedded-action>260e58cf-4aa0-4e71-812b-ff7a2a66a325</embedded-action>
+    <embedded-action>ae7a9762-6314-4916-8cc1-5f77625cd293</embedded-action>
+    <embedded-action>cf046914-f405-4114-85c4-e6684821cb8f</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/" path="/" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/569e2a4b-e1c3-4661-a317-0b6cd9928b33.zip"
+    recordedResponseCode="200" responseSize="3946"
+    serverUid="prdedgccslivraue.z8.web.core.windows.net"
+    slaProfileEnabled="false" uid="0650a62e-c332-4c89-870b-c4292a1d8714" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_0650a62e-c332-4c89-870b-c4292a1d8714.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_0650a62e-c332-4c89-870b-c4292a1d8714.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="12031"
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="prdedgccslivraue.z8.web.core.windows.net"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="iframe"/>
+    <header name="Sec-Fetch-Mode" value="navigate"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Content-Length: 3946&#xd;
+Content-Type: text/html&#xd;
+Content-MD5: 6jStTJBvbE/HjmjwfR9zfQ==&#xd;
+Last-Modified: Tue, 23 Nov 2021 00:00:35 GMT&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "0x8D9AE1446A31AFB"&#xd;
+Vary: Origin&#xd;
+Server: Windows-Azure-Web/1.0 Microsoft-HTTPAPI/2.0&#xd;
+x-ms-request-id: be5edd99-401e-0092-4002-e5e9a0000000&#xd;
+x-ms-version: 2018-03-28&#xd;
+Date: Mon, 29 Nov 2021 09:24:54 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/static/css/2.d75dd4f5.chunk.css"
+    path="/static/css/2.d75dd4f5.chunk.css" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/569e2a4b-e1c3-4661-a317-0b6cd9928b33.zip"
+    recordedResponseCode="200" responseSize="2108"
+    serverUid="prdedgccslivraue.z8.web.core.windows.net"
+    slaProfileEnabled="false" uid="1dc7a36a-9bcb-4df6-a635-4e862e690d63" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_1dc7a36a-9bcb-4df6-a635-4e862e690d63.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_1dc7a36a-9bcb-4df6-a635-4e862e690d63.txt</requestContentFileDescription>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="prdedgccslivraue.z8.web.core.windows.net"/>
+    <header name="Referer" value="https://prdedgccslivraue.z8.web.core.windows.net/?12031"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="style"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Content-Length: 2108&#xd;
+Content-Type: text/css&#xd;
+Content-MD5: ybZgQj8BvIDIZFk0mIcvNA==&#xd;
+Last-Modified: Tue, 23 Nov 2021 00:00:36 GMT&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "0x8D9AE1446F5E9CC"&#xd;
+Vary: Origin&#xd;
+Server: Windows-Azure-Web/1.0 Microsoft-HTTPAPI/2.0&#xd;
+x-ms-request-id: be5edda0-401e-0092-4602-e5e9a0000000&#xd;
+x-ms-version: 2018-03-28&#xd;
+Date: Mon, 29 Nov 2021 09:24:54 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/static/css/main.7870a379.chunk.css"
+    path="/static/css/main.7870a379.chunk.css" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/569e2a4b-e1c3-4661-a317-0b6cd9928b33.zip"
+    recordedResponseCode="200" responseSize="30577"
+    serverUid="prdedgccslivraue.z8.web.core.windows.net"
+    slaProfileEnabled="false" uid="ffae0679-5f1b-4cfd-981b-c0fd87709aac" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_ffae0679-5f1b-4cfd-981b-c0fd87709aac.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_ffae0679-5f1b-4cfd-981b-c0fd87709aac.txt</requestContentFileDescription>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="prdedgccslivraue.z8.web.core.windows.net"/>
+    <header name="Referer" value="https://prdedgccslivraue.z8.web.core.windows.net/?12031"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="style"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Content-Length: 30577&#xd;
+Content-Type: text/css&#xd;
+Content-MD5: gAc1rnP6hLbEIndpiBupgA==&#xd;
+Last-Modified: Tue, 23 Nov 2021 00:00:36 GMT&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "0x8D9AE1446FE4CFE"&#xd;
+Vary: Origin&#xd;
+Server: Windows-Azure-Web/1.0 Microsoft-HTTPAPI/2.0&#xd;
+x-ms-request-id: be5edda2-401e-0092-4802-e5e9a0000000&#xd;
+x-ms-version: 2018-03-28&#xd;
+Date: Mon, 29 Nov 2021 09:24:54 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/static/js/2.3f9666a7.chunk.js"
+    path="/static/js/2.3f9666a7.chunk.js" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/569e2a4b-e1c3-4661-a317-0b6cd9928b33.zip"
+    recordedResponseCode="200"
+    refererUid="0650a62e-c332-4c89-870b-c4292a1d8714"
+    responseSize="318034"
+    serverUid="prdedgccslivraue.z8.web.core.windows.net"
+    slaProfileEnabled="false" uid="e089071e-7d90-49f4-b899-cc489b8db514" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_e089071e-7d90-49f4-b899-cc489b8db514</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_e089071e-7d90-49f4-b899-cc489b8db514.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="prdedgccslivraue.z8.web.core.windows.net"/>
+    <header name="Referer" value="https://prdedgccslivraue.z8.web.core.windows.net/?12031"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Content-Length: 318034&#xd;
+Content-Type: application/javascript&#xd;
+Content-MD5: 9e4IitWw7pxY3NLrNDLN9Q==&#xd;
+Last-Modified: Tue, 23 Nov 2021 00:00:36 GMT&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "0x8D9AE144706B03D"&#xd;
+Vary: Origin&#xd;
+Server: Windows-Azure-Web/1.0 Microsoft-HTTPAPI/2.0&#xd;
+x-ms-request-id: be5edda5-401e-0092-4b02-e5e9a0000000&#xd;
+x-ms-version: 2018-03-28&#xd;
+Date: Mon, 29 Nov 2021 09:24:54 GMT</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="6"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/static/js/main.209a128c.chunk.js"
+    path="/static/js/main.209a128c.chunk.js" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/569e2a4b-e1c3-4661-a317-0b6cd9928b33.zip"
+    recordedResponseCode="200"
+    refererUid="0650a62e-c332-4c89-870b-c4292a1d8714"
+    responseSize="197770"
+    serverUid="prdedgccslivraue.z8.web.core.windows.net"
+    slaProfileEnabled="false" uid="260e58cf-4aa0-4e71-812b-ff7a2a66a325" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_260e58cf-4aa0-4e71-812b-ff7a2a66a325</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_260e58cf-4aa0-4e71-812b-ff7a2a66a325.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="prdedgccslivraue.z8.web.core.windows.net"/>
+    <header name="Referer" value="https://prdedgccslivraue.z8.web.core.windows.net/?12031"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Content-Length: 197770&#xd;
+Content-Type: application/javascript&#xd;
+Content-MD5: Y54+n1fT0Ypf0InDi0aVew==&#xd;
+Last-Modified: Tue, 23 Nov 2021 00:00:36 GMT&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "0x8D9AE14471C09E1"&#xd;
+Vary: Origin&#xd;
+Server: Windows-Azure-Web/1.0 Microsoft-HTTPAPI/2.0&#xd;
+x-ms-request-id: be5eddab-401e-0092-5002-e5e9a0000000&#xd;
+x-ms-version: 2018-03-28&#xd;
+Date: Mon, 29 Nov 2021 09:24:54 GMT</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="7"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="text/css;charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/afy4xey.css" path="/afy4xey.css" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/569e2a4b-e1c3-4661-a317-0b6cd9928b33.zip"
+    recordedResponseCode="200" responseSize="6783"
+    serverUid="use.typekit.net" slaProfileEnabled="false"
+    uid="ae7a9762-6314-4916-8cc1-5f77625cd293" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_ae7a9762-6314-4916-8cc1-5f77625cd293.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_ae7a9762-6314-4916-8cc1-5f77625cd293.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://prdedgccslivraue.z8.web.core.windows.net/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="style"/>
+    <header name="accept" value="text/css,*/*;q=0.1"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+access-control-allow-origin: *&#xd;
+cache-control: private, max-age=600, stale-while-revalidate=604800&#xd;
+content-encoding: gzip&#xd;
+content-type: text/css;charset=utf-8&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+server: nginx&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains;&#xd;
+timing-allow-origin: *&#xd;
+vary: Accept-Encoding&#xd;
+content-length: 1002&#xd;
+date: Mon, 29 Nov 2021 09:24:57 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/misc/img" path="/misc/img" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/569e2a4b-e1c3-4661-a317-0b6cd9928b33.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="pixel.mathtag.com" slaProfileEnabled="false"
+    uid="cf046914-f405-4114-85c4-e6684821cb8f" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_cf046914-f405-4114-85c4-e6684821cb8f.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_cf046914-f405-4114-85c4-e6684821cb8f.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="mm_bnc"
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="bcdv"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="uuid=46d861a4-9c64-4600-b29d-cedecb0f4672; mt_misc=mt_bt:1"/>
+    <header name="Host" value="pixel.mathtag.com"/>
+    <header name="Referer" value="https://pixel.mathtag.com/sync/iframe?mt_uuid=46d861a4-9c64-4600-b29d-cedecb0f4672&amp;no_iframe=1&amp;mt_adid=239489&amp;mt_lim=20&amp;source=mathtag"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Content-Type: image/gif&#xd;
+Content-Length: 43&#xd;
+Access-Control-Allow-Origin: *&#xd;
+Server: MT3 4103 f8fad19 master hkg-pixel-x17 config:1.0.0&#xd;
+Cache-Control: no-cache&#xd;
+P3P: CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"&#xd;
+Expires: Mon, 29 Nov 2021 09:24:56 GMT&#xd;
+Date: Mon, 29 Nov 2021 09:24:57 GMT&#xd;
+Connection: keep-alive&#xd;
+Set-Cookie: mt_misc=mt_bt:1; domain=.mathtag.com; path=/; expires=Wed, 29-Dec-2021 09:24:58 GMT; SameSite=None; Secure</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

@@ -1,0 +1,92 @@
+<http-page executeResourcesDynamically="false" name="/track/cmf/generic"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/c379feb6-7e8e-460b-b390-f6328673b0a8.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="c379feb6-7e8e-460b-b390-f6328673b0a8">
+    <embedded-action>68466d52-432a-4930-855c-2467694d0ad3</embedded-action>
+    <embedded-action>e7eb06f8-60d6-4634-8809-e976dd61399f</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/track/cmf/generic" path="/track/cmf/generic"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/c379feb6-7e8e-460b-b390-f6328673b0a8.zip"
+    recordedResponseCode="302" responseSize="167"
+    serverUid="match.adsrvr.org" slaProfileEnabled="false"
+    uid="68466d52-432a-4930-855c-2467694d0ad3" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_68466d52-432a-4930-855c-2467694d0ad3.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_68466d52-432a-4930-855c-2467694d0ad3.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="ttd_pid"
+        recordRawValue="semasio" separator="=" value="semasio" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ttd_tpi"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://pixel.mathtag.com/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 302&#xd;
+date: Mon, 29 Nov 2021 09:30:53 GMT&#xd;
+content-type: text/html&#xd;
+content-length: 167&#xd;
+location: https://match.adsrvr.org/track/cmb/generic?ttd_pid=semasio&amp;ttd_tpi=1&#xd;
+cache-control: private,no-cache, must-revalidate&#xd;
+pragma: no-cache&#xd;
+x-aspnet-version: 4.0.30319&#xd;
+set-cookie: TDID=7fb89661-17fd-450d-b1e7-34bbe6594457; domain=.adsrvr.org; expires=Tue, 29-Nov-2022 09:30:53 GMT; path=/; secure; SameSite=None&#xd;
+set-cookie: TDCPM=CAEYBSgCMgsI5tG4trXJmToQBTgB; domain=.adsrvr.org; expires=Tue, 29-Nov-2022 09:30:53 GMT; path=/; secure; SameSite=None&#xd;
+p3p: CP="NOI DSP COR CUR ADMo DEVo PSAo PSDo OUR SAMo BUS UNI NAV"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="2" contentType="text/html"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/track/cmb/generic" path="/track/cmb/generic"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/c379feb6-7e8e-460b-b390-f6328673b0a8.zip"
+    recordedResponseCode="302" responseSize="323"
+    serverUid="match.adsrvr.org" slaProfileEnabled="false"
+    uid="e7eb06f8-60d6-4634-8809-e976dd61399f" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_e7eb06f8-60d6-4634-8809-e976dd61399f.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_e7eb06f8-60d6-4634-8809-e976dd61399f.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="ttd_pid"
+        recordRawValue="semasio" separator="=" value="semasio" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ttd_tpi"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://pixel.mathtag.com/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="TDID=7fb89661-17fd-450d-b1e7-34bbe6594457; TDCPM=CAEYBSgCMgsI5tG4trXJmToQBTgB"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 302&#xd;
+date: Mon, 29 Nov 2021 09:30:53 GMT&#xd;
+content-type: text/html&#xd;
+content-length: 323&#xd;
+location: https://uipglob.semasio.net/tradedesk/1/info?sType=sync&amp;gdpr=0&amp;gdpr_consent=&amp;sInitiator=internal&amp;sExtCookieId=7fb89661-17fd-450d-b1e7-34bbe6594457&#xd;
+cache-control: private,no-cache, must-revalidate&#xd;
+pragma: no-cache&#xd;
+x-aspnet-version: 4.0.30319&#xd;
+set-cookie: TDID=7fb89661-17fd-450d-b1e7-34bbe6594457; domain=.adsrvr.org; expires=Tue, 29-Nov-2022 09:30:53 GMT; path=/; secure; SameSite=None&#xd;
+set-cookie: TDCPM=CAESFgoHc2VtYXNpbxILCNzdxomfyZk6EAUYBSABKAIyCwjm0bi2tcmZOhAFOAE.; domain=.adsrvr.org; expires=Tue, 29-Nov-2022 09:30:53 GMT; path=/; secure; SameSite=None&#xd;
+p3p: CP="NOI DSP COR CUR ADMo DEVo PSAo PSDo OUR SAMo BUS UNI NAV"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

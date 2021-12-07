@@ -1,0 +1,423 @@
+<http-page executeResourcesDynamically="false" name="/sid.gif"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/b34d9133-fffd-4840-92f9-01b52c07c9dd.zip"
+    slaProfileEnabled="false" thinkTime="1737"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="b34d9133-fffd-4840-92f9-01b52c07c9dd">
+    <embedded-action>b6079804-bf18-4b2f-8b1d-beb875965e93</embedded-action>
+    <embedded-action>d98c609a-e424-4d30-8202-ceaf9a32fa1a</embedded-action>
+    <embedded-action>d44a4c7f-25f0-4760-b585-23d8e7ce4ae8</embedded-action>
+    <embedded-action>c288cd38-61ee-498c-99a6-c9f1cf848e11</embedded-action>
+    <embedded-action>2eb70c80-276c-40a0-9f21-7f9831852f8e</embedded-action>
+    <embedded-action>38aaf76c-0681-40e5-9cc8-1e5cdf287dae</embedded-action>
+    <embedded-action>772a6d59-3c60-420c-abf8-cdaf116c6713</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/sid.gif" path="/sid.gif" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/b34d9133-fffd-4840-92f9-01b52c07c9dd.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="network-stg.bazaarvoice.com" slaProfileEnabled="false"
+    uid="b6079804-bf18-4b2f-8b1d-beb875965e93" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_b6079804-bf18-4b2f-8b1d-beb875965e93.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_b6079804-bf18-4b2f-8b1d-beb875965e93.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="_"
+        recordRawValue="8o5aq7" separator="=" value="8o5aq7" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="network-stg.bazaarvoice.com"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache, no-transform, must-revalidate, max-age=0&#xd;
+Content-Type: image/gif&#xd;
+Date: Mon, 29 Nov 2021 09:29:42 GMT&#xd;
+Expires: -1&#xd;
+P3P: policyref="/w3c/p3p.xml", CP="ADMa OUR IND DSP NON COR"&#xd;
+Server: nginx&#xd;
+Set-Cookie: BVID=cd479b5f-fd40-4bc1-8995-b357ad7b6b40;Version=1;Domain=.network-stg.bazaarvoice.com;Max-Age=31536000;Expires=Tue, 29 Nov 2022 09:29:42 GMT;Secure;SameSite=None&#xd;
+Set-Cookie: BVSID=168a609c-a62c-4434-ae3f-f4405e503490;Version=1;Domain=.network-stg.bazaarvoice.com;Max-Age=1800;Expires=Mon, 29 Nov 2021 09:59:42 GMT;Secure;SameSite=None&#xd;
+Content-Length: 43&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/sid.gif" path="/sid.gif" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/b34d9133-fffd-4840-92f9-01b52c07c9dd.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="network-stg.bazaarvoice.com" slaProfileEnabled="false"
+    uid="d98c609a-e424-4d30-8202-ceaf9a32fa1a" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_d98c609a-e424-4d30-8202-ceaf9a32fa1a.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d98c609a-e424-4d30-8202-ceaf9a32fa1a.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="_"
+        recordRawValue="2qmver" separator="=" value="2qmver" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="network-stg.bazaarvoice.com"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache, no-transform, must-revalidate, max-age=0&#xd;
+Content-Type: image/gif&#xd;
+Date: Mon, 29 Nov 2021 09:29:42 GMT&#xd;
+Expires: -1&#xd;
+P3P: policyref="/w3c/p3p.xml", CP="ADMa OUR IND DSP NON COR"&#xd;
+Server: nginx&#xd;
+Set-Cookie: BVID=f3ea3011-b251-4119-a6ac-204e0bb5cb85;Version=1;Domain=.network-stg.bazaarvoice.com;Max-Age=31536000;Expires=Tue, 29 Nov 2022 09:29:42 GMT;Secure;SameSite=None&#xd;
+Set-Cookie: BVSID=b478bb3a-d106-4f4b-8a17-a2562e2e3df8;Version=1;Domain=.network-stg.bazaarvoice.com;Max-Age=1800;Expires=Mon, 29 Nov 2021 09:59:42 GMT;Secure;SameSite=None&#xd;
+Content-Length: 43&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/id.json" path="/id.json" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/b34d9133-fffd-4840-92f9-01b52c07c9dd.zip"
+    recordedResponseCode="200" responseSize="123"
+    serverUid="network-stg.bazaarvoice.com" slaProfileEnabled="false"
+    uid="d44a4c7f-25f0-4760-b585-23d8e7ce4ae8" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_d44a4c7f-25f0-4760-b585-23d8e7ce4ae8</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d44a4c7f-25f0-4760-b585-23d8e7ce4ae8.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="_"
+        recordRawValue="ozdg43" separator="=" value="ozdg43" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="callback"
+        recordRawValue="_bvajsonp1" separator="=" value="_bvajsonp1" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="BVID=f3ea3011-b251-4119-a6ac-204e0bb5cb85; BVSID=b478bb3a-d106-4f4b-8a17-a2562e2e3df8"/>
+    <header name="Host" value="network-stg.bazaarvoice.com"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache, no-transform&#xd;
+Content-Type: application/javascript&#xd;
+Date: Mon, 29 Nov 2021 09:29:43 GMT&#xd;
+Server: nginx&#xd;
+Vary: Accept-Encoding&#xd;
+Content-Length: 123&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/id.json" path="/id.json" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/b34d9133-fffd-4840-92f9-01b52c07c9dd.zip"
+    recordedResponseCode="200" responseSize="123"
+    serverUid="network-stg.bazaarvoice.com" slaProfileEnabled="false"
+    uid="c288cd38-61ee-498c-99a6-c9f1cf848e11" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_c288cd38-61ee-498c-99a6-c9f1cf848e11</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_c288cd38-61ee-498c-99a6-c9f1cf848e11.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="_"
+        recordRawValue="fy3ost" separator="=" value="fy3ost" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="callback"
+        recordRawValue="_bvajsonp2" separator="=" value="_bvajsonp2" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="BVID=f3ea3011-b251-4119-a6ac-204e0bb5cb85; BVSID=b478bb3a-d106-4f4b-8a17-a2562e2e3df8"/>
+    <header name="Host" value="network-stg.bazaarvoice.com"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache, no-transform&#xd;
+Content-Type: application/javascript&#xd;
+Date: Mon, 29 Nov 2021 09:29:43 GMT&#xd;
+Server: nginx&#xd;
+Vary: Accept-Encoding&#xd;
+Content-Length: 123&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/st.gif" path="/st.gif" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/b34d9133-fffd-4840-92f9-01b52c07c9dd.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="network-stg.bazaarvoice.com" slaProfileEnabled="false"
+    uid="2eb70c80-276c-40a0-9f21-7f9831852f8e" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_2eb70c80-276c-40a0-9f21-7f9831852f8e.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_2eb70c80-276c-40a0-9f21-7f9831852f8e.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="loadId"
+        recordRawValue="5860ef99f718f0a09" separator="="
+        value="5860ef99f718f0a09" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="BVBRANDID"
+        recordRawValue="6f56fbda-5583-410c-bcb0-78f69cfe3e73"
+        separator="=" value="6f56fbda-5583-410c-bcb0-78f69cfe3e73" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="BVBRANDSID"
+        recordRawValue="4b583641-b23a-493d-808a-152d922516da"
+        separator="=" value="4b583641-b23a-493d-808a-152d922516da" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="tz"
+        recordRawValue="-660" separator="=" value="-660" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="sourceVersion"
+        recordRawValue="3.14.0" separator="=" value="3.14.0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="magpieJsVersion" recordRawValue="3.14.0" separator="="
+        value="3.14.0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="source"
+        recordRawValue="bv-loader" separator="=" value="bv-loader" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="environment"
+        recordRawValue="prod" separator="=" value="prod" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="client"
+        recordRawValue="dan-murphys" separator="=" value="dan-murphys" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="dc"
+        recordRawValue="11923" separator="=" value="11923" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="host"
+        recordRawValue="stage.danmurphys.com.au" separator="="
+        value="stage.danmurphys.com.au" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="r_batch"
+        recordRawValue="!((bvProduct:bv-loader,bvProductVersion:%2713.0.1%27,cl:Diagnostic,deploymentZone:main_site,elapsedMs:%273.8000%27,endTime:%27297906.0000%27,locale:en_AU,name:timeToRunScout,startTime:%27297902.2000%27,type:Performance))"
+        separator="="
+        value="!((bvProduct:bv-loader,bvProductVersion:%2713.0.1%27,cl:Diagnostic,deploymentZone:main_site,elapsedMs:%273.8000%27,endTime:%27297906.0000%27,locale:en_AU,name:timeToRunScout,startTime:%27297902.2000%27,type:Performance))" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_"
+        recordRawValue="mf5e93" separator="=" value="mf5e93" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="BVID=f3ea3011-b251-4119-a6ac-204e0bb5cb85; BVSID=b478bb3a-d106-4f4b-8a17-a2562e2e3df8"/>
+    <header name="Host" value="network-stg.bazaarvoice.com"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache, no-transform, must-revalidate, max-age=0&#xd;
+Content-Type: image/gif&#xd;
+Date: Mon, 29 Nov 2021 09:29:43 GMT&#xd;
+Expires: -1&#xd;
+P3P: policyref="/w3c/p3p.xml", CP="ADMa OUR IND DSP NON COR"&#xd;
+Server: nginx&#xd;
+Set-Cookie: BVID=f3ea3011-b251-4119-a6ac-204e0bb5cb85;Version=1;Domain=.network-stg.bazaarvoice.com;Max-Age=31536000;Expires=Tue, 29 Nov 2022 09:29:43 GMT;Secure;SameSite=None&#xd;
+Set-Cookie: BVSID=b478bb3a-d106-4f4b-8a17-a2562e2e3df8;Version=1;Domain=.network-stg.bazaarvoice.com;Max-Age=1800;Expires=Mon, 29 Nov 2021 09:59:43 GMT;Secure;SameSite=None&#xd;
+Content-Length: 43&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/st.gif" path="/st.gif" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/b34d9133-fffd-4840-92f9-01b52c07c9dd.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="network-stg.bazaarvoice.com" slaProfileEnabled="false"
+    uid="38aaf76c-0681-40e5-9cc8-1e5cdf287dae" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_38aaf76c-0681-40e5-9cc8-1e5cdf287dae.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_38aaf76c-0681-40e5-9cc8-1e5cdf287dae.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="cl"
+        recordRawValue="PageView" separator="=" value="PageView" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="loadId"
+        recordRawValue="5860ef99f718f0a09" separator="="
+        value="5860ef99f718f0a09" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="BVBRANDID"
+        recordRawValue="6f56fbda-5583-410c-bcb0-78f69cfe3e73"
+        separator="=" value="6f56fbda-5583-410c-bcb0-78f69cfe3e73" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="BVBRANDSID"
+        recordRawValue="4b583641-b23a-493d-808a-152d922516da"
+        separator="=" value="4b583641-b23a-493d-808a-152d922516da" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="tz"
+        recordRawValue="-660" separator="=" value="-660" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="sourceVersion"
+        recordRawValue="3.14.0" separator="=" value="3.14.0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="magpieJsVersion" recordRawValue="3.14.0" separator="="
+        value="3.14.0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="source"
+        recordRawValue="bv-loader" separator="=" value="bv-loader" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="environment"
+        recordRawValue="prod" separator="=" value="prod" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="client"
+        recordRawValue="dan-murphys" separator="=" value="dan-murphys" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="dc"
+        recordRawValue="11923" separator="=" value="11923" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="host"
+        recordRawValue="stage.danmurphys.com.au" separator="="
+        value="stage.danmurphys.com.au" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="bvProduct"
+        recordRawValue="RatingsAndReviews" separator="="
+        value="RatingsAndReviews" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="locale"
+        recordRawValue="en_AU" separator="=" value="en_AU" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="deploymentZone" recordRawValue="main_site" separator="="
+        value="main_site" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="productId"
+        recordRawValue="MYSTERY202" separator="=" value="MYSTERY202" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="href"
+        recordRawValue="https://stage.danmurphys.com.au/product/DM_MYSTERY202/under-wraps-mornington-peninsula-pinot-noir-2019"
+        separator="="
+        value="https://stage.danmurphys.com.au/product/DM_MYSTERY202/under-wraps-mornington-peninsula-pinot-noir-2019" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="canurl"
+        recordRawValue="https://www.danmurphys.com.au/product/DM_MYSTERY202/under-wraps-mornington-peninsula-pinot-noir-2019"
+        separator="="
+        value="https://www.danmurphys.com.au/product/DM_MYSTERY202/under-wraps-mornington-peninsula-pinot-noir-2019" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="res"
+        recordRawValue="1366x768" separator="=" value="1366x768" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="lang"
+        recordRawValue="en-us" separator="=" value="en-us" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="charset"
+        recordRawValue="UTF-8" separator="=" value="UTF-8" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="geo"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="cookies"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="r_t"
+        recordRawValue="(con:429,dns:0,load:20280,req:19,res:1,tot:20980)"
+        separator="="
+        value="(con:429,dns:0,load:20280,req:19,res:1,tot:20980)" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_"
+        recordRawValue="ult3bj" separator="=" value="ult3bj" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="ref"
+        recordRawValue="http://www.neotys.com/" separator="="
+        value="http://www.neotys.com/" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="BVID=f3ea3011-b251-4119-a6ac-204e0bb5cb85; BVSID=b478bb3a-d106-4f4b-8a17-a2562e2e3df8"/>
+    <header name="Host" value="network-stg.bazaarvoice.com"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache, no-transform, must-revalidate, max-age=0&#xd;
+Content-Type: image/gif&#xd;
+Date: Mon, 29 Nov 2021 09:29:43 GMT&#xd;
+Expires: -1&#xd;
+P3P: policyref="/w3c/p3p.xml", CP="ADMa OUR IND DSP NON COR"&#xd;
+Server: nginx&#xd;
+Set-Cookie: BVID=f3ea3011-b251-4119-a6ac-204e0bb5cb85;Version=1;Domain=.network-stg.bazaarvoice.com;Max-Age=31536000;Expires=Tue, 29 Nov 2022 09:29:43 GMT;Secure;SameSite=None&#xd;
+Set-Cookie: BVSID=b478bb3a-d106-4f4b-8a17-a2562e2e3df8;Version=1;Domain=.network-stg.bazaarvoice.com;Max-Age=1800;Expires=Mon, 29 Nov 2021 09:59:43 GMT;Secure;SameSite=None&#xd;
+Content-Length: 43&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/st.gif" path="/st.gif" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/b34d9133-fffd-4840-92f9-01b52c07c9dd.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="network-stg.bazaarvoice.com" slaProfileEnabled="false"
+    uid="772a6d59-3c60-420c-abf8-cdaf116c6713" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_772a6d59-3c60-420c-abf8-cdaf116c6713.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_772a6d59-3c60-420c-abf8-cdaf116c6713.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="loadId"
+        recordRawValue="5860ef99f718f0a09" separator="="
+        value="5860ef99f718f0a09" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="BVBRANDID"
+        recordRawValue="6f56fbda-5583-410c-bcb0-78f69cfe3e73"
+        separator="=" value="6f56fbda-5583-410c-bcb0-78f69cfe3e73" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="BVBRANDSID"
+        recordRawValue="4b583641-b23a-493d-808a-152d922516da"
+        separator="=" value="4b583641-b23a-493d-808a-152d922516da" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="tz"
+        recordRawValue="-660" separator="=" value="-660" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="sourceVersion"
+        recordRawValue="3.14.0" separator="=" value="3.14.0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="magpieJsVersion" recordRawValue="3.14.0" separator="="
+        value="3.14.0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="source"
+        recordRawValue="bv-loader" separator="=" value="bv-loader" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="environment"
+        recordRawValue="prod" separator="=" value="prod" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="client"
+        recordRawValue="dan-murphys" separator="=" value="dan-murphys" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="dc"
+        recordRawValue="11923" separator="=" value="11923" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="host"
+        recordRawValue="stage.danmurphys.com.au" separator="="
+        value="stage.danmurphys.com.au" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="r_batch"
+        recordRawValue="!((brand:!n,bvProduct:RatingsAndReviews,cl:Impression,deploymentZone:main_site,locale:en_AU,productId:MYSTERY202))"
+        separator="="
+        value="!((brand:!n,bvProduct:RatingsAndReviews,cl:Impression,deploymentZone:main_site,locale:en_AU,productId:MYSTERY202))" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_"
+        recordRawValue="93rubg" separator="=" value="93rubg" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="BVID=f3ea3011-b251-4119-a6ac-204e0bb5cb85; BVSID=b478bb3a-d106-4f4b-8a17-a2562e2e3df8"/>
+    <header name="Host" value="network-stg.bazaarvoice.com"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache, no-transform, must-revalidate, max-age=0&#xd;
+Content-Type: image/gif&#xd;
+Date: Mon, 29 Nov 2021 09:29:43 GMT&#xd;
+Expires: -1&#xd;
+P3P: policyref="/w3c/p3p.xml", CP="ADMa OUR IND DSP NON COR"&#xd;
+Server: nginx&#xd;
+Set-Cookie: BVID=f3ea3011-b251-4119-a6ac-204e0bb5cb85;Version=1;Domain=.network-stg.bazaarvoice.com;Max-Age=31536000;Expires=Tue, 29 Nov 2022 09:29:43 GMT;Secure;SameSite=None&#xd;
+Set-Cookie: BVSID=b478bb3a-d106-4f4b-8a17-a2562e2e3df8;Version=1;Domain=.network-stg.bazaarvoice.com;Max-Age=1800;Expires=Mon, 29 Nov 2021 09:59:43 GMT;Secure;SameSite=None&#xd;
+Content-Length: 43&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

@@ -1,0 +1,61 @@
+<http-page executeResourcesDynamically="false"
+    name="/dmo/content/homepage/productpromotion/productpromotionbg2x.png"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@check@out@delivery_@web_@v1/%resources%/recorded-artifacts/e8542e6b-668d-43a0-a207-6127c8c12027.zip"
+    slaProfileEnabled="false" thinkTime="727"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="e8542e6b-668d-43a0-a207-6127c8c12027">
+    <embedded-action>d4e80178-b737-4c0a-a0a5-2667587c171a</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="image/png"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/cookies/render" path="/cookies/render"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@check@out@delivery_@web_@v1/%resources%/recorded-artifacts/e8542e6b-668d-43a0-a207-6127c8c12027.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="danmurphys-widgets-stg.salesfloor.net"
+    slaProfileEnabled="false" uid="d4e80178-b737-4c0a-a0a5-2667587c171a" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_d4e80178-b737-4c0a-a0a5-2667587c171a.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d4e80178-b737-4c0a-a0a5-2667587c171a.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="data"
+        recordRawValue="%5B%7B%22expires%22%3A%22session%22%2C%22stg_danmurphys_sf_wdt_session_expiration_session%22%3A1638178980157%7D%2C%7B%22expires%22%3A1638783780.158%2C%22stg_danmurphys_sf_wdt_customer_id%22%3A%22iyersd1jx%22%7D%2C%7B%22expires%22%3A1638783780.158%2C%22stg_danmurphys_sf_wdt_fingerprint%22%3A53476515090717%7D%2C%7B%22expires%22%3A%22remove%22%2C%22stg_danmurphys_sf_wdt_tracking_store%22%3A%22%22%7D%2C%7B%22expires%22%3A1638783780.159%2C%22stg_danmurphys_sf_wdt_customer_id%22%3A%22iyersd1jx%22%7D%2C%7B%22expires%22%3A1638783780.16%2C%22stg_danmurphys_sf_wdt_fingerprint%22%3A53476515090717%7D%5D"
+        separator="="
+        value="[{&quot;expires&quot;:&quot;session&quot;,&quot;stg_danmurphys_sf_wdt_session_expiration_session&quot;:1638178980157},{&quot;expires&quot;:1638783780.158,&quot;stg_danmurphys_sf_wdt_customer_id&quot;:&quot;iyersd1jx&quot;},{&quot;expires&quot;:1638783780.158,&quot;stg_danmurphys_sf_wdt_fingerprint&quot;:53476515090717},{&quot;expires&quot;:&quot;remove&quot;,&quot;stg_danmurphys_sf_wdt_tracking_store&quot;:&quot;&quot;},{&quot;expires&quot;:1638783780.159,&quot;stg_danmurphys_sf_wdt_customer_id&quot;:&quot;iyersd1jx&quot;},{&quot;expires&quot;:1638783780.16,&quot;stg_danmurphys_sf_wdt_fingerprint&quot;:53476515090717}]" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="cachebuster"
+        recordRawValue="1638178980236" separator="="
+        value="1638178980236" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="cacheBustKey=1638178978686"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Mon, 29 Nov 2021 09:43:02 GMT&#xd;
+content-type: image/png&#xd;
+content-length: 116&#xd;
+p3p: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"&#xd;
+access-control-allow-origin: *&#xd;
+access-control-allow-credentials: true&#xd;
+set-cookie: stg_danmurphys_sf_wdt_session_expiration_session=1638178980157; path=/; domain=salesfloor.net; secure; SameSite=none&#xd;
+set-cookie: stg_danmurphys_sf_wdt_customer_id=iyersd1jx; expires=Mon, 06-Dec-2021 09:43:00 GMT; Max-Age=604798; path=/; domain=salesfloor.net; secure; SameSite=none&#xd;
+set-cookie: stg_danmurphys_sf_wdt_fingerprint=53476515090717; expires=Mon, 06-Dec-2021 09:43:00 GMT; Max-Age=604798; path=/; domain=salesfloor.net; secure; SameSite=none&#xd;
+set-cookie: stg_danmurphys_sf_wdt_tracking_store=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=salesfloor.net; secure; SameSite=none&#xd;
+set-cookie: stg_danmurphys_sf_wdt_customer_id=iyersd1jx; expires=Mon, 06-Dec-2021 09:43:00 GMT; Max-Age=604798; path=/; domain=salesfloor.net; secure; SameSite=none&#xd;
+set-cookie: stg_danmurphys_sf_wdt_fingerprint=53476515090717; expires=Mon, 06-Dec-2021 09:43:00 GMT; Max-Age=604798; path=/; domain=salesfloor.net; secure; SameSite=none&#xd;
+x-varnish: 12536&#xd;
+age: 0&#xd;
+accept-ranges: bytes&#xd;
+via: 1.1 google&#xd;
+alt-svc: clear</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

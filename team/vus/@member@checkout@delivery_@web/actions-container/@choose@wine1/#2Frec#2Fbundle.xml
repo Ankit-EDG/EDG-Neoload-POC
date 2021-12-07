@@ -1,0 +1,66 @@
+<http-page executeResourcesDynamically="false" name="/rec/bundle"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/b8a82993-8b70-413a-ad40-6160aa26ea48.zip"
+    slaProfileEnabled="false" thinkTime="4671"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="b8a82993-8b70-413a-ad40-6160aa26ea48">
+    <embedded-action>c5cc1860-11f2-4bac-b4cb-fa88b8b47095</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/rec/bundle" path="/rec/bundle" postType="4"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/b8a82993-8b70-413a-ad40-6160aa26ea48.zip"
+    recordedResponseCode="200" responseSize="29"
+    serverUid="rs.fullstory.com" slaProfileEnabled="false"
+    uid="c5cc1860-11f2-4bac-b4cb-fa88b8b47095" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_c5cc1860-11f2-4bac-b4cb-fa88b8b47095</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_c5cc1860-11f2-4bac-b4cb-fa88b8b47095.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true" name="OrgId"
+        recordRawValue="TQCFZ" separator="=" value="TQCFZ" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="UserId"
+        recordRawValue="6094149355069440" separator="="
+        value="6094149355069440" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="SessionId" recordRawValue="5407716160069632" separator="="
+        value="5407716160069632" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="PageId"
+        recordRawValue="6304641898012672" separator="="
+        value="6304641898012672" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="Seq"
+        recordRawValue="33" separator="=" value="33" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="PageStart" recordRawValue="1638177899114" separator="="
+        value="1638177899114" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="PrevBundleTime" recordRawValue="1638178194586"
+        separator="=" value="1638178194586" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="LastActivity" recordRawValue="34" separator="=" value="34" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://stage.danmurphys.com.au"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="text/plain"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-origin: https://stage.danmurphys.com.au&#xd;
+content-type: application/json; charset=utf-8&#xd;
+date: Mon, 29 Nov 2021 09:29:59 GMT&#xd;
+content-length: 29&#xd;
+via: 1.1 google&#xd;
+alt-svc: clear</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"Seq":33,"When":296489,"Evts":[{"Kind":63,"Args":["POST","https://rs.fullstory.com/rec/bundle?OrgId=TQCFZ&UserId=6094149355069440&SessionId=5407716160069632&PageId=6304641898012672&Seq=32&PageStart=1638177899114&PrevBundleTime=1638178189652&LastActivity=2798",190,200,"content-type: text/plain\r\n","content-length: 29\r\ncontent-type: application/json; charset=utf-8\r\n",1638178194491,1097,29,null,null,1,1],"When":296489},{"Kind":57,"Args":[2,"https://rs.fullstory.com/rec/bundle?OrgId=TQCFZ&UserId=6094149355069440&SessionId=5407716160069632&PageId=6304641898012672&Seq=32&PageStart=1638177899114&PrevBundleTime=1638178189652&LastActivity=2798",314034.59999990463,186,"xmlhttprequest",0,0,314034.59999990463,0,0,0,0,0,0,0,314220.59999990463,0,0,0],"When":296717},{"When":297475,"Kind":54,"Args":[4000]},{"Kind":8,"Args":[955,5,200],"When":298712},{"Kind":9,"Args":[299144,959,939,1.5636363636363635,-58.25806451612904,46,124,67.23636363636363,97.0967741935484,6915],"When":299058},{"Kind":9,"Args":[299231,865,806,-59,-59,156,155,-1,-1,12294],"When":299200},{"Kind":9,"Args":[299293,783,717,-66,-66,147,113,-34,-34,6805],"When":299262},{"Kind":9,"Args":[299385,695,671,-5.8125,-43.4,103,107,-1.9375,10.333333333333332,6683],"When":299323},{"Kind":8,"Args":[601,133,12290],"When":299445},{"Kind":9,"Args":[299569,383,361,-22,-22,133,133,0,0,12290],"When":299537},{"Kind":9,"Args":[299696,345,343,-3.03125,-2.9393939393939394,129,116,-6.0625,-14.696969696969697,4437],"When":299599},{"Kind":9,"Args":[299818,342,331,-11,-11,116,119,3,3,4437],"When":299789},{"Kind":9,"Args":[299973,327,332,8.71875,0,117,105,-14.531249999999998,-12,4437],"When":299880},{"Kind":8,"Args":[332,104,4437],"When":300005},{"Kind":9,"Args":[300079,331,329,-2,-2,101,99,-2,-2,4437],"When":300037},{"Kind":52,"Args":[],"When":300215},{"Kind":12,"Args":[329,99],"When":300223},{"Kind":17,"Args":[4437,true],"When":300229},{"Kind":13,"Args":[329,99],"When":300311},{"Kind":16,"Args":[4437,329,99,276.28125,65,79.09375,64],"When":300317},{"Kind":4,"Args":[235,"ng-reflect-is-nav-active","true"],"When":300489},{"Kind":4,"Args":[234,"class","mega-nav ng-star-inserted is-active"],"When":300489},{"Kind":4,"Args":[4341,"ng-reflect-is-nav-active","true"],"When":300489},{"Kind":4,"Args":[4435,"ng-reflect-is-nav-active","true"],"When":300489},{"Kind":4,"Args":[4437,"class","btn-primary-nav ng-star-inserted is-active"],"When":300489},{"Kind":4,"Args":[4437,"aria-expanded","true"],"When":300489},{"Kind":4,"Args":[4439,"ng-reflect-is-parent-active","true"],"When":300489},{"Kind":4,"Args":[4439,"class","secondary-list ng-star-inserted"],"When":300489},{"Kind":4,"Args":[4442,"ng-reflect-is-parent-selected","true"],"When":300489},{"Kind":4,"Args":[4445,"ng-reflect-is-active","true"],"When":300489},{"Kind":4,"Args":[4447,"ng-reflect-is-tab-active","true"],"When":300489},{"Kind":4,"Args":[4614,"ng-reflect-show","true"],"When":300489},{"Kind":4,"Args":[4623,"ng-reflect-is-parent-selected","true"],"When":300489},{"Kind":4,"Args":[4806,"ng-reflect-is-parent-selected","true"],"When":300489},{"Kind":4,"Args":[4951,"ng-reflect-is-parent-selected","true"],"When":300489},{"Kind":4,"Args":[5117,"ng-reflect-is-parent-selected","true"],"When":300489},{"Kind":4,"Args":[5240,"ng-reflect-is-parent-selected","true"],"When":300489},{"Kind":4,"Args":[5330,"ng-reflect-is-nav-active","true"],"When":300489},{"Kind":4,"Args":[6407,"ng-reflect-is-nav-active","true"],"When":300489},{"Kind":4,"Args":[6571,"ng-reflect-is-nav-active","true"],"When":300489},{"Kind":4,"Args":[6681,"ng-reflect-is-nav-active","true"],"When":300489},{"Kind":4,"Args":[6803,"ng-reflect-is-nav-active","true"],"When":300489},{"Kind":4,"Args":[6913,"ng-reflect-is-nav-active","true"],"When":300489},{"Kind":4,"Args":[7055,"ng-reflect-is-nav-active","true"],"When":300489},{"Kind":4,"Args":[236,"class","nav-list-primary ng-trigger ng-trigger-showLevels ng-animate-disabled is-active"],"When":300489},{"Kind":4,"Args":[233,"class","meganav-overlay header-overlay is-active"],"When":300489},{"When":300574,"Kind":8197,"Args":["eVars","{\"eVar4_str\":\"wine\"}","dlo"]},{"When":300574,"Kind":8197,"Args":["props","{\"prop3_str\":\"https://stage.danmurphys.com.au/product/DM_MYSTERY202/under-wraps-mornington-peninsula-pinot-noir-2019\"}","dlo"]},{"Kind":9,"Args":[300966,329,356,22.090909090909093,30.375,102,145,41.72727272727273,43.875,4624],"When":300912},{"Kind":9,"Args":[301115,387,417,30,30,201,253,52,52,4448],"When":301058},{"Kind":9,"Args":[301208,454,480,26,26,295,312,17,17,4482],"When":301178}]}]]></textPostContent>
+</http-action>

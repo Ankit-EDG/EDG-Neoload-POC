@@ -1,0 +1,61 @@
+<http-page executeResourcesDynamically="false" name="/ListAccounts"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/e2d67998-2588-43b6-965d-96a13dc3e820.zip"
+    slaProfileEnabled="false" thinkTime="914"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="e2d67998-2588-43b6-965d-96a13dc3e820">
+    <embedded-action>71883a1d-1ed1-4d43-bf95-1fecb267f2d1</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/ListAccounts" path="/ListAccounts"
+    postCharset="iso-8859-1" postType="1"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/e2d67998-2588-43b6-965d-96a13dc3e820.zip"
+    recordedResponseCode="200" responseSize="17"
+    serverUid="accounts.google.com" slaProfileEnabled="false"
+    uid="71883a1d-1ed1-4d43-bf95-1fecb267f2d1" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[IA==]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_71883a1d-1ed1-4d43-bf95-1fecb267f2d1</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_71883a1d-1ed1-4d43-bf95-1fecb267f2d1.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name=""
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="gpsia"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="source"
+        recordRawValue="ChromiumBrowser" separator="="
+        value="ChromiumBrowser" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="json"
+        recordRawValue="standard" separator="=" value="standard" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://www.google.com"/>
+    <header name="content-type" value="application/x-www-form-urlencoded"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/json; charset=utf-8&#xd;
+access-control-allow-origin: https://www.google.com&#xd;
+access-control-allow-credentials: true&#xd;
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site&#xd;
+x-content-type-options: nosniff&#xd;
+cache-control: no-cache, no-store, max-age=0, must-revalidate&#xd;
+pragma: no-cache&#xd;
+expires: Mon, 01 Jan 1990 00:00:00 GMT&#xd;
+date: Mon, 29 Nov 2021 09:24:39 GMT&#xd;
+strict-transport-security: max-age=31536000&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+content-security-policy: script-src 'report-sample' 'nonce-adcO7Xk+DFVt6K6FVlRqvQ' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/IdentityListAccountsHttp/cspreport;worker-src 'self'&#xd;
+content-security-policy: script-src 'nonce-adcO7Xk+DFVt6K6FVlRqvQ' 'self' https://apis.google.com https://ssl.gstatic.com https://www.google.com https://www.gstatic.com https://www.google-analytics.com;report-uri /_/IdentityListAccountsHttp/cspreport&#xd;
+cross-origin-opener-policy: same-origin&#xd;
+content-encoding: gzip&#xd;
+server: ESF&#xd;
+x-xss-protection: 0&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

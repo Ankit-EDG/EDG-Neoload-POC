@@ -1,0 +1,67 @@
+<http-page executeResourcesDynamically="false" name="/rec/bundle_2"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/f0769380-3a36-4101-81e8-8109bfd33a05.zip"
+    slaProfileEnabled="false" thinkTime="4460"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="f0769380-3a36-4101-81e8-8109bfd33a05">
+    <embedded-action>a61c4b22-d3f7-4258-9d01-0f6c70228e53</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/rec/bundle" path="/rec/bundle" postType="4"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/f0769380-3a36-4101-81e8-8109bfd33a05.zip"
+    recordedResponseCode="200" responseSize="29"
+    serverUid="rs.fullstory.com" slaProfileEnabled="false"
+    uid="a61c4b22-d3f7-4258-9d01-0f6c70228e53" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_a61c4b22-d3f7-4258-9d01-0f6c70228e53</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_a61c4b22-d3f7-4258-9d01-0f6c70228e53.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true" name="OrgId"
+        recordRawValue="TQCFZ" separator="=" value="TQCFZ" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="UserId"
+        recordRawValue="6094149355069440" separator="="
+        value="6094149355069440" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="SessionId" recordRawValue="5407716160069632" separator="="
+        value="5407716160069632" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="PageId"
+        recordRawValue="6304641898012672" separator="="
+        value="6304641898012672" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="Seq"
+        recordRawValue="80" separator="=" value="80" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="PageStart" recordRawValue="1638177899114" separator="="
+        value="1638177899114" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="PrevBundleTime" recordRawValue="1638178434953"
+        separator="=" value="1638178434953" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="LastActivity" recordRawValue="151" separator="="
+        value="151" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://stage.danmurphys.com.au"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="text/plain"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-origin: https://stage.danmurphys.com.au&#xd;
+content-type: application/json; charset=utf-8&#xd;
+date: Mon, 29 Nov 2021 09:33:59 GMT&#xd;
+content-length: 29&#xd;
+via: 1.1 google&#xd;
+alt-svc: clear</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"Seq":80,"When":536369,"Evts":[{"Kind":63,"Args":["GET","https://stageapi.danmurphys.com.au/apis/ui/Products/Bundles/2924,98903,839496,73587,705049,921683,9067,36444,365986,47988,809797,34141,824027,72993,768443,915872,67870,723049,907623,902430?ExcludeUnavailable=true",162,200,"accept: application/json, text/plain, */*\r\n","cache-control: no-cache, no-store, must-revalidate\r\ncontent-length: 22431\r\ncontent-type: application/json; charset=utf-8\r\nexpires: -1\r\npragma: no-cache\r\nx-eventid\r\n",1638178434203,0,127942,null,null,0,1],"When":536369},{"Kind":42,"Args":[1349,2484],"When":536398},{"Kind":57,"Args":[2,"https://recs.richrelevance.com/rrserver/p13n_generated.js?a=60a1c6334ee7122a&ts=1638178433481&v=1.2.6.20210212&ssl=t&pt=%7Ccart_page.recs1&u=8004469&s=af04c4ff7abbd45b29fc750291c14286daqxxydoxc&cts=https%3A%2F%2Fstage.danmurphys.com.au&rid=NSW&userAttribute=customer-type%3Amdm%7Cstate%3ANSW%7Cstore%3ANSW%20-%20Castle%20Hill&p=%7Cdm_824111%7Cdm_17621%7Cdm_357480&pref=http%3A%2F%2Fwww.neotys.com%2F&rcs=eF5j4cotK8lM4TMzM9A11DVkKU32MDUyNUxKMUjUNTBJStM1MTGw1E21SDLUTUo2TTO1sDRJMzAwAwCEmQ34&l=1",553026.5999999046,697.5,"script",0,0,553026.5999999046,0,0,0,0,0,0,0,553724.0999999046,0,0,0],"When":536405},{"Kind":57,"Args":[2,"https://stageapi.danmurphys.com.au/apis/ui/Products/Bundles/2924,98903,839496,73587,705049,921683,9067,36444,365986,47988,809797,34141,824027,72993,768443,915872,67870,723049,907623,902430?ExcludeUnavailable=true",553730.0999999046,161.19999980926514,"xmlhttprequest",0,0,553730.0999999046,0,0,0,0,0,0,0,553891.2999997139,0,0,0],"When":536405},{"Kind":4,"Args":[29563,"src","https://dmouatmedia.blob.core.windows.net/dmo/product/2924-1.png?impolicy=PROD_SM"],"When":536504},{"Kind":4,"Args":[29619,"src","https://dmouatmedia.blob.core.windows.net/dmo/product/98903-1.png?impolicy=PROD_SM"],"When":536504},{"Kind":4,"Args":[29673,"src","https://dmouatmedia.blob.core.windows.net/dmo/product/839496-1.png?impolicy=PROD_SM"],"When":536504},{"Kind":4,"Args":[29727,"src","https://dmouatmedia.blob.core.windows.net/dmo/product/73587-1.png?impolicy=PROD_SM"],"When":536504},{"Kind":4,"Args":[29788,"src","https://dmouatmedia.blob.core.windows.net/dmo/product/705049-1.png?impolicy=PROD_SM"],"When":536504},{"Kind":9,"Args":[536568,1254,1244,0,-19.6875,57,151,95.51612903225806,92.53125,28965],"When":536505},{"Kind":9,"Args":[536724,1221,944,-512.5333333333333,-348,193,301,252.13333333333333,104,29046],"When":536600},{"Kind":4,"Args":[29563,"style","opacity: 1;"],"When":536755},{"Kind":4,"Args":[29619,"style","opacity: 1;"],"When":536755},{"Kind":4,"Args":[29673,"style","opacity: 1;"],"When":536755},{"Kind":4,"Args":[29727,"style","opacity: 1;"],"When":536755},{"Kind":4,"Args":[29788,"style","opacity: 1;"],"When":536755},{"Kind":4,"Args":[29563,"data-lazy",null],"When":536755},{"Kind":4,"Args":[29563,"class","lazy-transition"],"When":536755},{"Kind":4,"Args":[29619,"data-lazy",null],"When":536755},{"Kind":4,"Args":[29619,"class","lazy-transition"],"When":536755},{"Kind":4,"Args":[29673,"data-lazy",null],"When":536755},{"Kind":4,"Args":[29673,"class","lazy-transition"],"When":536755},{"Kind":4,"Args":[29727,"data-lazy",null],"When":536755},{"Kind":4,"Args":[29727,"class","lazy-transition"],"When":536755},{"Kind":4,"Args":[29788,"data-lazy",null],"When":536755},{"Kind":4,"Args":[29788,"class","lazy-transition"],"When":536755},{"Kind":9,"Args":[536854,893,843,-43.48275862068966,-35.02777777777778,330,404,50.17241379310345,53.888888888888886,29081],"When":536757},{"Kind":8,"Args":[841,407,29081],"When":536880},{"Kind":87,"Args":[["https://stage.danmurphys.com.au/product/DM_34141/chandon-brut",1123],["https://stage.danmurphys.com.au/product/DM_72993/cointreau-orange-liqueur-700ml",1124],["https://stage.danmurphys.com.au/product/DM_768443/somersby-apple-cider-bottles-330ml",1125],["https://stage.danmurphys.com.au/product/DM_907623/smirnoff-red-label-vodka-1l",1126],["https://stage.danmurphys.com.au/product/DM_902430/bacardi-carta-blanca-superior-white-rum-1l",1127]],"When":536913},{"Kind":63,"Args":["POST","https://rs.fullstory.com/rec/bundle?OrgId=TQCFZ&UserId=6094149355069440&SessionId=5407716160069632&PageId=6304641898012672&Seq=79&PageStart=1638177899114&PrevBundleTime=1638178429601&LastActivity=2545",443,200,"content-type: text/plain\r\n","content-length: 29\r\ncontent-type: application/json; charset=utf-8\r\n",1638178434612,191878,29,null,null,1,1],"When":537010},{"Kind":83,"Args":[29228,1],"When":537082},{"Kind":83,"Args":[29349,1],"When":537126},{"Kind":57,"Args":[2,"https://rs.fullstory.com/rec/bundle?OrgId=TQCFZ&UserId=6094149355069440&SessionId=5407716160069632&PageId=6304641898012672&Seq=79&PageStart=1638177899114&PrevBundleTime=1638178429601&LastActivity=2545",554141.6999998093,438.5,"xmlhttprequest",0,0,554141.6999998093,0,0,0,0,0,0,0,554580.1999998093,0,0,0],"When":537135},{"Kind":10,"Args":[3,0,200],"When":537160},{"Kind":22,"Args":[29217,1,1],"When":537323},{"Kind":43,"Args":[29217,1,1],"When":537323},{"Kind":83,"Args":[29044,0],"When":537441},{"Kind":10,"Args":[3,0,400],"When":537496},{"Kind":4,"Args":[30708,"hidden",null],"When":537505},{"Kind":9,"Args":[537729,841,849,9.818181818181817,7.2,408,415,13.09090909090909,4.32,29328],"When":537657},{"Kind":22,"Args":[29338,1,1],"When":537662},{"Kind":43,"Args":[29338,1,1],"When":537662},{"Kind":8,"Args":[852,421,29078],"When":537742},{"Kind":22,"Args":[29217,0,0],"When":537755},{"Kind":43,"Args":[29217,0,0],"When":537755},{"Kind":22,"Args":[29338,0,0],"When":537755},{"Kind":43,"Args":[29338,0,0],"When":537755},{"Kind":9,"Args":[537865,856,864,9.3,11.624999999999998,427,463,15.5,81.375,29488],"When":537772},{"Kind":9,"Args":[537991,865,861,0,-11.875,470,471,1.5079365079365081,0,29488],"When":537896},{"Kind":9,"Args":[538112,852,850,-5.6875,0,474,476,2.84375,1.542372881355932,29488],"When":538021},{"Kind":8,"Args":[850,478,29488],"When":538178},{"Kind":8,"Args":[850,477,29488],"When":539382},{"Kind":83,"Args":[29044,0.3779166638851166],"When":539430},{"Kind":10,"Args":[3,0,300],"When":539487},{"Kind":9,"Args":[539997,850,857,8.862745098039216,7.0625,476,475,-2.215686274509804,0,29365],"When":539884},{"Kind":22,"Args":[29338,1,1],"When":540004},{"Kind":43,"Args":[29338,1,1],"When":540004},{"Kind":9,"Args":[540060,858,860,2,2,475,475,0,0,29365],"When":540028},{"Kind":9,"Args":[540403,860,861,1,1,474,474,0,0,29365],"When":540374},{"Kind":9,"Args":[540653,863,899,38.6551724137931,33.43333333333334,473,458,-12.206896551724137,-17.7,29367],"When":540594},{"Kind":9,"Args":[540747,966,970,4,4,427,426,-1,-1,29344],"When":540717},{"Kind":9,"Args":[540821,974,975,1,1,426,426,0,0,29344],"When":540778},{"Kind":9,"Args":[540965,973,940,-33,-33,424,407,-17,-17,29330],"When":540934},{"Kind":8,"Args":[929,390,29207],"When":540997},{"Kind":22,"Args":[29338,0,0],"When":541005},{"Kind":43,"Args":[29338,0,0],"When":541005},{"Kind":9,"Args":[541114,929,929,0,0,388,381,-2.6875,-5.548387096774194,29209],"When":541028},{"Kind":22,"Args":[29217,1,1],"When":541254},{"Kind":43,"Args":[29217,1,1],"When":541254}]}]]></textPostContent>
+</http-action>

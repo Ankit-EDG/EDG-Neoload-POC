@@ -1,0 +1,231 @@
+<http-page executeResourcesDynamically="false" name="/rec/page"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/f6f44be8-70e8-4d61-9108-d30bb0955bf2.zip"
+    slaProfileEnabled="false" thinkTime="378"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="f6f44be8-70e8-4d61-9108-d30bb0955bf2">
+    <embedded-action>a21705d4-7d64-493a-88ff-43e2d8065f74</embedded-action>
+    <embedded-action>ade6dc6b-17e6-4755-84e4-0bb7d38e2824</embedded-action>
+    <embedded-action>2d75058e-35dd-47bd-8b3f-23b9634a2362</embedded-action>
+    <embedded-action>45a40106-3e77-4507-b4cd-ecd4ef2cadf6</embedded-action>
+    <embedded-action>5928cb32-47dd-48bc-98f1-54672a46281c</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/rec/page" path="/rec/page" postType="4"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/f6f44be8-70e8-4d61-9108-d30bb0955bf2.zip"
+    recordedResponseCode="200" responseSize="12956"
+    serverUid="rs.fullstory.com" slaProfileEnabled="false"
+    uid="a21705d4-7d64-493a-88ff-43e2d8065f74" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_a21705d4-7d64-493a-88ff-43e2d8065f74</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_a21705d4-7d64-493a-88ff-43e2d8065f74.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://stage.danmurphys.com.au"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="text/plain"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-origin: https://stage.danmurphys.com.au&#xd;
+content-encoding: gzip&#xd;
+content-type: application/json; charset=utf-8&#xd;
+date: Mon, 29 Nov 2021 09:24:59 GMT&#xd;
+via: 1.1 google&#xd;
+alt-svc: clear</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"OrgId":"TQCFZ","UserId":"6094149355069440","Url":"https://stage.danmurphys.com.au/dm/home","Base":"https://stage.danmurphys.com.au/","Width":1349,"Height":625,"ScreenWidth":1366,"ScreenHeight":768,"Referrer":"http://www.neotys.com/","Preroll":17780,"Doctype":"<!DOCTYPE html>","CompiledVersion":"a91106ef34","CompiledTimestamp":1636568183}]]></textPostContent>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/cm/yh" path="/cm/yh" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/f6f44be8-70e8-4d61-9108-d30bb0955bf2.zip"
+    recordedResponseCode="302" responseSize="0"
+    serverUid="cm.everesttech.net" slaProfileEnabled="false"
+    uid="ade6dc6b-17e6-4755-84e4-0bb7d38e2824" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_ade6dc6b-17e6-4755-84e4-0bb7d38e2824</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_ade6dc6b-17e6-4755-84e4-0bb7d38e2824.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="everest_g_v2=g_surferid~YaScZwAAAFvL2QP9"/>
+    <header name="Host" value="cm.everesttech.net"/>
+    <header name="Referer" value="https://wwg.demdex.net/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 302 &#xd;
+Date: Mon, 29 Nov 2021 09:24:59 GMT&#xd;
+Content-Length: 0&#xd;
+Connection: keep-alive&#xd;
+Set-Cookie: ev_sync_yh=20211129;path=/;Max-Age=2678400;domain=.everesttech.net;Secure;SameSite=None&#xd;
+P3P: CP="NOI NID DEVa PSAa PSDa OUR IND PUR COM NAV INT DEM"&#xd;
+Cache-Control: no-cache&#xd;
+Location: https://ads.yahoo.com/cms/v1?nwid=10001117525&amp;eid=YaScZwAAAFvL2QP9&amp;sigv=1&amp;esig=1~2d1bd368f63fa95cba2721f5ed5a3cb39c15a03d&#xd;
+Server: AMO-cookiemap/1.1</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/p.css" path="/p.css" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/f6f44be8-70e8-4d61-9108-d30bb0955bf2.zip"
+    recordedResponseCode="200" responseSize="5"
+    serverUid="p.typekit.net" slaProfileEnabled="false"
+    uid="2d75058e-35dd-47bd-8b3f-23b9634a2362" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_2d75058e-35dd-47bd-8b3f-23b9634a2362.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_2d75058e-35dd-47bd-8b3f-23b9634a2362.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="s"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="k"
+        recordRawValue="afy4xey" separator="=" value="afy4xey" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ht"
+        recordRawValue="tk" separator="=" value="tk" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="f"
+        recordRawValue="32224.32227.32228.32231.32232.32235.32237.10875.32265"
+        separator="="
+        value="32224.32227.32228.32231.32232.32235.32237.10875.32265" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="a"
+        recordRawValue="49605153" separator="=" value="49605153" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="app"
+        recordRawValue="typekit" separator="=" value="typekit" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="e"
+        recordRawValue="css" separator="=" value="css" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://use.typekit.net/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="style"/>
+    <header name="accept" value="text/css,*/*;q=0.1"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+access-control-allow-origin: *&#xd;
+cache-control: public, max-age=604800&#xd;
+content-type: text/css&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+etag: "5f7b37fb-5"&#xd;
+last-modified: Mon, 05 Oct 2020 15:12:59 GMT&#xd;
+server: nginx&#xd;
+content-length: 5&#xd;
+date: Mon, 29 Nov 2021 09:24:59 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/s/fs.js" path="/s/fs.js" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/f6f44be8-70e8-4d61-9108-d30bb0955bf2.zip"
+    recordedResponseCode="200" responseSize="220959"
+    serverUid="edge.fullstory.com" slaProfileEnabled="false"
+    uid="45a40106-3e77-4507-b4cd-ecd4ef2cadf6" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_45a40106-3e77-4507-b4cd-ecd4ef2cadf6</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_45a40106-3e77-4507-b4cd-ecd4ef2cadf6.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://prdedgccslivraue.z8.web.core.windows.net/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="origin" value="https://prdedgccslivraue.z8.web.core.windows.net"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+x-guploader-uploadid: ADPycduucHVUxTuMVmd9GIdwrzPgXU-vPCfP2fXLFVDci6Ae4wbD_ZLpEjG8rGwGxLgMtk7m0I0XeIekLJE24TIQRVY&#xd;
+date: Mon, 29 Nov 2021 08:26:52 GMT&#xd;
+expires: Mon, 29 Nov 2021 09:26:52 GMT&#xd;
+last-modified: Thu, 11 Nov 2021 16:56:30 GMT&#xd;
+etag: "8044aa08a536a27b1716656fdb423e9f"&#xd;
+x-goog-generation: 1636649790328030&#xd;
+x-goog-metageneration: 1&#xd;
+x-goog-stored-content-encoding: gzip&#xd;
+x-goog-stored-content-length: 66379&#xd;
+content-type: application/javascript&#xd;
+content-encoding: gzip&#xd;
+x-goog-hash: crc32c=okCYgQ==&#xd;
+x-goog-hash: md5=gESqCKU2onsXFmVv20I+nw==&#xd;
+x-goog-storage-class: MULTI_REGIONAL&#xd;
+accept-ranges: bytes&#xd;
+content-length: 66379&#xd;
+access-control-allow-origin: *&#xd;
+access-control-expose-headers: Content-Length, Content-Type, Date, Server, Transfer-Encoding, X-GUploader-UploadID, X-Google-Trace&#xd;
+server: UploadServer&#xd;
+age: 3487&#xd;
+cache-control: public, max-age=3600,no-transform&#xd;
+alt-svc: clear</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="2" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/cms/v1" path="/cms/v1" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/f6f44be8-70e8-4d61-9108-d30bb0955bf2.zip"
+    recordedResponseCode="204"
+    refererUid="ade6dc6b-17e6-4755-84e4-0bb7d38e2824" responseSize="0"
+    serverUid="ads.yahoo.com" slaProfileEnabled="false"
+    uid="5928cb32-47dd-48bc-98f1-54672a46281c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_5928cb32-47dd-48bc-98f1-54672a46281c</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_5928cb32-47dd-48bc-98f1-54672a46281c.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="nwid"
+        recordRawValue="10001117525" separator="=" value="10001117525" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="eid"
+        recordRawValue="YaScZwAAAFvL2QP9" separator="="
+        value="YaScZwAAAFvL2QP9" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="sigv"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="esig"
+        recordRawValue="1~2d1bd368f63fa95cba2721f5ed5a3cb39c15a03d"
+        separator="=" value="1~2d1bd368f63fa95cba2721f5ed5a3cb39c15a03d" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://wwg.demdex.net/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+date: Mon, 29 Nov 2021 09:24:59 GMT&#xd;
+strict-transport-security: max-age=15552000&#xd;
+server: ATS&#xd;
+cache-control: no-store&#xd;
+expect-ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"&#xd;
+x-xss-protection: 1; mode=block&#xd;
+x-content-type-options: nosniff&#xd;
+set-cookie: A3=d=AQABBGucpGECEN8cKkZWE2BVcYnPLFPrIS0FEgEBAQHtpWGuYQAAAAAA_eMAAA&amp;S=AQAAAuw_Njks2BNv2LpcEAerQeQ; Expires=Tue, 29 Nov 2022 15:24:59 GMT; Max-Age=31557600; Domain=.yahoo.com; Path=/; SameSite=None; Secure; HttpOnly&#xd;
+set-cookie: B=2q8fbadgq973b&amp;b=3&amp;s=4a; Expires=Tue, 29 Nov 2022 15:24:59 GMT; Max-Age=31557600; Domain=.yahoo.com; Path=/</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

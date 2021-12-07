@@ -1,0 +1,51 @@
+<http-page executeResourcesDynamically="false" name="/AdServer/Pug"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/bbe6664d-1920-4c6c-a02a-75cd2e5622a8.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="bbe6664d-1920-4c6c-a02a-75cd2e5622a8">
+    <embedded-action>32e6220d-72a9-4bf4-b520-ccb8cc79e315</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="image/gif; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/AdServer/Pug" path="/AdServer/Pug" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/bbe6664d-1920-4c6c-a02a-75cd2e5622a8.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="simage2.pubmatic.com" slaProfileEnabled="false"
+    uid="32e6220d-72a9-4bf4-b520-ccb8cc79e315" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_32e6220d-72a9-4bf4-b520-ccb8cc79e315.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_32e6220d-72a9-4bf4-b520-ccb8cc79e315.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="false" name="vcode"
+        recordRawValue="bz0yJnR5cGU9MSZjb2RlPTM2MiZ0bD00MzIwMA=="
+        separator="=" value="bz0yJnR5cGU9MSZjb2RlPTM2MiZ0bD00MzIwMA==" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false"
+        name="piggybackCookie"
+        recordRawValue="uid:46d861a4-9c64-4600-b29d-cedecb0f4672"
+        separator="=" value="uid:46d861a4-9c64-4600-b29d-cedecb0f4672" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://pixel.mathtag.com/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+server: nginx&#xd;
+date: Mon, 29 Nov 2021 09:30:47 GMT&#xd;
+content-type: image/gif; charset=utf-8&#xd;
+content-length: 42&#xd;
+set-cookie: KRTBCOOKIE_27=16735-uid:46d861a4-9c64-4600-b29d-cedecb0f4672&amp;KRTB&amp;16736-uid:46d861a4-9c64-4600-b29d-cedecb0f4672&amp;KRTB&amp;23019-uid:46d861a4-9c64-4600-b29d-cedecb0f4672&amp;KRTB&amp;23114-uid:46d861a4-9c64-4600-b29d-cedecb0f4672; domain=pubmatic.com; SameSite=None; secure; expires=Tue, 29-Nov-2022 09:30:47 GMT; path=/&#xd;
+set-cookie: PugT=1638178247; domain=pubmatic.com; SameSite=None; secure; expires=Wed, 29-Dec-2021 09:30:47 GMT; path=/&#xd;
+set-cookie: PUBMDCID=4; domain=pubmatic.com; SameSite=None; secure; expires=Sun, 27-Feb-2022 09:30:47 GMT; path=/&#xd;
+x-lat: sg3pug001:0:434&#xd;
+p3p: CP="NOI DSP COR LAW CUR ADMo DEVo TAIo PSAo PSDo IVAo IVDo HISo OTPo OUR SAMo BUS UNI COM NAV INT DEM CNT STA PRE LOC"&#xd;
+cache-control: no-store, no-cache, private</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

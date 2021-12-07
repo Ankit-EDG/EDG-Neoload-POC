@@ -1,0 +1,67 @@
+<http-page executeResourcesDynamically="false" name="/rec/bundle_11"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/205d72e4-8620-4813-be00-8d5e4dc9bff4.zip"
+    slaProfileEnabled="false" thinkTime="462"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="205d72e4-8620-4813-be00-8d5e4dc9bff4">
+    <embedded-action>4f63395f-5d4e-4833-9623-de2d7c8c970d</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/rec/bundle" path="/rec/bundle" postType="4"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/205d72e4-8620-4813-be00-8d5e4dc9bff4.zip"
+    recordedResponseCode="200" responseSize="29"
+    serverUid="rs.fullstory.com" slaProfileEnabled="false"
+    uid="4f63395f-5d4e-4833-9623-de2d7c8c970d" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_4f63395f-5d4e-4833-9623-de2d7c8c970d</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_4f63395f-5d4e-4833-9623-de2d7c8c970d.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true" name="OrgId"
+        recordRawValue="TQCFZ" separator="=" value="TQCFZ" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="UserId"
+        recordRawValue="6094149355069440" separator="="
+        value="6094149355069440" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="SessionId" recordRawValue="5407716160069632" separator="="
+        value="5407716160069632" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="PageId"
+        recordRawValue="6304641898012672" separator="="
+        value="6304641898012672" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="Seq"
+        recordRawValue="89" separator="=" value="89" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="PageStart" recordRawValue="1638177899114" separator="="
+        value="1638177899114" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="PrevBundleTime" recordRawValue="1638178479604"
+        separator="=" value="1638178479604" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="LastActivity" recordRawValue="1283" separator="="
+        value="1283" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://stage.danmurphys.com.au"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="text/plain"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-origin: https://stage.danmurphys.com.au&#xd;
+content-type: application/json; charset=utf-8&#xd;
+date: Mon, 29 Nov 2021 09:34:44 GMT&#xd;
+content-length: 29&#xd;
+via: 1.1 google&#xd;
+alt-svc: clear</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"Seq":89,"When":581504,"Evts":[{"Kind":63,"Args":["POST","https://rs.fullstory.com/rec/bundle?OrgId=TQCFZ&UserId=6094149355069440&SessionId=5407716160069632&PageId=6304641898012672&Seq=88&PageStart=1638177899114&PrevBundleTime=1638178474604&LastActivity=2284",187,200,"content-type: text/plain\r\n","content-length: 29\r\ncontent-type: application/json; charset=utf-8\r\n",1638178479507,4024,29,null,null,1,1],"When":581504},{"Kind":57,"Args":[2,"https://rs.fullstory.com/rec/bundle?OrgId=TQCFZ&UserId=6094149355069440&SessionId=5407716160069632&PageId=6304641898012672&Seq=88&PageStart=1638177899114&PrevBundleTime=1638178474604&LastActivity=2284",599034.9000000954,184.69999980926514,"xmlhttprequest",0,0,599034.9000000954,0,0,0,0,0,0,0,599219.5999999046,0,0,0],"When":581728},{"Kind":57,"Args":[2,"https://h.online-metrix.net/fp/clear3.png;CIS3SID=B6CB1B2F6BD2B932897B96FA0F6A6BE2?org_id=1snn5n9w&session_id=dan_murphys2c1uui-2ozosyuv&nonce=d79801f6091083b5&jac=1&je=33363d3b2e266f6f7d7b676f743d25374a2d30387c6f702d323025334b392d3241253a3a7176637274253a3a27394b3b343b383337383e3c3b303b332d3a41273032656e6c2d30382f394339363230332f384b2530327b6b706d6e6c25323a2d314b3d3a322d32412532386e61737661666b6727303225334939363c33243a2d3241253238636c6c67253a3a2731433125324b2d303a2f3830656f7773652f383a2531412d3f4027354425374c2e6f797e37273f422732327c6f7a2530322d3b4331273243253a3a6f6e55676b6625303225394b3a38372e3d3f273041253232656c5d6b7c6d273a322733413e32312e3b332d3a412730326d64576563722f38302d334338333c24303627324b2d30306f765f6d61662738382f3149302732432f383a6d745f697e65273032253349382c3a392f304b2530326d7c5565617a253a3a273143302e303d2d30492f383065695d6d69642f3a322733493927304125323265615d6b7c6d273a3227334139243e3727324b2d30306f695f6d69702738382f3149352732432f383a6d615f65616c273032253349392c3b2f38412d32306d63556b7e6727323a2d3143332e37362d3a412f38386f6b5f6f61782f383a2531413a263b27304325323a7f665567636c2d323025334b38383027324b2d303075645f617e6f2738382f31493337302538492d3230776c576f637a2532322d3b433f3a3a273a432732327d78576d6b6e2d3a3027314130253a4b2738387d70576174672538382d3343302d3a412730327772576563722f38302d3343302538492d3230626c576f6b6c2532322d3b433a2f38412d32306264556b7e6727323a2d3143322532432d3a30686e556f69782732322f39493027324b2d303060635f4c2d3a302f394b322d3241253238686b5f4f253a3a2731433025324b2d303868695d5a25303225394b382530432d3a3066766925323a2d314b383b34312e3a2532492f3a326376712d3030273341302638332f3849273a326674732f383a2531413a38332c3a3125324b2d3038697e772d323025334b3a26303b332d3a412730327474612d30382f394339363230332f384b2530327b6972273032253349382c3b3e2f304b2530326168782d3230253b493a34333132253a4b273838626f6d25303225394b382530432d3a306a6f7325323a2d314b3a2f304b253032686b6f2d3230253b493227304325323a606c6f2f38302d3343302538492d3230646661273030253341392d30492f38306c6e712532382f3b4133253a4b2730306d6e6f2d3a302f394b332d32412532386",598634.7999997139,804.6000003814697,"script",0,0,598634.7999997139,0,0,0,0,0,0,0,599439.4000000954,0,0,0],"When":581728},{"When":583009,"Kind":54,"Args":[4004]},{"Kind":8,"Args":[882,323,30948],"When":583698},{"Kind":8,"Args":[887,336,30948],"When":583756},{"Kind":9,"Args":[583849,889,890,1,1,345,345,0,0,31292],"When":583786},{"Kind":8,"Args":[890,348,31292],"When":584441},{"Kind":10,"Args":[3,0,600],"When":584961},{"Kind":57,"Args":[2,"https://h.online-metrix.net/fp/clear3.png;CIS3SID=B6CB1B2F6BD2B932897B96FA0F6A6BE2?org_id=1snn5n9w&session_id=dan_murphys2c1uui-2ozosyuv&nonce=d79801f6091083b5&jac=1&je=34313c3e2e266f6f7d7b676f743d25374a2d30387c6f702d323025334b392d3241253a3a7176637274253a3a27394b3b343b383337383e3c3b303b332d3a41273032656e6c2d30382f39433a303230372f384b2530327b6b706d6e6c25323a2d314b3d3a322d32412532386e61737661666b672730322533493934393224363025304325383861646e652d3a3027314131253a4b27383a2f303a6d6d75736f2f3a322733492d3540273744253f4c2467797e3f2d37402532387c6d7227323a2d3143312532432d3a30676e556f616e2732322f3949313438263e3527304325323a6566556b7c652d323025334b3e38392c363a2d30412732326d6c576f6b722f303a25314138393c263834253a4b2730306d765f65616c2f3838273b41322532492f3a326f7657697465273232253b4932243a39273a43273232677c576d63782d3a30273141302e383d2738492f303a6d6b5f6d63642d3230253b493327304325323a656b556b7c652d323025334b39263237253a4b2730306d695f65697a2f3838273b41372532492f3a326f6357656b6c273232253b4933243b2f304b2530326d6955697665253a3a273143312e373b2d30492f383065635d6d61722f3a322733493a2c3b273243253a3a756e55676b6625303225394b3a3032253a4b27303077645f697e652f3838273b413135302f384b2530327f6c5d6f637825323a2d314b3f3a322d32412532387d7a5f6f69662d3030273341302d3a412f3838757a5f6376672f383a253141382d3041273232777a576f6b722f303a253141302f384b2530326a6c5d6f6b6e25323a2d314b3a2f304b253032626e55697665253a3a2731433025324b2d3038686e5d65617a2532382f3b4132253a4b27303062635f442d30382f3943382530432538386a635d4d2d3a3027314130253a4b273838686157522732322f39493027324b2d3030667469253a3a27394b38313b382c34382f384b253032697e7b273032253349382c3a3b2f304b253032647e792d3230253b493332332e39382d3a412f3838617c752732322f3949302c303c3b3427304325323a7c76632f38302d334332303a3a3f2530432d3a3071637025323a2d314b3a24333a253043253838696270253a3a273143393831313a2738492f303a686f652538382d3343302d3a41273032686d7b2d30382f394338253043253838606167253a3a2731433025324b2d30386264672d323025334b3a2d3241253a3a666c6b2532322d3b433b2f38412d3230646e792f3a322733493a27304125323265666d2f3838273b41332532492",602625.1999998093,951,"script",0,0,602625.1999998093,0,0,0,0,0,0,0,603576.1999998093,0,0,0],"When":586088}]}]]></textPostContent>
+</http-action>

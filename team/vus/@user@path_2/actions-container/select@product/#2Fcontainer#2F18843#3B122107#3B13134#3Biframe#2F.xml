@@ -1,0 +1,223 @@
+<http-page executeResourcesDynamically="false"
+    name="/container/18843;122107;13134;iframe/"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path_2/%resources%/recorded-artifacts/8121fb58-c0fe-4fc3-ae94-43b56a3cd0ea.zip"
+    slaProfileEnabled="false" thinkTime="28"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="8121fb58-c0fe-4fc3-ae94-43b56a3cd0ea">
+    <embedded-action>3491987e-17bd-406f-b3f1-4af60905df93</embedded-action>
+    <embedded-action>4334a387-b7d3-4854-bd01-78f4e4fe2feb</embedded-action>
+    <embedded-action>25b96b30-a339-4c3b-adf4-e340e13abed3</embedded-action>
+    <embedded-action>4e4503b2-df47-4bfd-8f62-a8307e692625</embedded-action>
+    <embedded-action>888d6902-b234-42d8-b55d-82a259a69204</embedded-action>
+</http-page>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/assets/icons/v2/icons-sprite.svg"
+    path="/assets/icons/v2/icons-sprite.svg" postType="2"
+    recordedArtifactZipFileName="team/vus/@user@path_2/%resources%/recorded-artifacts/8121fb58-c0fe-4fc3-ae94-43b56a3cd0ea.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="stage.danmurphys.com.au_1" slaProfileEnabled="false"
+    uid="3491987e-17bd-406f-b3f1-4af60905df93" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_3491987e-17bd-406f-b3f1-4af60905df93</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_3491987e-17bd-406f-b3f1-4af60905df93.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="at_check=true; cacheBustKey=1638172155023; unbxd.userId=uid-1638172157975-23602; unbxd.visit=first_time; unbxd.visitId=visitId-1638172157983-70518; AMCVS_1124C2D754E497DC0A4C98C6%40AdobeOrg=1; WTPERSIST=; ORA_FPC=id=a310c3a6-f82a-4c3f-b069-bce5bb19de6c; s_ecid=MCMID%7C72549628170816142094091373912557784882; mdLogger=false; kampyleUserSession=1638172186415; kampyleUserSessionsCount=34; _gcl_au=1.1.1261985927.1638172187; _fbp=fb.2.1638172189824.140473466; customerIdMboxcookie=8004469; WTPERSIST=8004469; ISCUSTID=8004469; fs_uid=rs.fullstory.com#TQCFZ#6094149355069440:5759456629776384#f6ed06d6#/1669708215; AMCV_1124C2D754E497DC0A4C98C6%40AdobeOrg=-1124106680%7CMCIDTS%7C18961%7CMCMID%7C72549628170816142094091373912557784882%7CMCAAMLH-1638777016%7C8%7CMCAAMB-1638777016%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1638179416s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-18968%7CMCCIDH%7C104992502%7CvVersion%7C5.2.0; s_nr30=1638172410375-New; rr_rcs=eF5jYSlN9jA1MjVMSjFI1DUwSUrTNTExsNRNtUgy1E1KNk0ztbA0STMwMOPKLSvJTOEzMzPQNdQ1BACGqw34; unbxd.pen.click.1638172422825=eyJwaWQiOiIzMzUwMDkiLCJwciI6MywiZXhwZXJpZW5jZV9wYWdldHlwZSI6Ik5VTEwiLCJ1cmwiOiJodHRwczovL3N0YWdlLmRhbm11cnBoeXMuY29tLmF1L3Byb2R1Y3QvRE1fMzM1MDA5L2ppbS1iZWFtLXdoaXRlLWxhYmVsLWtlbnR1Y2t5LXN0cmFpZ2h0LWJvdXJib24td2hpc2tleS0xbCIsInJlZmVycmVyIjoiaHR0cDovL3d3dy5uZW90eXMuY29tLyIsInZpc2l0X3R5cGUiOiJmaXJzdF90aW1lIiwidmVyIjoiNC4wLjI4IiwiX3VmIjo3NjM3ODIzMDAsInZpc2l0SWQiOiJ2aXNpdElkLTE2MzgxNzIxNTc5ODMtNzA1MTgifQ%3D%3D; mbox=session#90fb7827d2644a72a6a32c5d91137a32#1638174283|PC#90fb7827d2644a72a6a32c5d91137a32.36_0#1701417223; kampyleSessionPageCounter=3"/>
+    <header name="Host" value="stage.danmurphys.com.au"/>
+    <header name="If-Modified-Since" value="Fri, 12 Nov 2021 00:05:30 GMT"/>
+    <header name="If-None-Match" value="&quot;0c16159d7d71:0&quot;"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/product/DM_335009/jim-beam-white-label-kentucky-straight-bourbon-whiskey-1l"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="same-origin"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 304 Not Modified&#xd;
+Cache-Control: no-cache&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "0c16159d7d71:0"&#xd;
+Server: Microsoft-IIS/10.0&#xd;
+X-Powered-By: ASP.NET&#xd;
+Date: Mon, 29 Nov 2021 07:53:43 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/apis/ui/BazaarVoice/RatingsAndReviews"
+    path="/apis/ui/BazaarVoice/RatingsAndReviews" postType="2"
+    recordedArtifactZipFileName="team/vus/@user@path_2/%resources%/recorded-artifacts/8121fb58-c0fe-4fc3-ae94-43b56a3cd0ea.zip"
+    recordedResponseCode="200" responseSize="2321"
+    serverUid="stageapi.danmurphys.com.au" slaProfileEnabled="false"
+    uid="4334a387-b7d3-4854-bd01-78f4e4fe2feb" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_4334a387-b7d3-4854-bd01-78f4e4fe2feb</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_4334a387-b7d3-4854-bd01-78f4e4fe2feb.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="ProductId"
+        recordRawValue="DM_335009" separator="=" value="DM_335009" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="PageSize"
+        recordRawValue="4" separator="=" value="4" valueMode="USE_VALUE"/>
+    <header name="Accept" value="application/json, text/plain, */*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="ARRAffinity=4d79012f35c23ca1098175dac739fb7f26c467de6b3d368c36d45bf763671913; ARRAffinitySameSite=4d79012f35c23ca1098175dac739fb7f26c467de6b3d368c36d45bf763671913; unbxd.userId=uid-1638172157975-23602; unbxd.visit=first_time; unbxd.visitId=visitId-1638172157983-70518; w-arjshtsw=j02761f35f13e40aeb50a27ffb43234f7jfipugnvj; AMCVS_1124C2D754E497DC0A4C98C6%40AdobeOrg=1; WTPERSIST=; ORA_FPC=id=a310c3a6-f82a-4c3f-b069-bce5bb19de6c; s_ecid=MCMID%7C72549628170816142094091373912557784882; _gcl_au=1.1.1261985927.1638172187; _fbp=fb.2.1638172189824.140473466; w-PRGATHCK0=304edc49-ac77-452d-b68c-e37af524f7e6:j02761f35f13e40aeb50a27ffb43234f7jfipugnvj; w-rsjhf=PGcgLz4=; fs_uid=rs.fullstory.com#TQCFZ#6094149355069440:5759456629776384#f6ed06d6#/1669708215; AMCV_1124C2D754E497DC0A4C98C6%40AdobeOrg=-1124106680%7CMCIDTS%7C18961%7CMCMID%7C72549628170816142094091373912557784882%7CMCAAMLH-1638777016%7C8%7CMCAAMB-1638777016%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1638179416s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-18968%7CMCCIDH%7C104992502%7CvVersion%7C5.2.0; s_nr30=1638172410375-New; rr_rcs=eF5jYSlN9jA1MjVMSjFI1DUwSUrTNTExsNRNtUgy1E1KNk0ztbA0STMwMOPKLSvJTOEzMzPQNdQ1BACGqw34; unbxd.pen.click.1638172422825=eyJwaWQiOiIzMzUwMDkiLCJwciI6MywiZXhwZXJpZW5jZV9wYWdldHlwZSI6Ik5VTEwiLCJ1cmwiOiJodHRwczovL3N0YWdlLmRhbm11cnBoeXMuY29tLmF1L3Byb2R1Y3QvRE1fMzM1MDA5L2ppbS1iZWFtLXdoaXRlLWxhYmVsLWtlbnR1Y2t5LXN0cmFpZ2h0LWJvdXJib24td2hpc2tleS0xbCIsInJlZmVycmVyIjoiaHR0cDovL3d3dy5uZW90eXMuY29tLyIsInZpc2l0X3R5cGUiOiJmaXJzdF90aW1lIiwidmVyIjoiNC4wLjI4IiwiX3VmIjo3NjM3ODIzMDAsInZpc2l0SWQiOiJ2aXNpdElkLTE2MzgxNzIxNTc5ODMtNzA1MTgifQ%3D%3D; ADRUM_BTa=R:32|g:07fa7cf0-435a-42d8-a4d6-29b2bff12001|n:Woolworths-Dev_2b311050-b631-46eb-a435-beea47816b7e"/>
+    <header name="Host" value="stageapi.danmurphys.com.au"/>
+    <header name="Origin" value="https://stage.danmurphys.com.au"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache, no-store, must-revalidate&#xd;
+Pragma: no-cache&#xd;
+Content-Length: 1082&#xd;
+Content-Type: application/json; charset=utf-8&#xd;
+Content-Encoding: gzip&#xd;
+Expires: -1&#xd;
+Vary: Accept,Accept-Encoding&#xd;
+Server: Microsoft-IIS/10.0&#xd;
+Set-Cookie: ADRUM_BTa=R:32|g:803ac9fb-ec8a-426c-8ed6-675c86ae0806|n:Woolworths-Dev_2b311050-b631-46eb-a435-beea47816b7e; expires=Mon, 29-Nov-2021 07:54:14 GMT; path=/&#xd;
+X-Powered-By: Olympic TRADER&#xd;
+Access-Control-Allow-Origin: https://stage.danmurphys.com.au&#xd;
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS&#xd;
+Access-Control-Allow-Headers: Content-Type, dmIV, Source, X-EventID&#xd;
+Access-Control-Expose-Headers: X-EventID&#xd;
+Access-Control-Allow-Credentials: true&#xd;
+X-EventID: c3484c80-0221-4329-bcf9-0b200a6c8bb8&#xd;
+X-Powered-By: ServiceStack/4.052 Win32NT/.NET&#xd;
+X-AspNet-Version: 4.0.30319&#xd;
+X-Powered-By: ASP.NET&#xd;
+Date: Mon, 29 Nov 2021 07:53:45 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/assets/images/share-facebook.png"
+    path="/assets/images/share-facebook.png" postType="2"
+    recordedArtifactZipFileName="team/vus/@user@path_2/%resources%/recorded-artifacts/8121fb58-c0fe-4fc3-ae94-43b56a3cd0ea.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="stage.danmurphys.com.au_1" slaProfileEnabled="false"
+    uid="25b96b30-a339-4c3b-adf4-e340e13abed3" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_25b96b30-a339-4c3b-adf4-e340e13abed3.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_25b96b30-a339-4c3b-adf4-e340e13abed3.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="at_check=true; cacheBustKey=1638172155023; unbxd.userId=uid-1638172157975-23602; unbxd.visit=first_time; unbxd.visitId=visitId-1638172157983-70518; AMCVS_1124C2D754E497DC0A4C98C6%40AdobeOrg=1; WTPERSIST=; ORA_FPC=id=a310c3a6-f82a-4c3f-b069-bce5bb19de6c; s_ecid=MCMID%7C72549628170816142094091373912557784882; mdLogger=false; kampyleUserSession=1638172186415; kampyleUserSessionsCount=34; _gcl_au=1.1.1261985927.1638172187; _fbp=fb.2.1638172189824.140473466; customerIdMboxcookie=8004469; WTPERSIST=8004469; ISCUSTID=8004469; fs_uid=rs.fullstory.com#TQCFZ#6094149355069440:5759456629776384#f6ed06d6#/1669708215; AMCV_1124C2D754E497DC0A4C98C6%40AdobeOrg=-1124106680%7CMCIDTS%7C18961%7CMCMID%7C72549628170816142094091373912557784882%7CMCAAMLH-1638777016%7C8%7CMCAAMB-1638777016%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1638179416s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-18968%7CMCCIDH%7C104992502%7CvVersion%7C5.2.0; s_nr30=1638172410375-New; rr_rcs=eF5jYSlN9jA1MjVMSjFI1DUwSUrTNTExsNRNtUgy1E1KNk0ztbA0STMwMOPKLSvJTOEzMzPQNdQ1BACGqw34; unbxd.pen.click.1638172422825=eyJwaWQiOiIzMzUwMDkiLCJwciI6MywiZXhwZXJpZW5jZV9wYWdldHlwZSI6Ik5VTEwiLCJ1cmwiOiJodHRwczovL3N0YWdlLmRhbm11cnBoeXMuY29tLmF1L3Byb2R1Y3QvRE1fMzM1MDA5L2ppbS1iZWFtLXdoaXRlLWxhYmVsLWtlbnR1Y2t5LXN0cmFpZ2h0LWJvdXJib24td2hpc2tleS0xbCIsInJlZmVycmVyIjoiaHR0cDovL3d3dy5uZW90eXMuY29tLyIsInZpc2l0X3R5cGUiOiJmaXJzdF90aW1lIiwidmVyIjoiNC4wLjI4IiwiX3VmIjo3NjM3ODIzMDAsInZpc2l0SWQiOiJ2aXNpdElkLTE2MzgxNzIxNTc5ODMtNzA1MTgifQ%3D%3D; mbox=session#90fb7827d2644a72a6a32c5d91137a32#1638174283|PC#90fb7827d2644a72a6a32c5d91137a32.36_0#1701417223; kampyleSessionPageCounter=3"/>
+    <header name="Host" value="stage.danmurphys.com.au"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/product/DM_335009/jim-beam-white-label-kentucky-straight-bourbon-whiskey-1l"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache&#xd;
+Content-Length: 450&#xd;
+Content-Type: image/png&#xd;
+Last-Modified: Mon, 02 Aug 2021 05:09:08 GMT&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "072aa855c87d71:0"&#xd;
+Server: Microsoft-IIS/10.0&#xd;
+X-Powered-By: ASP.NET&#xd;
+Date: Mon, 29 Nov 2021 07:53:43 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/assets/images/share-twitter.png"
+    path="/assets/images/share-twitter.png" postType="2"
+    recordedArtifactZipFileName="team/vus/@user@path_2/%resources%/recorded-artifacts/8121fb58-c0fe-4fc3-ae94-43b56a3cd0ea.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="stage.danmurphys.com.au_1" slaProfileEnabled="false"
+    uid="4e4503b2-df47-4bfd-8f62-a8307e692625" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_4e4503b2-df47-4bfd-8f62-a8307e692625.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_4e4503b2-df47-4bfd-8f62-a8307e692625.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="at_check=true; cacheBustKey=1638172155023; unbxd.userId=uid-1638172157975-23602; unbxd.visit=first_time; unbxd.visitId=visitId-1638172157983-70518; AMCVS_1124C2D754E497DC0A4C98C6%40AdobeOrg=1; WTPERSIST=; ORA_FPC=id=a310c3a6-f82a-4c3f-b069-bce5bb19de6c; s_ecid=MCMID%7C72549628170816142094091373912557784882; mdLogger=false; kampyleUserSession=1638172186415; kampyleUserSessionsCount=34; _gcl_au=1.1.1261985927.1638172187; _fbp=fb.2.1638172189824.140473466; customerIdMboxcookie=8004469; WTPERSIST=8004469; ISCUSTID=8004469; fs_uid=rs.fullstory.com#TQCFZ#6094149355069440:5759456629776384#f6ed06d6#/1669708215; AMCV_1124C2D754E497DC0A4C98C6%40AdobeOrg=-1124106680%7CMCIDTS%7C18961%7CMCMID%7C72549628170816142094091373912557784882%7CMCAAMLH-1638777016%7C8%7CMCAAMB-1638777016%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1638179416s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-18968%7CMCCIDH%7C104992502%7CvVersion%7C5.2.0; s_nr30=1638172410375-New; rr_rcs=eF5jYSlN9jA1MjVMSjFI1DUwSUrTNTExsNRNtUgy1E1KNk0ztbA0STMwMOPKLSvJTOEzMzPQNdQ1BACGqw34; unbxd.pen.click.1638172422825=eyJwaWQiOiIzMzUwMDkiLCJwciI6MywiZXhwZXJpZW5jZV9wYWdldHlwZSI6Ik5VTEwiLCJ1cmwiOiJodHRwczovL3N0YWdlLmRhbm11cnBoeXMuY29tLmF1L3Byb2R1Y3QvRE1fMzM1MDA5L2ppbS1iZWFtLXdoaXRlLWxhYmVsLWtlbnR1Y2t5LXN0cmFpZ2h0LWJvdXJib24td2hpc2tleS0xbCIsInJlZmVycmVyIjoiaHR0cDovL3d3dy5uZW90eXMuY29tLyIsInZpc2l0X3R5cGUiOiJmaXJzdF90aW1lIiwidmVyIjoiNC4wLjI4IiwiX3VmIjo3NjM3ODIzMDAsInZpc2l0SWQiOiJ2aXNpdElkLTE2MzgxNzIxNTc5ODMtNzA1MTgifQ%3D%3D; mbox=session#90fb7827d2644a72a6a32c5d91137a32#1638174283|PC#90fb7827d2644a72a6a32c5d91137a32.36_0#1701417223; kampyleSessionPageCounter=3"/>
+    <header name="Host" value="stage.danmurphys.com.au"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/product/DM_335009/jim-beam-white-label-kentucky-straight-bourbon-whiskey-1l"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache&#xd;
+Content-Length: 565&#xd;
+Content-Type: image/png&#xd;
+Last-Modified: Mon, 02 Aug 2021 05:09:08 GMT&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "072aa855c87d71:0"&#xd;
+Server: Microsoft-IIS/10.0&#xd;
+X-Powered-By: ASP.NET&#xd;
+Date: Mon, 29 Nov 2021 07:53:43 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/assets/images/pinterest-small.png"
+    path="/assets/images/pinterest-small.png" postType="2"
+    recordedArtifactZipFileName="team/vus/@user@path_2/%resources%/recorded-artifacts/8121fb58-c0fe-4fc3-ae94-43b56a3cd0ea.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="stage.danmurphys.com.au_1" slaProfileEnabled="false"
+    uid="888d6902-b234-42d8-b55d-82a259a69204" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_888d6902-b234-42d8-b55d-82a259a69204.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_888d6902-b234-42d8-b55d-82a259a69204.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="at_check=true; cacheBustKey=1638172155023; unbxd.userId=uid-1638172157975-23602; unbxd.visit=first_time; unbxd.visitId=visitId-1638172157983-70518; AMCVS_1124C2D754E497DC0A4C98C6%40AdobeOrg=1; WTPERSIST=; ORA_FPC=id=a310c3a6-f82a-4c3f-b069-bce5bb19de6c; s_ecid=MCMID%7C72549628170816142094091373912557784882; mdLogger=false; kampyleUserSession=1638172186415; kampyleUserSessionsCount=34; _gcl_au=1.1.1261985927.1638172187; _fbp=fb.2.1638172189824.140473466; customerIdMboxcookie=8004469; WTPERSIST=8004469; ISCUSTID=8004469; fs_uid=rs.fullstory.com#TQCFZ#6094149355069440:5759456629776384#f6ed06d6#/1669708215; AMCV_1124C2D754E497DC0A4C98C6%40AdobeOrg=-1124106680%7CMCIDTS%7C18961%7CMCMID%7C72549628170816142094091373912557784882%7CMCAAMLH-1638777016%7C8%7CMCAAMB-1638777016%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1638179416s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-18968%7CMCCIDH%7C104992502%7CvVersion%7C5.2.0; s_nr30=1638172410375-New; rr_rcs=eF5jYSlN9jA1MjVMSjFI1DUwSUrTNTExsNRNtUgy1E1KNk0ztbA0STMwMOPKLSvJTOEzMzPQNdQ1BACGqw34; unbxd.pen.click.1638172422825=eyJwaWQiOiIzMzUwMDkiLCJwciI6MywiZXhwZXJpZW5jZV9wYWdldHlwZSI6Ik5VTEwiLCJ1cmwiOiJodHRwczovL3N0YWdlLmRhbm11cnBoeXMuY29tLmF1L3Byb2R1Y3QvRE1fMzM1MDA5L2ppbS1iZWFtLXdoaXRlLWxhYmVsLWtlbnR1Y2t5LXN0cmFpZ2h0LWJvdXJib24td2hpc2tleS0xbCIsInJlZmVycmVyIjoiaHR0cDovL3d3dy5uZW90eXMuY29tLyIsInZpc2l0X3R5cGUiOiJmaXJzdF90aW1lIiwidmVyIjoiNC4wLjI4IiwiX3VmIjo3NjM3ODIzMDAsInZpc2l0SWQiOiJ2aXNpdElkLTE2MzgxNzIxNTc5ODMtNzA1MTgifQ%3D%3D; mbox=session#90fb7827d2644a72a6a32c5d91137a32#1638174283|PC#90fb7827d2644a72a6a32c5d91137a32.36_0#1701417223; kampyleSessionPageCounter=3"/>
+    <header name="Host" value="stage.danmurphys.com.au"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/product/DM_335009/jim-beam-white-label-kentucky-straight-bourbon-whiskey-1l"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache&#xd;
+Content-Length: 2504&#xd;
+Content-Type: image/png&#xd;
+Last-Modified: Mon, 02 Aug 2021 05:09:08 GMT&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "072aa855c87d71:0"&#xd;
+Server: Microsoft-IIS/10.0&#xd;
+X-Powered-By: ASP.NET&#xd;
+Date: Mon, 29 Nov 2021 07:53:43 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

@@ -1,0 +1,145 @@
+<http-page executeResourcesDynamically="false" name="/w/1.0/sd"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/5cdc0ac1-cbb3-4710-963f-b6772017b70f.zip"
+    slaProfileEnabled="false" thinkTime="739"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="5cdc0ac1-cbb3-4710-963f-b6772017b70f">
+    <embedded-action>cba9249b-fca2-4365-b3e7-1ab14e6d6ee9</embedded-action>
+    <embedded-action>1da616c8-40fd-4159-80e8-b4133b8a759b</embedded-action>
+    <embedded-action>26e9564c-c741-45a0-9c89-e194ef9e623a</embedded-action>
+</http-page>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/w/1.0/sd" path="/w/1.0/sd" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/5cdc0ac1-cbb3-4710-963f-b6772017b70f.zip"
+    recordedResponseCode="302" responseSize="0"
+    serverUid="jp-u.openx.net" slaProfileEnabled="false"
+    uid="cba9249b-fca2-4365-b3e7-1ab14e6d6ee9" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_cba9249b-fca2-4365-b3e7-1ab14e6d6ee9</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_cba9249b-fca2-4365-b3e7-1ab14e6d6ee9.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="id"
+        recordRawValue="536872786" separator="=" value="536872786" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="val"
+        recordRawValue="46d861a4-9c64-4600-b29d-cedecb0f4672"
+        separator="=" value="46d861a4-9c64-4600-b29d-cedecb0f4672" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://pixel.mathtag.com/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 302&#xd;
+set-cookie: i=43b4d3b1-51c6-4800-a6b9-d7f510cf8d79|1638178240; Version=1; Expires=Tue, 29-Nov-2022 09:30:40 GMT; Max-Age=31536000; Secure; Domain=.openx.net; Path=/; SameSite=None&#xd;
+server: OXGW/16.221.0&#xd;
+p3p: CP="CUR ADM OUR NOR STA NID"&#xd;
+location: https://jp-u.openx.net/w/1.0/sd?cc=1&amp;id=536872786&amp;val=46d861a4-9c64-4600-b29d-cedecb0f4672&#xd;
+date: Mon, 29 Nov 2021 09:30:40 GMT&#xd;
+Content-Length: 0&#xd;
+via: 1.1 google&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="2" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/w/1.0/sd" path="/w/1.0/sd" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/5cdc0ac1-cbb3-4710-963f-b6772017b70f.zip"
+    recordedResponseCode="200"
+    refererUid="cba9249b-fca2-4365-b3e7-1ab14e6d6ee9" responseSize="0"
+    serverUid="jp-u.openx.net" slaProfileEnabled="false"
+    uid="1da616c8-40fd-4159-80e8-b4133b8a759b" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_1da616c8-40fd-4159-80e8-b4133b8a759b.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_1da616c8-40fd-4159-80e8-b4133b8a759b.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="cc"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="id"
+        recordRawValue="536872786" separator="=" value="536872786" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="val"
+        recordRawValue="46d861a4-9c64-4600-b29d-cedecb0f4672"
+        separator="=" value="46d861a4-9c64-4600-b29d-cedecb0f4672" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://pixel.mathtag.com/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="i=43b4d3b1-51c6-4800-a6b9-d7f510cf8d79|1638178240"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+vary: Accept&#xd;
+server: OXGW/16.221.0&#xd;
+pragma: no-cache&#xd;
+p3p: CP="CUR ADM OUR NOR STA NID"&#xd;
+expires: Mon, 26 Jul 1997 05:00:00 GMT&#xd;
+date: Mon, 29 Nov 2021 09:30:40 GMT&#xd;
+content-type: image/gif&#xd;
+content-length: 43&#xd;
+cache-control: private, max-age=0, no-cache&#xd;
+via: 1.1 google&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/user-registering" path="/user-registering"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/5cdc0ac1-cbb3-4710-963f-b6772017b70f.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="ads.stickyadstv.com" slaProfileEnabled="false"
+    uid="26e9564c-c741-45a0-9c89-e194ef9e623a" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_26e9564c-c741-45a0-9c89-e194ef9e623a.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_26e9564c-c741-45a0-9c89-e194ef9e623a.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true"
+        name="dataProviderId" recordRawValue="183" separator="="
+        value="183" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="userId"
+        recordRawValue="46d861a4-9c64-4600-b29d-cedecb0f4672"
+        separator="=" value="46d861a4-9c64-4600-b29d-cedecb0f4672" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="redirectId"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="ads.stickyadstv.com"/>
+    <header name="Referer" value="https://pixel.mathtag.com/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx&#xd;
+Content-Type: image/gif&#xd;
+Access-Control-Allow-Origin: *&#xd;
+Access-Control-Allow-Credentials: true&#xd;
+x-sticky-vk: 1638178241043060-85&#xd;
+Content-Length: 43&#xd;
+Expires: Mon, 29 Nov 2021 09:30:41 GMT&#xd;
+Cache-Control: max-age=0, no-cache, no-store&#xd;
+Pragma: no-cache&#xd;
+Date: Mon, 29 Nov 2021 09:30:41 GMT&#xd;
+Connection: keep-alive&#xd;
+Set-Cookie: uid-bp-529=46d861a4-9c64-4600-b29d-cedecb0f4672; Expires=Fri, 28-Jan-2022 09:30:41 GMT; Path=/; SameSite=None; Secure&#xd;
+Set-Cookie: UID=e7c18333cb649ad7fa998ef28fd21ac7; Expires=Wed, 29-Dec-2021 09:30:41 GMT; Path=/; SameSite=None; Secure&#xd;
+Set-Cookie: sessionId=d220421b23e18fd8cac06ee6657e7b9c; Path=/; SameSite=None; Secure</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

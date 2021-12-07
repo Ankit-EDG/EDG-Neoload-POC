@@ -1,0 +1,4 @@
+<http-server hostname="udc-neb.kampyle.com" port="443" ssl="true"
+    uid="udc-neb.kampyle.com" urlrewriting-argument-name=""
+    urlrewriting-enabled="false" urlrewriting-path-extension="false"
+    urlrewriting-path-not-equals="false" urlrewriting-path-separator=";"/>

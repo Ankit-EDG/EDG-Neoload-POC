@@ -1,0 +1,39 @@
+<websocket-channel-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="websocket_channel"
+    path="/s/W/ws/OsuzJbIjtXlFGItI/c/1638177899374" postType="2"
+    pushType="WEBSOCKET" recordedResponseCode="101" responseSize="0"
+    serverUid="widget-mediator.zopim.com" slaProfileEnabled="false"
+    uid="c2de8005-aee6-4695-b2cc-06a69d0d686f" useKeepAlive="false">
+    <response-matching extractionMethod="REGEXP_ONLY" regexp="" template="$1$"/>
+    <responsePageFileDescription>team/vus/@member@checkout@delivery_@web/%resources%/recorded-responses/res_c2de8005-aee6-4695-b2cc-06a69d0d686f</responsePageFileDescription>
+    <requestContentFileDescription>team/vus/@member@checkout@delivery_@web/%resources%/recorded-requests/req_c2de8005-aee6-4695-b2cc-06a69d0d686f.txt</requestContentFileDescription>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Cache-Control" value="no-cache"/>
+    <header name="Connection" value="Upgrade"/>
+    <header name="Host" value="widget-mediator.zopim.com"/>
+    <header name="Origin" value="https://prdedgccslivraue.z8.web.core.windows.net"/>
+    <header name="Pragma" value="no-cache"/>
+    <header name="Sec-WebSocket-Extensions" value="permessage-deflate; client_max_window_bits"/>
+    <header name="Sec-WebSocket-Key" value="BnLu6E9B6doe93YuCzAFLg=="/>
+    <header name="Sec-WebSocket-Version" value="13"/>
+    <header name="Upgrade" value="websocket"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 101 Switching Protocols&#xd;
+Date: Mon, 29 Nov 2021 09:25:01 GMT&#xd;
+Connection: upgrade&#xd;
+Set-Cookie: AWSALB=yyqfho0e1HepTgyz1A6t6z1gP/t1939n3v+QDG5vSpn9oPUmSnbktcIfp98wiKbrpZxG9wneTo197hQIsAibgAACNTeNbrFVg4BPph2dUctdh/UEuj0TS6QQQkTQ; Expires=Mon, 06 Dec 2021 09:25:01 GMT; Path=/&#xd;
+Set-Cookie: AWSALBCORS=yyqfho0e1HepTgyz1A6t6z1gP/t1939n3v+QDG5vSpn9oPUmSnbktcIfp98wiKbrpZxG9wneTo197hQIsAibgAACNTeNbrFVg4BPph2dUctdh/UEuj0TS6QQQkTQ; Expires=Mon, 06 Dec 2021 09:25:01 GMT; Path=/; SameSite=None; Secure&#xd;
+Upgrade: websocket&#xd;
+Sec-WebSocket-Accept: 9Zb1JJ9UrfVeJKXW9oRLz68MEXo=&#xd;
+Sec-WebSocket-Version: 13&#xd;
+WebSocket-Server: uWebSockets</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <push-handler filecount="14"
+        filename="team/vus/@member@checkout@delivery_@web/%resources%/recorded-responses/websocket_df1ac274-8f35-4ef2-b06d-e8964424cc16.dat" pushType="WEBSOCKET">
+        <result-handler responseSource="MESSAGE" type="REGEXP"/>
+    </push-handler>
+</websocket-channel-action>

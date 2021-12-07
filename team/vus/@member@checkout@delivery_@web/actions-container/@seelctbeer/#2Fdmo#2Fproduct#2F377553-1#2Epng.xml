@@ -1,0 +1,103 @@
+<http-page executeResourcesDynamically="false"
+    name="/dmo/product/377553-1.png" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/4b310349-3677-443f-ab77-a5b8f20a3d68.zip"
+    slaProfileEnabled="false" thinkTime="532"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="4b310349-3677-443f-ab77-a5b8f20a3d68">
+    <embedded-action>c66398d2-f82d-43ff-b099-7652ef192539</embedded-action>
+    <embedded-action>aca0c8cb-0607-42de-a8dd-0108d42f117e</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/dmo/product/377553-1.png"
+    path="/dmo/product/377553-1.png" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/4b310349-3677-443f-ab77-a5b8f20a3d68.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="dmouatmedia.blob.core.windows.net"
+    slaProfileEnabled="false" uid="c66398d2-f82d-43ff-b099-7652ef192539" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_c66398d2-f82d-43ff-b099-7652ef192539</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_c66398d2-f82d-43ff-b099-7652ef192539.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="impolicy"
+        recordRawValue="PROD_SM" separator="=" value="PROD_SM" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="chatbotUserId=5bb71d99-6316-498c-8fed-38e007e5e470; __zlcmid=17IkW6S13t8gHoI"/>
+    <header name="Host" value="dmouatmedia.blob.core.windows.net"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Content-Length: 3581065&#xd;
+Content-Type: application/octet-stream&#xd;
+Content-MD5: wroQtYENru+eXF8kA3g+bw==&#xd;
+Last-Modified: Tue, 10 Aug 2021 01:52:23 GMT&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "0x8D95BA17FB3539B"&#xd;
+Server: Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0&#xd;
+x-ms-request-id: fbf16895-801e-0012-1b04-e5e81a000000&#xd;
+x-ms-version: 2014-02-14&#xd;
+x-ms-lease-status: unlocked&#xd;
+x-ms-lease-state: available&#xd;
+x-ms-blob-type: BlockBlob&#xd;
+Access-Control-Expose-Headers: x-ms-request-id,Server,x-ms-version,Content-Type,Last-Modified,ETag,Content-MD5,x-ms-lease-status,x-ms-lease-state,x-ms-blob-type,Accept-Ranges,Content-Length,Date,Transfer-Encoding&#xd;
+Access-Control-Allow-Origin: *&#xd;
+Date: Mon, 29 Nov 2021 09:33:14 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/dmo/product/47988-1.jpg"
+    path="/dmo/product/47988-1.jpg" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/4b310349-3677-443f-ab77-a5b8f20a3d68.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="dmouatmedia.blob.core.windows.net"
+    slaProfileEnabled="false" uid="aca0c8cb-0607-42de-a8dd-0108d42f117e" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_aca0c8cb-0607-42de-a8dd-0108d42f117e</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_aca0c8cb-0607-42de-a8dd-0108d42f117e.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="impolicy"
+        recordRawValue="PROD_SM" separator="=" value="PROD_SM" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="chatbotUserId=5bb71d99-6316-498c-8fed-38e007e5e470; __zlcmid=17IkW6S13t8gHoI"/>
+    <header name="Host" value="dmouatmedia.blob.core.windows.net"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Content-Length: 305905&#xd;
+Content-Type: application/octet-stream&#xd;
+Content-MD5: 2c+23AKISQyfl9+D4HGwcw==&#xd;
+Last-Modified: Tue, 10 Aug 2021 01:52:06 GMT&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "0x8D95BA17574DF67"&#xd;
+Server: Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0&#xd;
+x-ms-request-id: f4e25dd0-a01e-000e-1604-e5300d000000&#xd;
+x-ms-version: 2014-02-14&#xd;
+x-ms-lease-status: unlocked&#xd;
+x-ms-lease-state: available&#xd;
+x-ms-blob-type: BlockBlob&#xd;
+Access-Control-Expose-Headers: x-ms-request-id,Server,x-ms-version,Content-Type,Last-Modified,ETag,Content-MD5,x-ms-lease-status,x-ms-lease-state,x-ms-blob-type,Accept-Ranges,Content-Length,Date,Transfer-Encoding&#xd;
+Access-Control-Allow-Origin: *&#xd;
+Date: Mon, 29 Nov 2021 09:33:14 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

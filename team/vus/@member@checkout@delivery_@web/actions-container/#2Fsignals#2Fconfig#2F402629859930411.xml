@@ -1,0 +1,59 @@
+<http-page executeResourcesDynamically="false"
+    name="/signals/config/402629859930411"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/04f8f9e6-190b-475b-a52a-fc8cf094a9c2.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="04f8f9e6-190b-475b-a52a-fc8cf094a9c2">
+    <embedded-action>e58f45df-13f2-4e6d-9abf-63bcb2b1cf29</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/x-javascript; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/signals/config/402629859930411"
+    path="/signals/config/402629859930411" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/04f8f9e6-190b-475b-a52a-fc8cf094a9c2.zip"
+    recordedResponseCode="200" responseSize="312650"
+    serverUid="connect.facebook.net" slaProfileEnabled="false"
+    uid="e58f45df-13f2-4e6d-9abf-63bcb2b1cf29" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_e58f45df-13f2-4e6d-9abf-63bcb2b1cf29</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_e58f45df-13f2-4e6d-9abf-63bcb2b1cf29.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="v"
+        recordRawValue="2.9.48" separator="=" value="2.9.48" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="r"
+        recordRawValue="stable" separator="=" value="stable" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+content-type: application/x-javascript; charset=utf-8&#xd;
+x-fb-rlafr: 0&#xd;
+document-policy: force-load-at-top&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+pragma: public&#xd;
+cache-control: public, max-age=1200&#xd;
+expires: Sat, 01 Jan 2000 00:00:00 GMT&#xd;
+x-content-type-options: nosniff&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: DENY&#xd;
+strict-transport-security: max-age=31536000; preload; includeSubDomains&#xd;
+x-fb-debug: tBCCn1gb6uAagYyRh5x+JvVS70o6/XWDP9qd4zY+UiIMBG3OIFELDUtS2rm1H7vfVbCbImxcY/CEs4VzYuD46g==&#xd;
+content-length: 89152&#xd;
+x-fb-trip-id: 1527350943&#xd;
+date: Mon, 29 Nov 2021 09:25:03 GMT&#xd;
+alt-svc: h3=":443"; ma=3600,h3-29=":443"; ma=3600</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

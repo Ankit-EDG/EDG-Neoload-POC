@@ -1,0 +1,82 @@
+<http-page executeResourcesDynamically="false" name="/um/v2"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/34087aab-86f7-4f79-bb78-086bb4e52ee4.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="34087aab-86f7-4f79-bb78-086bb4e52ee4">
+    <embedded-action>d90102da-c5c4-4952-a6ef-eafeefe8dac8</embedded-action>
+    <embedded-action>35fa149c-6626-45a6-b576-0673374a95f6</embedded-action>
+</http-page>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/um/v2" path="/um/v2" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/34087aab-86f7-4f79-bb78-086bb4e52ee4.zip"
+    recordedResponseCode="302" responseSize="0"
+    serverUid="usermatch.krxd.net" slaProfileEnabled="false"
+    uid="d90102da-c5c4-4952-a6ef-eafeefe8dac8" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_d90102da-c5c4-4952-a6ef-eafeefe8dac8</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d90102da-c5c4-4952-a6ef-eafeefe8dac8.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="partner"
+        recordRawValue="mediamath" separator="=" value="mediamath" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://pixel.mathtag.com/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 302&#xd;
+date: Mon, 29 Nov 2021 09:30:43 GMT&#xd;
+Content-Length: 0&#xd;
+location: https://beacon.krxd.net/usermatch.gif?kuid_status=new&amp;partner=mediamath&#xd;
+x-cache: MISS&#xd;
+x-cache-hits: 0&#xd;
+x-served-by: usermatch-a002-ash-prod.krxd.net&#xd;
+x-age: 0</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/adscores/g.pixel" path="/adscores/g.pixel"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/34087aab-86f7-4f79-bb78-086bb4e52ee4.zip"
+    recordedResponseCode="302" responseSize="0" serverUid="aa.agkn.com"
+    slaProfileEnabled="false" uid="35fa149c-6626-45a6-b576-0673374a95f6" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_35fa149c-6626-45a6-b576-0673374a95f6</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_35fa149c-6626-45a6-b576-0673374a95f6.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="sid"
+        recordRawValue="9211132948" separator="=" value="9211132948" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="mt"
+        recordRawValue="46d861a4-9c64-4600-b29d-cedecb0f4672"
+        separator="=" value="46d861a4-9c64-4600-b29d-cedecb0f4672" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://pixel.mathtag.com/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 302&#xd;
+date: Mon, 29 Nov 2021 09:30:43 GMT&#xd;
+Content-Length: 0&#xd;
+location: https://d.agkn.com/pixel/10751/?che=1638178243&amp;ip=13.75.149.55&amp;l1=https%3A%2F%2Fpixel.mathtag.com%2Fsync%2Fimg%2F%3Fmt_exid%3D10009%26mt_exuid%3D&#xd;
+server: AAWebServer&#xd;
+p3p: policyref="https://www.agkn.com/p3p/p3p.xml",CP="NOI NID"&#xd;
+cache-control: no-cache, no-store, must-revalidate&#xd;
+pragma: no-cache&#xd;
+expires: 0&#xd;
+set-cookie: ab=0001%3A%2FyLug1DlaXkK64irkF%2F3VF5OTFLqvu9V; Domain=.agkn.com; Secure; SameSite=None; Expires=Mon,  29 Nov 2022 09:30:43 GMT; Path=/</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

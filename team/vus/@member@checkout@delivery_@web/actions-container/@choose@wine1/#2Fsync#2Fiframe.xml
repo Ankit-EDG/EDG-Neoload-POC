@@ -1,0 +1,208 @@
+<http-page executeResourcesDynamically="false" name="/sync/iframe"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/4653a64e-b903-4462-a355-835b0368105a.zip"
+    slaProfileEnabled="false" thinkTime="81"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="4653a64e-b903-4462-a355-835b0368105a">
+    <embedded-action>d4d1e7dd-8612-435a-8f38-cafa082450a0</embedded-action>
+    <embedded-action>89862474-e861-40fc-a56d-fee3960f6db9</embedded-action>
+    <embedded-action>98280557-1dd1-41c8-964b-b5f4fb7fc34a</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/sync/iframe" path="/sync/iframe" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/4653a64e-b903-4462-a355-835b0368105a.zip"
+    recordedResponseCode="200" responseSize="6109"
+    serverUid="pixel.mathtag.com" slaProfileEnabled="false"
+    uid="d4d1e7dd-8612-435a-8f38-cafa082450a0" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_d4d1e7dd-8612-435a-8f38-cafa082450a0.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d4d1e7dd-8612-435a-8f38-cafa082450a0.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="mt_uuid"
+        recordRawValue="46d861a4-9c64-4600-b29d-cedecb0f4672"
+        separator="=" value="46d861a4-9c64-4600-b29d-cedecb0f4672" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="no_iframe"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="mt_adid"
+        recordRawValue="239489" separator="=" value="239489" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="source"
+        recordRawValue="mathtag" separator="=" value="mathtag" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="uuid=46d861a4-9c64-4600-b29d-cedecb0f4672; mt_misc=mt_bt:1638177909"/>
+    <header name="Host" value="pixel.mathtag.com"/>
+    <header name="Referer" value="https://10298563.fls.doubleclick.net/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="iframe"/>
+    <header name="Sec-Fetch-Mode" value="navigate"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Content-Type: text/html&#xd;
+Access-Control-Allow-Origin: *&#xd;
+Server: MT3 4103 f8fad19 master hkg-pixel-x11 config:1.0.0&#xd;
+Cache-Control: no-cache&#xd;
+P3P: CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"&#xd;
+Expires: Mon, 29 Nov 2021 09:30:35 GMT&#xd;
+Vary: Accept-Encoding&#xd;
+Content-Encoding: gzip&#xd;
+Content-Length: 1900&#xd;
+Date: Mon, 29 Nov 2021 09:30:36 GMT&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/misc/img" path="/misc/img" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/4653a64e-b903-4462-a355-835b0368105a.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="pixel.mathtag.com" slaProfileEnabled="false"
+    uid="89862474-e861-40fc-a56d-fee3960f6db9" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_89862474-e861-40fc-a56d-fee3960f6db9.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_89862474-e861-40fc-a56d-fee3960f6db9.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="false" name="mop_seq"
+        recordRawValue="0:29" separator="=" value="0:29" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="mt_cb"
+        recordRawValue="196743" separator="=" value="196743" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="mop_top"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="uuid=46d861a4-9c64-4600-b29d-cedecb0f4672; mt_misc=mt_bt:1638177909"/>
+    <header name="Host" value="pixel.mathtag.com"/>
+    <header name="Referer" value="https://pixel.mathtag.com/sync/iframe?mt_uuid=46d861a4-9c64-4600-b29d-cedecb0f4672&amp;no_iframe=1&amp;mt_adid=239489&amp;source=mathtag"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Content-Type: image/gif&#xd;
+Content-Length: 43&#xd;
+Access-Control-Allow-Origin: *&#xd;
+Server: MT3 4103 f8fad19 master hkg-pixel-x8 config:1.0.0&#xd;
+Cache-Control: no-cache&#xd;
+P3P: CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"&#xd;
+Expires: Mon, 29 Nov 2021 09:30:35 GMT&#xd;
+Date: Mon, 29 Nov 2021 09:30:36 GMT&#xd;
+Connection: keep-alive&#xd;
+Set-Cookie: mt_mop=; domain=.mathtag.com; path=/; expires=Wed, 29-Dec-2021 09:30:36 GMT; SameSite=None; Secure</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/mghopengs5/dcs.gif" path="/mghopengs5/dcs.gif"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/4653a64e-b903-4462-a355-835b0368105a.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="dc.oracleinfinity.io" slaProfileEnabled="false"
+    uid="98280557-1dd1-41c8-964b-b5f4fb7fc34a" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_98280557-1dd1-41c8-964b-b5f4fb7fc34a.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_98280557-1dd1-41c8-964b-b5f4fb7fc34a.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="wt.dcsvid"
+        recordRawValue="8004469" separator="=" value="8004469" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="wt.cust_id"
+        recordRawValue="8004469" separator="=" value="8004469" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="wt.evt_typ"
+        recordRawValue="trolleyproductarray" separator="="
+        value="trolleyproductarray" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false"
+        name="wt.updated_cartarray"
+        recordRawValue="824111|1|13.99|13.99" separator="="
+        value="824111|1|13.99|13.99" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="wt.dl"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="dcsdat"
+        recordRawValue="1638178236818" separator="="
+        value="1638178236818" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="dcssip"
+        recordRawValue="stage.danmurphys.com.au" separator="="
+        value="stage.danmurphys.com.au" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="dcsuri"
+        recordRawValue="/dm/home" separator="=" value="/dm/home" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="dcsref"
+        recordRawValue="http://www.neotys.com/" separator="="
+        value="http://www.neotys.com/" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="wt.tz"
+        recordRawValue="11" separator="=" value="11" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="wt.bh"
+        recordRawValue="20" separator="=" value="20" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="wt.ul"
+        recordRawValue="en-US" separator="=" value="en-US" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="wt.cd"
+        recordRawValue="24" separator="=" value="24" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="wt.sr"
+        recordRawValue="1366x768" separator="=" value="1366x768" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="wt.jo"
+        recordRawValue="No" separator="=" value="No" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="wt.ti"
+        recordRawValue="Buy%20Beer,%20Wine%20%26%20Spirits%20Online%20(Lowest%20Price%20Guaranteed)%20|%20Alcohol%20Delivery%20Australia%20:%20Dan%20Murphy%E2%80%99s"
+        separator="="
+        value="Buy%20Beer,%20Wine%20%26%20Spirits%20Online%20(Lowest%20Price%20Guaranteed)%20|%20Alcohol%20Delivery%20Australia%20:%20Dan%20Murphy%E2%80%99s" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="wt.js"
+        recordRawValue="Yes" separator="=" value="Yes" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="wt.bs"
+        recordRawValue="1366x625" separator="=" value="1366x625" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="wt.ssl"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="wt.es"
+        recordRawValue="stage.danmurphys.com.au/dm/home" separator="="
+        value="stage.danmurphys.com.au/dm/home" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="wt.tv"
+        recordRawValue="1.0.4" separator="=" value="1.0.4" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="wt.ce"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="wt.vtid"
+        recordRawValue="a310c3a6-f82a-4c3f-b069-bce5bb19de6c"
+        separator="=" value="a310c3a6-f82a-4c3f-b069-bce5bb19de6c" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="wt.co_f"
+        recordRawValue="a310c3a6-f82a-4c3f-b069-bce5bb19de6c"
+        separator="=" value="a310c3a6-f82a-4c3f-b069-bce5bb19de6c" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ora.tag_id"
+        recordRawValue="manual" separator="=" value="manual" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="ora.tag_config" recordRawValue="default" separator="="
+        value="default" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="dc.oracleinfinity.io"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Mon, 29 Nov 2021 09:30:36 GMT&#xd;
+Content-Type: image/gif&#xd;
+Content-Length: 43&#xd;
+Connection: keep-alive&#xd;
+Pragma: no-cache&#xd;
+Expires: -1&#xd;
+Cache-Control: no-cache&#xd;
+X-Content-Type-Options: nosniff&#xd;
+X-XSS-Protection: 1; mode=block&#xd;
+Content-Security-Policy: default-src https: data: 'unsafe-inline' 'unsafe-eval'</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

@@ -1,0 +1,55 @@
+<http-page executeResourcesDynamically="false" name="/pixel/10751/"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/ef09887f-1d15-4637-809a-ad7ca0313c88.zip"
+    slaProfileEnabled="false" thinkTime="1515"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="ef09887f-1d15-4637-809a-ad7ca0313c88">
+    <embedded-action>59a1f028-24a6-43ef-bf89-7ff626877ac1</embedded-action>
+</http-page>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/pixel/10751/" path="/pixel/10751/" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/ef09887f-1d15-4637-809a-ad7ca0313c88.zip"
+    recordedResponseCode="302" responseSize="0" serverUid="d.agkn.com"
+    slaProfileEnabled="false" uid="59a1f028-24a6-43ef-bf89-7ff626877ac1" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_59a1f028-24a6-43ef-bf89-7ff626877ac1</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_59a1f028-24a6-43ef-bf89-7ff626877ac1.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="che"
+        recordRawValue="1638178243" separator="=" value="1638178243" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ip"
+        recordRawValue="13.75.149.55" separator="=" value="13.75.149.55" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="l1"
+        recordRawValue="https%3A%2F%2Fpixel.mathtag.com%2Fsync%2Fimg%2F%3Fmt_exid%3D10009%26mt_exuid%3D"
+        separator="="
+        value="https://pixel.mathtag.com/sync/img/?mt_exid=10009&amp;mt_exuid=" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://pixel.mathtag.com/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="ab=0001%3A%2FyLug1DlaXkK64irkF%2F3VF5OTFLqvu9V"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 302&#xd;
+Content-Length: 0&#xd;
+location: https://pixel.mathtag.com/sync/img/?mt_exid=10009&amp;mt_exuid=&#xd;
+cache-control: no-cache, must-revalidate&#xd;
+date: Mon, 29 Nov 2021 09:30:53 GMT&#xd;
+expires: Sat, 01 Jan 2000 00:00:00 GMT&#xd;
+p3p: CP="NOI DSP COR CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT"&#xd;
+pragma: no-cache&#xd;
+server: Apache-Coyote/1.1&#xd;
+set-cookie: ab=0001%3A%2FyLug1DlaXkK64irkF%2F3VF5OTFLqvu9V;Path=/;Domain=agkn.com;Max-Age=31536000;SameSite=None;Secure&#xd;
+set-cookie: u=C|0AAAAAAAAKTdaTgAAAAAA;Path=/;Domain=agkn.com;Max-Age=31536000;SameSite=None;Secure&#xd;
+x-cache: Miss from cloudfront&#xd;
+via: 1.1 6f4ca7db93883fe5e25a91018517d111.cloudfront.net (CloudFront)&#xd;
+x-amz-cf-pop: SYD62-P2&#xd;
+x-amz-cf-id: 8L2r543NaYbu9OzHQW5z-kU-BdV19GWYjU_eQ3UkKEb75Z-v4NFTnw==</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

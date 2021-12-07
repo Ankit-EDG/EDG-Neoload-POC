@@ -1,0 +1,49 @@
+<http-page executeResourcesDynamically="false" name="/site/91538"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@check@out@delivery_@web_@v1/%resources%/recorded-artifacts/25ef382d-b9ae-4f5c-bcde-5efaec698940.zip"
+    slaProfileEnabled="false" thinkTime="527"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="25ef382d-b9ae-4f5c-bcde-5efaec698940">
+    <embedded-action>0eafe6e6-dcee-434c-aa9b-bf7ce46c7658</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="application/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 01 Dec 2021 14:34:13 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/js/widget.danmurphys.1638178972129.min.js"
+    path="/js/widget.danmurphys.1638178972129.min.js" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@check@out@delivery_@web_@v1/%resources%/recorded-artifacts/25ef382d-b9ae-4f5c-bcde-5efaec698940.zip"
+    recordedResponseCode="200" responseSize="122211"
+    serverUid="danmurphys-widgets-stg.salesfloor.net"
+    slaProfileEnabled="false" uid="0eafe6e6-dcee-434c-aa9b-bf7ce46c7658" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_0eafe6e6-dcee-434c-aa9b-bf7ce46c7658</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_0eafe6e6-dcee-434c-aa9b-bf7ce46c7658.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Mon, 29 Nov 2021 09:42:53 GMT&#xd;
+content-type: application/javascript&#xd;
+content-length: 29407&#xd;
+last-modified: Mon, 22 Nov 2021 18:38:53 GMT&#xd;
+cache-control: max-age=2592000&#xd;
+expires: Wed, 29 Dec 2021 08:56:28 GMT&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+x-varnish: 132570 108882&#xd;
+age: 2784&#xd;
+accept-ranges: bytes&#xd;
+via: 1.1 google&#xd;
+alt-svc: clear</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

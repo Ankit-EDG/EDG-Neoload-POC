@@ -1,0 +1,273 @@
+<http-page executeResourcesDynamically="false" name="/site/50792"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/dad159c9-f132-4e57-b00d-ecae85a42320.zip"
+    slaProfileEnabled="false" thinkTime="12"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="dad159c9-f132-4e57-b00d-ecae85a42320">
+    <embedded-action>af40fc8d-0ca2-4a7d-8576-be77a5463090</embedded-action>
+    <embedded-action>d2e9d0e6-0156-41db-80fc-7113df12f705</embedded-action>
+    <embedded-action>ced52467-b9af-4437-9ee6-613deb049cd4</embedded-action>
+    <embedded-action>fbcdad09-26b8-4552-b085-400f50ded627</embedded-action>
+    <embedded-action>6d3bfa5b-ea34-40cf-84ff-bd7ddc94ffdb</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/site/50792" path="/site/50792" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/dad159c9-f132-4e57-b00d-ecae85a42320.zip"
+    recordedResponseCode="200" responseSize="71"
+    serverUid="stags.bluekai.com" slaProfileEnabled="false"
+    uid="af40fc8d-0ca2-4a7d-8576-be77a5463090" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_af40fc8d-0ca2-4a7d-8576-be77a5463090.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_af40fc8d-0ca2-4a7d-8576-be77a5463090.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="ret"
+        recordRawValue="html" separator="=" value="html" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="phint"
+        recordRawValue="Aid%3D53843" separator="=" value="Aid=53843" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="phint"
+        recordRawValue="Etype%3DBROWSE" separator="="
+        value="Etype=BROWSE" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="phint"
+        recordRawValue="pagename%3Ddm%3Aweb%3Ahomepage" separator="="
+        value="pagename=dm:web:homepage" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="phint"
+        recordRawValue="websitelevel1%3DHomePage" separator="="
+        value="websitelevel1=HomePage" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="phint"
+        recordRawValue="e_id_m%3D5214b69065228bf784babbef1574254f"
+        separator="=" value="e_id_m=5214b69065228bf784babbef1574254f" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="phint"
+        recordRawValue="e_id_s%3D9da81b9c95bcdf2a460a6ebfe8031476e9320d57dc258192139b58cb5c5df928"
+        separator="="
+        value="e_id_s=9da81b9c95bcdf2a460a6ebfe8031476e9320d57dc258192139b58cb5c5df928" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="phint"
+        recordRawValue="__bk_t%3DBuy%20Beer%2C%20Wine%20%26%20Spirits%20Online%20(Lowest%20Price%20Guaranteed)%20%7C%20Alcohol%20Delivery%20Australia%20%3A%20Dan%20Murphy%E2%80%99s"
+        separator="="
+        value="__bk_t%3DBuy%20Beer%2C%20Wine%20%26%20Spirits%20Online%20(Lowest%20Price%20Guaranteed)%20%7C%20Alcohol%20Delivery%20Australia%20%3A%20Dan%20Murphy%E2%80%99s" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="phint"
+        recordRawValue="__bk_k%3DBuy%20biggest%20range%20of%20alcoholic%20drinks%20including%20beer%2C%20wines%20%26%20spirits%20from%20Dan%20Murphy%E2%80%99s%2C%20Australia%27s%20best%20online%20bottle%20shop%2C%20offering%20alcohol%20delivery%20in%20Metro%20in%20under%202%20hours.%20Order%20now!"
+        separator="="
+        value="__bk_k%3DBuy%20biggest%20range%20of%20alcoholic%20drinks%20including%20beer%2C%20wines%20%26%20spirits%20from%20Dan%20Murphy%E2%80%99s%2C%20Australia%27s%20best%20online%20bottle%20shop%2C%20offering%20alcohol%20delivery%20in%20Metro%20in%20under%202%20hours.%20Order%20now!" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="phint"
+        recordRawValue="__bk_pr%3Dhttp%3A%2F%2Fwww.neotys.com%2F"
+        separator="=" value="__bk_pr=http://www.neotys.com/" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="phint"
+        recordRawValue="__bk_l%3Dhttps%3A%2F%2Fstage.danmurphys.com.au%2Fdm%2Fhome"
+        separator="="
+        value="__bk_l=https://stage.danmurphys.com.au/dm/home" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="phint"
+        recordRawValue="__bk_v%3D3.1.10" separator="="
+        value="__bk_v=3.1.10" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="limit"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="r"
+        recordRawValue="35469786" separator="=" value="35469786" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="bkdc=phx; bku=AZDO9aIzosWviPGi"/>
+    <header name="Host" value="stags.bluekai.com"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="iframe"/>
+    <header name="Sec-Fetch-Mode" value="navigate"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Content-Type: text/html&#xd;
+Content-Length: 71&#xd;
+P3P: CP="NOI DSP COR CUR ADMo DEVo PSAo PSDo OUR SAMo BUS UNI NAV", policyref="http://tags.bluekai.com/w3c/p3p.xml"&#xd;
+Pragma: no-cache&#xd;
+Expires: Thu, 01 Dec 1994 16:00:00 GMT&#xd;
+Cache-Control: max-age=0, no-cache, no-store&#xd;
+BK-Server: 77d1&#xd;
+Date: Mon, 29 Nov 2021 09:28:44 GMT&#xd;
+Connection: keep-alive&#xd;
+Set-Cookie: bku=AZDO9aIzosWviPGi; expires=Sat, 28-May-2022 09:28:44 GMT; path=/; domain=.bluekai.com; SameSite=None; Secure</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/event/js" path="/event/js" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/dad159c9-f132-4e57-b00d-ecae85a42320.zip"
+    recordedResponseCode="200" responseSize="2506"
+    serverUid="pixel.mathtag.com" slaProfileEnabled="false"
+    uid="d2e9d0e6-0156-41db-80fc-7113df12f705" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_d2e9d0e6-0156-41db-80fc-7113df12f705</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d2e9d0e6-0156-41db-80fc-7113df12f705.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="mt_pp"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="mt_adid"
+        recordRawValue="239489" separator="=" value="239489" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="uuid=46d861a4-9c64-4600-b29d-cedecb0f4672; mt_misc=mt_bt:1638177909"/>
+    <header name="Host" value="pixel.mathtag.com"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Content-Type: text/javascript&#xd;
+Content-Length: 2506&#xd;
+Access-Control-Allow-Origin: *&#xd;
+Server: MT3 4133 baa842e master hkg-pixel-x1 config:1.0.0&#xd;
+Cache-Control: no-cache&#xd;
+P3P: CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"&#xd;
+Expires: Mon, 29 Nov 2021 09:28:43 GMT&#xd;
+Date: Mon, 29 Nov 2021 09:28:44 GMT&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/assets/icons/v2/icons-sprite.svg"
+    path="/assets/icons/v2/icons-sprite.svg" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/dad159c9-f132-4e57-b00d-ecae85a42320.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="stage.danmurphys.com.au_1" slaProfileEnabled="false"
+    uid="ced52467-b9af-4437-9ee6-613deb049cd4" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_ced52467-b9af-4437-9ee6-613deb049cd4</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_ced52467-b9af-4437-9ee6-613deb049cd4.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="at_check=true; cacheBustKey=1638177885370; AMCVS_1124C2D754E497DC0A4C98C6%40AdobeOrg=1; unbxd.userId=uid-1638177886946-17373; unbxd.visit=first_time; unbxd.visitId=visitId-1638177886953-75957; mbox=session#98b83df6a72049128407435d76e121d0#1638179750; s_ecid=MCMID%7C62974577823596621581061727074359824665; ORA_FPC=id=a310c3a6-f82a-4c3f-b069-bce5bb19de6c; WTPERSIST=; fs_uid=rs.fullstory.com#TQCFZ#6094149355069440:5407716160069632#f6ed06d6#/1669708215; mdLogger=false; kampyleUserSession=1638177901450; kampyleUserSessionsCount=37; kampyleSessionPageCounter=1; sf_siterefer=salesfloor; stg_danmurphys_sf_wdt_session_expiration_session=1638177902969; stg_danmurphys_sf_wdt_fingerprint=83522446464543; stg_danmurphys_sf_wdt_customer_id=tltok50kf; _gcl_au=1.1.1006025353.1638177903; _fbp=fb.2.1638177903177.530554903; customerIdMboxcookie=8004469; WTPERSIST=8004469; ISCUSTID=8004469; s_nr30=1638178064887-New; AMCV_1124C2D754E497DC0A4C98C6%40AdobeOrg=-1124106680%7CMCIDTS%7C18961%7CMCMID%7C62974577823596621581061727074359824665%7CMCAAMLH-1638782866%7C8%7CMCAAMB-1638782866%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1638185266s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-18968%7CMCCIDH%7C104992502%7CvVersion%7C5.2.0"/>
+    <header name="Host" value="stage.danmurphys.com.au"/>
+    <header name="If-Modified-Since" value="Fri, 12 Nov 2021 00:05:30 GMT"/>
+    <header name="If-None-Match" value="&quot;0c16159d7d71:0&quot;"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/dm/home"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="same-origin"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 304 Not Modified&#xd;
+Cache-Control: no-cache&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "0c16159d7d71:0"&#xd;
+Server: Microsoft-IIS/10.0&#xd;
+X-Powered-By: ASP.NET&#xd;
+Date: Mon, 29 Nov 2021 09:28:44 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/undefined" path="/undefined" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/dad159c9-f132-4e57-b00d-ecae85a42320.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="stage.danmurphys.com.au_1" slaProfileEnabled="false"
+    uid="fbcdad09-26b8-4552-b085-400f50ded627" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_fbcdad09-26b8-4552-b085-400f50ded627</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_fbcdad09-26b8-4552-b085-400f50ded627.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="at_check=true; cacheBustKey=1638177885370; AMCVS_1124C2D754E497DC0A4C98C6%40AdobeOrg=1; unbxd.userId=uid-1638177886946-17373; unbxd.visit=first_time; unbxd.visitId=visitId-1638177886953-75957; mbox=session#98b83df6a72049128407435d76e121d0#1638179750; s_ecid=MCMID%7C62974577823596621581061727074359824665; ORA_FPC=id=a310c3a6-f82a-4c3f-b069-bce5bb19de6c; WTPERSIST=; fs_uid=rs.fullstory.com#TQCFZ#6094149355069440:5407716160069632#f6ed06d6#/1669708215; mdLogger=false; kampyleUserSession=1638177901450; kampyleUserSessionsCount=37; kampyleSessionPageCounter=1; sf_siterefer=salesfloor; stg_danmurphys_sf_wdt_session_expiration_session=1638177902969; stg_danmurphys_sf_wdt_fingerprint=83522446464543; stg_danmurphys_sf_wdt_customer_id=tltok50kf; _gcl_au=1.1.1006025353.1638177903; _fbp=fb.2.1638177903177.530554903; customerIdMboxcookie=8004469; WTPERSIST=8004469; ISCUSTID=8004469; s_nr30=1638178064887-New; AMCV_1124C2D754E497DC0A4C98C6%40AdobeOrg=-1124106680%7CMCIDTS%7C18961%7CMCMID%7C62974577823596621581061727074359824665%7CMCAAMLH-1638782866%7C8%7CMCAAMB-1638782866%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1638185266s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-18968%7CMCCIDH%7C104992502%7CvVersion%7C5.2.0"/>
+    <header name="Host" value="stage.danmurphys.com.au"/>
+    <header name="If-Modified-Since" value="Fri, 19 Nov 2021 01:02:08 GMT"/>
+    <header name="If-None-Match" value="&quot;0a84813e1dcd71:0&quot;"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/dm/home"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 304 Not Modified&#xd;
+Cache-Control: no-cache&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "0a84813e1dcd71:0"&#xd;
+Server: Microsoft-IIS/10.0&#xd;
+X-Powered-By: ASP.NET&#xd;
+Date: Mon, 29 Nov 2021 09:28:43 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/site/50744" path="/site/50744" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/dad159c9-f132-4e57-b00d-ecae85a42320.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="stags.bluekai.com" slaProfileEnabled="false"
+    uid="6d3bfa5b-ea34-40cf-84ff-bd7ddc94ffdb" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_6d3bfa5b-ea34-40cf-84ff-bd7ddc94ffdb.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_6d3bfa5b-ea34-40cf-84ff-bd7ddc94ffdb.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="ret"
+        recordRawValue="html" separator="=" value="html" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="phint"
+        recordRawValue="__bk_t%3DBuy%20Beer%2C%20Wine%20%26%20Spirits%20Online%20(Lowest%20Price%20Guaranteed)%20%7C%20Alcohol%20Delivery%20Australia%20%3A%20Dan%20Murphy%E2%80%99s"
+        separator="="
+        value="__bk_t%3DBuy%20Beer%2C%20Wine%20%26%20Spirits%20Online%20(Lowest%20Price%20Guaranteed)%20%7C%20Alcohol%20Delivery%20Australia%20%3A%20Dan%20Murphy%E2%80%99s" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="phint"
+        recordRawValue="__bk_k%3DBuy%20biggest%20range%20of%20alcoholic%20drinks%20including%20beer%2C%20wines%20%26%20spirits%20from%20Dan%20Murphy%E2%80%99s%2C%20Australia%27s%20best%20online%20bottle%20shop%2C%20offering%20alcohol%20delivery%20in%20Metro%20in%20under%202%20hours.%20Order%20now!"
+        separator="="
+        value="__bk_k%3DBuy%20biggest%20range%20of%20alcoholic%20drinks%20including%20beer%2C%20wines%20%26%20spirits%20from%20Dan%20Murphy%E2%80%99s%2C%20Australia%27s%20best%20online%20bottle%20shop%2C%20offering%20alcohol%20delivery%20in%20Metro%20in%20under%202%20hours.%20Order%20now!" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="phint"
+        recordRawValue="__bk_pr%3Dhttp%3A%2F%2Fwww.neotys.com%2F"
+        separator="=" value="__bk_pr=http://www.neotys.com/" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="phint"
+        recordRawValue="__bk_l%3Dhttps%3A%2F%2Fstage.danmurphys.com.au%2Fdm%2Fhome"
+        separator="="
+        value="__bk_l=https://stage.danmurphys.com.au/dm/home" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="phint"
+        recordRawValue="__bk_v%3D3.1.10" separator="="
+        value="__bk_v=3.1.10" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="limit"
+        recordRawValue="4" separator="=" value="4" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="r"
+        recordRawValue="90461410" separator="=" value="90461410" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="bkdc=phx; bku=AZDO9aIzosWviPGi"/>
+    <header name="Host" value="stags.bluekai.com"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="iframe"/>
+    <header name="Sec-Fetch-Mode" value="navigate"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Content-Type: image/gif&#xd;
+Content-Length: 62&#xd;
+P3P: CP="NOI DSP COR CUR ADMo DEVo PSAo PSDo OUR SAMo BUS UNI NAV", policyref="http://tags.bluekai.com/w3c/p3p.xml"&#xd;
+Pragma: no-cache&#xd;
+Expires: Thu, 01 Dec 1994 16:00:00 GMT&#xd;
+Cache-Control: max-age=0, no-cache, no-store&#xd;
+BK-Server: 729&#xd;
+Date: Mon, 29 Nov 2021 09:28:44 GMT&#xd;
+Connection: keep-alive&#xd;
+Set-Cookie: bku=AZDO9aIzosWviPGi; expires=Sat, 28-May-2022 09:28:44 GMT; path=/; domain=.bluekai.com; SameSite=None; Secure</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

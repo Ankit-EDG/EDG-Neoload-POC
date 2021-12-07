@@ -1,0 +1,67 @@
+<http-page executeResourcesDynamically="false" name="/rec/bundle_13"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/f468d65f-6f13-4fad-9f9a-0e665b0fa527.zip"
+    slaProfileEnabled="false" thinkTime="2453"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="f468d65f-6f13-4fad-9f9a-0e665b0fa527">
+    <embedded-action>d2cabb48-4c1c-49c3-b18a-5f6a4b1a97f3</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/rec/bundle" path="/rec/bundle" postType="4"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/f468d65f-6f13-4fad-9f9a-0e665b0fa527.zip"
+    recordedResponseCode="200" responseSize="29"
+    serverUid="rs.fullstory.com" slaProfileEnabled="false"
+    uid="d2cabb48-4c1c-49c3-b18a-5f6a4b1a97f3" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_d2cabb48-4c1c-49c3-b18a-5f6a4b1a97f3</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d2cabb48-4c1c-49c3-b18a-5f6a4b1a97f3.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true" name="OrgId"
+        recordRawValue="TQCFZ" separator="=" value="TQCFZ" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="UserId"
+        recordRawValue="6094149355069440" separator="="
+        value="6094149355069440" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="SessionId" recordRawValue="5407716160069632" separator="="
+        value="5407716160069632" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="PageId"
+        recordRawValue="6304641898012672" separator="="
+        value="6304641898012672" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="Seq"
+        recordRawValue="91" separator="=" value="91" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="PageStart" recordRawValue="1638177899114" separator="="
+        value="1638177899114" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="PrevBundleTime" recordRawValue="1638178489606"
+        separator="=" value="1638178489606" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="LastActivity" recordRawValue="906" separator="="
+        value="906" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://stage.danmurphys.com.au"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="text/plain"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-origin: https://stage.danmurphys.com.au&#xd;
+content-type: application/json; charset=utf-8&#xd;
+date: Mon, 29 Nov 2021 09:34:54 GMT&#xd;
+content-length: 29&#xd;
+via: 1.1 google&#xd;
+alt-svc: clear</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"Seq":91,"When":591291,"Evts":[{"Kind":9,"Args":[591384,720,720,0,0,411,406,-6.2,-3.72,31485],"When":591291},{"Kind":8,"Args":[721,405,31485],"When":591482},{"Kind":63,"Args":["POST","https://rs.fullstory.com/rec/bundle?OrgId=TQCFZ&UserId=6094149355069440&SessionId=5407716160069632&PageId=6304641898012672&Seq=90&PageStart=1638177899114&PrevBundleTime=1638178484606&LastActivity=34",190,200,"content-type: text/plain\r\n","content-length: 29\r\ncontent-type: application/json; charset=utf-8\r\n",1638178489511,6004,29,null,null,1,1],"When":591509},{"Kind":57,"Args":[2,"https://rs.fullstory.com/rec/bundle?OrgId=TQCFZ&UserId=6094149355069440&SessionId=5407716160069632&PageId=6304641898012672&Seq=90&PageStart=1638177899114&PrevBundleTime=1638178484606&LastActivity=34",609035,187.59999990463257,"xmlhttprequest",0,0,609035,0,0,0,0,0,0,0,609222.5999999046,0,0,0],"When":591735},{"Kind":9,"Args":[592072,721,721,0,0,404,403,-1,-1,31485],"When":592050},{"Kind":9,"Args":[592251,721,721,0,0,402,401,-1,-1,31490],"When":592166},{"Kind":9,"Args":[592385,721,723,0,2.9375,400,397,-3.1333333333333333,-2.9375,31490],"When":592291},{"Kind":9,"Args":[592478,723,724,0,1.875,396,394,-2.142857142857143,-1.875,31490],"When":592418},{"Kind":9,"Args":[592666,724,726,16.833333333333336,1.063157894736842,393,392,0,-1.063157894736842,31490],"When":592565},{"Kind":8,"Args":[728,390,31490],"When":592728},{"Kind":9,"Args":[592822,730,731,1,1,389,389,0,0,31490],"When":592792},{"Kind":9,"Args":[592885,732,734,2,2,389,389,0,0,31490],"When":592853},{"Kind":8,"Args":[823,373,31492],"When":593540},{"Kind":9,"Args":[593666,835,980,112.27272727272727,152,377,464,46.060606060606055,117.16666666666667,30806],"When":593571},{"Kind":9,"Args":[593759,1007,1019,9.838709677419354,14.233333333333334,486,500,9.838709677419354,18.3,30806],"When":593698},{"Kind":8,"Args":[1021,503,30806],"When":593822},{"Kind":8,"Args":[1021,504,30806],"When":593947},{"Kind":9,"Args":[594009,1022,1022,0,0,503,501,-2,-2,30806],"When":593978},{"Kind":9,"Args":[594103,1027,1033,10.161290322580646,1.96875,481,465,-22.35483870967742,-9.84375,30806],"When":594040},{"Kind":57,"Args":[2,"https://h.online-metrix.net/fp/clear3.png;CIS3SID=B6CB1B2F6BD2B932897B96FA0F6A6BE2?org_id=1snn5n9w&session_id=dan_murphys2c1uui-2ozosyuv&nonce=d79801f6091083b5&jac=1&je=36383b382e266f6f7d7b676f743d25374a2d30387c6f702d323025334b392d3241253a3a7176637274253a3a27394b3b343b383337383e3c3b303b332d3a41273032656e6c2d30382f39433a383230362f384b2530327b6b706d6e6c25323a2d314b3b3232382530432538386c69717469666167273232253b49303d3b3b2c3a392732432f383a69666c6d2d3030273341312d3a412f383a273a326f6f75796f2d3230253b492735402537442d3f462c677976352535422538387e6570253a3a2731433325324b2d3038676e5d65696c2532382f3b41333630263435273243253a3a6f6e556b746f25303225394b3c35332e3030273041253232656c5d676b72273a3227334132393e2e3a362d3a412730326d7657656b642f38302d3343302538492d32306d7e576374652532322d3b433a243a312d3241253238677e5f6f61702d3030273341302638372f3849273a326f695f6763662530322d3b4333273243253a3a6f63556b746f25303225394b3c2530432d3a306f6b5f6d61702d30382f39433125304325383865635d6d61662730302533413926332f3849273a326f635f6b7c6f2530322d3b43302c3332253a4b2738386761576d63782538382d334334263c3427304325323a7f665567636c2d323025334b38383027324b2d303075645f617e6f2738382f31493437302538492d3230776c576f637a2532322d3b43333a3a273a432732327d78576d6b6e2d3a3027314130253a4b2738387d70576174672538382d3343302d3a412730327772576563722f38302d3343302538492d3230626c576f6b6c2532322d3b433a2f38412d32306264556b7e6727323a2d3143322532432d3a30686e556f69782732322f39493027324b2d303060635f4c2d3a302f394b322d3241253238686b5f4f253a3a2731433025324b2d303868695d5a25303225394b382530432d3a3066766925323a2d314b3e3f33392e30392538492d3230617e712730302533413826323b2f38412d32306474792f3a322733493a30352c3235253a4b27383869767d25303225394b382e3235383c2730412532327c7c6b2f3838273b413038303a3c2d3241253a3a7163722532322d3b433a243b342d32412532386b6a7227323a2d31433332303630302738492f303a686f652538382d3343302d3a41273032686d7b2d30382f394338253043253838606167253a3a2731433025324b2d30386264672d323025334b3a2d3241253a3a666c6b2532322d3b433f2f38412d3230646e792f3a322733493d27304125323265666d2f3838273b41332532492",610624.4000000954,961.1999998092651,"script",0,0,610624.4000000954,0,0,0,0,0,0,0,611585.5999999046,0,0,0],"When":594104},{"Kind":9,"Args":[594229,1034,1038,6.129032258064516,2.96875,457,439,-18.387096774193548,-23.75,30806],"When":594134},{"Kind":9,"Args":[594385,1038,1038,0,0,436,426,-16.258064516129032,-10.161290322580646,30806],"When":594259},{"Kind":8,"Args":[1038,425,30806],"When":594415},{"Kind":8,"Args":[1038,424,30806],"When":594510},{"Kind":9,"Args":[594666,1038,1038,0,0,429,433,4,4,30806],"When":594636},{"Kind":9,"Args":[594738,1038,1038,0,0,437,438,1,1,30806],"When":594697},{"Kind":8,"Args":[1038,439,30806],"When":594791},{"Kind":9,"Args":[595071,1038,1038,0,0,441,444,3,3,30806],"When":595040},{"Kind":9,"Args":[595228,1036,1007,-12.4,-40,449,463,16.53333333333333,8,30806],"When":595104},{"Kind":8,"Args":[1004,463,30806],"When":595260}]}]]></textPostContent>
+</http-action>

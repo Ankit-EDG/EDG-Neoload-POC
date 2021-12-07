@@ -1,0 +1,508 @@
+<http-page executeResourcesDynamically="false" name="/dm/home"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@check@out@delivery_@web_@v1/%resources%/recorded-artifacts/4ae6dcd7-7d65-4aa8-a085-1526766d8966.zip"
+    slaProfileEnabled="false" thinkTime="5856"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="4ae6dcd7-7d65-4aa8-a085-1526766d8966">
+    <embedded-action>eda5f2fa-1e5a-4733-9237-c590ba0c0e4e</embedded-action>
+    <embedded-action>0be17251-eb73-450c-b3f1-1437726a5fa9</embedded-action>
+    <embedded-action>e7533d82-072d-4138-ae48-06488076293f</embedded-action>
+    <embedded-action>67df8f15-82b9-4870-9e41-452405c2a353</embedded-action>
+    <embedded-action>c0ff31d1-8422-4ed9-8071-e9663684a261</embedded-action>
+    <embedded-action>7433a2de-dbf8-47cf-9494-6fe2fda9464f</embedded-action>
+    <embedded-action>aab8ec78-d3da-4915-9c9a-ff58e88e65fc</embedded-action>
+    <embedded-action>6b8be9ee-0f1c-42ee-b815-ad3df3aeedc8</embedded-action>
+    <embedded-action>6baad5d7-d30f-4720-9460-856f6a74607f</embedded-action>
+    <embedded-action>4fbe65cf-b3fd-436e-9aec-bb053f4521da</embedded-action>
+    <embedded-action>76db74e8-b403-4592-bec1-b1cffdf69a33</embedded-action>
+    <embedded-action>14e16768-b8f3-4ae2-a59e-22e6385f92a7</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/dm/home" path="/dm/home" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@check@out@delivery_@web_@v1/%resources%/recorded-artifacts/4ae6dcd7-7d65-4aa8-a085-1526766d8966.zip"
+    recordedResponseCode="301" responseSize="0"
+    serverUid="stage.danmurphys.com.au" slaProfileEnabled="false"
+    uid="eda5f2fa-1e5a-4733-9237-c590ba0c0e4e" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_eda5f2fa-1e5a-4733-9237-c590ba0c0e4e.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_eda5f2fa-1e5a-4733-9237-c590ba0c0e4e.txt</requestContentFileDescription>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Host" value="stage.danmurphys.com.au"/>
+    <header name="Proxy-Connection" value="keep-alive"/>
+    <header name="Referer" value="http://www.neotys.com/"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 301 Moved Permanently&#xd;
+Content-Type: text/html; charset=UTF-8&#xd;
+Location: https://stage.danmurphys.com.au/dm/home&#xd;
+Date: Mon, 29 Nov 2021 09:42:47 GMT&#xd;
+Content-Length: 0</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="2" contentType="text/html"
+    eTag="&quot;0a84813e1dcd71:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Fri, 19 Nov 2021 01:02:08 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/dm/home" path="/dm/home" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@check@out@delivery_@web_@v1/%resources%/recorded-artifacts/4ae6dcd7-7d65-4aa8-a085-1526766d8966.zip"
+    recordedResponseCode="200"
+    refererUid="eda5f2fa-1e5a-4733-9237-c590ba0c0e4e"
+    responseSize="11108" serverUid="stage.danmurphys.com.au_1"
+    slaProfileEnabled="false" uid="0be17251-eb73-450c-b3f1-1437726a5fa9" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_0be17251-eb73-450c-b3f1-1437726a5fa9.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_0be17251-eb73-450c-b3f1-1437726a5fa9.txt</requestContentFileDescription>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="stage.danmurphys.com.au"/>
+    <header name="Referer" value="http://www.neotys.com/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="document"/>
+    <header name="Sec-Fetch-Mode" value="navigate"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="Sec-Fetch-User" value="?1"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache&#xd;
+Content-Length: 5047&#xd;
+Content-Type: text/html&#xd;
+Content-Encoding: gzip&#xd;
+Last-Modified: Fri, 19 Nov 2021 01:02:08 GMT&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "0a84813e1dcd71:0"&#xd;
+Vary: Accept-Encoding&#xd;
+Server: Microsoft-IIS/10.0&#xd;
+X-Powered-By: ASP.NET&#xd;
+Date: Mon, 29 Nov 2021 09:42:48 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    eTag="&quot;0ad9471fdcd71:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 18 Nov 2021 01:53:06 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/styles.b29b842b34765e0601e7.css"
+    path="/styles.b29b842b34765e0601e7.css" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@check@out@delivery_@web_@v1/%resources%/recorded-artifacts/4ae6dcd7-7d65-4aa8-a085-1526766d8966.zip"
+    recordedResponseCode="200" responseSize="264576"
+    serverUid="stage.danmurphys.com.au_1" slaProfileEnabled="false"
+    uid="e7533d82-072d-4138-ae48-06488076293f" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_e7533d82-072d-4138-ae48-06488076293f.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_e7533d82-072d-4138-ae48-06488076293f.txt</requestContentFileDescription>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="stage.danmurphys.com.au"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/dm/home"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="style"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache&#xd;
+Content-Length: 58231&#xd;
+Content-Type: text/css&#xd;
+Content-Encoding: gzip&#xd;
+Last-Modified: Thu, 18 Nov 2021 01:53:06 GMT&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "0ad9471fdcd71:0"&#xd;
+Vary: Accept-Encoding&#xd;
+Server: Microsoft-IIS/10.0&#xd;
+X-Powered-By: ASP.NET&#xd;
+Date: Mon, 29 Nov 2021 09:42:48 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/x-javascript"
+    eTag="&quot;0ad9471fdcd71:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 18 Nov 2021 01:53:06 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/runtime.1c83e0f5dac6ebbbceb5.js"
+    path="/runtime.1c83e0f5dac6ebbbceb5.js" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@check@out@delivery_@web_@v1/%resources%/recorded-artifacts/4ae6dcd7-7d65-4aa8-a085-1526766d8966.zip"
+    recordedResponseCode="200" responseSize="3164"
+    serverUid="stage.danmurphys.com.au_1" slaProfileEnabled="false"
+    uid="67df8f15-82b9-4870-9e41-452405c2a353" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_67df8f15-82b9-4870-9e41-452405c2a353</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_67df8f15-82b9-4870-9e41-452405c2a353.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="stage.danmurphys.com.au"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/dm/home"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache&#xd;
+Content-Length: 2191&#xd;
+Content-Type: application/x-javascript&#xd;
+Content-Encoding: gzip&#xd;
+Last-Modified: Thu, 18 Nov 2021 01:53:06 GMT&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "0ad9471fdcd71:0"&#xd;
+Vary: Accept-Encoding&#xd;
+Server: Microsoft-IIS/10.0&#xd;
+X-Powered-By: ASP.NET&#xd;
+Date: Mon, 29 Nov 2021 09:42:48 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/x-javascript"
+    eTag="&quot;0ad9471fdcd71:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 18 Nov 2021 01:53:06 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/polyfills.66eec26d345eb4035697.js"
+    path="/polyfills.66eec26d345eb4035697.js" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@check@out@delivery_@web_@v1/%resources%/recorded-artifacts/4ae6dcd7-7d65-4aa8-a085-1526766d8966.zip"
+    recordedResponseCode="200" responseSize="59589"
+    serverUid="stage.danmurphys.com.au_1" slaProfileEnabled="false"
+    uid="c0ff31d1-8422-4ed9-8071-e9663684a261" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_c0ff31d1-8422-4ed9-8071-e9663684a261</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_c0ff31d1-8422-4ed9-8071-e9663684a261.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="stage.danmurphys.com.au"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/dm/home"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache&#xd;
+Content-Length: 24430&#xd;
+Content-Type: application/x-javascript&#xd;
+Content-Encoding: gzip&#xd;
+Last-Modified: Thu, 18 Nov 2021 01:53:06 GMT&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "0ad9471fdcd71:0"&#xd;
+Vary: Accept-Encoding&#xd;
+Server: Microsoft-IIS/10.0&#xd;
+X-Powered-By: ASP.NET&#xd;
+Date: Mon, 29 Nov 2021 09:42:48 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/x-javascript"
+    eTag="&quot;0ad9471fdcd71:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 18 Nov 2021 01:53:06 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/scripts.505130450fbacfb04a41.js"
+    path="/scripts.505130450fbacfb04a41.js" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@check@out@delivery_@web_@v1/%resources%/recorded-artifacts/4ae6dcd7-7d65-4aa8-a085-1526766d8966.zip"
+    recordedResponseCode="200" responseSize="475538"
+    serverUid="stage.danmurphys.com.au_1" slaProfileEnabled="false"
+    uid="7433a2de-dbf8-47cf-9494-6fe2fda9464f" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_7433a2de-dbf8-47cf-9494-6fe2fda9464f</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_7433a2de-dbf8-47cf-9494-6fe2fda9464f.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="stage.danmurphys.com.au"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/dm/home"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache&#xd;
+Transfer-Encoding: chunked&#xd;
+Content-Type: application/x-javascript&#xd;
+Content-Encoding: gzip&#xd;
+Last-Modified: Thu, 18 Nov 2021 01:53:06 GMT&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "0ad9471fdcd71:0"&#xd;
+Vary: Accept-Encoding&#xd;
+Server: Microsoft-IIS/10.0&#xd;
+X-Powered-By: ASP.NET&#xd;
+Date: Mon, 29 Nov 2021 09:42:48 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/x-javascript"
+    eTag="&quot;0ad9471fdcd71:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 18 Nov 2021 01:53:06 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/main.e176bb8e4a8ba6fe4a96.js"
+    path="/main.e176bb8e4a8ba6fe4a96.js" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@check@out@delivery_@web_@v1/%resources%/recorded-artifacts/4ae6dcd7-7d65-4aa8-a085-1526766d8966.zip"
+    recordedResponseCode="200" responseSize="2462619"
+    serverUid="stage.danmurphys.com.au_1" slaProfileEnabled="false"
+    uid="aab8ec78-d3da-4915-9c9a-ff58e88e65fc" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_aab8ec78-d3da-4915-9c9a-ff58e88e65fc</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_aab8ec78-d3da-4915-9c9a-ff58e88e65fc.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="stage.danmurphys.com.au"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/dm/home"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache&#xd;
+Transfer-Encoding: chunked&#xd;
+Content-Type: application/x-javascript&#xd;
+Content-Encoding: gzip&#xd;
+Last-Modified: Thu, 18 Nov 2021 01:53:06 GMT&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "0ad9471fdcd71:0"&#xd;
+Vary: Accept-Encoding&#xd;
+Server: Microsoft-IIS/10.0&#xd;
+X-Powered-By: ASP.NET&#xd;
+Date: Mon, 29 Nov 2021 09:42:48 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/x-javascript"
+    eTag="&quot;0ad9471fdcd71:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 18 Nov 2021 01:53:06 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/vendor.6b1400edc69ab8f0423c.js"
+    path="/vendor.6b1400edc69ab8f0423c.js" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@check@out@delivery_@web_@v1/%resources%/recorded-artifacts/4ae6dcd7-7d65-4aa8-a085-1526766d8966.zip"
+    recordedResponseCode="200" responseSize="1865487"
+    serverUid="stage.danmurphys.com.au_1" slaProfileEnabled="false"
+    uid="6b8be9ee-0f1c-42ee-b815-ad3df3aeedc8" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_6b8be9ee-0f1c-42ee-b815-ad3df3aeedc8</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_6b8be9ee-0f1c-42ee-b815-ad3df3aeedc8.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="stage.danmurphys.com.au"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/dm/home"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache&#xd;
+Transfer-Encoding: chunked&#xd;
+Content-Type: application/x-javascript&#xd;
+Content-Encoding: gzip&#xd;
+Last-Modified: Thu, 18 Nov 2021 01:53:06 GMT&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "0ad9471fdcd71:0"&#xd;
+Vary: Accept-Encoding&#xd;
+Server: Microsoft-IIS/10.0&#xd;
+X-Powered-By: ASP.NET&#xd;
+Date: Mon, 29 Nov 2021 09:42:48 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/font-woff"
+    eTag="&quot;0ad9471fdcd71:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 18 Nov 2021 01:53:06 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/Dan-Murphys-Iconography.cd369a523ef9f164f6a1.woff"
+    path="/Dan-Murphys-Iconography.cd369a523ef9f164f6a1.woff"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@check@out@delivery_@web_@v1/%resources%/recorded-artifacts/4ae6dcd7-7d65-4aa8-a085-1526766d8966.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="stage.danmurphys.com.au_1" slaProfileEnabled="false"
+    uid="6baad5d7-d30f-4720-9460-856f6a74607f" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_6baad5d7-d30f-4720-9460-856f6a74607f</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_6baad5d7-d30f-4720-9460-856f6a74607f.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="stage.danmurphys.com.au"/>
+    <header name="Origin" value="https://stage.danmurphys.com.au"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/dm/home"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="font"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache&#xd;
+Content-Length: 11408&#xd;
+Content-Type: application/font-woff&#xd;
+Last-Modified: Thu, 18 Nov 2021 01:53:06 GMT&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "0ad9471fdcd71:0"&#xd;
+Server: Microsoft-IIS/10.0&#xd;
+X-Powered-By: ASP.NET&#xd;
+Date: Mon, 29 Nov 2021 09:42:48 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/font-woff"
+    eTag="&quot;0ad9471fdcd71:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 18 Nov 2021 01:53:06 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/sentinel-black.9ae4f4d118611e0d5c88.woff"
+    path="/sentinel-black.9ae4f4d118611e0d5c88.woff" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@check@out@delivery_@web_@v1/%resources%/recorded-artifacts/4ae6dcd7-7d65-4aa8-a085-1526766d8966.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="stage.danmurphys.com.au_1" slaProfileEnabled="false"
+    uid="4fbe65cf-b3fd-436e-9aec-bb053f4521da" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_4fbe65cf-b3fd-436e-9aec-bb053f4521da</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_4fbe65cf-b3fd-436e-9aec-bb053f4521da.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="stage.danmurphys.com.au"/>
+    <header name="Origin" value="https://stage.danmurphys.com.au"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/dm/home"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="font"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache&#xd;
+Content-Length: 26316&#xd;
+Content-Type: application/font-woff&#xd;
+Last-Modified: Thu, 18 Nov 2021 01:53:06 GMT&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "0ad9471fdcd71:0"&#xd;
+Server: Microsoft-IIS/10.0&#xd;
+X-Powered-By: ASP.NET&#xd;
+Date: Mon, 29 Nov 2021 09:42:48 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/font-woff"
+    eTag="&quot;0ad9471fdcd71:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 18 Nov 2021 01:53:06 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/sentinel-book.a565c3e62f6350b7ac52.woff"
+    path="/sentinel-book.a565c3e62f6350b7ac52.woff" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@check@out@delivery_@web_@v1/%resources%/recorded-artifacts/4ae6dcd7-7d65-4aa8-a085-1526766d8966.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="stage.danmurphys.com.au_1" slaProfileEnabled="false"
+    uid="76db74e8-b403-4592-bec1-b1cffdf69a33" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_76db74e8-b403-4592-bec1-b1cffdf69a33</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_76db74e8-b403-4592-bec1-b1cffdf69a33.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="stage.danmurphys.com.au"/>
+    <header name="Origin" value="https://stage.danmurphys.com.au"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/dm/home"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="font"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache&#xd;
+Content-Length: 28632&#xd;
+Content-Type: application/font-woff&#xd;
+Last-Modified: Thu, 18 Nov 2021 01:53:06 GMT&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "0ad9471fdcd71:0"&#xd;
+Server: Microsoft-IIS/10.0&#xd;
+X-Powered-By: ASP.NET&#xd;
+Date: Mon, 29 Nov 2021 09:42:48 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/font-woff"
+    eTag="&quot;0ad9471fdcd71:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 18 Nov 2021 01:53:06 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/fontawesome-webfont.f691f37e57f04c152e23.woff"
+    path="/fontawesome-webfont.f691f37e57f04c152e23.woff" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@check@out@delivery_@web_@v1/%resources%/recorded-artifacts/4ae6dcd7-7d65-4aa8-a085-1526766d8966.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="stage.danmurphys.com.au_1" slaProfileEnabled="false"
+    uid="14e16768-b8f3-4ae2-a59e-22e6385f92a7" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_14e16768-b8f3-4ae2-a59e-22e6385f92a7</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_14e16768-b8f3-4ae2-a59e-22e6385f92a7.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="stage.danmurphys.com.au"/>
+    <header name="Origin" value="https://stage.danmurphys.com.au"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/dm/home"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="font"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache&#xd;
+Content-Length: 98024&#xd;
+Content-Type: application/font-woff&#xd;
+Last-Modified: Thu, 18 Nov 2021 01:53:06 GMT&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "0ad9471fdcd71:0"&#xd;
+Server: Microsoft-IIS/10.0&#xd;
+X-Powered-By: ASP.NET&#xd;
+Date: Mon, 29 Nov 2021 09:42:48 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

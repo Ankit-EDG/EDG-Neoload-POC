@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" enabled="false"
+    execution-type="0" name="seelctCreditCard" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="981b11d3-1022-4868-8bd7-bb728aaf88da" weightsEnabled="false">
+    <weighted-embedded-action uid="1ef1c8c8-d265-4ba0-b90c-4ece61b6bd03"/>
+    <weighted-embedded-action uid="5bd9487c-05de-464d-885b-6259e51d79f1"/>
+    <weighted-embedded-action uid="99cbf858-0c55-45bd-8a6a-ac339499332a"/>
+    <weighted-embedded-action uid="5a4670b2-ea5e-4fcf-9152-0eda1cbaa579"/>
+</basic-logical-action-container>

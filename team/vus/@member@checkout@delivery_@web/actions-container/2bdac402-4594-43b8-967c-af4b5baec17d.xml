@@ -1,0 +1,8 @@
+<websocket-action name="websocket_request_9" slaProfileEnabled="false"
+    status-code="1000" synchronous-type="ASYNCHRONOUS"
+    uid="2bdac402-4594-43b8-967c-af4b5baec17d"
+    websocket-body-type="TEXT" websocket-channel-uid="c2de8005-aee6-4695-b2cc-06a69d0d686f">
+    <binaryPostContentBase64><![CDATA[MTYzODE3ODAyMjY1MQoxLjYzMDkzMDk2MTAwNDk1NzIKMTAKNApkCm51bGw=]]></binaryPostContentBase64>
+    <responsePageFileDescription>team/vus/@member@checkout@delivery_@web/%resources%/recorded-responses/res_2bdac402-4594-43b8-967c-af4b5baec17d</responsePageFileDescription>
+    <requestContentFileDescription>team/vus/@member@checkout@delivery_@web/%resources%/recorded-requests/req_2bdac402-4594-43b8-967c-af4b5baec17d.txt</requestContentFileDescription>
+</websocket-action>

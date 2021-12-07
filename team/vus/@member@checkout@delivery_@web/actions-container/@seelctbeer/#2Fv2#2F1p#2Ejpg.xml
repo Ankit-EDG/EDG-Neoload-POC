@@ -1,0 +1,67 @@
+<http-page executeResourcesDynamically="false" name="/v2/1p.jpg"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/a529952c-be23-410c-8cf3-f99835a2f5f1.zip"
+    slaProfileEnabled="false" thinkTime="2889"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="a529952c-be23-410c-8cf3-f99835a2f5f1">
+    <embedded-action>768cfec7-85db-439f-9a71-9be5c79c5192</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="image/jpeg; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/v2/1p.jpg" path="/v2/1p.jpg" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/a529952c-be23-410c-8cf3-f99835a2f5f1.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="tracker.unbxdapi.com" slaProfileEnabled="false"
+    uid="768cfec7-85db-439f-9a71-9be5c79c5192" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_768cfec7-85db-439f-9a71-9be5c79c5192</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_768cfec7-85db-439f-9a71-9be5c79c5192.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="data"
+        recordRawValue="%7B%22pid%22%3A%22357480%22%2C%22pr%22%3A3%2C%22experience_pagetype%22%3A%22NULL%22%2C%22url%22%3A%22https%3A%2F%2Fstage.danmurphys.com.au%2Fproduct%2FDM_357480%2Fcorona-extra-beer-bottles-355ml%22%2C%22referrer%22%3A%22http%3A%2F%2Fwww.neotys.com%2F%22%2C%22visit_type%22%3A%22first_time%22%2C%22ver%22%3A%224.0.28%22%2C%22_uf%22%3A763782300%2C%22visitId%22%3A%22visitId-1638177886953-75957%22%7D"
+        separator="="
+        value="{&quot;pid&quot;:&quot;357480&quot;,&quot;pr&quot;:3,&quot;experience_pagetype&quot;:&quot;NULL&quot;,&quot;url&quot;:&quot;https://stage.danmurphys.com.au/product/DM_357480/corona-extra-beer-bottles-355ml&quot;,&quot;referrer&quot;:&quot;http://www.neotys.com/&quot;,&quot;visit_type&quot;:&quot;first_time&quot;,&quot;ver&quot;:&quot;4.0.28&quot;,&quot;_uf&quot;:763782300,&quot;visitId&quot;:&quot;visitId-1638177886953-75957&quot;}" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="UnbxdKey"
+        recordRawValue="ss-unbxd-prod-danmurphys-com-au9191615187601"
+        separator="="
+        value="ss-unbxd-prod-danmurphys-com-au9191615187601" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="action"
+        recordRawValue="click" separator="=" value="click" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="uid"
+        recordRawValue="uid-1638177886946-17373" separator="="
+        value="uid-1638177886946-17373" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="t"
+        recordRawValue="1638178402713|0.19533057495500006" separator="="
+        value="1638178402713|0.19533057495500006" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="tracker.unbxdapi.com"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Content-Encoding: gzip&#xd;
+Content-Type: image/jpeg; charset=utf-8&#xd;
+Date: Mon, 29 Nov 2021 09:33:22 GMT&#xd;
+Region: ap-southeast-2-(prod)&#xd;
+Server: Wingman-3.4.15-[1636957337]&#xd;
+Unbxd-Request-Id: 90e62e5c-d457-4d24-a6af-8eb99aa91d55&#xd;
+Unx-Accept-Encoding: gzip, deflate, br&#xd;
+Unx-Conn: tracker-ext-v2&#xd;
+Unx-Request-Id: 90e62e5c-d457-4d24-a6af-8eb99aa91d55&#xd;
+Unx-Server: Wingman-3.4.15-[1636957337]&#xd;
+Unx-Site: ss-unbxd-prod-danmurphys-com-au9191615187601&#xd;
+Vary: Accept-Encoding&#xd;
+X-Request-Id: 90e62e5c-d457-4d24-a6af-8eb99aa91d55&#xd;
+Content-Length: 137&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

@@ -1,0 +1,49 @@
+<http-page executeResourcesDynamically="false" name="/scevent.min.js"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/4913bfc0-c83e-4b6d-b461-5c7ed7a891e1.zip"
+    slaProfileEnabled="false" thinkTime="737"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="4913bfc0-c83e-4b6d-b461-5c7ed7a891e1">
+    <embedded-action>29dc5e8a-a42d-4771-83b2-280b643f3da0</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/javascript;charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/scevent.min.js" path="/scevent.min.js"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/4913bfc0-c83e-4b6d-b461-5c7ed7a891e1.zip"
+    recordedResponseCode="200" responseSize="17926"
+    serverUid="sc-static.net" slaProfileEnabled="false"
+    uid="29dc5e8a-a42d-4771-83b2-280b643f3da0" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_29dc5e8a-a42d-4771-83b2-280b643f3da0</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_29dc5e8a-a42d-4771-83b2-280b643f3da0.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/javascript;charset=utf-8&#xd;
+content-length: 6816&#xd;
+server: CloudFront&#xd;
+date: Mon, 29 Nov 2021 09:25:04 GMT&#xd;
+content-encoding: gzip&#xd;
+access-control-allow-origin: *&#xd;
+access-control-allow-headers: Content-Type&#xd;
+cache-control: private, s-maxage=0, max-age=600&#xd;
+set-cookie: X-AB=0d6e407936704bd380072f5891d28b0e;max-age=86400;expires=Tue, 30 Nov 2021 08:02:49 GMT;Path=/scevent.min.js; Secure; SameSite=None&#xd;
+x-cache: LambdaGeneratedResponse from cloudfront&#xd;
+via: 1.1 eb3589b1230a45883fc0813bdb92ed5f.cloudfront.net (CloudFront)&#xd;
+x-amz-cf-pop: SYD62-P1&#xd;
+x-amz-cf-id: 8WQ5lCo1tIvulQfDT-fs2rbxI6WRiuisPdiec2tLzfYdy8ZxWjrBAg==</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

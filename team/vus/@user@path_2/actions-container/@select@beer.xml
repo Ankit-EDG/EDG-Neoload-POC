@@ -1,0 +1,14 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="SelectBeer" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="59524b3a-c799-432f-9477-c94927046235" weightsEnabled="false">
+    <weighted-embedded-action uid="13f66472-fc44-4094-9846-31afe8a70213"/>
+    <weighted-embedded-action uid="a4a1c648-492a-41fd-8191-db29f0661d76"/>
+    <weighted-embedded-action uid="77e8917c-dde0-4418-8c7f-9633ccfbfc3e"/>
+    <weighted-embedded-action uid="e72a8c8f-991f-4e72-94c6-a5e17a2feef1"/>
+    <weighted-embedded-action uid="b7d8784b-4374-449e-8514-39bc16b8ac96"/>
+    <weighted-embedded-action uid="620eafc3-66c8-4208-9656-cbe8e39047de"/>
+    <weighted-embedded-action uid="542638ba-86d5-4fe6-8a82-7b94e47eba16"/>
+    <weighted-embedded-action uid="9db020fe-aaf5-4122-a72e-d0f59552a412"/>
+    <weighted-embedded-action uid="469863c2-39c6-46bf-9a90-ca7afb150fc0"/>
+</basic-logical-action-container>

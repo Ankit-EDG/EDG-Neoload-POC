@@ -1,0 +1,13 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="SelectProduct_Wine" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="a0e6b7ca-2551-4328-92f0-1d2be04e53ac" weightsEnabled="false">
+    <weighted-embedded-action uid="9cfe00b2-86b5-4c97-af6f-1121a14820aa"/>
+    <weighted-embedded-action uid="465cf357-0dbe-4405-9f36-ba10865f6a8f"/>
+    <weighted-embedded-action uid="2efc2486-7cd6-4a10-b13d-6f4730d02e53"/>
+    <weighted-embedded-action uid="055cfb3f-35a3-41f0-9d42-c9e5bdfa1808"/>
+    <weighted-embedded-action uid="3f09888f-d967-4e66-808f-bae590e88afa"/>
+    <weighted-embedded-action uid="b9bce2b2-0222-4ebf-9aff-965fc4c1ef3a"/>
+    <weighted-embedded-action uid="8c0393ca-496e-4386-a23b-46e95a44287a"/>
+    <weighted-embedded-action uid="bf5a0a81-ed72-4dde-953f-1656e99b0e8c"/>
+</basic-logical-action-container>

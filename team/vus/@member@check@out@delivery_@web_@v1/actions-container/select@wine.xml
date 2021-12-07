@@ -1,0 +1,19 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="selectWine" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="75810f0d-999c-4c0f-8a21-22399e063cff" weightsEnabled="false">
+    <weighted-embedded-action uid="637851bd-0f77-471f-be9e-87f13a177241"/>
+    <weighted-embedded-action uid="975e811a-539e-4cab-9c94-55e362371b92"/>
+    <weighted-embedded-action uid="78fffc06-00ff-4850-b67b-820bd6268efb"/>
+    <weighted-embedded-action uid="3bc50298-4300-48db-95d2-90cf0b588e4d"/>
+    <weighted-embedded-action uid="2d378083-3528-46c0-b159-52a95c902de0"/>
+    <weighted-embedded-action uid="556df5e8-b0d0-4c1f-9dc9-f4e0b30b598f"/>
+    <weighted-embedded-action uid="150a5f7c-77e7-43e0-9feb-d942b11e69e5"/>
+    <weighted-embedded-action uid="b65177fd-ae59-4b5a-b1d1-466b474dd90b"/>
+    <weighted-embedded-action uid="451b6aa3-09d5-4b89-a310-ce91bfb22cb6"/>
+    <weighted-embedded-action uid="efd5ab6e-47a2-4b72-b3d2-50282f04ba25"/>
+    <weighted-embedded-action uid="7b190790-6912-44ba-8cc0-b3018a439727"/>
+    <weighted-embedded-action uid="bf3d7e84-d08d-451a-82a5-79c8a18fcec6"/>
+    <weighted-embedded-action uid="4e61b181-ea3e-45e9-9726-0b45c6f18b89"/>
+    <weighted-embedded-action uid="4c34dc81-f657-485c-beed-66e06e46ddbb"/>
+</basic-logical-action-container>

@@ -1,0 +1,197 @@
+<http-page executeResourcesDynamically="false" name="/rec/bundle_8"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/283506f6-48e0-4bfe-abf0-3b79eb38435d.zip"
+    slaProfileEnabled="false" thinkTime="879"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="283506f6-48e0-4bfe-abf0-3b79eb38435d">
+    <embedded-action>02e5fe0e-3f21-487f-a780-e5a23057eac4</embedded-action>
+    <embedded-action>0717cbdc-2f37-4db0-837d-b60f510ffc8f</embedded-action>
+    <embedded-action>02d87f5e-b82a-4b34-80b2-1661e68dff62</embedded-action>
+    <embedded-action>5f47b2c6-3d24-4f39-830e-971731208886</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/rec/bundle" path="/rec/bundle" postType="4"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/283506f6-48e0-4bfe-abf0-3b79eb38435d.zip"
+    recordedResponseCode="200" responseSize="29"
+    serverUid="rs.fullstory.com" slaProfileEnabled="false"
+    uid="02e5fe0e-3f21-487f-a780-e5a23057eac4" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_02e5fe0e-3f21-487f-a780-e5a23057eac4</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_02e5fe0e-3f21-487f-a780-e5a23057eac4.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true" name="OrgId"
+        recordRawValue="TQCFZ" separator="=" value="TQCFZ" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="UserId"
+        recordRawValue="6094149355069440" separator="="
+        value="6094149355069440" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="SessionId" recordRawValue="5407716160069632" separator="="
+        value="5407716160069632" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="PageId"
+        recordRawValue="6304641898012672" separator="="
+        value="6304641898012672" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="Seq"
+        recordRawValue="41" separator="=" value="41" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="PageStart" recordRawValue="1638177899114" separator="="
+        value="1638177899114" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="PrevBundleTime" recordRawValue="1638178234587"
+        separator="=" value="1638178234587" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="LastActivity" recordRawValue="33" separator="=" value="33" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://stage.danmurphys.com.au"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="text/plain"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-origin: https://stage.danmurphys.com.au&#xd;
+content-type: application/json; charset=utf-8&#xd;
+date: Mon, 29 Nov 2021 09:30:39 GMT&#xd;
+content-length: 29&#xd;
+via: 1.1 google&#xd;
+alt-svc: clear</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"Seq":41,"When":336474,"Evts":[{"Kind":12,"Args":[1158,427],"When":336474},{"Kind":17,"Args":[17147,true],"When":336476},{"Kind":63,"Args":["POST","https://rs.fullstory.com/rec/bundle?OrgId=TQCFZ&UserId=6094149355069440&SessionId=5407716160069632&PageId=6304641898012672&Seq=40&PageStart=1638177899114&PrevBundleTime=1638178229586&LastActivity=54",187,200,"content-type: text/plain\r\n","content-length: 29\r\ncontent-type: application/json; charset=utf-8\r\n",1638178234491,4147,29,null,null,1,1],"When":336489},{"Kind":9,"Args":[336682,1158,1158,0,0,429,430,11.5,0,17147],"When":336613},{"Kind":13,"Args":[1158,430],"When":336619},{"Kind":16,"Args":[17147,1158,430,1000,401.28125,226.5,42.25],"When":336621},{"Kind":57,"Args":[2,"https://rs.fullstory.com/rec/bundle?OrgId=TQCFZ&UserId=6094149355069440&SessionId=5407716160069632&PageId=6304641898012672&Seq=40&PageStart=1638177899114&PrevBundleTime=1638178229586&LastActivity=54",354033.69999980927,184.59999990463257,"xmlhttprequest",0,0,354033.69999980927,0,0,0,0,0,0,0,354218.2999997139,0,0,0],"When":336738},{"Kind":9,"Args":[336921,1158,1161,1.9838709677419357,3.9677419354838714,429,426,-1.9838709677419357,-3.9677419354838714,17147],"When":336798},{"Kind":48,"Args":["log","{}"],"When":336913},{"Kind":8,"Args":[1162,426,17147],"When":336953},{"Kind":63,"Args":["GET","https://staging-integration.citrusad.com/v1/resource/second-c/f0446e63-7309-4025-9b6c-799dae233c32?lsid=59860861-55a9-4103-8195-bf3cb63d0977&bfp=839c66087d73c2a62c61a2098b38e827&cookies=true",207,200,"","content-length: 0\r\n",1638178234923,0,0,null,null,0,0],"When":336989},{"Kind":9,"Args":[337170,1163,1165,2,2,424,423,-1,-1,17147],"When":337113},{"Kind":57,"Args":[2,"https://staging-integration.citrusad.com/v1/resource/second-c/f0446e63-7309-4025-9b6c-799dae233c32?lsid=59860861-55a9-4103-8195-bf3cb63d0977&bfp=839c66087d73c2a62c61a2098b38e827&cookies=true",354464.90000009537,207,"fetch",0,0,354464.90000009537,0,0,0,0,0,0,0,354671.90000009537,0,0,0],"When":337171},{"Kind":8,"Args":[1166,422,17147],"When":337219},{"Kind":9,"Args":[337327,1167,1169,2,2,417,408,-9,-9,17147],"When":337295},{"Kind":9,"Args":[337483,1169,1170,0,4,397,381,-10.941176470588236,-16,17136],"When":337359},{"Kind":9,"Args":[337628,1173,1175,0,7.419354838709677,361,351,-6.845238095238095,-18.548387096774192,17136],"When":337513},{"Kind":9,"Args":[337739,1175,1178,3,3,350,339,-11,-11,17136],"When":337658},{"Kind":48,"Args":["log","\"digitalData:add:start\"","{\"events\":[{\"event\":\"pageUpdate\",\"eventContext\":{\"gContext\":{\"pageInfo\":{\"PageType\":\"Product Details\",\"pageName\":\"dm:web:pdp:red wine:casillero-del-diablo-carmenere\",\"server\":\"uat.danmurphys.com.au\",\"primaryCategory\":\"pdp\",\"webSiteLevel1\":\"Product Details\",\"fullURL\":\"https://stage.danmurphys.com.au/product/DM_824111/casillero-del-diablo-carmenere\",\"brand\":\"DMC\",\"previousPageName\":\"dm:web:pdp:red wine:casillero-del-diablo-carmenere\",\"pageInstanceId\":\"dm:web:pdp:redwine:casillero-del-diablo-carmenere-UAT\"},\"user\":{\"loggedInArea\":\"\",\"customerTypeVisit\":\"member\",\"customerType\":\"member\",\"customerId\":8004469,\"loggedInVisit\":\"LoggedIn\",\"isContactCenterAgent\":\"No\",\"hasCard\":\"Yes\",\"MDMCRNID\":\"6000000000000382534\",\"MDMCARDID\":\"1244480174379\",\"rrtEmailID\":\"wsbt2YNIsFvWFh1l4RRpAor9Qe88CNYaSyboCujOqwY0+PeArxDGVEGxfoAlm49v\",\"isStaffMember\":\"No\",\"blueMartiniID\":null,\"isEDGStaff\":\"No\",\"preferredStoreName\":\"Castle Hill\",\"preferredStorePostCode\":\"2154\",\"preferredStoreState\":\"NSW\"}},\"products\":[]}},{}]}"],"When":337726},{"Kind":48,"Args":["log","\"digitalData:latestEvent:add:start\"","{\"event\":\"trolleyproductarray\",\"eventContext\":{\"gContext\":{\"pageInfo\":{\"PageType\":\"Product Details\",\"pageName\":\"dm:web:pdp:red wine:casillero-del-diablo-carmenere\",\"server\":\"uat.danmurphys.com.au\",\"primaryCategory\":\"pdp\",\"webSiteLevel1\":\"Product Details\",\"fullURL\":\"https://stage.danmurphys.com.au/product/DM_824111/casillero-del-diablo-carmenere\",\"brand\":\"DMC\",\"previousPageName\":\"dm:web:pdp:red wine:casillero-del-diablo-carmenere\",\"pageInstanceId\":\"dm:web:pdp:redwine:casillero-del-diablo-carmenere-UAT\"},\"user\":{\"loggedInArea\":\"\",\"customerTypeVisit\":\"member\",\"customerType\":\"member\",\"customerId\":8004469,\"loggedInVisit\":\"LoggedIn\",\"isContactCenterAgent\":\"No\",\"hasCard\":\"Yes\",\"MDMCRNID\":\"6000000000000382534\",\"MDMCARDID\":\"1244480174379\",\"rrtEmailID\":\"wsbt2YNIsFvWFh1l4RRpAor9Qe88CNYaSyboCujOqwY0+PeArxDGVEGxfoAlm49v\",\"isStaffMember\":\"No\",\"blueMartiniID\":null,\"isEDGStaff\":\"No\",\"preferredStoreName\":\"Castle Hill\",\"preferredStorePostCode\":\"2154\",\"preferredStoreState\":\"NSW\",\"preferredStoreID\":\"1}}}}"],"When":337726},{"Kind":48,"Args":["log","\"event.detail::::::\"","{\"event\":\"addToCart\",\"eventContext\":{\"gContext\":{\"pageInfo\":{\"PageType\":\"Product Details\",\"pageName\":\"dm:web:pdp:red wine:casillero-del-diablo-carmenere\",\"server\":\"uat.danmurphys.com.au\",\"primaryCategory\":\"pdp\",\"webSiteLevel1\":\"Product Details\",\"fullURL\":\"https://stage.danmurphys.com.au/product/DM_824111/casillero-del-diablo-carmenere\",\"brand\":\"DMC\",\"previousPageName\":\"dm:web:pdp:red wine:casillero-del-diablo-carmenere\",\"pageInstanceId\":\"dm:web:pdp:redwine:casillero-del-diablo-carmenere-UAT\"},\"user\":{\"loggedInArea\":\"\",\"customerTypeVisit\":\"member\",\"customerType\":\"member\",\"customerId\":8004469,\"loggedInVisit\":\"LoggedIn\",\"isContactCenterAgent\":\"No\",\"hasCard\":\"Yes\",\"MDMCRNID\":\"6000000000000382534\",\"MDMCARDID\":\"1244480174379\",\"rrtEmailID\":\"wsbt2YNIsFvWFh1l4RRpAor9Qe88CNYaSyboCujOqwY0+PeArxDGVEGxfoAlm49v\",\"isStaffMember\":\"No\",\"blueMartiniID\":null,\"isEDGStaff\":\"No\",\"preferredStoreName\":\"Castle Hill\",\"preferredStorePostCode\":\"2154\",\"preferredStoreState\":\"NSW\",\"preferredStoreID\":\"1469\"}}}}"],"When":337727},{"Kind":48,"Args":["log","\"digitalData.fullevent\"","[{\"event\":\"pageUpdate\",\"eventContext\":{\"gContext\":{\"pageInfo\":{\"PageType\":\"Product Details\",\"pageName\":\"dm:web:pdp:red wine:casillero-del-diablo-carmenere\",\"server\":\"uat.danmurphys.com.au\",\"primaryCategory\":\"pdp\",\"webSiteLevel1\":\"Product Details\",\"fullURL\":\"https://stage.danmurphys.com.au/product/DM_824111/casillero-del-diablo-carmenere\",\"brand\":\"DMC\",\"previousPageName\":\"dm:web:pdp:red wine:casillero-del-diablo-carmenere\",\"pageInstanceId\":\"dm:web:pdp:redwine:casillero-del-diablo-carmenere-UAT\"},\"user\":{\"loggedInArea\":\"\",\"customerTypeVisit\":\"member\",\"customerType\":\"member\",\"customerId\":8004469,\"loggedInVisit\":\"LoggedIn\",\"isContactCenterAgent\":\"No\",\"hasCard\":\"Yes\",\"MDMCRNID\":\"6000000000000382534\",\"MDMCARDID\":\"1244480174379\",\"rrtEmailID\":\"wsbt2YNIsFvWFh1l4RRpAor9Qe88CNYaSyboCujOqwY0+PeArxDGVEGxfoAlm49v\",\"isStaffMember\":\"No\",\"blueMartiniID\":null,\"isEDGStaff\":\"No\",\"preferredStoreName\":\"Castle Hill\",\"preferredStorePostCode\":\"2154\",\"preferredStoreState\":\"NSW\",\"preferredStoreID\":\"1469\"}}}},{}]"],"When":337727},{"Kind":48,"Args":["log","\"digitalData:fullevent[ei].event\"","\"pageUpdate\""],"When":337727},{"Kind":48,"Args":["log","\"digitalData:fullevent[ei].event\"","\"trolleyproductarray\""],"When":337728},{"Kind":48,"Args":["log","\"digitalData:fullevent[ei].event\"","\"productView\""],"When":337728},{"Kind":48,"Args":["log","\"digitalData:fullevent[ei].event\"","\"addToCart\""],"When":337728},{"Kind":48,"Args":["log","\"digitalData:fullevent[ei].event\"","\"trolleyproductarray\""],"When":337728},{"Kind":2,"Args":[224,225,[[1016,4],"trolley-count ng-star-inserted",[16,2],25372,184]],"When":337743},{"Kind":78,"Args":[[0,1,2,337743,0]],"When":337743},{"Kind":2,"Args":[227,-1,[[1016,4],"title ng-star-inserted",[16,2],"$13.99",184]],"When":337743},{"Kind":78,"Args":[[0,1,2,337743,0]],"When":337743},{"Kind":2,"Args":[229,-1,[[1016,4],"title ng-star-inserted",[16,2],"$13.99",184]],"When":337743},{"Kind":78,"Args":[[0,1,2,337743,0]],"When":337743},{"Kind":2,"Args":[229,-1,[[1016,4],"content ng-star-inserted",[16,2],"in your cart",184]],"When":337743},{"Kind":78,"Args":[[0,1,2,337743,0]],"When":337743},{"Kind":2,"Args":[17097,-1,[470,":_ngcontent-elj-c91",[532,2],"success-message text-center ng-star-inserted",[486,2],":_ngcontent-elj-c91",[27319,5],":_ngcontent-elj-c91",[532,2],[25351,2],680,":_ngcontent-elj-c91",[532,2],"icon-check-circle margin-right-5",17,"Added, ",581,":_ngcontent-elj-c91",[532,2],"view-cart-link",[948,2],[956,2],[958,2],[16,2],"view cart",[768,4]]],"When":337743},{"Kind":78,"Args":[[0,1,2,337743,0]],"When":337743},{"Kind":4,"Args":[227,"class","text-center hidden-md-up mobile-price"],"When":337743},{"Kind":4,"Args":[229,"class","price-holder pull-left hidden-sm-down empty-cart"],"When":337743},{"Kind":4,"Args":[224,"class","icon pull-left updated is-full"],"When":337743},{"Kind":4,"Args":[17079,"ng-reflect-add-to-cart-success","true"],"When":337743},{"Kind":63,"Args":["POST","https://stageapi.danmurphys.com.au/apis/ui/Trolley/Items",1081,200,"accept: application/json, text/plain, */*\r\ncontent-type: application/json\r\n","cache-control: no-cache, no-store, must-revalidate\r\ncontent-length: 2512\r\ncontent-type: application/json; charset=utf-8\r\nexpires: -1\r\npragma: no-cache\r\nx-eventid\r\n",1638178234847,173,6129,null,null,1,1],"When":337743},{"Kind":9,"Args":[337899,1179,1182,3,3,336,327,-9,-9,17082],"When":337787},{"When":337843,"Kind":8197,"Args":["Product Added To Cart","{\"productName_str\":\"Casillero Del Diablo Carmenere\",\"productCategory_str\":\"Red Wine\",\"productSubCategory_str\":\"Other Red Varietals\",\"productSKU_str\":\"824111\",\"saleUnitPrice_real\":13.99,\"productRating_str\":\"4.4762\",\"brandName_str\":\"Casillero Del Diablo\",\"productQuantity_real\":1,\"isFBCookie_str\":\"FB cookie is present\"}"]},{"Kind":8,"Args":[1182,326,17082],"When":337938},{"When":337981,"Kind":8197,"Args":["eVars","{\"eVar42_str\":\"dm:web:pdp:red wine:casillero-del-diablo-carmenere\",\"eVar45_str\":\"D=g\",\"eVar58_str\":\"DMC\",\"eVar32_str\":\"29-11-2021\"}","dlo"]},{"When":337981,"Kind":8197,"Args":["props","{\"prop3_str\":\"D=g\",\"prop26_str\":\"DMC\",\"prop36_str\":\"dm:web:pdp:red wine:casillero-del-diablo-carmenere\"}","dlo"]},{"Kind":2,"Args":[160,-1,["<IFRAME",3,"__bkframe_50790_1638178236024",10,"__bkframe_50790_1638178236024",25322,"bk",600,"https://stags.bluekai.com/site/50790?ret=(blocked)&phint=(blocked)&phint=(blocked)&phint=(blocked)&phint=(blocked)&phint=(blocked)&limit=(blocked)&r=(blocked)",465,"__bkframe_site_50790",484,"border: 0px; width: 0px; height: 0px; display: none; position: absolute; clip: rect(0px, 0px, 0px, 0px);"]],"When":337990},{"Kind":78,"Args":[[0,1,2,337990,3]],"When":337990},{"Kind":2,"Args":[160,-1,["<IFRAME",3,"__bkframe_50790_1638178236026",10,"__bkframe_50790_1638178236026",25322,"bk",600,"https://stags.bluekai.com/site/50790?ret=(blocked)&phint=(blocked)&phint=(blocked)&phint=(blocked)&phint=(blocked)&phint=(blocked)&limit=(blocked)&r=(blocked)",465,"__bkframe_site_50790",484,"border: 0px; width: 0px; height: 0px; display: none; position: absolute; clip: rect(0px, 0px, 0px, 0px);"]],"When":337990},{"Kind":78,"Args":[[0,1,2,337990,2]],"When":337990},{"Kind":2,"Args":[160,-1,["<IFRAME",598,84,1780,[24711,2],"display: none; visibility: hidden;",600,"https://10298563.fls.doubleclick.net/activityi;src=10298563;type=dm_si0;cat=edg_d0;ord=9806445584866;gtm=2odba1;auiddc=1006025353.1638177903;u1=member;u10=Product%20Details;u11=No;u12=1;u13=;u14=13.99;u15=;u16=;u17=;u18=;u19=;u2=8004469;u20=;u21=https%3A%2F%2Fstage.danmurphys.com.au%2Fproduct%2FDM_824111%2Fcasillero-del-diablo-carmenere;u3=Desktop;u4=;u5=DM_824111;u6=Casillero%20Del%20Diablo%20Carmenere;u7=Casillero%20Del%20Diablo;u8=Red%20Wine;u9=Other%20Red%20Varietals;ps=1;~oref=https%3A%2F%2Fstage.danmurphys.com.au%2Fproduct%2FDM_824111%2Fcasillero-del-diablo-carmenere?"]],"When":337990},{"Kind":78,"Args":[[0,1,2,337990,0]],"When":337990},{"Kind":2,"Args":[160,-1,["<IFRAME",484,"position:absolute; visibility:hidden; width:1px; height:1px;",600,"https://servedby.flashtalking.com/container/18843;122479;13179;iframe/?spotName=(blocked)&ftXCurrency=(blocked)&ftXName=(blocked)&ftXNumItems=(blocked)&ftXRef=(blocked)&ftXType=(blocked)&ftXValue=(blocked)&U1=(blocked)&U2=(blocked)&U3=(blocked)&U4=(blocked)&U5=(blocked)&U6=(blocked)&U7=(blocked)&U8=(blocked)&U9=(blocked)&U10=(blocked)&U11=(blocked)&U12=(blocked)&U13=(blocked)&U14=(blocked)&U15=(blocked)&U16=(blocked)&U17=(blocked)&U18=(blocked)&U19=(blocked)&U20=(blocked)&cachebuster=(blocked)"]],"When":337990},{"Kind":78,"Args":[[0,1,2,337990,0]],"When":337990},{"Kind":42,"Args":[1349,4329],"When":338001},{"Kind":57,"Args":[2,"https://stageapi.danmurphys.com.au/apis/ui/Trolley/Items",354389.59999990463,1080.3000001907349,"xmlhttprequest",0,0,354389.59999990463,0,0,0,0,0,0,0,355469.90000009537,0,0,0],"When":338003},{"Kind":57,"Args":[2,"https://assets.adobedtm.com/de5f8b0ded67/b819e6b11ab5/385e972aa86a/RCa9da82b6cb384002b677b1ec420d9bf7-source.min.js",355473.90000009537,45,"script",0,0,355473.90000009537,355473.90000009537,355473.90000009537,355476,355510.7999997139,355497.2999997139,355511,355518,355518.90000009537,3407,761,1061],"When":338003},{"Kind":57,"Args":[2,"https://assets.adobedtm.com/de5f8b0ded67/b819e6b11ab5/385e972aa86a/RC8541227846d2447ab8dd9463f9e04215-source.min.js",355474.69999980927,50.700000286102295,"script",0,0,355474.69999980927,355474.69999980927,355474.69999980927,355474.69999980927,355474.69999980927,355474.69999980927,355511.09999990463,355523.59999990463,355525.40000009537,4065,1018,1318],"When":338003},{"Kind":57,"Args":[2,"https://assets.adobedtm.com/de5f8b0ded67/b819e6b11ab5/385e972aa86a/RC8b8c347fe84b4795b416512850015e5f-source.min.js",355475.40000009537,48.5,"script",0,0,355475.40000009537,355475.40000009537,355475.40000009537,355475.40000009537,355475.40000009537,355475.40000009537,355511.09999990463,355522.90000009537,355523.90000009537,1105,502,802],"When":338003},{"Kind":57,"Args":[2,"https://assets.adobedtm.com/de5f8b0ded67/b819e6b11ab5/385e972aa86a/RCe68374f504264c74a6b7dbadd8ac3b12-source.min.js",355476,55.40000009536743,"script",0,0,355476,355476,355476,355476,355476,355476,355511.19999980927,355526.5,355531.40000009537,298,183,483],"When":338003},{"Kind":57,"Args":[2,"https://assets.adobedtm.com/de5f8b0ded67/b819e6b11ab5/385e972aa86a/RC9037dd32bc3c46b4a6665e5b1d4ce77d-source.min.js",355476.69999980927,55.09999990463257,"script",0,0,355476.69999980927,355476.69999980927,355476.69999980927,355476.69999980927,355476.69999980927,355476.69999980927,355511.19999980927,355527.69999980927,355531.7999997139,2935,890,1190],"When":338003},{"Kind":57,"Args":[2,"https://assets.adobedtm.com/de5f8b0ded67/b819e6b11ab5/385e972aa86a/RCa51c4c8f993841afb289afaaec653d43-source.min.js",355477.2999997139,49.5,"script",0,0,355477.2999997139,355477.2999997139,355477.2999997139,355477.2999997139,355477.2999997139,355477.2999997139,355511.09999990463,355524.19999980927,355526.7999997139,1213,501,801],"When":338003},{"Kind":57,"Args":[2,"https://assets.adobedtm.com/de5f8b0ded67/b819e6b11ab5/385e972aa86a/RC9b96fc1637da436e96875f211e8b9cf2-source.min.js",355478,50.09999990463257,"script",0,0,355478,355478,355478,355478,355478,355478,355511.19999980927,355525.40000009537,355528.09999990463,1766,605,905],"When":338003},{"Kind":57,"Args":[2,"https://assets.adobedtm.com/de5f8b0ded67/b819e6b11ab5/385e972aa86a/RC5218feee2cb74ac29562c396c3919ddc-source.min.js",355478.69999980927,48.90000009536743,"script",0,0,355478.69999980927,355478.69999980927,355478.69999980927,355478.69999980927,355478.69999980927,355478.69999980927,355511.19999980927,355525,355527.59999990463,2955,841,1141],"When":338003},{"Kind":57,"Args":[2,"https://assets.adobedtm.com/de5f8b0ded67/b819e6b11ab5/385e972aa86a/RC0559dde181c94da29c6ff7143eccb8cb-source.min.js",355479.2999997139,52.90000009536743,"script",0,0,355479.2999997139,355479.2999997139,355479.2999997139,355479.2999997139,355479.2999997139,355479.2999997139,355511.2999997139,355527.7999997139,355532.19999980927,1766,708,1008],"When":338003},{"Kind":57,"Args":[2,"https://assets.adobedtm.com/de5f8b0ded67/b819e6b11ab5/385e972aa86a/RC66abec6163fe4a169e654dfe2c30d3ad-source.min.js",355479.90000009537,50.59999990463257,"script",0,0,355479.90000009537,355479.90000009537,355479.90000009537,355479.90000009537,355479.90000009537,355479.90000009537,355511.19999980927,355526.09999990463,355530.5,741,388,688],"When":338003},{"Kind":57,"Args":[2,"https://assets.adobedtm.com/de5f8b0ded67/b819e6b11ab5/385e972aa86a/RCe65d27891f8a4b05b86f0dcc60abd2f2-source.min.js",355480.5,41.59999990463257,"script",0,0,355480.5,355480.5,355480.5,355480.5,355480.5,355480.5,355511.09999990463,355521.2999997139,355522.09999990463,1126,527,827],"When":338003},{"Kind":57,"Args":[2,"https://fs-obfuscated.invalid?url-id=862",355535.09999990463,5.599999904632568,"img",0,0,355535.09999990463,0,0,0,0,0,0,0,355540.69999980927,0,0,0],"When":338004},{"Kind":57,"Args":[2,"https://fs-obfuscated.invalid?url-id=863",355633,46.09999990463257,"iframe",0,0,355633,0,0,0,0,0,0,0,355679.09999990463,0,0,0],"When":338004},{"Kind":57,"Args":[2,"https://fs-obfuscated.invalid?url-id=864",355622.59999990463,108.30000019073486,"img",0,0,355622.59999990463,0,0,0,0,0,0,0,355730.90000009537,0,0,0],"When":338004},{"Kind":57,"Args":[2,"https://fs-obfuscated.invalid?url-id=865",355601.69999980927,145.7000002861023,"img",0,0,355601.69999980927,0,0,0,0,0,0,0,355747.40000009537,0,0,0],"When":338004},{"Kind":57,"Args":[2,"https://fs-obfuscated.invalid?url-id=866",355650,99.09999990463257,"img",0,0,355650,0,0,0,0,0,0,0,355749.09999990463,0,0,0],"When":338004},{"Kind":48,"Args":["log","null"],"When":338087},{"Kind":63,"Args":["POST","https://api2.branch.io/v2/event/standard",242,200,"content-type: application/x-www-form-urlencoded\r\n","content-length: 2\r\ncontent-type: application/json\r\n",1638178236064,1102,2,null,null,1,1],"When":338240},{"Kind":9,"Args":[338307,1184,1226,5.8125,80.6,328,301,0,-55.8,17093],"When":338245},{"Kind":57,"Args":[2,"https://fs-obfuscated.invalid?url-id=867",355568.2999997139,204.60000038146973,"iframe",0,0,355568.2999997139,0,0,0,0,0,0,0,355772.90000009537,0,0,0],"When":338278},{"Kind":57,"Args":[2,"https://fs-obfuscated.invalid?url-id=867",355570.2999997139,236.60000038146973,"iframe",0,0,355570.2999997139,0,0,0,0,0,0,0,355806.90000009537,0,0,0],"When":338279},{"Kind":57,"Args":[2,"https://pixel.mathtag.com/event/js?mt_id=1538954&mt_adid=239489&mt_exem=&mt_excl=&v1=678804166&v2=member&v3=&s1=&s2=&s3=",355652.40000009537,184.89999961853027,"script",0,0,355652.40000009537,0,0,0,0,0,0,0,355837.2999997139,0,0,0],"When":338279},{"Kind":57,"Args":[2,"https://api2.branch.io/v2/event/standard",355607,235.19999980926514,"xmlhttprequest",0,0,355607,0,0,0,0,0,0,0,355842.19999980927,0,0,0],"When":338279},{"Kind":57,"Args":[2,"https://fs-obfuscated.invalid?url-id=868",355620,218.7999997138977,"iframe",355620,355727.5,355730,355730,355730,355730,355730,355730,355730.69999980927,355835.2999997139,355838.7999997139,1051,608,908],"When":338279},{"Kind":9,"Args":[338461,1323,1365,127.4,0,248,217,-112.23333333333333,8.950819672131148,3],"When":338370},{"Kind":9,"Args":[338617,1365,1294,0,-181.8181818181818,232,340,125,11.363636363636363,16929],"When":338492},{"Kind":87,"Args":[["https://stags.bluekai.com/site/50790?ret=(blocked)&phint=(blocked)&phint=(blocked)&phint=(blocked)&phint=(blocked)&phint=(blocked)&limit=(blocked)&r=(blocked)",867],["https://10298563.fls.doubleclick.net/activityi;src=10298563;type=dm_si0;cat=edg_d0;ord=9806445584866;gtm=2odba1;auiddc=1006025353.1638177903;u1=member;u10=Product%20Details;u11=No;u12=1;u13=;u14=13.99;u15=;u16=;u17=;u18=;u19=;u2=8004469;u20=;u21=https%3A%2F%2Fstage.danmurphys.com.au%2Fproduct%2FDM_824111%2Fcasillero-del-diablo-carmenere;u3=Desktop;u4=;u5=DM_824111;u6=Casillero%20Del%20Diablo%20Carmenere;u7=Casillero%20Del%20Diablo;u8=Red%20Wine;u9=Other%20Red%20Varietals;ps=1;~oref=https%3A%2F%2Fstage.danmurphys.com.au%2Fproduct%2FDM_824111%2Fcasillero-del-diablo-carmenere?",868],["https://servedby.flashtalking.com/container/18843;122479;13179;iframe/?spotName=(blocked)&ftXCurrency=(blocked)&ftXName=(blocked)&ftXNumItems=(blocked)&ftXRef=(blocked)&ftXType=(blocked)&ftXValue=(blocked)&U1=(blocked)&U2=(blocked)&U3=(blocked)&U4=(blocked)&U5=(blocked)&U6=(blocked)&U7=(blocked)&U8=(blocked)&U9=(blocked)&U10=(blocked)&U11=(blocked)&U12=(blocked)&U13=(blocked)&U14=(blocked)&U15=(blocked)&U16=(blocked)&U17=(blocked)&U18=(blocked)&U19=(blocked)&U20=(blocked)&cachebuster=(blocked)",863]],"When":338540},{"Kind":9,"Args":[338739,1273,1237,-42,-12,340,272,-21,-84,17082],"When":338646},{"Kind":4,"Args":[224,"class","icon pull-left is-full"],"When":338741},{"Kind":8,"Args":[1236,245,17082],"When":338771},{"Kind":9,"Args":[338833,1237,1238,1,1,224,216,-8,-8,16973],"When":338801},{"Kind":9,"Args":[338990,1239,1242,3,3,213,222,9,9,17080],"When":338985},{"Kind":57,"Args":[2,"https://fs-obfuscated.invalid?url-id=869",356362.2999997139,147.40000009536743,"img",0,0,356362.2999997139,0,0,0,0,0,0,0,356509.69999980927,0,0,0],"When":339020},{"Kind":9,"Args":[339177,1248,1258,44.25,0,244,298,172.08333333333331,3.6875,17078],"When":339059},{"Kind":9,"Args":[339332,1258,1256,-2,-2,297,281,-16,-16,17078],"When":339301},{"Kind":9,"Args":[339394,1256,1255,-1,-1,278,272,-6,-6,17078],"When":339363},{"Kind":9,"Args":[339614,1253,1227,-26,-26,275,297,22,22,17082],"When":339582},{"Kind":9,"Args":[339676,1216,1209,-7,-7,302,303,1,1,17093],"When":339659},{"Kind":8,"Args":[1205,303,17093],"When":339739},{"Kind":9,"Args":[339895,1198,1198,-3.9375,3.9375,297,279,-27.5625,-7.875,17089],"When":339769},{"Kind":8,"Args":[1197,279,17089],"When":340033},{"Kind":9,"Args":[340176,1170,1090,-39,-24.8,307,326,27,0,17082],"When":340083},{"Kind":9,"Args":[340238,1051,1004,-47,-47,311,275,-36,-36,17089],"When":340218},{"Kind":9,"Args":[340333,990,988,-2,-2,253,247,-6,-6,17082],"When":340301},{"Kind":9,"Args":[340457,1007,1212,41.125,413.59999999999997,210,215,-23.5,68.93333333333332,16973],"When":340363},{"Kind":8,"Args":[1290,266,16929],"When":340488},{"Kind":9,"Args":[340618,1303,1166,-69,-214.97142857142856,317,460,285,67.88571428571429,17150],"When":340519},{"Kind":9,"Args":[340738,835,518,-328.1333333333333,-76.66666666666667,464,216,-141.06666666666666,-116.53333333333333,16960],"When":340646},{"Kind":9,"Args":[340832,502,504,0,4,168,142,-48,-4,16957],"When":340770},{"Kind":9,"Args":[340989,506,517,11,11,144,163,19,19,16952],"When":340980},{"Kind":8,"Args":[537,185,16960],"When":341019},{"Kind":9,"Args":[341176,551,788,166.66666666666666,40.32258064516129,190,236,37.878787878787875,4.032258064516129,16997],"When":341051},{"Kind":8,"Args":[798,238,16997],"When":341208},{"Kind":78,"Args":[[0,1,3,341208,0,[3,0],[3,0],[3,0],[3,0],[3,0],[3,0],[3,0],[3,0]]],"When":341208}]}]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/site/4448" path="/site/4448" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/283506f6-48e0-4bfe-abf0-3b79eb38435d.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="stags.bluekai.com" slaProfileEnabled="false"
+    uid="0717cbdc-2f37-4db0-837d-b60f510ffc8f" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_0717cbdc-2f37-4db0-837d-b60f510ffc8f.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_0717cbdc-2f37-4db0-837d-b60f510ffc8f.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="id"
+        recordRawValue="46d861a4-9c64-4600-b29d-cedecb0f4672"
+        separator="=" value="46d861a4-9c64-4600-b29d-cedecb0f4672" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="bkdc=phx; bku=AZDO9aIzosWviPGi"/>
+    <header name="Host" value="stags.bluekai.com"/>
+    <header name="Referer" value="https://pixel.mathtag.com/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Content-Type: image/gif&#xd;
+Content-Length: 62&#xd;
+P3P: CP="NOI DSP COR CUR ADMo DEVo PSAo PSDo OUR SAMo BUS UNI NAV", policyref="http://tags.bluekai.com/w3c/p3p.xml"&#xd;
+Date: Mon, 29 Nov 2021 09:30:39 GMT&#xd;
+Connection: keep-alive&#xd;
+Set-Cookie: bku=AZDO9aIzosWviPGi; Path=/; Domain=.bluekai.com; Expires=Sun, 29 May 2022 09:30:39 GMT; SameSite=None</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/x-protobuf"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/v4/fullHashes:find" path="/v4/fullHashes:find"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/283506f6-48e0-4bfe-abf0-3b79eb38435d.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="safebrowsing.googleapis.com" slaProfileEnabled="false"
+    uid="02d87f5e-b82a-4b34-80b2-1661e68dff62" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_02d87f5e-b82a-4b34-80b2-1661e68dff62</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_02d87f5e-b82a-4b34-80b2-1661e68dff62.txt</requestContentFileDescription>
+    <parameter encodeName="false" encodeValue="false" name="$req"
+        recordRawValue="ChwKDGdvb2dsZWNocm9tZRIMOTYuMC40NjY0LjQ1EhsKDQgFEAYYASIDMDAxMAEQhvcMGgIYBEYt9usSGwoNCAEQBhgBIgMwMDEwARCh8gkaAhgEJ-TxihIbCg0IAxAGGAEiAzAwMTABEOGzCRoCGATnvmssEhsKDQgHEAYYASIDMDAxMAEQ2acKGgIYBAfIQ74SGQoNCAEQBhgBIgMwMDEwAxAUGgIYBE9dQu4SGgoNCAEQCBgBIgMwMDEwBBD1JBoCGAQEJ-2CEhkKDQgJEAYYASIDMDAxMAYQAxoCGAQyO0fDEhoKDQgPEAYYASIDMDAxMAEQ8XAaAhgEfQ8PQhIZCg0IChAIGAEiAzAwMTABEAcaAhgE756XZRIZCg0ICRAGGAEiAzAwMTABECAaAhgEfI3l_BIaCg0ICBAGGAEiAzAwMTABEOYNGgIYBA9KkxUSGwoNCA0QBhgBIgMwMDEwARCzqAEaAhgEoZEZ2RIbCg0IDhAGGAEiAzAwMTABELWWBhoCGASPLbZ7EhoKDQgQEAYYASIDMDAxMAEQzg4aAhgEx4e0FxouCAEIAwgFCAYIBwgICAkICggNCA4IDwgQCBEQARAIGgYKBIr6WYAgASADIAQgBg=="
+        separator="="
+        value="ChwKDGdvb2dsZWNocm9tZRIMOTYuMC40NjY0LjQ1EhsKDQgFEAYYASIDMDAxMAEQhvcMGgIYBEYt9usSGwoNCAEQBhgBIgMwMDEwARCh8gkaAhgEJ-TxihIbCg0IAxAGGAEiAzAwMTABEOGzCRoCGATnvmssEhsKDQgHEAYYASIDMDAxMAEQ2acKGgIYBAfIQ74SGQoNCAEQBhgBIgMwMDEwAxAUGgIYBE9dQu4SGgoNCAEQCBgBIgMwMDEwBBD1JBoCGAQEJ-2CEhkKDQgJEAYYASIDMDAxMAYQAxoCGAQyO0fDEhoKDQgPEAYYASIDMDAxMAEQ8XAaAhgEfQ8PQhIZCg0IChAIGAEiAzAwMTABEAcaAhgE756XZRIZCg0ICRAGGAEiAzAwMTABECAaAhgEfI3l_BIaCg0ICBAGGAEiAzAwMTABEOYNGgIYBA9KkxUSGwoNCA0QBhgBIgMwMDEwARCzqAEaAhgEoZEZ2RIbCg0IDhAGGAEiAzAwMTABELWWBhoCGASPLbZ7EhoKDQgQEAYYASIDMDAxMAEQzg4aAhgEx4e0FxouCAEIAwgFCAYIBwgICAkICggNCA4IDwgQCBEQARAIGgYKBIr6WYAgASADIAQgBg==" valueMode="USE_VALUE"/>
+    <parameter encodeName="false" encodeValue="false" name="$ct"
+        recordRawValue="application/x-protobuf" separator="="
+        value="application/x-protobuf" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="key"
+        recordRawValue="AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+        separator="=" value="AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="x-http-method-override" value="POST"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/x-protobuf&#xd;
+content-disposition: attachment&#xd;
+content-encoding: gzip&#xd;
+date: Mon, 29 Nov 2021 09:30:39 GMT&#xd;
+server: scaffolding on HTTPServer2&#xd;
+cache-control: private&#xd;
+content-length: 82&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: nosniff&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/misc/img" path="/misc/img" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/283506f6-48e0-4bfe-abf0-3b79eb38435d.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="pixel.mathtag.com" slaProfileEnabled="false"
+    uid="5f47b2c6-3d24-4f39-830e-971731208886" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_5f47b2c6-3d24-4f39-830e-971731208886.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_5f47b2c6-3d24-4f39-830e-971731208886.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="false" name="mop_seq"
+        recordRawValue="10:29" separator="=" value="10:29" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="mt_cb"
+        recordRawValue="860607" separator="=" value="860607" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="mop_top"
+        recordRawValue="4:1638177737|9:1638177737|13:1638177737|3:1638177737|21:1638177737|5:1638177737|10010:1638177737|15:1638177737|10017:1638177737|10074:1638177737|"
+        separator="="
+        value="4:1638177737|9:1638177737|13:1638177737|3:1638177737|21:1638177737|5:1638177737|10010:1638177737|15:1638177737|10017:1638177737|10074:1638177737|" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="uuid=46d861a4-9c64-4600-b29d-cedecb0f4672; mt_misc=mt_bt:1638177909; mt_mop=4:1638178239"/>
+    <header name="Host" value="pixel.mathtag.com"/>
+    <header name="Referer" value="https://pixel.mathtag.com/sync/iframe?mt_uuid=46d861a4-9c64-4600-b29d-cedecb0f4672&amp;no_iframe=1&amp;mt_adid=239489&amp;source=mathtag"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Content-Type: image/gif&#xd;
+Content-Length: 43&#xd;
+Access-Control-Allow-Origin: *&#xd;
+Server: MT3 4103 f8fad19 master hkg-pixel-x21 config:1.0.0&#xd;
+Cache-Control: no-cache&#xd;
+P3P: CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"&#xd;
+Expires: Mon, 29 Nov 2021 09:30:38 GMT&#xd;
+Date: Mon, 29 Nov 2021 09:30:39 GMT&#xd;
+Connection: keep-alive&#xd;
+Set-Cookie: mt_mop=4:1638177737|10074:1638177737|21:1638177737|9:1638177737|15:1638177737|3:1638177737|10010:1638177737|5:1638177737|13:1638177737|10017:1638177737; domain=.mathtag.com; path=/; expires=Wed, 29-Dec-2021 09:30:40 GMT; SameSite=None; Secure</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

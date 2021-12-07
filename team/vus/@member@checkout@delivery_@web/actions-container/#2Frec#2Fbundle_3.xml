@@ -1,0 +1,67 @@
+<http-page executeResourcesDynamically="false" name="/rec/bundle_3"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/cc1d0049-d5f8-475c-896b-626aa4735918.zip"
+    slaProfileEnabled="false" thinkTime="1822"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="cc1d0049-d5f8-475c-896b-626aa4735918">
+    <embedded-action>fe80ff9d-07c3-478a-8923-71aabb706ac4</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/rec/bundle" path="/rec/bundle" postType="4"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/cc1d0049-d5f8-475c-896b-626aa4735918.zip"
+    recordedResponseCode="200" responseSize="29"
+    serverUid="rs.fullstory.com" slaProfileEnabled="false"
+    uid="fe80ff9d-07c3-478a-8923-71aabb706ac4" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_fe80ff9d-07c3-478a-8923-71aabb706ac4</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_fe80ff9d-07c3-478a-8923-71aabb706ac4.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true" name="OrgId"
+        recordRawValue="TQCFZ" separator="=" value="TQCFZ" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="UserId"
+        recordRawValue="6094149355069440" separator="="
+        value="6094149355069440" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="SessionId" recordRawValue="5407716160069632" separator="="
+        value="5407716160069632" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="PageId"
+        recordRawValue="6304641898012672" separator="="
+        value="6304641898012672" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="Seq"
+        recordRawValue="4" separator="=" value="4" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="PageStart" recordRawValue="1638177899114" separator="="
+        value="1638177899114" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="PrevBundleTime" recordRawValue="1638177909567"
+        separator="=" value="1638177909567" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="LastActivity" recordRawValue="1958" separator="="
+        value="1958" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://stage.danmurphys.com.au"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="text/plain"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-origin: https://stage.danmurphys.com.au&#xd;
+content-type: application/json; charset=utf-8&#xd;
+date: Mon, 29 Nov 2021 09:27:34 GMT&#xd;
+content-length: 29&#xd;
+via: 1.1 google&#xd;
+alt-svc: clear</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"Seq":4,"When":11474,"Evts":[{"Kind":63,"Args":["POST","https://rs.fullstory.com/rec/bundle?OrgId=TQCFZ&UserId=6094149355069440&SessionId=5407716160069632&PageId=6304641898012672&Seq=3&PageStart=1638177899114&PrevBundleTime=1638177904751&LastActivity=9874",186,200,"content-type: text/plain\r\n","content-length: 29\r\ncontent-type: application/json; charset=utf-8\r\n",1638177909472,4287,29,null,null,1,1],"When":11474},{"Kind":57,"Args":[2,"https://rs.fullstory.com/rec/bundle?OrgId=TQCFZ&UserId=6094149355069440&SessionId=5407716160069632&PageId=6304641898012672&Seq=3&PageStart=1638177899114&PrevBundleTime=1638177904751&LastActivity=9874",29035,183.09999990463257,"xmlhttprequest",0,0,29035,0,0,0,0,0,0,0,29218.099999904633,0,0,0],"When":11691},{"Kind":57,"Args":[2,"https://fs-obfuscated.invalid?url-id=660",28651.400000095367,1586.6999998092651,"img",0,0,28651.400000095367,28651.400000095367,28651.400000095367,28652.900000095367,30130,28656.699999809265,30130.199999809265,30235.799999713898,30238.099999904633,42,42,342],"When":12714},{"Kind":57,"Args":[2,"https://fs-obfuscated.invalid?url-id=661",28651.699999809265,1595.5999999046326,"img",0,0,28651.699999809265,28651.699999809265,28651.699999809265,28653.699999809265,30139.799999713898,28667.400000095367,30140,30244.299999713898,30247.299999713898,42,42,342],"When":12714},{"Kind":57,"Args":[6,4294705152,35701807,29956203],"When":13972},{"Kind":9,"Args":[151878,789,833,77.5,16.411764705882355,187,129,-104.07142857142857,-20.058823529411768,3075],"When":151816},{"Kind":9,"Args":[151975,844,848,5.742857142857144,2.09375,111,97,-19.142857142857146,-8.375,2702],"When":151908},{"Kind":8,"Args":[848,96,2702],"When":152737},{"Kind":9,"Args":[152857,846,837,6.2,-36,109,156,71.3,54,3157],"When":152764},{"Kind":9,"Args":[152952,728,646,-97.96875,-59.78260869565218,182,60,-116.875,-129.13043478260872,186],"When":152897},{"Kind":9,"Args":[153301,741,726,0,-29.516129032258064,61,109,14.233333333333334,80.6774193548387,2702],"When":153240},{"Kind":8,"Args":[725,112,2702],"When":153361},{"Kind":8,"Args":[729,113,2702],"When":153454},{"Kind":9,"Args":[153516,735,737,2,2,112,111,-1,-1,2702],"When":153486},{"Kind":8,"Args":[738,111,2702],"When":153720},{"Kind":8,"Args":[740,111,2702],"When":153734},{"Kind":9,"Args":[153860,773,942,70.48387096774194,367.741935483871,101,68,-15.32258064516129,-61.29032258064516,2812],"When":153765},{"Kind":9,"Args":[153960,992,1023,62.37931034482759,7.052631578947369,75,107,36.96551724137931,28.210526315789476,2812],"When":153893},{"Kind":8,"Args":[1023,126,2812],"When":153991},{"Kind":9,"Args":[154145,1020,962,-20,-85.25,131,58,12,-151.125,201],"When":154021},{"Kind":8,"Args":[951,34,207],"When":154176},{"Kind":8,"Args":[891,27,203],"When":154268},{"Kind":53,"Args":[],"When":155239}]}]]></textPostContent>
+</http-action>

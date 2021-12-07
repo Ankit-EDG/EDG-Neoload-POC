@@ -1,0 +1,51 @@
+<http-page executeResourcesDynamically="false"
+    name="/dmo/content/Badges/DanMurphysWinePanel-90.png"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@check@out@delivery_@web_@v1/%resources%/recorded-artifacts/0366ec05-6f39-45cc-894f-3502e7534a27.zip"
+    slaProfileEnabled="false" thinkTime="1640"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="0366ec05-6f39-45cc-894f-3502e7534a27">
+    <embedded-action>87bb8b46-9dfa-4d5d-9987-c8fcd86472c9</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="image/webp"
+    eTag="&quot;0x8D5571342A94AB3&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Tue, 09 Nov 2021 19:59:45 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/dmo/content/Badges/DanMurphysWinePanel-90.png"
+    path="/dmo/content/Badges/DanMurphysWinePanel-90.png" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@check@out@delivery_@web_@v1/%resources%/recorded-artifacts/0366ec05-6f39-45cc-894f-3502e7534a27.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="uatmedia.danmurphys.com.au" slaProfileEnabled="false"
+    uid="87bb8b46-9dfa-4d5d-9987-c8fcd86472c9" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_87bb8b46-9dfa-4d5d-9987-c8fcd86472c9</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_87bb8b46-9dfa-4d5d-9987-c8fcd86472c9.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="AMCVS_1124C2D754E497DC0A4C98C6%40AdobeOrg=1; unbxd.userId=uid-1638178974506-63856; unbxd.visit=first_time; unbxd.visitId=visitId-1638178974515-29035; s_ecid=MCMID%7C20227339837400744711932472352927555733; stg_danmurphys_sf_wdt_session_expiration_session=1638178980157; stg_danmurphys_sf_wdt_customer_id=iyersd1jx; stg_danmurphys_sf_wdt_fingerprint=53476515090717; ORA_FPC=id=a310c3a6-f82a-4c3f-b069-bce5bb19de6c; WTPERSIST=; _fbp=fb.2.1638178994094.350781761; _gcl_au=1.1.1594549354.1638178995; AMCV_1124C2D754E497DC0A4C98C6%40AdobeOrg=-1124106680%7CMCIDTS%7C18961%7CMCMID%7C20227339837400744711932472352927555733%7CMCAAMLH-1638784142%7C8%7CMCAAMB-1638784142%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1638186542s%7CNONE%7CMCSYNCSOP%7C411-18968%7CMCAID%7CNONE%7CMCCIDH%7C138322834%7CvVersion%7C5.2.0; fs_uid=rs.fullstory.com#TQCFZ#5260652654649344:6705541284126720#d3942b10#/1669715342; rr_rcs=eF5j4cotK8lM4TMzM9A11DVkKU32MDUyNUxKMUjUNTBJStM1MTGw1E21SDLUTUo2TTO1sDRJMzAwAwCEmQ34; unbxd.pen.click.1638179493914=eyJwaWQiOiI4MjQxMTEiLCJwciI6MiwiZXhwZXJpZW5jZV9wYWdldHlwZSI6Ik5VTEwiLCJ1cmwiOiJodHRwczovL3N0YWdlLmRhbm11cnBoeXMuY29tLmF1L3Byb2R1Y3QvRE1fODI0MTExL2Nhc2lsbGVyby1kZWwtZGlhYmxvLWNhcm1lbmVyZSIsInJlZmVycmVyIjoiaHR0cDovL3d3dy5uZW90eXMuY29tLyIsInZpc2l0X3R5cGUiOiJmaXJzdF90aW1lIiwidmVyIjoiNC4wLjI4IiwiX3VmIjo3NjM3ODIzMDAsInZpc2l0SWQiOiJ2aXNpdElkLTE2MzgxNzg5NzQ1MTUtMjkwMzUifQ%3D%3D; s_nr30=1638179494780-New"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+access-control-expose-headers: x-ms-request-id,Server,x-ms-version,x-ms-meta-CbModifiedTime,Content-Type,Last-Modified,ETag,Content-MD5,x-ms-lease-status,x-ms-lease-state,x-ms-blob-type,Accept-Ranges,Content-Length,Date,Transfer-Encoding&#xd;
+etag: "0x8D5571342A94AB3"&#xd;
+access-control-allow-origin: *&#xd;
+last-modified: Tue, 09 Nov 2021 19:59:45 GMT&#xd;
+server: Akamai Image Manager&#xd;
+x-serial: 1044&#xd;
+x-check-cacheable: YES&#xd;
+content-length: 2014&#xd;
+content-type: image/webp&#xd;
+cache-control: private, no-transform, max-age=43200&#xd;
+expires: Mon, 29 Nov 2021 21:51:38 GMT&#xd;
+date: Mon, 29 Nov 2021 09:51:38 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

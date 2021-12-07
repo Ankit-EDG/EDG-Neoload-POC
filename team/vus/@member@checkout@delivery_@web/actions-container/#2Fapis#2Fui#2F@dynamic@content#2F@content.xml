@@ -1,0 +1,65 @@
+<http-page executeResourcesDynamically="false"
+    name="/apis/ui/DynamicContent/Content"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/3fd7bcfb-b30b-4900-bed6-42cc237726fe.zip"
+    slaProfileEnabled="false" thinkTime="2"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="3fd7bcfb-b30b-4900-bed6-42cc237726fe">
+    <embedded-action>ed6bf703-562d-4a2e-9816-34f34d317b1f</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/apis/ui/DynamicContent/Content"
+    path="/apis/ui/DynamicContent/Content" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/3fd7bcfb-b30b-4900-bed6-42cc237726fe.zip"
+    recordedResponseCode="200" responseSize="95469"
+    serverUid="stageapi.danmurphys.com.au" slaProfileEnabled="false"
+    uid="ed6bf703-562d-4a2e-9816-34f34d317b1f" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_ed6bf703-562d-4a2e-9816-34f34d317b1f.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_ed6bf703-562d-4a2e-9816-34f34d317b1f.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="false" name="scheduleKey"
+        recordRawValue="/" separator="=" value="/" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="v"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <header name="Accept" value="application/json, text/plain, */*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="AMCVS_1124C2D754E497DC0A4C98C6%40AdobeOrg=1; AMCV_1124C2D754E497DC0A4C98C6%40AdobeOrg=-1124106680%7CMCIDTS%7C18961%7CMCMID%7C62974577823596621581061727074359824665%7CMCAAMLH-1638782685%7C8%7CMCAAMB-1638782685%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1638185085s%7CNONE%7CvVersion%7C5.2.0; ADRUM_BTa=R:32|g:bf03032b-79ce-4566-90c6-6ff03cd9c78c|n:Woolworths-Dev_2b311050-b631-46eb-a435-beea47816b7e; w-arjshtsw=0f537cc06d3d24f69860498e6bbde6269ouxvkjmew; w-rsjhf=PGcgdD0iMDI3OGFiMTJkMmU5NDE4ZmJiMDY0ZjhjOWE2ZDE1ODlmY3RrZWppZXh0IiAvPg==; ARRAffinity=a875b2242be42a1f603f8636277f6b6e64af58c8b02c83484ca7567e710ce468; ARRAffinitySameSite=a875b2242be42a1f603f8636277f6b6e64af58c8b02c83484ca7567e710ce468"/>
+    <header name="Host" value="stageapi.danmurphys.com.au"/>
+    <header name="Origin" value="https://stage.danmurphys.com.au"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache, no-store, must-revalidate&#xd;
+Pragma: no-cache&#xd;
+Content-Length: 17204&#xd;
+Content-Type: text/html; charset=utf-8&#xd;
+Content-Encoding: gzip&#xd;
+Expires: -1&#xd;
+Vary: Accept,Accept-Encoding&#xd;
+Server: Microsoft-IIS/10.0&#xd;
+Set-Cookie: ADRUM_BTa=R:32|g:b45545ed-a697-4a14-9557-dae66ca523b6|n:Woolworths-Dev_2b311050-b631-46eb-a435-beea47816b7e; expires=Mon, 29-Nov-2021 09:25:17 GMT; path=/&#xd;
+Set-Cookie: w-arjshtsw=af04c4ff7abbd45b29fc750291c14286daqxxydoxc; path=/&#xd;
+X-Powered-By: Olympic TRADER&#xd;
+Access-Control-Allow-Origin: https://stage.danmurphys.com.au&#xd;
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS&#xd;
+Access-Control-Allow-Headers: Content-Type, dmIV, Source, X-EventID&#xd;
+Access-Control-Expose-Headers: X-EventID&#xd;
+Access-Control-Allow-Credentials: true&#xd;
+X-EventID: 5207a3cb-a7b4-446d-be28-7a9d9e735097&#xd;
+X-Powered-By: ServiceStack/4.052 Win32NT/.NET&#xd;
+X-AspNet-Version: 4.0.30319&#xd;
+X-Powered-By: ASP.NET&#xd;
+Date: Mon, 29 Nov 2021 09:24:47 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

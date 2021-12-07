@@ -1,0 +1,56 @@
+<http-page executeResourcesDynamically="false"
+    name="/activityi;register_conversion=1;src=10298563;type=dm_si0;cat=edg_d00;ord=559332202334;gtm=2odb"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/15298922-7175-46e7-9d15-0b92dc6c85b8.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="15298922-7175-46e7-9d15-0b92dc6c85b8">
+    <embedded-action>f23eeea7-c500-486c-b4ec-7e40f461e9ae</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/activityi;register_conversion=1;src=10298563;type=dm_si0;cat=edg_d00;ord=559332202334;gtm=2odba1;auiddc=1006025353.1638177903;u1=member;u10=Checkout;u11=;u12=;u13=;u14=;u15=;u16=;u17=;u18=;u19=;u2=8004469;u20=;u21=https%3A%2F%2Fstage.danmurphys.com.au%2Fdm%2Fexpresscheckout%2Fcheckout;u3=Desktop;u4=;u5=;u6=;u7=;u8=;u9=;ps=1;~oref=https%3A%2F%2Fstage.danmurphys.com.au%2Fdm%2Fexpresscheckout%2Fcheckout"
+    path="/activityi;register_conversion=1;src=10298563;type=dm_si0;cat=edg_d00;ord=559332202334;gtm=2odba1;auiddc=1006025353.1638177903;u1=member;u10=Checkout;u11=;u12=;u13=;u14=;u15=;u16=;u17=;u18=;u19=;u2=8004469;u20=;u21=https%3A%2F%2Fstage.danmurphys.com.au%2Fdm%2Fexpresscheckout%2Fcheckout;u3=Desktop;u4=;u5=;u6=;u7=;u8=;u9=;ps=1;~oref=https%3A%2F%2Fstage.danmurphys.com.au%2Fdm%2Fexpresscheckout%2Fcheckout"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/15298922-7175-46e7-9d15-0b92dc6c85b8.zip"
+    recordedResponseCode="302" responseSize="0"
+    serverUid="10298563.fls.doubleclick.net" slaProfileEnabled="false"
+    uid="f23eeea7-c500-486c-b4ec-7e40f461e9ae" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_f23eeea7-c500-486c-b4ec-7e40f461e9ae.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_f23eeea7-c500-486c-b4ec-7e40f461e9ae.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name=""
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="IDE=AHWqTUnH79cuPFQ-Riqya4KVXdzotrMulRNWBZ_cy0EEYnk6At6EqGt817KYyOrjOpY"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-client-data" value="CK21yQEIi7bJAQiktskBCMG2yQEIqZ3KAQjQoMoBCOaEzAEI+oTMAQi2hcwBCMuJzAEYjp7LAQ=="/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 302&#xd;
+p3p: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"&#xd;
+timing-allow-origin: *&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+date: Mon, 29 Nov 2021 09:34:13 GMT&#xd;
+pragma: no-cache&#xd;
+expires: Fri, 01 Jan 1990 00:00:00 GMT&#xd;
+cache-control: no-cache, must-revalidate&#xd;
+location: https://10298563.fls.doubleclick.net/.well-known/attribution-reporting/trigger-attribution?trigger-data=0&#xd;
+content-type: text/html; charset=UTF-8&#xd;
+x-content-type-options: nosniff&#xd;
+server: cafe&#xd;
+Content-Length: 0&#xd;
+x-xss-protection: 0&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

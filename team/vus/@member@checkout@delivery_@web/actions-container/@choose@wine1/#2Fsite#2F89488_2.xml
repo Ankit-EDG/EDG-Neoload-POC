@@ -1,0 +1,246 @@
+<http-page executeResourcesDynamically="false" name="/site/89488_2"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/1a1f522a-95fa-4613-a09b-a01a5897457c.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="1a1f522a-95fa-4613-a09b-a01a5897457c">
+    <embedded-action>00faddc4-4d6c-40f3-b46a-4e4a00ea3fb0</embedded-action>
+    <embedded-action>93067dc4-82c5-4f7e-b40f-99fbb700def7</embedded-action>
+    <embedded-action>b113d36b-ffb0-4c9d-932a-a9a284365f90</embedded-action>
+    <embedded-action>b3828271-481d-4930-90a3-3d515f0d1a7b</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/site/89488" path="/site/89488" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/1a1f522a-95fa-4613-a09b-a01a5897457c.zip"
+    recordedResponseCode="200" responseSize="71"
+    serverUid="stags.bluekai.com" slaProfileEnabled="false"
+    uid="00faddc4-4d6c-40f3-b46a-4e4a00ea3fb0" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_00faddc4-4d6c-40f3-b46a-4e4a00ea3fb0.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_00faddc4-4d6c-40f3-b46a-4e4a00ea3fb0.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="ret"
+        recordRawValue="html" separator="=" value="html" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="phint"
+        recordRawValue="Aid%3D53843" separator="=" value="Aid=53843" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="phint"
+        recordRawValue="Etype%3DBROWSE" separator="="
+        value="Etype=BROWSE" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="phint"
+        recordRawValue="pagename%3Ddm%3Aweb%3Ahomepage" separator="="
+        value="pagename=dm:web:homepage" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="phint"
+        recordRawValue="__bk_t%3DBuy%20Casillero%20Del%20Diablo%20Carmenere%20Online%20(Lowest%20prices%20in%20Australia)%20%7C%20Dan%20Murphy%27s"
+        separator="="
+        value="__bk_t%3DBuy%20Casillero%20Del%20Diablo%20Carmenere%20Online%20(Lowest%20prices%20in%20Australia)%20%7C%20Dan%20Murphy%27s" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="phint"
+        recordRawValue="__bk_k%3DShop%20Casillero%20Del%20Diablo%20Carmenere%20Online%20from%20Dan%20Murphy%27s%2C%20offering%20doorstep%20delivery%20in%20Australia.%20Enjoy%20%E2%9C%93%20Best%20Prices%20%E2%9C%93%20Wide%20Range%20%E2%9C%93%2030%20Minutes%20Pickup%20"
+        separator="="
+        value="__bk_k%3DShop%20Casillero%20Del%20Diablo%20Carmenere%20Online%20from%20Dan%20Murphy%27s%2C%20offering%20doorstep%20delivery%20in%20Australia.%20Enjoy%20%E2%9C%93%20Best%20Prices%20%E2%9C%93%20Wide%20Range%20%E2%9C%93%2030%20Minutes%20Pickup%20" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="phint"
+        recordRawValue="__bk_pr%3Dhttp%3A%2F%2Fwww.neotys.com%2F"
+        separator="=" value="__bk_pr=http://www.neotys.com/" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="phint"
+        recordRawValue="__bk_l%3Dhttps%3A%2F%2Fstage.danmurphys.com.au%2Fproduct%2FDM_824111%2Fcasillero-del-diablo-carmenere"
+        separator="="
+        value="__bk_l=https://stage.danmurphys.com.au/product/DM_824111/casillero-del-diablo-carmenere" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="phint"
+        recordRawValue="__bk_v%3D3.1.10" separator="="
+        value="__bk_v=3.1.10" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="limit"
+        recordRawValue="5" separator="=" value="5" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="r"
+        recordRawValue="29172467" separator="=" value="29172467" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="bkdc=phx; bku=AZDO9aIzosWviPGi"/>
+    <header name="Host" value="stags.bluekai.com"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="iframe"/>
+    <header name="Sec-Fetch-Mode" value="navigate"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Content-Type: text/html&#xd;
+Content-Length: 71&#xd;
+P3P: CP="NOI DSP COR CUR ADMo DEVo PSAo PSDo OUR SAMo BUS UNI NAV", policyref="http://tags.bluekai.com/w3c/p3p.xml"&#xd;
+Pragma: no-cache&#xd;
+Expires: Thu, 01 Dec 1994 16:00:00 GMT&#xd;
+Cache-Control: max-age=0, no-cache, no-store&#xd;
+BK-Server: a175&#xd;
+Date: Mon, 29 Nov 2021 09:30:13 GMT&#xd;
+Connection: keep-alive&#xd;
+Set-Cookie: bku=AZDO9aIzosWviPGi; expires=Sat, 28-May-2022 09:30:12 GMT; path=/; domain=.bluekai.com; SameSite=None; Secure</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/event/js" path="/event/js" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/1a1f522a-95fa-4613-a09b-a01a5897457c.zip"
+    recordedResponseCode="200" responseSize="1024"
+    serverUid="pixel.mathtag.com" slaProfileEnabled="false"
+    uid="93067dc4-82c5-4f7e-b40f-99fbb700def7" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_93067dc4-82c5-4f7e-b40f-99fbb700def7</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_93067dc4-82c5-4f7e-b40f-99fbb700def7.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="mt_pp"
+        recordRawValue="2" separator="=" value="2" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="version"
+        recordRawValue="1.1" separator="=" value="1.1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="previous_url"
+        recordRawValue="http%3A%2F%2Fwww.neotys.com%2F" separator="="
+        value="http://www.neotys.com/" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="industry"
+        recordRawValue="Alcohol" separator="=" value="Alcohol" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="mt_adid"
+        recordRawValue="239489" separator="=" value="239489" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="event_type"
+        recordRawValue="catchall" separator="=" value="catchall" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="mt_id"
+        recordRawValue="1489350" separator="=" value="1489350" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="s1"
+        recordRawValue="member" separator="=" value="member" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="s10"
+        recordRawValue="https%3A%2F%2Fstage.danmurphys.com.au%2Fproduct%2FDM_824111%2Fcasillero-del-diablo-carmenere"
+        separator="="
+        value="https://stage.danmurphys.com.au/product/DM_824111/casillero-del-diablo-carmenere" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="language"
+        recordRawValue="en-US%2Cen%3Bq%3D0.9" separator="="
+        value="en-US,en;q=0.9" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="mt_lim"
+        recordRawValue="20" separator="=" value="20" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false"
+        name="document_title"
+        recordRawValue="Buy%20Casillero%20Del%20Diablo%20Carmenere%20Online%20(Lowest%20prices%20in%20Australia)%20%7C%20Dan%20Murphy%27s"
+        separator="="
+        value="Buy%20Casillero%20Del%20Diablo%20Carmenere%20Online%20(Lowest%20prices%20in%20Australia)%20%7C%20Dan%20Murphy%27s" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="location"
+        recordRawValue="https%3A%2F%2Fstage.danmurphys.com.au%2Fproduct%2FDM_824111%2Fcasillero-del-diablo-carmenere"
+        separator="="
+        value="https://stage.danmurphys.com.au/product/DM_824111/casillero-del-diablo-carmenere" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="document_path"
+        recordRawValue="%2Fproduct%2FDM_824111%2Fcasillero-del-diablo-carmenere"
+        separator="="
+        value="/product/DM_824111/casillero-del-diablo-carmenere" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="mt_cb"
+        recordRawValue="1638178212906" separator="="
+        value="1638178212906" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="uuid=46d861a4-9c64-4600-b29d-cedecb0f4672; mt_misc=mt_bt:1638177909"/>
+    <header name="Host" value="pixel.mathtag.com"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Content-Type: text/javascript&#xd;
+Content-Length: 1024&#xd;
+Access-Control-Allow-Origin: *&#xd;
+Server: MT3 4103 f8fad19 master hkg-pixel-x17 config:1.0.0&#xd;
+Cache-Control: no-cache&#xd;
+P3P: CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"&#xd;
+Expires: Mon, 29 Nov 2021 09:30:11 GMT&#xd;
+Date: Mon, 29 Nov 2021 09:30:13 GMT&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/wau/72801/onsite/embed.js"
+    path="/wau/72801/onsite/embed.js" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/1a1f522a-95fa-4613-a09b-a01a5897457c.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="nebula-cdn.kampyle.com" slaProfileEnabled="false"
+    uid="b113d36b-ffb0-4c9d-932a-a9a284365f90" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_b113d36b-ffb0-4c9d-932a-a9a284365f90</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_b113d36b-ffb0-4c9d-932a-a9a284365f90.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="if-modified-since" value="Sun, 15 Aug 2021 22:52:58 GMT"/>
+    <header name="if-none-match" value="&quot;680b22f5952d656b7ecc3aeac272dc15&quot;"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+date: Mon, 29 Nov 2021 09:30:12 GMT&#xd;
+via: 1.1 varnish&#xd;
+cache-control: max-age=0,must-revalidate&#xd;
+etag: "680b22f5952d656b7ecc3aeac272dc15"&#xd;
+age: 306959&#xd;
+x-served-by: cache-syd10156-SYD&#xd;
+x-cache: HIT&#xd;
+x-cache-hits: 38027&#xd;
+x-timer: S1638178213.912667,VS0,VE0&#xd;
+vary: Accept-Encoding</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/rest/v1/delivery" path="/rest/v1/delivery"
+    postType="4"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/1a1f522a-95fa-4613-a09b-a01a5897457c.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="wwservices.tt.omtrdc.net" slaProfileEnabled="false"
+    uid="b3828271-481d-4930-90a3-3d515f0d1a7b" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_b3828271-481d-4930-90a3-3d515f0d1a7b</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_b3828271-481d-4930-90a3-3d515f0d1a7b.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true" name="client"
+        recordRawValue="wwservices" separator="=" value="wwservices" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="sessionId"
+        recordRawValue="98b83df6a72049128407435d76e121d0" separator="="
+        value="98b83df6a72049128407435d76e121d0" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="version" recordRawValue="2.6.1" separator="="
+        value="2.6.1" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://stage.danmurphys.com.au"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="text/plain;charset=UTF-8"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+date: Mon, 29 Nov 2021 09:30:12 GMT&#xd;
+vary: Origin&#xd;
+vary: Access-Control-Request-Method&#xd;
+vary: Access-Control-Request-Headers&#xd;
+access-control-allow-origin: https://stage.danmurphys.com.au&#xd;
+access-control-allow-credentials: true&#xd;
+x-request-id: c683340179a29659846b854b85d1e807</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"requestId":"7a06bd76f367463492547acf1fd08062","context":{"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36","timeOffsetInMinutes":660,"channel":"web","screen":{"width":1366,"height":768,"orientation":"landscape","colorDepth":24,"pixelRatio":1},"window":{"width":1349,"height":625},"browser":{"host":"stage.danmurphys.com.au","webGLRenderer":"ANGLE (Google, Vulkan 1.2.0 (SwiftShader Device (Subzero) (0x0000C0DE)), SwiftShader driver-5.0.0)"},"address":{"url":"https://stage.danmurphys.com.au/product/DM_824111/casillero-del-diablo-carmenere","referringUrl":"http://www.neotys.com/"},"beacon":true},"id":{"tntId":"98b83df6a72049128407435d76e121d0.36_0","marketingCloudVisitorId":"62974577823596621581061727074359824665","customerIds":[{"id":"8004469","integrationCode":"crm_id","authenticatedState":"authenticated","type":"DS"}]},"property":{"token":"976af739-6f6d-8004-1155-9bfbb7c20775"},"experienceCloud":{"audienceManager":{"locationHint":8,"blob":"RKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y"},"analytics":{"logging":"server_side","supplementalDataId":"3B2EAD488B05192F-62845B87604F8A14","trackingServer":"adobeanalytics.danmurphys.com.au","trackingServerSecure":"adobeanalytics.danmurphys.com.au"}},"notifications":[{"id":"1e590015d6b84a49ac321aa5452b0088","type":"display","timestamp":1638178212922,"mbox":{"name":"shop-recs"}}]}]]></textPostContent>
+</http-action>

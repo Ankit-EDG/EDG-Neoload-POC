@@ -1,0 +1,51 @@
+<http-page executeResourcesDynamically="false"
+    name="/prod/static/3/bv-analytics.js"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/87fe1753-758a-440d-8c55-f24fcc340c05.zip"
+    slaProfileEnabled="false" thinkTime="1294"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="87fe1753-758a-440d-8c55-f24fcc340c05">
+    <embedded-action>43e96b73-99c3-43c8-a154-e04f67d9e1df</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="application/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/prod/static/3/bv-analytics.js"
+    path="/prod/static/3/bv-analytics.js" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/87fe1753-758a-440d-8c55-f24fcc340c05.zip"
+    recordedResponseCode="200" responseSize="38046"
+    serverUid="analytics-static.ugc.bazaarvoice.com"
+    slaProfileEnabled="false" uid="43e96b73-99c3-43c8-a154-e04f67d9e1df" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_43e96b73-99c3-43c8-a154-e04f67d9e1df</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_43e96b73-99c3-43c8-a154-e04f67d9e1df.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/javascript&#xd;
+content-length: 12152&#xd;
+last-modified: Mon, 28 Jun 2021 05:34:35 GMT&#xd;
+content-encoding: gzip&#xd;
+x-amz-version-id: T1rOOG.tjhLCS5caRA3mVK3Pts2JHKce&#xd;
+accept-ranges: bytes&#xd;
+server: AmazonS3&#xd;
+date: Fri, 26 Nov 2021 20:17:34 GMT&#xd;
+cache-control: max-age=604800&#xd;
+etag: "d3aef93c253c3ba2da5bac29c7fe2d27"&#xd;
+x-cache: Hit from cloudfront&#xd;
+via: 1.1 28cc33f6d1fa8bfd0cce12161c7d5e91.cloudfront.net (CloudFront)&#xd;
+x-amz-cf-pop: SYD62-P1&#xd;
+x-amz-cf-id: 8Zs_ZHa3duTHWBYzz3Yjoro1wip6NsKrNu2IqrzsiMMKtWYnhf6IIw==&#xd;
+age: 564111</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

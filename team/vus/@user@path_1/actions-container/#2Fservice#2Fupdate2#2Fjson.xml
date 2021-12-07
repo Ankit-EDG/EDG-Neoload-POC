@@ -1,0 +1,63 @@
+<http-page executeResourcesDynamically="false"
+    name="/service/update2/json" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path_1/%resources%/recorded-artifacts/2dc6ac05-dfc1-4bfe-9203-08b6d19e021c.zip"
+    slaProfileEnabled="false" thinkTime="1339"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="2dc6ac05-dfc1-4bfe-9203-08b6d19e021c">
+    <embedded-action>f7126e42-8f2d-4914-bed0-221d95ef21a0</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/service/update2/json"
+    path="/service/update2/json" postType="4"
+    recordedArtifactZipFileName="team/vus/@user@path_1/%resources%/recorded-artifacts/2dc6ac05-dfc1-4bfe-9203-08b6d19e021c.zip"
+    recordedResponseCode="200" responseSize="1671"
+    serverUid="update.googleapis.com" slaProfileEnabled="false"
+    uid="f7126e42-8f2d-4914-bed0-221d95ef21a0" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_f7126e42-8f2d-4914-bed0-221d95ef21a0</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_f7126e42-8f2d-4914-bed0-221d95ef21a0.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="false"
+        name="cup2key"
+        recordRawValue="11:bSv45egh9itCWpXPOWAnxRzFkqPdMiRo5O3B2HcjatU"
+        separator="="
+        value="11:bSv45egh9itCWpXPOWAnxRzFkqPdMiRo5O3B2HcjatU" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="cup2hreq"
+        recordRawValue="631f91e02fb93ce0abc598fea8c284293e71f8067738d843e8d4ff05e8d5aac2"
+        separator="="
+        value="631f91e02fb93ce0abc598fea8c284293e71f8067738d843e8d4ff05e8d5aac2" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="x-goog-update-updater" value="chromecrx-96.0.4664.45"/>
+    <header name="x-goog-update-appid" value="aapocclcgogkmnckokdopfmhonfmgoek,aohghmighlieiainnegkcijnfilokake,apdfllckaahabafndbhieahigkjlhalf,blpcfgokakmgnkcojhhkbfbldkacnbeo,dajhhgiioackgdldomhppobgjbinhimh,felcaaldnbdncclmgdcncolpebgiejap,ghbmnnjooekpmoecnnnilnnbdlolhkhi,nmmhkkegccagdldgiimedpiccmgmieda,pjkljhegncpnkpknbcohdijeoejaedia"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="content-type" value="application/json"/>
+    <header name="x-goog-update-interactivity" value="bg"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-security-policy: script-src 'report-sample' 'nonce-71WIZROh2NgOIHV/BO6JKA' 'unsafe-inline' 'strict-dynamic' https: http:;object-src 'none';base-uri 'self';report-uri https://csp.withgoogle.com/csp/clientupdate-aus/1&#xd;
+cache-control: no-cache, no-store, max-age=0, must-revalidate&#xd;
+pragma: no-cache&#xd;
+expires: Mon, 01 Jan 1990 00:00:00 GMT&#xd;
+date: Mon, 29 Nov 2021 07:46:59 GMT&#xd;
+x-cup-server-proof: 3045022017122c7330b261e9a9eb1d92998d513d9ae56c92410dede5716e4130e1db7f78022100efd8e00ba3f492ebacceead6823e7c02f8db82ee32d210ffa97d3c7f789093f3:631f91e02fb93ce0abc598fea8c284293e71f8067738d843e8d4ff05e8d5aac2&#xd;
+etag: W/"3045022017122c7330b261e9a9eb1d92998d513d9ae56c92410dede5716e4130e1db7f78022100efd8e00ba3f492ebacceead6823e7c02f8db82ee32d210ffa97d3c7f789093f3:631f91e02fb93ce0abc598fea8c284293e71f8067738d843e8d4ff05e8d5aac2"&#xd;
+content-type: application/json; charset=utf-8&#xd;
+x-daynum: 5445&#xd;
+x-daystart: 85619&#xd;
+content-encoding: gzip&#xd;
+x-content-type-options: nosniff&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-xss-protection: 1; mode=block&#xd;
+content-length: 415&#xd;
+server: GSE&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"request":{"@os":"win","@updater":"chromecrx","acceptformat":"crx2,crx3","app":[{"appid":"aapocclcgogkmnckokdopfmhonfmgoek","brand":"GCEU","cohort":"1::","enabled":true,"installedby":"internal","packages":{"package":[{"fp":"2.0.10"}]},"ping":{"ping_freshness":"{445ad533-36ea-4886-80b5-4ad9bba61040}","rd":5445},"updatecheck":{},"version":"0.10"},{"appid":"aohghmighlieiainnegkcijnfilokake","brand":"GCEU","cohort":"1::","enabled":true,"installedby":"internal","packages":{"package":[{"fp":"2.0.10"}]},"ping":{"ping_freshness":"{cacb1b01-2ac7-4ad1-b4f0-a9259d765d59}","rd":5445},"updatecheck":{},"version":"0.10"},{"appid":"apdfllckaahabafndbhieahigkjlhalf","brand":"GCEU","cohort":"1::","enabled":true,"installedby":"internal","packages":{"package":[{"fp":"2.14.5"}]},"ping":{"ping_freshness":"{be57db03-87d3-4378-acad-9d32627ed50b}","rd":5445},"updatecheck":{},"version":"14.5"},{"appid":"blpcfgokakmgnkcojhhkbfbldkacnbeo","brand":"GCEU","cohort":"1::","enabled":true,"installedby":"internal","packages":{"package":[{"fp":"2.4.2.8"}]},"ping":{"ping_freshness":"{02a70449-7fd9-4deb-89c8-02607b4ae91b}","rd":5445},"updatecheck":{},"version":"4.2.8"},{"appid":"dajhhgiioackgdldomhppobgjbinhimh","brand":"GCEU","cohort":"1::","disabled":[{"reason":8192}],"enabled":false,"installedby":"external","packages":{"package":[{"fp":"2.13.1.11"}]},"ping":{"ping_freshness":"{852d75ea-6487-4908-b2e1-fa0bee499a1f}","rd":5445},"updatecheck":{},"version":"13.1.11"},{"appid":"felcaaldnbdncclmgdcncolpebgiejap","brand":"GCEU","cohort":"1::","enabled":true,"installedby":"internal","packages":{"package":[{"fp":"2.1.2"}]},"ping":{"ping_freshness":"{cdd2850f-e667-48ff-abea-04d66218c734}","rd":5445},"updatecheck":{},"version":"1.2"},{"appid":"ghbmnnjooekpmoecnnnilnnbdlolhkhi","brand":"GCEU","cohort":"1::","enabled":true,"installedby":"external","packages":{"package":[{"fp":"1.06f6871aab6c0df98de53de7aa671b430ea79cfaeb680a836e77a79a8b9dcc47"}]},"ping":{"ping_freshness":"{c0b6ce53-643c-41f2-bc3e-3369cd8b93e5}","rd":5445},"updatecheck":{},"version":"1.35.0"},{"appid":"nmmhkkegccagdldgiimedpiccmgmieda","brand":"GCEU","cohort":"1::","enabled":true,"installedby":"other","packages":{"package":[{"fp":"2.1.0.0.6"}]},"ping":{"ping_freshness":"{8cd70a93-2345-4e31-8e44-6473490d251e}","rd":5445},"updatecheck":{},"version":"1.0.0.6"},{"appid":"pjkljhegncpnkpknbcohdijeoejaedia","brand":"GCEU","cohort":"1::","enabled":true,"installedby":"internal","packages":{"package":[{"fp":"2.8.3"}]},"ping":{"ping_freshness":"{ec5b13c6-a04a-4980-a3bf-780b1cb4068d}","rd":5445},"updatecheck":{},"version":"8.3"}],"arch":"x64","dedup":"cr","domainjoined":true,"hw":{"physmemory":32},"ismachine":true,"lang":"en-US","nacl_arch":"x86-64","os":{"arch":"x86_64","platform":"Windows","version":"10.0.14393.4169"},"prodversion":"96.0.4664.45","protocol":"3.1","requestid":"{c2b02729-e9c4-4d56-bf1d-3538cb62f5cd}","sessionid":"{f0495c30-cfe4-4436-816c-93869ad7710d}","updater":{"autoupdatecheckenabled":true,"ismachine":true,"lastchecked":0,"laststarted":0,"name":"Omaha","updatepolicy":-1,"version":"1.3.36.112"},"updaterversion":"96.0.4664.45"}}]]></textPostContent>
+</http-action>

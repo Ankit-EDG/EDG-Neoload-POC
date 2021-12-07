@@ -1,0 +1,85 @@
+<http-page executeResourcesDynamically="false" name="/oct.js"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/80f0723a-c3cf-4d65-9fb2-b6f1195c4b04.zip"
+    slaProfileEnabled="false" thinkTime="619"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="80f0723a-c3cf-4d65-9fb2-b6f1195c4b04">
+    <embedded-action>30929c30-5541-4474-b139-e63fff38dea9</embedded-action>
+    <embedded-action>8685cee7-5cf8-4723-9e5c-4178d1e28b79</embedded-action>
+</http-page>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/oct.js" path="/oct.js" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/80f0723a-c3cf-4d65-9fb2-b6f1195c4b04.zip"
+    recordedResponseCode="301" responseSize="0"
+    serverUid="platform.twitter.com" slaProfileEnabled="false"
+    uid="30929c30-5541-4474-b139-e63fff38dea9" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_30929c30-5541-4474-b139-e63fff38dea9</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_30929c30-5541-4474-b139-e63fff38dea9.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="platform.twitter.com"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 301 Moved Permanently&#xd;
+Access-Control-Allow-Methods: GET&#xd;
+Access-Control-Allow-Origin: *&#xd;
+Date: Mon, 29 Nov 2021 09:25:06 GMT&#xd;
+Location: https://static.ads-twitter.com/oct.js&#xd;
+P3P: CP="CAO DSP LAW CURa ADMa DEVa TAIa PSAa PSDa IVAa IVDa OUR BUS IND UNI COM NAV INT"&#xd;
+Server: ECS (nwa/E78F)&#xd;
+x-tw-cdn: VZ&#xd;
+Content-Length: 0</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="2"
+    contentType="application/javascript; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/oct.js" path="/oct.js" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/80f0723a-c3cf-4d65-9fb2-b6f1195c4b04.zip"
+    recordedResponseCode="200"
+    refererUid="30929c30-5541-4474-b139-e63fff38dea9"
+    responseSize="14407" serverUid="static.ads-twitter.com"
+    slaProfileEnabled="false" uid="8685cee7-5cf8-4723-9e5c-4178d1e28b79" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_8685cee7-5cf8-4723-9e5c-4178d1e28b79</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_8685cee7-5cf8-4723-9e5c-4178d1e28b79.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+last-modified: Thu, 16 Sep 2021 23:12:14 GMT&#xd;
+cache-control: no-cache&#xd;
+content-type: application/javascript; charset=utf-8&#xd;
+content-encoding: gzip&#xd;
+etag: "8dc11b7ca1d5ed9ec3b1ab1beb621c75+gzip+gzip"&#xd;
+accept-ranges: bytes&#xd;
+date: Mon, 29 Nov 2021 09:25:07 GMT&#xd;
+x-served-by: cache-iad-kcgs7200088-IAD, cache-syd10127-SYD&#xd;
+x-cache: HIT, HIT&#xd;
+vary: Accept-Encoding,Host&#xd;
+p3p: CP="CAO DSP LAW CURa ADMa DEVa TAIa PSAa PSDa IVAa IVDa OUR BUS IND UNI COM NAV INT"&#xd;
+x-tw-cdn: FT&#xd;
+content-length: 5410</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

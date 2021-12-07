@@ -1,0 +1,8 @@
+<websocket-action name="websocket_request" slaProfileEnabled="false"
+    status-code="1000" synchronous-type="ASYNCHRONOUS"
+    uid="af2dd9c5-a01e-4b85-a205-005fd9a50ac7"
+    websocket-body-type="TEXT" websocket-channel-uid="c2de8005-aee6-4695-b2cc-06a69d0d686f">
+    <binaryPostContentBase64><![CDATA[MTYzODE3NzkwMTY1NgowCjEKMApkCnsiX190eXBlIjoicmVnaXN0ZXIiLCJhY2NvdW50S2V5IjoiODdFdkI0azBramo3Z0VZN0RLbGRHbmhoWWxtQTIzd0IiLCJtSUQiOiIiLCJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85Ni4wLjQ2NjQuNDUgU2FmYXJpLzUzNy4zNiIsImR0IjoiZGVza3RvcCIsInRoZW1lIjoic2ltcGxlIiwiY29va2llX2xhdyI6ZmFsc2UsInJldiI6ImEyZTg0ZWMzZmMwYTc1MDdlMWRjYzBjZDljMGI0YzdjNjUxOWUxOTQiLCJzb3VyY2UiOiJ3ZWJfc2RrIiwic291cmNlX3ZlciI6IjEuMTEuMiIsImNvdW50cnlfY29kZSI6ImdlbyIsIm11bHRpc2Vzc2lvbiI6dHJ1ZSwiZ2RfY29tcGF0aWJsZSI6MSwidGl0bGUiOiJDaGF0Ym90IiwidXJsIjoiaHR0cHM6Ly9wcmRlZGdjY3NsaXZyYXVlLno4LndlYi5jb3JlLndpbmRvd3MubmV0Lz8xMjAzMSIsInJlZiI6Imh0dHBzOi8vc3RhZ2UuZGFubXVycGh5cy5jb20uYXUvIn0=]]></binaryPostContentBase64>
+    <responsePageFileDescription>team/vus/@member@checkout@delivery_@web/%resources%/recorded-responses/res_af2dd9c5-a01e-4b85-a205-005fd9a50ac7</responsePageFileDescription>
+    <requestContentFileDescription>team/vus/@member@checkout@delivery_@web/%resources%/recorded-requests/req_af2dd9c5-a01e-4b85-a205-005fd9a50ac7.txt</requestContentFileDescription>
+</websocket-action>

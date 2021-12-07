@@ -1,0 +1,104 @@
+<http-page executeResourcesDynamically="false"
+    name="/datalayer/v1/latest.js" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/bef078f5-1237-4230-aa10-c3ac746c0433.zip"
+    slaProfileEnabled="false" thinkTime="1706"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="bef078f5-1237-4230-aa10-c3ac746c0433">
+    <embedded-action>326e38d2-962e-4714-9e69-85f9891195ae</embedded-action>
+    <embedded-action>b4fb6d61-f49c-4e86-a9ff-427724b3556e</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="application/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/datalayer/v1/latest.js"
+    path="/datalayer/v1/latest.js" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/bef078f5-1237-4230-aa10-c3ac746c0433.zip"
+    recordedResponseCode="200" responseSize="36985"
+    serverUid="edge.fullstory.com" slaProfileEnabled="false"
+    uid="326e38d2-962e-4714-9e69-85f9891195ae" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_326e38d2-962e-4714-9e69-85f9891195ae</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_326e38d2-962e-4714-9e69-85f9891195ae.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+x-guploader-uploadid: ADPycdso9V00Ziy-8HmP3WC5oVXcYEzJ8XOeKvYdRRi2VXetLMa_pt8DqqQNGtYKV0Acweb2aJFf9z3DO79UjMGuhWeA9mdb9Q&#xd;
+date: Mon, 29 Nov 2021 09:23:26 GMT&#xd;
+expires: Mon, 29 Nov 2021 10:23:26 GMT&#xd;
+last-modified: Thu, 28 Oct 2021 14:27:09 GMT&#xd;
+etag: "5626a41c11fe445d7565fe1588ddc385"&#xd;
+x-goog-generation: 1635431229563616&#xd;
+x-goog-metageneration: 1&#xd;
+x-goog-stored-content-encoding: gzip&#xd;
+x-goog-stored-content-length: 9804&#xd;
+content-type: application/javascript&#xd;
+content-encoding: gzip&#xd;
+x-goog-hash: crc32c=Mb89eg==&#xd;
+x-goog-hash: md5=ViakHBH+RF11Zf4ViN3DhQ==&#xd;
+x-goog-storage-class: MULTI_REGIONAL&#xd;
+accept-ranges: bytes&#xd;
+content-length: 9804&#xd;
+access-control-allow-origin: *&#xd;
+server: UploadServer&#xd;
+age: 95&#xd;
+cache-control: public, max-age=3600,no-transform&#xd;
+alt-svc: clear</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/au/wau/72801/onsite/generic1629067977358.js"
+    path="/au/wau/72801/onsite/generic1629067977358.js" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/bef078f5-1237-4230-aa10-c3ac746c0433.zip"
+    recordedResponseCode="200" responseSize="363929"
+    serverUid="nebula-cdn.kampyle.com" slaProfileEnabled="false"
+    uid="b4fb6d61-f49c-4e86-a9ff-427724b3556e" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_b4fb6d61-f49c-4e86-a9ff-427724b3556e</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_b4fb6d61-f49c-4e86-a9ff-427724b3556e.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+x-amz-id-2: YTZ/lsBh3+wMXw81pb4bf5Br61Y2SGDVDPsuDrdTbi1bhmw+w2LthJRd+6kEWj3PdS0O93Oehbo=&#xd;
+x-amz-request-id: EDMVSCNWHT2CVMNH&#xd;
+last-modified: Sun, 15 Aug 2021 22:52:58 GMT&#xd;
+etag: "b1b316d0f60137d67f44d6cd7a1045cc"&#xd;
+x-amz-version-id: C.bwtJY8bo0pCoy2tqM39t.WQdhT.rj7&#xd;
+content-type: application/javascript&#xd;
+server: AmazonS3&#xd;
+access-control-allow-origin: *&#xd;
+cache-control: max-age=31622400&#xd;
+content-encoding: gzip&#xd;
+accept-ranges: bytes&#xd;
+date: Mon, 29 Nov 2021 09:25:01 GMT&#xd;
+via: 1.1 varnish&#xd;
+age: 306641&#xd;
+x-served-by: cache-syd10129-SYD&#xd;
+x-cache: HIT&#xd;
+x-cache-hits: 4121&#xd;
+x-timer: S1638177901.418408,VS0,VE0&#xd;
+vary: Accept-Encoding&#xd;
+content-length: 82158</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

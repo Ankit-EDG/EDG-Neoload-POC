@@ -1,0 +1,85 @@
+<http-page executeResourcesDynamically="false"
+    name="/domainreliability/upload_3" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/88c7a75e-f275-4837-bb7a-58403dc2b86f.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="88c7a75e-f275-4837-bb7a-58403dc2b86f">
+    <embedded-action>a6ba6647-a7f1-4e01-87b6-45ec72f32e0c</embedded-action>
+    <embedded-action>48e13937-55a6-4ec5-b5e0-fbe8d4a83432</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/javascript; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/domainreliability/upload"
+    path="/domainreliability/upload" postType="4"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/88c7a75e-f275-4837-bb7a-58403dc2b86f.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="beacons.gcp.gvt2.com" slaProfileEnabled="false"
+    uid="a6ba6647-a7f1-4e01-87b6-45ec72f32e0c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_a6ba6647-a7f1-4e01-87b6-45ec72f32e0c</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_a6ba6647-a7f1-4e01-87b6-45ec72f32e0c.txt</requestContentFileDescription>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="content-type" value="application/json; charset=utf-8"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+Content-Length: 0&#xd;
+content-type: application/javascript; charset=utf-8&#xd;
+date: Mon, 29 Nov 2021 09:34:14 GMT&#xd;
+location: https://e2c14.gcp.gvt2.com/nel/&#xd;
+nel: {"failure_fraction":1,"include_subdomains":false,"max_age":604800,"report_to":"nel","success_fraction":0.050000000000000003}&#xd;
+server: Domain Reliability Server&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-xss-protection: 0&#xd;
+via: 1.1 google&#xd;
+report-to: {"endpoints":[{"priority":1,"url":"https://b1.nel.goog/upload/1/AHDprHpI37dmOwwKMStT-oqgk4X1AzROlnrNixN5uIGP7-XeSlQA93UOHwbk7St42GovSdEz8GfExD9Pycb5kozPdJYi9IVzwRYqab5Ne6L_WEJIXkXl74AkH7fO6v1dWYFA1j1u9suOOumllaMR7D1cMCb7hoOqmkx_SaHoz-oUjLK0b9s59A1OJn9UfRxr0YCB5PBI8ysNzY7EdAZ9Sk9cHe74ZhHBFCjJ-Ry1","weight":1}],"group":"nel","max_age":604800}&#xd;
+alt-svc: clear</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"entries":[{"failure_data":{"custom_error":"net::ERR_ABORTED"},"http_response_code":302,"network_changed":false,"protocol":"SPDY","request_age_ms":60171,"request_elapsed_ms":153,"sample_rate":1.0,"server_ip":"","status":"aborted","url":"https://10298563.fls.doubleclick.net/","was_proxied":true},{"failure_data":{"custom_error":"net::ERR_ABORTED"},"http_response_code":302,"network_changed":false,"protocol":"SPDY","request_age_ms":39019,"request_elapsed_ms":102,"sample_rate":1.0,"server_ip":"","status":"aborted","url":"https://10298563.fls.doubleclick.net/","was_proxied":true},{"failure_data":{"custom_error":"net::ERR_ABORTED"},"http_response_code":302,"network_changed":false,"protocol":"SPDY","request_age_ms":20490,"request_elapsed_ms":107,"sample_rate":1.0,"server_ip":"","status":"aborted","url":"https://10298563.fls.doubleclick.net/","was_proxied":true},{"failure_data":{"custom_error":"net::ERR_ABORTED"},"http_response_code":302,"network_changed":false,"protocol":"SPDY","request_age_ms":626,"request_elapsed_ms":146,"sample_rate":1.0,"server_ip":"","status":"aborted","url":"https://10298563.fls.doubleclick.net/","was_proxied":true},{"failure_data":{"custom_error":"net::ERR_ABORTED"},"http_response_code":302,"network_changed":false,"protocol":"SPDY","request_age_ms":201,"request_elapsed_ms":103,"sample_rate":1.0,"server_ip":"","status":"aborted","url":"https://10298563.fls.doubleclick.net/","was_proxied":true}],"reporter":"chrome"}]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/ddm/fls/z/dc_pre=CLLmxKaivfQCFZUPcgodYKwHRg;src=10298563;type=dm_si0;cat=edg_d00;ord=559332202334;gtm=2odba1;auiddc=*;u1=member;u10=Checkout;u11=;u12=;u13=;u14=;u15=;u16=;u17=;u18=;u19=;u2=8004469;u20=;u21=https%3A%2F%2Fstage.danmurphys.com.au%2Fdm%2Fexpresscheckout%2Fcheckout;u3=Desktop;u4=;u5=;u6=;u7=;u8=;u9=;ps=1;~oref=https%3A%2F%2Fstage.danmurphys.com.au%2Fdm%2Fexpresscheckout%2Fcheckout"
+    path="/ddm/fls/z/dc_pre=CLLmxKaivfQCFZUPcgodYKwHRg;src=10298563;type=dm_si0;cat=edg_d00;ord=559332202334;gtm=2odba1;auiddc=*;u1=member;u10=Checkout;u11=;u12=;u13=;u14=;u15=;u16=;u17=;u18=;u19=;u2=8004469;u20=;u21=https%3A%2F%2Fstage.danmurphys.com.au%2Fdm%2Fexpresscheckout%2Fcheckout;u3=Desktop;u4=;u5=;u6=;u7=;u8=;u9=;ps=1;~oref=https%3A%2F%2Fstage.danmurphys.com.au%2Fdm%2Fexpresscheckout%2Fcheckout"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/88c7a75e-f275-4837-bb7a-58403dc2b86f.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="adservice.google.com" slaProfileEnabled="false"
+    uid="48e13937-55a6-4ec5-b5e0-fbe8d4a83432" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_48e13937-55a6-4ec5-b5e0-fbe8d4a83432.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_48e13937-55a6-4ec5-b5e0-fbe8d4a83432.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://10298563.fls.doubleclick.net/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-client-data" value="CK21yQEIi7bJAQiktskBCMG2yQEIqZ3KAQjQoMoBCOaEzAEI+oTMAQi2hcwBCMuJzAEYjp7LAQ=="/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+p3p: policyref="https://www.googleadservices.com/pagead/p3p.xml", CP="NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC"&#xd;
+timing-allow-origin: *&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+date: Mon, 29 Nov 2021 09:34:14 GMT&#xd;
+pragma: no-cache&#xd;
+expires: Fri, 01 Jan 1990 00:00:00 GMT&#xd;
+cache-control: no-cache, must-revalidate&#xd;
+content-type: image/gif&#xd;
+x-content-type-options: nosniff&#xd;
+server: cafe&#xd;
+content-length: 42&#xd;
+x-xss-protection: 0&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

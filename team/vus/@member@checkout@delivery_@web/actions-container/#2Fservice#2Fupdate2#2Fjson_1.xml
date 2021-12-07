@@ -1,0 +1,102 @@
+<http-page executeResourcesDynamically="false"
+    name="/service/update2/json_1" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/6faea0e9-1440-4eff-a164-5b9f1d93fd83.zip"
+    slaProfileEnabled="false" thinkTime="4913"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="6faea0e9-1440-4eff-a164-5b9f1d93fd83">
+    <embedded-action>57c1341c-52fb-4a37-bdfd-509bfb6ec7ea</embedded-action>
+    <embedded-action>c786808a-4ce1-4d5f-af7f-e9fcc2d58beb</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/service/update2/json"
+    path="/service/update2/json" postType="4"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/6faea0e9-1440-4eff-a164-5b9f1d93fd83.zip"
+    recordedResponseCode="200" responseSize="5563"
+    serverUid="update.googleapis.com" slaProfileEnabled="false"
+    uid="57c1341c-52fb-4a37-bdfd-509bfb6ec7ea" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_57c1341c-52fb-4a37-bdfd-509bfb6ec7ea</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_57c1341c-52fb-4a37-bdfd-509bfb6ec7ea.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="false"
+        name="cup2key"
+        recordRawValue="11:KEIshjEow0empNSTwhTg24-XPACBs4GDulcrDPJOO4A"
+        separator="="
+        value="11:KEIshjEow0empNSTwhTg24-XPACBs4GDulcrDPJOO4A" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="cup2hreq"
+        recordRawValue="48abf9c7946e8cfd758d29fd1a4d3ac493334d6ca66a7209dbd502e86fd34768"
+        separator="="
+        value="48abf9c7946e8cfd758d29fd1a4d3ac493334d6ca66a7209dbd502e86fd34768" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="x-goog-update-updater" value="chrome-96.0.4664.45"/>
+    <header name="x-goog-update-appid" value="ihnlcenocehgdaegdmhbidjhnhdchfmm,oimompecagnajdejgnnjijobebaeigek,hnimpnehoodheedghdeeijklkeaacbdc,cmahhnpholdijhjokonmfdjbfmklppij,gcmjkmgdlgnkkcocmoeiminaijmmjnii,lmelglejhemejginpboagddgdfbepgmp,gonpemdgkjcecdgbnaabipppbmgfggbe,giekcmmlnklenlaomppkphknjmnnpneh,khaoiebndkojlmppeemjhbpbandiljpe,hfnkpimlhhgieaddgfemjhofmfblmnib,llkgjffcdpffmhiakmfcdcblohccpfmo,obedbbhbpmojnkanicioggnmelmoomoc,gkmgaooipdjhmangpemjhigmamcehddo,ehgidpndbllacpjalkiimkbadgjfnnmc,laoigpblnllgcgjnjnllmfolckpjlhki,efniojlnjndmcbiieegkicadnoecjjef,jflookgnkcckhobaglndicnbbgbonegd,ggkkehgbnfjpeggfpleeakpidbkibbmn,dhlpobdgcjafebgbbhjdnapejmpkgiie,jamhcnnkihinmdlkakkaopbjbbcngflc,ojhpjlocmbogdgmfpkhlaaeamibhnphh,pdafiollngonhoadbmdoemagnfpdphbe,imefjhfbkmcmebodilednhmaccmincoa,eeigpngbgcognadeebkilcpcaedhellh"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="content-type" value="application/json"/>
+    <header name="x-goog-update-interactivity" value="bg"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-security-policy: script-src 'report-sample' 'nonce-3cYqNOTwNZOcff5fTUoxvg' 'unsafe-inline' 'strict-dynamic' https: http:;object-src 'none';base-uri 'self';report-uri https://csp.withgoogle.com/csp/clientupdate-aus/1&#xd;
+cache-control: no-cache, no-store, max-age=0, must-revalidate&#xd;
+pragma: no-cache&#xd;
+expires: Mon, 01 Jan 1990 00:00:00 GMT&#xd;
+date: Mon, 29 Nov 2021 09:25:37 GMT&#xd;
+x-cup-server-proof: 3045022018356996b2f7f89a2a8607ec695d1c5e6807373b97faa400b081be59c264e710022100e2853f97a62e5f369fec38c4cb7c59d0627b23cecebbaf32b6d2dcab051bf875:48abf9c7946e8cfd758d29fd1a4d3ac493334d6ca66a7209dbd502e86fd34768&#xd;
+etag: W/"3045022018356996b2f7f89a2a8607ec695d1c5e6807373b97faa400b081be59c264e710022100e2853f97a62e5f369fec38c4cb7c59d0627b23cecebbaf32b6d2dcab051bf875:48abf9c7946e8cfd758d29fd1a4d3ac493334d6ca66a7209dbd502e86fd34768"&#xd;
+content-type: application/json; charset=utf-8&#xd;
+x-daynum: 5446&#xd;
+x-daystart: 5137&#xd;
+content-encoding: gzip&#xd;
+x-content-type-options: nosniff&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-xss-protection: 1; mode=block&#xd;
+content-length: 1272&#xd;
+server: GSE&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"request":{"@os":"win","@updater":"chrome","acceptformat":"crx2,crx3","app":[{"appid":"ihnlcenocehgdaegdmhbidjhnhdchfmm","brand":"GCEU","cohort":"1::","enabled":true,"ping":{"ping_freshness":"{5efe3591-1146-47f0-90a9-7041a1ef6d45}","rd":5445},"updatecheck":{},"version":"0.0.0.0"},{"appid":"oimompecagnajdejgnnjijobebaeigek","brand":"GCEU","cohort":"1::","enabled":true,"ping":{"ping_freshness":"{9ebfcfc5-76fe-4a98-aa6e-badc807389bf}","rd":5445},"updatecheck":{},"version":"4.10.2391.0"},{"appid":"hnimpnehoodheedghdeeijklkeaacbdc","brand":"GCEU","cohort":"1::","enabled":true,"packages":{"package":[{"fp":"1.6f6bc93dcd62dc251850d2ff458fda96083ceb7fbe8eeb11248b8485ef2aea23"}]},"ping":{"ping_freshness":"{c5adc10a-6707-4086-94cb-f78513933afa}","rd":5445},"updatecheck":{},"version":"0.57.44.2492"},{"appid":"cmahhnpholdijhjokonmfdjbfmklppij","brand":"GCEU","cohort":"1:wr3:","cohorthint":"Auto","cohortname":"Auto","enabled":true,"packages":{"package":[{"fp":"1.b4ddbdce4f8d5c080328aa34c19cb533f2eedec580b5d97dc14f74935e4756b7"}]},"ping":{"ping_freshness":"{065bd940-aaf9-4f16-816a-96d511361827}","rd":5445},"updatecheck":{},"version":"1.0.6"},{"appid":"gcmjkmgdlgnkkcocmoeiminaijmmjnii","brand":"GCEU","cohort":"1:bm1:11vf@0.01","cohorthint":"M54AndUp","cohortname":"M54AndUp","enabled":true,"packages":{"package":[{"fp":"1.dbbba5869c1d8946e5e23215c0404619fe82793d60eb89489b345ef55023e077"}]},"ping":{"ping_freshness":"{61a5e057-ff0d-431a-a20b-57bc6dc39c32}","rd":5445},"updatecheck":{},"version":"9.32.0"},{"appid":"lmelglejhemejginpboagddgdfbepgmp","brand":"GCEU","cohort":"1:lwl:","cohorthint":"Auto","cohortname":"Auto","enabled":true,"packages":{"package":[{"fp":"1.88796c0faf5f57a3e58e1a5c3bc10ec3c5da7857f5b5e8b7061ca469bfc59604"}]},"ping":{"ping_freshness":"{9d91abd2-003b-4fb5-af2b-f459ea082421}","rd":5445},"updatecheck":{},"version":"307"},{"_internal_experimental_sets":"false","appid":"gonpemdgkjcecdgbnaabipppbmgfggbe","brand":"GCEU","cohort":"1:z1x:","cohorthint":"General release","cohortname":"General release","enabled":true,"packages":{"package":[{"fp":"1.9f3dda168dccf79be5e9593992108a31d2f83c8fe5f63bfc0a1b725f2a3ca47a"}]},"ping":{"ping_freshness":"{2356a439-8747-427b-a723-7a8aa4517779}","rd":5445},"updatecheck":{},"version":"2021.6.24.0"},{"appid":"giekcmmlnklenlaomppkphknjmnnpneh","brand":"GCEU","cohort":"1:j5l:","cohorthint":"Auto","cohortname":"Auto","enabled":true,"packages":{"package":[{"fp":"1.fd515ec0dc30d25a09641b8b83729234bc50f4511e35ce17d24fd996252eaace"}]},"ping":{"ping_freshness":"{66804f5e-7d5f-45ac-939b-135a3458019e}","rd":5445},"updatecheck":{},"version":"7"},{"appid":"khaoiebndkojlmppeemjhbpbandiljpe","brand":"GCEU","cohort":"1:cux:","cohorthint":"Auto","cohortname":"Auto","enabled":true,"packages":{"package":[{"fp":"1.64379579590fd1b04e11613a876c48875cfa470897dbcc23c854e923602b21f4"}]},"ping":{"ping_freshness":"{8326bed4-fdf0-4c23-85ef-4ac9a6dc5541}","rd":5445},"tag":"default","updatecheck":{},"version":"45"},{"appid":"hfnkpimlhhgieaddgfemjhofmfblmnib","brand":"GCEU","cohort":"1:jcl:","cohorthint":"Auto","cohortname":"Auto","enabled":true,"packages":{"package":[{"fp":"1.32feecb98a6f4957512b6873adb419bbe3e9839cf4dcad0907bb6be541daa72f"}]},"ping":{"ping_freshness":"{8faf5e94-6757-430d-85d5-e6ec8fb67d0f}","rd":5445},"updatecheck":{},"version":"7004"},{"appid":"llkgjffcdpffmhiakmfcdcblohccpfmo","brand":"GCEU","cohort":"1::","enabled":true,"packages":{"package":[{"fp":"1.689abdc0dc8e916dc8466bf42bfde5635dbe40e64e8d0a86b48008f317cf848b"}]},"ping":{"ping_freshness":"{3b1697b6-2391-45c7-a127-4baff1986fd1}","rd":5445},"updatecheck":{},"version":"1.0.0.10"},{"accept_locale":"ENUS500000","appid":"obedbbhbpmojnkanicioggnmelmoomoc","brand":"GCEU","cohort":"1:s6f:","cohorthint":"Auto","cohortname":"Auto","enabled":true,"packages":{"package":[{"fp":"1.683a3424cf4333bc4fb68473d2cc89a58daa4f5766457c37b3b64dc089688533"}]},"ping":{"ping_freshness":"{79fe2594-a772-4384-b6de-9ae6f7b8c521}","rd":5445},"updatecheck":{},"version":"20211116.410437132"},{"appid":"gkmgaooipdjhmangpemjhigmamcehddo","brand":"GCEU","cohort":"1:pw3:","cohorthint":"Stable","cohortname":"Stable","enabled":true,"packages":{"package":[{"fp":"1.f4ffc5df84b8cae65d62ec7e969f1ae8df7472eb2a27b8905dbde9a3e55d3da1"}]},"ping":{"ping_freshness":"{595bb43d-90e8-4a1e-b280-1d14be58d7e4}","rd":5445},"tag":"eset_exp_b","updatecheck":{},"version":"93.269.200"},{"appid":"ehgidpndbllacpjalkiimkbadgjfnnmc","brand":"GCEU","cohort":"1:ofl:","cohorthint":"stable64","cohortname":"stable64","enabled":true,"packages":{"package":[{"fp":"1.a8a79d350c2a5e3bc36226633a8e0bed0dfab184e77f38fc8f0820ebacf8eafc"}]},"ping":{"ping_freshness":"{a9606aaa-18f1-43e2-83bf-b722e2314634}","rd":5445},"updatecheck":{},"version":"2018.8.8.0"},{"appid":"laoigpblnllgcgjnjnllmfolckpjlhki","brand":"GCEU","cohort":"1:10zr:","cohorthint":"Auto","cohortname":"Auto","enabled":true,"packages":{"package":[{"fp":"1.35ea2e4d93c1cbeb95d5c91a8e09e07ad08fbe93517458d69889216fd793d597"}]},"ping":{"ping_freshness":"{6fcf6088-95a2-492b-a4ce-f172c27586ad}","rd":5445},"updatecheck":{},"version":"1.0.7.1635461274"},{"appid":"efniojlnjndmcbiieegkicadnoecjjef","brand":"GCEU","cohort":"1:zkl:","cohorthint":"Auto","cohortname":"Auto","enabled":true,"packages":{"package":[{"fp":"1.8a9f218ed6a7496a071fd23aea454db9e81b0ae9ebbbe0e653a3e76d04b98117"}]},"ping":{"ping_freshness":"{5d24d345-aa3b-4003-9ce5-04075a766790}","rd":5445},"updatecheck":{},"version":"93"},{"appid":"jflookgnkcckhobaglndicnbbgbonegd","brand":"GCEU","cohort":"1:s7x:","cohorthint":"Auto","cohortname":"Auto","enabled":true,"packages":{"package":[{"fp":"1.cebdf3053a6a3a5cc1c978403bce3ca5ec79fe8343f71a047e9949e847254ba4"}]},"ping":{"ping_freshness":"{fc1350fb-311a-4bf5-8808-b3bf244bec0f}","rd":5445},"updatecheck":{},"version":"2741"},{"appid":"ggkkehgbnfjpeggfpleeakpidbkibbmn","brand":"GCEU","cohort":"1:ut9:","cohorthint":"M80ToM99","cohortname":"M80ToM99","enabled":true,"packages":{"package":[{"fp":"1.d24e6b67a71e828406205bd6d02bd4b619e22adbc3f08ebc701dd17108ef6088"}]},"ping":{"ping_freshness":"{7d31ddd6-c821-4276-85b3-6e4e437271e9}","rd":5445},"updatecheck":{},"version":"2021.11.15.1202"},{"appid":"dhlpobdgcjafebgbbhjdnapejmpkgiie","brand":"GCEU","cohort":"1:z9x:","cohorthint":"Auto","cohortname":"Auto","enabled":true,"packages":{"package":[{"fp":"1.8b9dc2cd32d1b5f147a17377cef75ec160103d6c02faf4947978fb6d9a25983b"}]},"ping":{"ping_freshness":"{b467e4d7-b5cb-4161-8863-8b49fe2e84c9}","rd":5445},"updatecheck":{},"version":"20211020.1"},{"appid":"jamhcnnkihinmdlkakkaopbjbbcngflc","brand":"GCEU","cohort":"1:wvr:","cohorthint":"Auto","cohortname":"Auto","enabled":true,"packages":{"package":[{"fp":"1.0a4156444468b15f8be99d1504c2783be8ff336aa3ad497967cdb775154af546"}]},"ping":{"ping_freshness":"{d117f0de-b08f-4555-b5e0-cc7846939078}","rd":5445},"updatecheck":{},"version":"98.0.4736.0"},{"appid":"ojhpjlocmbogdgmfpkhlaaeamibhnphh","brand":"GCEU","cohort":"1:w0x:","cohorthint":"Auto","cohortname":"Auto","enabled":true,"packages":{"package":[{"fp":"1.478aa915e78878e332a0b4bb4d2a6fb67ff1c7f7b62fe906f47095ba5ae112d0"}]},"ping":{"ping_freshness":"{1c668130-2e3f-41dd-8d85-6e81f7ed537a}","rd":5445},"updatecheck":{},"version":"1"},{"appid":"pdafiollngonhoadbmdoemagnfpdphbe","brand":"GCEU","cohort":"1:vz3:","cohorthint":"Auto","cohortname":"Auto","enabled":true,"packages":{"package":[{"fp":"1.54b93e249d02a0f9061e8f70866d4668a0260db9ae43483810ab78f97f3eaa2a"}]},"ping":{"ping_freshness":"{a76ef3cc-cee4-473b-a5fd-4814ffb5b8af}","rd":5445},"updatecheck":{},"version":"2021.8.17.1300"},{"appid":"imefjhfbkmcmebodilednhmaccmincoa","brand":"GCEU","cohort":"1:zor:","cohorthint":"Auto","cohortname":"Auto","enabled":true,"packages":{"package":[{"fp":"1.8ebc045593c4647e6e9c3765b5fd7d8ba12219c58ccde2216aab8ca557c737a1"}]},"ping":{"ping_freshness":"{a9d8b7d6-4c32-44d0-bdef-b0e6cb4dcaa0}","rd":5445},"tag":"default","updatecheck":{},"version":"25.3"},{"appid":"eeigpngbgcognadeebkilcpcaedhellh","brand":"GCEU","cohort":"1:w59:","cohorthint":"Auto","cohortname":"Auto","enabled":true,"packages":{"package":[{"fp":"1.c64c9c1008f3ba5f6e18b3ca524bc98dcd8acfae0a2720a8f1f3ef0f8d643d05"}]},"ping":{"ping_freshness":"{15d70a65-5ddc-45f3-afc4-bab906e97c4c}","rd":5445},"updatecheck":{},"version":"2020.11.2.164946"}],"arch":"x64","dedup":"cr","domainjoined":true,"hw":{"physmemory":32},"ismachine":true,"lang":"en-US","nacl_arch":"x86-64","os":{"arch":"x86_64","platform":"Windows","version":"10.0.14393.4169"},"prodversion":"96.0.4664.45","protocol":"3.1","requestid":"{c226b7b6-3653-40ce-a683-7b9d8660f28e}","sessionid":"{8ad99f24-922e-4f57-91d1-b62459a9909e}","updater":{"autoupdatecheckenabled":true,"ismachine":true,"lastchecked":0,"laststarted":0,"name":"Omaha","updatepolicy":-1,"version":"1.3.36.112"},"updaterversion":"96.0.4664.45"}}]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="HEAD"
+    name="/edgedl/release2/chrome_component/g5blinfutcueujujy7flk7b2dm_7005/hfnkpimlhhgieaddgfemjhofmfblmnib_7005_all_acepqjydcf352osqy54bp236fvnq.crx3"
+    path="/edgedl/release2/chrome_component/g5blinfutcueujujy7flk7b2dm_7005/hfnkpimlhhgieaddgfemjhofmfblmnib_7005_all_acepqjydcf352osqy54bp236fvnq.crx3"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/6faea0e9-1440-4eff-a164-5b9f1d93fd83.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="edgedl.me.gvt1.com" slaProfileEnabled="false"
+    uid="c786808a-4ce1-4d5f-af7f-e9fcc2d58beb" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_c786808a-4ce1-4d5f-af7f-e9fcc2d58beb</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_c786808a-4ce1-4d5f-af7f-e9fcc2d58beb.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="identity"/>
+    <header name="Host" value="edgedl.me.gvt1.com"/>
+    <header name="Proxy-Connection" value="Keep-Alive"/>
+    <header name="User-Agent" value="Microsoft BITS/7.8"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+accept-ranges: bytes&#xd;
+content-disposition: attachment&#xd;
+content-length: 25226&#xd;
+content-security-policy: default-src 'none'&#xd;
+content-type: application/octet-stream&#xd;
+etag: "b1753e"&#xd;
+last-modified: Mon, 29 Nov 2021 08:05:36 GMT&#xd;
+server: Google-Edge-Cache&#xd;
+x-content-type-options: nosniff&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-xss-protection: 0&#xd;
+date: Mon, 29 Nov 2021 08:06:01 GMT&#xd;
+age: 4777&#xd;
+alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000&#xd;
+x-request-id: a5184b88-e576-4e2f-a18f-c14f8629e518&#xd;
+cache-control: public,max-age=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

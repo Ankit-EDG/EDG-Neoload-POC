@@ -1,0 +1,54 @@
+<http-page executeResourcesDynamically="false" name="/nr-1212.min.js"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/ebc56b41-0f8e-4ca3-805a-5ca3bf200087.zip"
+    slaProfileEnabled="false" thinkTime="493"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="ebc56b41-0f8e-4ca3-805a-5ca3bf200087">
+    <embedded-action>09155dd0-d1d8-42b6-8a50-f9e92ec44cb1</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="application/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/nr-1212.min.js" path="/nr-1212.min.js"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/ebc56b41-0f8e-4ca3-805a-5ca3bf200087.zip"
+    recordedResponseCode="200" responseSize="34576"
+    serverUid="js-agent.newrelic.com" slaProfileEnabled="false"
+    uid="09155dd0-d1d8-42b6-8a50-f9e92ec44cb1" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_09155dd0-d1d8-42b6-8a50-f9e92ec44cb1</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_09155dd0-d1d8-42b6-8a50-f9e92ec44cb1.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://danmurphys-widgets-stg.salesfloor.net/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+x-amz-id-2: qHeg9S/dKdDxAVogfAFVg9rG4Dy7GPp/r8CbTy4jE4687FRKUQZDS5DEsdF5PGhxGkkLs2GNnTE=&#xd;
+x-amz-request-id: K2VGC12DW4VZSF96&#xd;
+last-modified: Thu, 04 Nov 2021 21:16:16 GMT&#xd;
+etag: "9dfe540eb31e6fc0e0dddd91e3511f68"&#xd;
+x-amz-version-id: S6r4yaeB6jo_ZylmZ_5cM21n7ZH1t6gc&#xd;
+content-type: application/javascript&#xd;
+server: AmazonS3&#xd;
+cache-control: public, max-age=7200, stale-if-error=604800&#xd;
+content-encoding: gzip&#xd;
+accept-ranges: bytes&#xd;
+date: Mon, 29 Nov 2021 09:25:07 GMT&#xd;
+via: 1.1 varnish&#xd;
+x-served-by: cache-syd10143-SYD&#xd;
+x-cache: HIT&#xd;
+x-cache-hits: 6218&#xd;
+x-timer: S1638177907.343524,VS0,VE0&#xd;
+vary: Accept-Encoding&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+content-length: 12828</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

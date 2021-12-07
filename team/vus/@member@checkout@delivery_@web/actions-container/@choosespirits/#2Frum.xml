@@ -1,0 +1,155 @@
+<http-page executeResourcesDynamically="false" name="/rum"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/9dfc8c2b-23d2-4f24-8f55-b0ca1725ac53.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="9dfc8c2b-23d2-4f24-8f55-b0ca1725ac53">
+    <embedded-action>8c4f5c48-ba00-41e1-8faf-11f99f25ea93</embedded-action>
+    <embedded-action>0103131d-7f79-4eb3-8fe6-541c829d1c74</embedded-action>
+    <embedded-action>74646857-884c-4db2-8ecb-833a58b96883</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=iso-8859-1"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/rum" path="/rum" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/9dfc8c2b-23d2-4f24-8f55-b0ca1725ac53.zip"
+    recordedResponseCode="302" responseSize="298"
+    serverUid="dsum-sec.casalemedia.com" slaProfileEnabled="false"
+    uid="8c4f5c48-ba00-41e1-8faf-11f99f25ea93" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_8c4f5c48-ba00-41e1-8faf-11f99f25ea93.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_8c4f5c48-ba00-41e1-8faf-11f99f25ea93.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="cm_dsp_id"
+        recordRawValue="3" separator="=" value="3" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="external_user_id"
+        recordRawValue="46d861a4-9c64-4600-b29d-cedecb0f4672"
+        separator="=" value="46d861a4-9c64-4600-b29d-cedecb0f4672" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="dsum-sec.casalemedia.com"/>
+    <header name="Referer" value="https://pixel.mathtag.com/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 302 Moved Temporarily&#xd;
+Server: Apache&#xd;
+Content-Length: 298&#xd;
+Content-Type: text/html; charset=iso-8859-1&#xd;
+Location: https://dsum-sec.casalemedia.com/rum?cm_dsp_id=3&amp;external_user_id=46d861a4-9c64-4600-b29d-cedecb0f4672&amp;C=1&#xd;
+P3p: policyref="/w3c/p3p.xml", CP="NOI DSP COR DEVa TAIa OUR BUS UNI"&#xd;
+Expires: Mon, 29 Nov 2021 09:30:53 GMT&#xd;
+Cache-Control: max-age=0, no-cache, no-store&#xd;
+Pragma: no-cache&#xd;
+Date: Mon, 29 Nov 2021 09:30:53 GMT&#xd;
+Connection: keep-alive&#xd;
+Set-Cookie: CMID=YaSdzSnVOutw9prGi3ULkwAA;domain=casalemedia.com;path=/;sameSite=None;Secure;expires=Tue, 29 Nov 2022 09:30:53 GMT&#xd;
+Set-Cookie: CMPS=4719;domain=casalemedia.com;path=/;sameSite=None;Secure;expires=Sun, 27 Feb 2022 09:30:53 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="2" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/rum" path="/rum" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/9dfc8c2b-23d2-4f24-8f55-b0ca1725ac53.zip"
+    recordedResponseCode="200"
+    refererUid="8c4f5c48-ba00-41e1-8faf-11f99f25ea93" responseSize="0"
+    serverUid="dsum-sec.casalemedia.com" slaProfileEnabled="false"
+    uid="0103131d-7f79-4eb3-8fe6-541c829d1c74" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_0103131d-7f79-4eb3-8fe6-541c829d1c74.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_0103131d-7f79-4eb3-8fe6-541c829d1c74.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="cm_dsp_id"
+        recordRawValue="3" separator="=" value="3" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="external_user_id"
+        recordRawValue="46d861a4-9c64-4600-b29d-cedecb0f4672"
+        separator="=" value="46d861a4-9c64-4600-b29d-cedecb0f4672" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="C"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="CMID=YaSdzSnVOutw9prGi3ULkwAA; CMPS=4719"/>
+    <header name="Host" value="dsum-sec.casalemedia.com"/>
+    <header name="Referer" value="https://pixel.mathtag.com/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: Apache&#xd;
+Content-Type: image/gif&#xd;
+P3p: policyref="/w3c/p3p.xml", CP="NOI DSP COR DEVa TAIa OUR BUS UNI"&#xd;
+Vary: Is-Traffic-Usersync&#xd;
+Content-Length: 43&#xd;
+Expires: Mon, 29 Nov 2021 09:30:53 GMT&#xd;
+Cache-Control: max-age=0, no-cache, no-store&#xd;
+Pragma: no-cache&#xd;
+Date: Mon, 29 Nov 2021 09:30:53 GMT&#xd;
+Connection: keep-alive&#xd;
+Set-Cookie: CMID=YaSdzSnVOutw9prGi3ULkwAA;domain=casalemedia.com;path=/;sameSite=None;Secure;expires=Tue, 29 Nov 2022 09:30:53 GMT&#xd;
+Set-Cookie: CMPS=4719;domain=casalemedia.com;path=/;sameSite=None;Secure;expires=Sun, 27 Feb 2022 09:30:53 GMT&#xd;
+Set-Cookie: CMPRO=9956;domain=casalemedia.com;path=/;sameSite=None;Secure;expires=Sun, 27 Feb 2022 09:30:53 GMT&#xd;
+Set-Cookie: CMRUM3=0361a49dcd276046d861a4-9c64-4600-b29d-cedecb0f4672;domain=casalemedia.com;path=/;sameSite=None;Secure;expires=Tue, 29 Nov 2022 09:30:53 GMT&#xd;
+Set-Cookie: CMST=YaSdzWGknc0A;domain=casalemedia.com;path=/;sameSite=None;Secure;expires=Tue, 30 Nov 2021 09:30:53 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/ups/55938/sync" path="/ups/55938/sync"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/9dfc8c2b-23d2-4f24-8f55-b0ca1725ac53.zip"
+    recordedResponseCode="204"
+    refererUid="7ebbab3d-7082-4fa8-954a-b2084030b23a" responseSize="0"
+    serverUid="ups.analytics.yahoo.com" slaProfileEnabled="false"
+    uid="74646857-884c-4db2-8ecb-833a58b96883" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_74646857-884c-4db2-8ecb-833a58b96883</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_74646857-884c-4db2-8ecb-833a58b96883.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="uid"
+        recordRawValue="46d861a4-9c64-4600-b29d-cedecb0f4672"
+        separator="=" value="46d861a4-9c64-4600-b29d-cedecb0f4672" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_origin"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="apid"
+        recordRawValue="UP08a49307-50f7-11ec-90c7-02aded64098e"
+        separator="=" value="UP08a49307-50f7-11ec-90c7-02aded64098e" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://pixel.mathtag.com/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="A3=d=AQABBGucpGECEN8cKkZWE2BVcYnPLFPrIS0FEgEBAQHtpWGuYQAAAAAA_eMAAA&amp;S=AQAAAuw_Njks2BNv2LpcEAerQeQ"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+date: Mon, 29 Nov 2021 09:30:53 GMT&#xd;
+strict-transport-security: max-age=31536000&#xd;
+set-cookie: IDSYNC=175u~21sx;Version=1;Domain=.analytics.yahoo.com;Path=/;Max-Age=31622400;Expires=Wed, 30-Nov-2022 09:30:53 GMT;Secure;SameSite=None&#xd;
+set-cookie: APID=UP08a49307-50f7-11ec-90c7-02aded64098e;Version=1;Domain=.yahoo.com;Path=/;Max-Age=2816946;Expires=Sat, 01-Jan-2022 00:00:00 GMT;Secure;SameSite=None&#xd;
+set-cookie: APIDTS=1638178253;Version=1;Domain=.yahoo.com;Path=/;Max-Age=86400;Expires=Tue, 30-Nov-2021 09:30:53 GMT;Secure;SameSite=None&#xd;
+p3p: CP=NOI DSP COR LAW CURa DEVa TAIa PSAa PSDa OUR BUS UNI COM NAV&#xd;
+age: 0&#xd;
+server: ATS/9.1.0.33&#xd;
+set-cookie: A3=d=AQABBGucpGECEN8cKkZWE2BVcYnPLFPrIS0FEgEBAQHtpWGuYQAAAAAA_eMAAA&amp;S=AQAAAuw_Njks2BNv2LpcEAerQeQ; Expires=Tue, 29 Nov 2022 15:30:53 GMT; Max-Age=31557600; Domain=.yahoo.com; Path=/; SameSite=None; Secure; HttpOnly&#xd;
+set-cookie: B=2q8fbadgq973b&amp;b=3&amp;s=4a; Expires=Tue, 29 Nov 2022 15:30:53 GMT; Max-Age=31557600; Domain=.yahoo.com; Path=/</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

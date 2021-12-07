@@ -1,0 +1,42 @@
+<http-page executeResourcesDynamically="false"
+    name="/dmo/content/Badges/SamKim-93.png"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/5532265b-d675-4d8c-8889-f41bc0b4549c.zip"
+    slaProfileEnabled="false" thinkTime="668"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="5532265b-d675-4d8c-8889-f41bc0b4549c">
+    <embedded-action>7f013bdf-d844-4ecd-b05b-ed53a4e352e8</embedded-action>
+</http-page>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/dmo/content/Badges/SamKim-93.png"
+    path="/dmo/content/Badges/SamKim-93.png" postType="2"
+    recordedArtifactZipFileName="team/vus/@member@checkout@delivery_@web/%resources%/recorded-artifacts/5532265b-d675-4d8c-8889-f41bc0b4549c.zip"
+    recordedResponseCode="302" responseSize="0"
+    serverUid="uatmedia.danmurphys.com.au" slaProfileEnabled="false"
+    uid="7f013bdf-d844-4ecd-b05b-ed53a4e352e8" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_7f013bdf-d844-4ecd-b05b-ed53a4e352e8</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_7f013bdf-d844-4ecd-b05b-ed53a4e352e8.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="AMCVS_1124C2D754E497DC0A4C98C6%40AdobeOrg=1; unbxd.userId=uid-1638177886946-17373; unbxd.visit=first_time; unbxd.visitId=visitId-1638177886953-75957; s_ecid=MCMID%7C62974577823596621581061727074359824665; ORA_FPC=id=a310c3a6-f82a-4c3f-b069-bce5bb19de6c; WTPERSIST=; fs_uid=rs.fullstory.com#TQCFZ#6094149355069440:5407716160069632#f6ed06d6#/1669708215; stg_danmurphys_sf_wdt_session_expiration_session=1638177902969; stg_danmurphys_sf_wdt_customer_id=tltok50kf; stg_danmurphys_sf_wdt_fingerprint=83522446464543; _gcl_au=1.1.1006025353.1638177903; _fbp=fb.2.1638177903177.530554903; AMCV_1124C2D754E497DC0A4C98C6%40AdobeOrg=-1124106680%7CMCIDTS%7C18961%7CMCMID%7C62974577823596621581061727074359824665%7CMCAAMLH-1638782866%7C8%7CMCAAMB-1638782866%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1638185266s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-18968%7CMCCIDH%7C104992502%7CvVersion%7C5.2.0; BVBRANDID=6f56fbda-5583-410c-bcb0-78f69cfe3e73; BVBRANDSID=4b583641-b23a-493d-808a-152d922516da; s_nr30=1638178202405-New; rr_rcs=eF5j4cotK8lM4TMzM9A11DVkKU32MDUyNUxKMUjUNTBJStM1MTGw1E21SDLUTUo2TTO1sDRJMzAwAwCEmQ34"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 302&#xd;
+server: AkamaiGHost&#xd;
+Content-Length: 0&#xd;
+location: https://uatmedia.danmurphys.com.au/dmo/default.png&#xd;
+cache-control: max-age=0&#xd;
+expires: Mon, 29 Nov 2021 09:30:05 GMT&#xd;
+date: Mon, 29 Nov 2021 09:30:05 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
