@@ -1,0 +1,3 @@
+<variable-sql delimiters=";" filename="SqlTemp/p_SqlVariable_1.csv" name="p_SqlVariable_1" offset="1" order="3" policy="5" query="select shopper_id  from dbo.shopper where email like 'ptest%@dm.woolworths.com';" range="4" uid="92f407d3-863c-4bfb-96a9-a66d78eb33b5" useFirstLine="true" whenOutOfValues="CYCLE_VALUES">
+<sql-database-connection dbDriver="com.microsoft.sqlserver.jdbc.SQLServerDriver" dbHost="azdmodba0001.database.windows.net" dbLogin="uatdmoapi" dbName="HSESTORE" dbPassword="BM118pU+6vmR6APtphHFtq2UsZ+f/hDc" dbPort="1433" dbProtocol="sqlserver://" manualMode="false" manualUrl=""/>
+</variable-sql>
