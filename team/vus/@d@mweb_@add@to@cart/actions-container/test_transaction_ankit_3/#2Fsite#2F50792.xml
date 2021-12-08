@@ -1,10 +1,10 @@
 <http-page executeResourcesDynamically="false" name="/site/50792"
     playRequestsSequentially="false"
-    recordedArtifactZipFileName="team/vus/@d@mweb_@add@to@cart/%resources%/recorded-artifacts/f03c3058-bfd7-4aeb-b5f2-7e3a8b2b8203.zip"
+    recordedArtifactZipFileName="team/vus/@d@mweb_@add@to@cart/%resources%/recorded-artifacts/056f9613-7e2e-411d-bf4b-33416275670d.zip"
     slaProfileEnabled="false" thinkTime="0"
     thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
-    thinkTimeRangeStart="" uid="f03c3058-bfd7-4aeb-b5f2-7e3a8b2b8203">
-    <embedded-action>3e86e0d8-6066-4286-a3a8-1f0182b67ca3</embedded-action>
+    thinkTimeRangeStart="" uid="056f9613-7e2e-411d-bf4b-33416275670d">
+    <embedded-action>cd01af66-0239-4a18-83bd-1de8bf53fb3f</embedded-action>
 </http-page>
 <http-action actionType="1" eTag="&quot;0c16159d7d71:0&quot;"
     extractorInjectPathPolicy="2" extractorPathPolicy="1"
@@ -13,10 +13,10 @@
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/assets/icons/v2/icons-sprite.svg"
     path="/assets/icons/v2/icons-sprite.svg" postType="2"
-    recordedArtifactZipFileName="team/vus/@d@mweb_@add@to@cart/%resources%/recorded-artifacts/f03c3058-bfd7-4aeb-b5f2-7e3a8b2b8203.zip"
+    recordedArtifactZipFileName="team/vus/@d@mweb_@add@to@cart/%resources%/recorded-artifacts/056f9613-7e2e-411d-bf4b-33416275670d.zip"
     recordedResponseCode="304" responseSize="0"
     serverUid="stage.danmurphys.com.au" slaProfileEnabled="false"
-    uid="3e86e0d8-6066-4286-a3a8-1f0182b67ca3" useKeepAlive="false">
+    uid="cd01af66-0239-4a18-83bd-1de8bf53fb3f" useKeepAlive="false">
     <requestContentFileDescription>recorded-requests/req_1a6502ca-0fc9-4ec7-899e-456d57005eb9.txt</requestContentFileDescription>
     <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
     <header name="Accept-Encoding" value="gzip, deflate, br"/>

@@ -1,6 +1,0 @@
-<basic-logical-action-container element-number="1" execution-type="0"
-    name="test_transaction_ankit_2" pacingEnd="0"
-    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
-    slaProfileEnabled="false" uid="bdcff4f3-802c-4c7f-a000-c9074e1ccaef" weightsEnabled="false">
-    <weighted-embedded-action uid="f03c3058-bfd7-4aeb-b5f2-7e3a8b2b8203"/>
-</basic-logical-action-container>
