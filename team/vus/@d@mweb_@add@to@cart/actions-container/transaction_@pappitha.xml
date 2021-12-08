@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="transaction_Pappitha" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="1e683f77-bbfb-480f-98c5-9baf223bbbdf" weightsEnabled="false">
+    <weighted-embedded-action uid="658620be-46c2-49b0-ae93-07796c849f86"/>
+</basic-logical-action-container>
