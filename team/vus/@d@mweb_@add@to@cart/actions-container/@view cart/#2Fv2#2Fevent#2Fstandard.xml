@@ -1,0 +1,65 @@
+<http-page executeResourcesDynamically="false" name="/v2/event/standard"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@d@mweb_@add@to@cart/%resources%/recorded-artifacts/ef36fb65-5f22-4884-b30d-d88507b9891b.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="ef36fb65-5f22-4884-b30d-d88507b9891b">
+    <embedded-action>139c8422-e70a-4ac5-884a-a2c28acbd56e</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/apis/ui/Products/Bundles/906199,72232,20345,172736,955420,172528,172477,86222,716121,27703,346878,787635,497977,104967,641701,22865,322002,81377,346091,142172"
+    path="/apis/ui/Products/Bundles/${ExtractedVariable_ProductStockCode_9},${ExtractedVariable_ProductStockCode-2_2},${ExtractedVariable_ProductStockCode_3},172736,${ExtractedVariable_ProductStockCode-2_4},172528,172477,${ExtractedVariable_ProductStockCode-2_5},${ExtractedVariable_ProductStockCode-2_6},${ExtractedVariable_ProductStockCode_8},${ExtractedVariable_ProductStockCode_7},787635,497977,104967,${ExtractedVariable_ProductStockCode_6},${ExtractedVariable_ProductStockCode-2_10},${ExtractedVariable_ProductStockCode-2_11},81377,${ExtractedVariable_ProductStockCode-2_12},${ExtractedVariable_ProductStockCode-2_13}"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@d@mweb_@add@to@cart/%resources%/recorded-artifacts/ef36fb65-5f22-4884-b30d-d88507b9891b.zip"
+    recordedResponseCode="200" responseSize="142165"
+    serverUid="stageapi.danmurphys.com.au" slaProfileEnabled="false"
+    uid="139c8422-e70a-4ac5-884a-a2c28acbd56e" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_139c8422-e70a-4ac5-884a-a2c28acbd56e</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_139c8422-e70a-4ac5-884a-a2c28acbd56e.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true"
+        name="ExcludeUnavailable" recordRawValue="true" separator="="
+        value="true" valueMode="USE_VALUE"/>
+    <header name="Accept" value="application/json, text/plain, */*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="ARRAffinity=fb2756e19a7f11de7f694d1c28d31a32597a6d8c231ece78350a012fe967615e; ARRAffinitySameSite=fb2756e19a7f11de7f694d1c28d31a32597a6d8c231ece78350a012fe967615e; w-arjshtsw=t0d54decdd3a7428dacdadf3fe11f44e4tiathlqbz; unbxd.userId=uid-1638153381848-72995; unbxd.visit=first_time; unbxd.visitId=visitId-1638153381863-73263; AMCVS_1124C2D754E497DC0A4C98C6%40AdobeOrg=1; ORA_FPC=id=2cb58f7a48f3b8e181a1637779960${ExtractedVariable_StockOnHand}; WTPERSIST=; s_ecid=MCMID%7C49631252449785994444553633980752165394; fs_uid=rs.fullstory.com#TQCFZ#6723379596124160:4757066069860352#fa42ef37#/1669679047; _fbp=fb.2.1638153396892.1616534574; _gcl_au=1.1.1003948585.1638153397; stg_danmurphys_sf_wdt_session_expiration_session=1638153397219; stg_danmurphys_sf_wdt_customer_id=khufndyyv; stg_danmurphys_sf_wdt_fingerprint=57820638684487; w-PRGATHCK0=7993dc60-f721-4da3-9a62-a70b2f7a9548:t0d54decdd3a7428dacdadf3fe11f44e4tiathlqbz; w-rsjhf=PGcgLz4=; AMCV_1124C2D754E497DC0A4C98C6%40AdobeOrg=-1124106680%7CMCIDTS%7C18961%7CMCMID%7C49631252449785994444553633980752165394%7CMCAAMLH-1638758214%7C8%7CMCAAMB-1638758214%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1638160614s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-18968%7CMCCIDH%7C1052641081%7CvVersion%7C5.2.0; w-aqwerhpi=adm-d,i-1,p-1276,is-dCrSYXpuE58=,a-5aGqDbCw7qSBBsNCrNmjpE7Od5tODPZ6FNrLDfqW8D8=; rr_rcs=eF5j4cotK8lM4TMzM9A11DVkKU32sDBOSTNPtDTSTUu0tNA1MTRL1DU1MjfVTUwzTTNNNDZPtjA3AwCIuQ4a; BVBRANDID=daa91395-29ef-46e3-81d6-ce2a26c1a797; BVBRANDSID=a11ac249-b466-4791-bf48-8f812c8681c1; s_nr30=1638153616546-New; ADRUM_BTa=R:32|g:2725f75f-94ba-4944-9a20-c496254564a5|n:Woolworths-Dev_2b311050-b631-46eb-a435-beea47816b7e"/>
+    <header name="Host" value="stageapi.danmurphys.com.au"/>
+    <header name="Origin" value="https://stage.danmurphys.com.au"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache, no-store, must-revalidate&#xd;
+Pragma: no-cache&#xd;
+Content-Length: 21739&#xd;
+Content-Type: application/json; charset=utf-8&#xd;
+Content-Encoding: gzip&#xd;
+Expires: -1&#xd;
+Vary: Accept,Accept-Encoding&#xd;
+Server: Microsoft-IIS/10.0&#xd;
+Set-Cookie: ADRUM_BTa=R:32|g:5a18b7b5-0423-406f-99b8-6d07b16c13cf|n:Woolworths-Dev_2b311050-b631-46eb-a435-beea47816b7e; expires=Mon, 29-Nov-2021 02:40:47 GMT; path=/&#xd;
+X-Powered-By: Olympic TRADER&#xd;
+Access-Control-Allow-Origin: https://stage.danmurphys.com.au&#xd;
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS&#xd;
+Access-Control-Allow-Headers: Content-Type, dmIV, Source, X-EventID&#xd;
+Access-Control-Expose-Headers: X-EventID&#xd;
+Access-Control-Allow-Credentials: true&#xd;
+X-EventID: 59e73f4d-0e41-418c-849e-5403433f4a4e&#xd;
+X-Powered-By: ServiceStack/4.052 Win32NT/.NET&#xd;
+X-AspNet-Version: 4.0.30319&#xd;
+X-Powered-By: ASP.NET&#xd;
+Date: Mon, 29 Nov 2021 02:40:16 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

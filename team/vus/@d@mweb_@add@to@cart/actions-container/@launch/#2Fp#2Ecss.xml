@@ -1,0 +1,47 @@
+<http-page executeResourcesDynamically="false" name="/p.css"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@d@mweb_@add@to@cart/%resources%/recorded-artifacts/c8942eff-5a39-4478-a26f-76b92c5425f7.zip"
+    slaProfileEnabled="false" thinkTime="509"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="c8942eff-5a39-4478-a26f-76b92c5425f7">
+    <embedded-action>c36e1b66-fbdd-4772-802a-7fdcf189be9a</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="application/font-woff"
+    eTag="&quot;0ad9471fdcd71:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/fontawesome-webfont.f691f37e57f04c152e23.woff"
+    path="/fontawesome-webfont.f691f37e57f04c152e23.woff" postType="2"
+    recordedArtifactZipFileName="team/vus/@d@mweb_@add@to@cart/%resources%/recorded-artifacts/c8942eff-5a39-4478-a26f-76b92c5425f7.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="stage.danmurphys.com.au" slaProfileEnabled="false"
+    uid="c36e1b66-fbdd-4772-802a-7fdcf189be9a" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_c36e1b66-fbdd-4772-802a-7fdcf189be9a</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_c36e1b66-fbdd-4772-802a-7fdcf189be9a.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="stage.danmurphys.com.au"/>
+    <header name="Origin" value="https://stage.danmurphys.com.au"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/dm/home"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="font"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache&#xd;
+Content-Length: 98024&#xd;
+Content-Type: application/font-woff&#xd;
+Last-Modified: Thu, 18 Nov 2021 01:53:06 GMT&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "0ad9471fdcd71:0"&#xd;
+Server: Microsoft-IIS/10.0&#xd;
+X-Powered-By: ASP.NET&#xd;
+Date: Mon, 29 Nov 2021 02:36:19 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

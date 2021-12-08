@@ -1,0 +1,192 @@
+<http-page executeResourcesDynamically="false"
+    name="/container/18843;122107;13134;iframe/"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@d@mweb_@add@to@cart/%resources%/recorded-artifacts/ab82d7c2-f435-4e29-b07e-b6ce591885c1.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="ab82d7c2-f435-4e29-b07e-b6ce591885c1">
+    <embedded-action>89497126-8589-4830-8064-05a2044c4039</embedded-action>
+    <embedded-action>31ae1cf9-334f-4079-a2f1-3f7a392066b3</embedded-action>
+    <embedded-action>44401598-8dd8-4a93-a4a2-6cd52e6194d4</embedded-action>
+    <embedded-action>74ead460-35ef-4bb0-9c53-b81788463d91</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/apis/ui/BazaarVoice/RatingsAndReviews"
+    path="/apis/ui/BazaarVoice/RatingsAndReviews" postType="2"
+    recordedArtifactZipFileName="team/vus/@d@mweb_@add@to@cart/%resources%/recorded-artifacts/ab82d7c2-f435-4e29-b07e-b6ce591885c1.zip"
+    recordedResponseCode="200" responseSize="2798"
+    serverUid="stageapi.danmurphys.com.au" slaProfileEnabled="false"
+    uid="89497126-8589-4830-8064-05a2044c4039" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_89497126-8589-4830-8064-05a2044c4039</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_89497126-8589-4830-8064-05a2044c4039.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="ProductId"
+        recordRawValue="DM_904960" separator="="
+        value="DM_${ExtractedVariable_ProductStockCode}" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="PageSize"
+        recordRawValue="4" separator="=" value="4" valueMode="USE_VALUE"/>
+    <header name="Accept" value="application/json, text/plain, */*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="ARRAffinity=fb2756e19a7f11de7f694d1c28d31a32597a6d8c231ece78350a012fe967615e; ARRAffinitySameSite=fb2756e19a7f11de7f694d1c28d31a32597a6d8c231ece78350a012fe967615e; w-arjshtsw=t0d54decdd3a7428dacdadf3fe11f44e4tiathlqbz; unbxd.userId=uid-1638153381848-72995; unbxd.visit=first_time; unbxd.visitId=visitId-1638153381863-73263; AMCVS_1124C2D754E497DC0A4C98C6%40AdobeOrg=1; ORA_FPC=id=2cb58f7a48f3b8e181a1637779960${ExtractedVariable_StockOnHand}; WTPERSIST=; s_ecid=MCMID%7C49631252449785994444553633980752165394; fs_uid=rs.fullstory.com#TQCFZ#6723379596124160:4757066069860352#fa42ef37#/1669679047; _fbp=fb.2.1638153396892.1616534574; _gcl_au=1.1.1003948585.1638153397; stg_danmurphys_sf_wdt_session_expiration_session=1638153397219; stg_danmurphys_sf_wdt_customer_id=khufndyyv; stg_danmurphys_sf_wdt_fingerprint=57820638684487; w-PRGATHCK0=7993dc60-f721-4da3-9a62-a70b2f7a9548:t0d54decdd3a7428dacdadf3fe11f44e4tiathlqbz; w-rsjhf=PGcgLz4=; AMCV_1124C2D754E497DC0A4C98C6%40AdobeOrg=-1124106680%7CMCIDTS%7C18961%7CMCMID%7C49631252449785994444553633980752165394%7CMCAAMLH-1638758214%7C8%7CMCAAMB-1638758214%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1638160614s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-18968%7CMCCIDH%7C1052641081%7CvVersion%7C5.2.0; w-aqwerhpi=adm-d,i-1,p-1276,is-dCrSYXpuE58=,a-5aGqDbCw7qSBBsNCrNmjpE7Od5tODPZ6FNrLDfqW8D8=; s_nr30=1638153492669-New; rr_rcs=eF5jYSlN9rAwTkkzT7Q00k1LtLTQNTE0S9Q1NTI31U1MM00zTTQ2T7YwN-PKLSvJTOEzMzPQNdQ1BACMpw4a; unbxd.pen.click.1638153566492=eyJwaWQiOiI5MDQ5NjAiLCJwciI6NywiZXhwZXJpZW5jZV9wYWdldHlwZSI6Ik5VTEwiLCJ1cmwiOiJodHRwczovL3N0YWdlLmRhbm11cnBoeXMuY29tLmF1L3Byb2R1Y3QvRE1fOTA0OTYwL3BlbmZvbGRzLWtvb251bmdhLWhpbGwtc2hpcmF6IiwicmVmZXJyZXIiOiIiLCJ2aXNpdF90eXBlIjoiZmlyc3RfdGltZSIsInZlciI6IjQuMC4yOCIsIl91ZiI6NzYzNzgyMzAwLCJ2aXNpdElkIjoidmlzaXRJZC0xNjM4MTUzMzgxODYzLTczMjYzIn0%3D; ADRUM_BTa=R:32|g:920617ff-2ec5-4f8b-8612-e04797d8fecc|n:Woolworths-Dev_2b311050-b631-46eb-a435-beea47816b7e"/>
+    <header name="Host" value="stageapi.danmurphys.com.au"/>
+    <header name="Origin" value="https://stage.danmurphys.com.au"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache, no-store, must-revalidate&#xd;
+Pragma: no-cache&#xd;
+Content-Length: 1373&#xd;
+Content-Type: application/json; charset=utf-8&#xd;
+Content-Encoding: gzip&#xd;
+Expires: -1&#xd;
+Vary: Accept,Accept-Encoding&#xd;
+Server: Microsoft-IIS/10.0&#xd;
+Set-Cookie: ADRUM_BTa=R:32|g:fcbe8d17-6b9a-4028-abff-b618553ab95e|n:Woolworths-Dev_2b311050-b631-46eb-a435-beea47816b7e; expires=Mon, 29-Nov-2021 02:39:57 GMT; path=/&#xd;
+X-Powered-By: Olympic TRADER&#xd;
+Access-Control-Allow-Origin: https://stage.danmurphys.com.au&#xd;
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS&#xd;
+Access-Control-Allow-Headers: Content-Type, dmIV, Source, X-EventID&#xd;
+Access-Control-Expose-Headers: X-EventID&#xd;
+Access-Control-Allow-Credentials: true&#xd;
+X-EventID: d6c8ac1c-c22e-49ae-aad3-1d3f0b050caf&#xd;
+X-Powered-By: ServiceStack/4.052 Win32NT/.NET&#xd;
+X-AspNet-Version: 4.0.30319&#xd;
+X-Powered-By: ASP.NET&#xd;
+Date: Mon, 29 Nov 2021 02:39:28 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;072aa855c87d71:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Mon, 02 Aug 2021 05:09:08 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/assets/images/share-facebook.png"
+    path="/assets/images/share-facebook.png" postType="2"
+    recordedArtifactZipFileName="team/vus/@d@mweb_@add@to@cart/%resources%/recorded-artifacts/ab82d7c2-f435-4e29-b07e-b6ce591885c1.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="stage.danmurphys.com.au" slaProfileEnabled="false"
+    uid="31ae1cf9-334f-4079-a2f1-3f7a392066b3" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_31ae1cf9-334f-4079-a2f1-3f7a392066b3.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_31ae1cf9-334f-4079-a2f1-3f7a392066b3.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="at_check=true; cacheBustKey=1638153380317; unbxd.userId=uid-1638153381848-72995; unbxd.visit=first_time; unbxd.visitId=visitId-1638153381863-73263; AMCVS_1124C2D754E497DC0A4C98C6%40AdobeOrg=1; ORA_FPC=id=2cb58f7a48f3b8e181a1637779960${ExtractedVariable_StockOnHand}; WTPERSIST=; s_ecid=MCMID%7C49631252449785994444553633980752165394; fs_uid=rs.fullstory.com#TQCFZ#6723379596124160:4757066069860352#fa42ef37#/1669679047; mdLogger=false; kampyleUserSession=1638153394793; kampyleUserSessionsCount=16; _fbp=fb.2.1638153396892.1616534574; _gcl_au=1.1.1003948585.1638153397; sf_siterefer=salesfloor; stg_danmurphys_sf_wdt_session_expiration_session=1638153397219; stg_danmurphys_sf_wdt_customer_id=khufndyyv; stg_danmurphys_sf_wdt_fingerprint=57820638684487; customerIdMboxcookie=8127831; ISCUSTID=8127831; WTPERSIST=8127831; AMCV_1124C2D754E497DC0A4C98C6%40AdobeOrg=-1124106680%7CMCIDTS%7C18961%7CMCMID%7C49631252449785994444553633980752165394%7CMCAAMLH-1638758214%7C8%7CMCAAMB-1638758214%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1638160614s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-18968%7CMCCIDH%7C1052641081%7CvVersion%7C5.2.0; s_nr30=1638153492669-New; rr_rcs=eF5jYSlN9rAwTkkzT7Q00k1LtLTQNTE0S9Q1NTI31U1MM00zTTQ2T7YwN-PKLSvJTOEzMzPQNdQ1BACMpw4a; kampyleSessionPageCounter=3; unbxd.pen.click.1638153566492=eyJwaWQiOiI5MDQ5NjAiLCJwciI6NywiZXhwZXJpZW5jZV9wYWdldHlwZSI6Ik5VTEwiLCJ1cmwiOiJodHRwczovL3N0YWdlLmRhbm11cnBoeXMuY29tLmF1L3Byb2R1Y3QvRE1fOTA0OTYwL3BlbmZvbGRzLWtvb251bmdhLWhpbGwtc2hpcmF6IiwicmVmZXJyZXIiOiIiLCJ2aXNpdF90eXBlIjoiZmlyc3RfdGltZSIsInZlciI6IjQuMC4yOCIsIl91ZiI6NzYzNzgyMzAwLCJ2aXNpdElkIjoidmlzaXRJZC0xNjM4MTUzMzgxODYzLTczMjYzIn0%3D; mbox=session#277e7bf89f8e47c6853c4576e8b064e0#1638155427|PC#277e7bf89f8e47c6853c4576e8b064e0.36_0#1701398367"/>
+    <header name="Host" value="stage.danmurphys.com.au"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/product/DM_${ExtractedVariable_ProductStockCode}/${ExtractedVariable_ProductName}"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache&#xd;
+Content-Length: 450&#xd;
+Content-Type: image/png&#xd;
+Last-Modified: Mon, 02 Aug 2021 05:09:08 GMT&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "072aa855c87d71:0"&#xd;
+Server: Microsoft-IIS/10.0&#xd;
+X-Powered-By: ASP.NET&#xd;
+Date: Mon, 29 Nov 2021 02:39:26 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;072aa855c87d71:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Mon, 02 Aug 2021 05:09:08 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/assets/images/share-twitter.png"
+    path="/assets/images/share-twitter.png" postType="2"
+    recordedArtifactZipFileName="team/vus/@d@mweb_@add@to@cart/%resources%/recorded-artifacts/ab82d7c2-f435-4e29-b07e-b6ce591885c1.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="stage.danmurphys.com.au" slaProfileEnabled="false"
+    uid="44401598-8dd8-4a93-a4a2-6cd52e6194d4" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_44401598-8dd8-4a93-a4a2-6cd52e6194d4.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_44401598-8dd8-4a93-a4a2-6cd52e6194d4.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="at_check=true; cacheBustKey=1638153380317; unbxd.userId=uid-1638153381848-72995; unbxd.visit=first_time; unbxd.visitId=visitId-1638153381863-73263; AMCVS_1124C2D754E497DC0A4C98C6%40AdobeOrg=1; ORA_FPC=id=2cb58f7a48f3b8e181a1637779960${ExtractedVariable_StockOnHand}; WTPERSIST=; s_ecid=MCMID%7C49631252449785994444553633980752165394; fs_uid=rs.fullstory.com#TQCFZ#6723379596124160:4757066069860352#fa42ef37#/1669679047; mdLogger=false; kampyleUserSession=1638153394793; kampyleUserSessionsCount=16; _fbp=fb.2.1638153396892.1616534574; _gcl_au=1.1.1003948585.1638153397; sf_siterefer=salesfloor; stg_danmurphys_sf_wdt_session_expiration_session=1638153397219; stg_danmurphys_sf_wdt_customer_id=khufndyyv; stg_danmurphys_sf_wdt_fingerprint=57820638684487; customerIdMboxcookie=8127831; ISCUSTID=8127831; WTPERSIST=8127831; AMCV_1124C2D754E497DC0A4C98C6%40AdobeOrg=-1124106680%7CMCIDTS%7C18961%7CMCMID%7C49631252449785994444553633980752165394%7CMCAAMLH-1638758214%7C8%7CMCAAMB-1638758214%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1638160614s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-18968%7CMCCIDH%7C1052641081%7CvVersion%7C5.2.0; s_nr30=1638153492669-New; rr_rcs=eF5jYSlN9rAwTkkzT7Q00k1LtLTQNTE0S9Q1NTI31U1MM00zTTQ2T7YwN-PKLSvJTOEzMzPQNdQ1BACMpw4a; kampyleSessionPageCounter=3; unbxd.pen.click.1638153566492=eyJwaWQiOiI5MDQ5NjAiLCJwciI6NywiZXhwZXJpZW5jZV9wYWdldHlwZSI6Ik5VTEwiLCJ1cmwiOiJodHRwczovL3N0YWdlLmRhbm11cnBoeXMuY29tLmF1L3Byb2R1Y3QvRE1fOTA0OTYwL3BlbmZvbGRzLWtvb251bmdhLWhpbGwtc2hpcmF6IiwicmVmZXJyZXIiOiIiLCJ2aXNpdF90eXBlIjoiZmlyc3RfdGltZSIsInZlciI6IjQuMC4yOCIsIl91ZiI6NzYzNzgyMzAwLCJ2aXNpdElkIjoidmlzaXRJZC0xNjM4MTUzMzgxODYzLTczMjYzIn0%3D; mbox=session#277e7bf89f8e47c6853c4576e8b064e0#1638155427|PC#277e7bf89f8e47c6853c4576e8b064e0.36_0#1701398367"/>
+    <header name="Host" value="stage.danmurphys.com.au"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/product/DM_${ExtractedVariable_ProductStockCode}/${ExtractedVariable_ProductName}"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache&#xd;
+Content-Length: 565&#xd;
+Content-Type: image/png&#xd;
+Last-Modified: Mon, 02 Aug 2021 05:09:08 GMT&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "072aa855c87d71:0"&#xd;
+Server: Microsoft-IIS/10.0&#xd;
+X-Powered-By: ASP.NET&#xd;
+Date: Mon, 29 Nov 2021 02:39:27 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;072aa855c87d71:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Mon, 02 Aug 2021 05:09:08 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/assets/images/pinterest-small.png"
+    path="/assets/images/pinterest-small.png" postType="2"
+    recordedArtifactZipFileName="team/vus/@d@mweb_@add@to@cart/%resources%/recorded-artifacts/ab82d7c2-f435-4e29-b07e-b6ce591885c1.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="stage.danmurphys.com.au" slaProfileEnabled="false"
+    uid="74ead460-35ef-4bb0-9c53-b81788463d91" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_74ead460-35ef-4bb0-9c53-b81788463d91.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_74ead460-35ef-4bb0-9c53-b81788463d91.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="at_check=true; cacheBustKey=1638153380317; unbxd.userId=uid-1638153381848-72995; unbxd.visit=first_time; unbxd.visitId=visitId-1638153381863-73263; AMCVS_1124C2D754E497DC0A4C98C6%40AdobeOrg=1; ORA_FPC=id=2cb58f7a48f3b8e181a1637779960${ExtractedVariable_StockOnHand}; WTPERSIST=; s_ecid=MCMID%7C49631252449785994444553633980752165394; fs_uid=rs.fullstory.com#TQCFZ#6723379596124160:4757066069860352#fa42ef37#/1669679047; mdLogger=false; kampyleUserSession=1638153394793; kampyleUserSessionsCount=16; _fbp=fb.2.1638153396892.1616534574; _gcl_au=1.1.1003948585.1638153397; sf_siterefer=salesfloor; stg_danmurphys_sf_wdt_session_expiration_session=1638153397219; stg_danmurphys_sf_wdt_customer_id=khufndyyv; stg_danmurphys_sf_wdt_fingerprint=57820638684487; customerIdMboxcookie=8127831; ISCUSTID=8127831; WTPERSIST=8127831; AMCV_1124C2D754E497DC0A4C98C6%40AdobeOrg=-1124106680%7CMCIDTS%7C18961%7CMCMID%7C49631252449785994444553633980752165394%7CMCAAMLH-1638758214%7C8%7CMCAAMB-1638758214%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1638160614s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-18968%7CMCCIDH%7C1052641081%7CvVersion%7C5.2.0; s_nr30=1638153492669-New; rr_rcs=eF5jYSlN9rAwTkkzT7Q00k1LtLTQNTE0S9Q1NTI31U1MM00zTTQ2T7YwN-PKLSvJTOEzMzPQNdQ1BACMpw4a; kampyleSessionPageCounter=3; unbxd.pen.click.1638153566492=eyJwaWQiOiI5MDQ5NjAiLCJwciI6NywiZXhwZXJpZW5jZV9wYWdldHlwZSI6Ik5VTEwiLCJ1cmwiOiJodHRwczovL3N0YWdlLmRhbm11cnBoeXMuY29tLmF1L3Byb2R1Y3QvRE1fOTA0OTYwL3BlbmZvbGRzLWtvb251bmdhLWhpbGwtc2hpcmF6IiwicmVmZXJyZXIiOiIiLCJ2aXNpdF90eXBlIjoiZmlyc3RfdGltZSIsInZlciI6IjQuMC4yOCIsIl91ZiI6NzYzNzgyMzAwLCJ2aXNpdElkIjoidmlzaXRJZC0xNjM4MTUzMzgxODYzLTczMjYzIn0%3D; mbox=session#277e7bf89f8e47c6853c4576e8b064e0#1638155427|PC#277e7bf89f8e47c6853c4576e8b064e0.36_0#1701398367"/>
+    <header name="Host" value="stage.danmurphys.com.au"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/product/DM_${ExtractedVariable_ProductStockCode}/${ExtractedVariable_ProductName}"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache&#xd;
+Content-Length: 2504&#xd;
+Content-Type: image/png&#xd;
+Last-Modified: Mon, 02 Aug 2021 05:09:08 GMT&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "072aa855c87d71:0"&#xd;
+Server: Microsoft-IIS/10.0&#xd;
+X-Powered-By: ASP.NET&#xd;
+Date: Mon, 29 Nov 2021 02:39:26 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

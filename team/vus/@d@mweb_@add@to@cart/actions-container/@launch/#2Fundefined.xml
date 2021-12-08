@@ -1,0 +1,50 @@
+<http-page executeResourcesDynamically="false" name="/undefined"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@d@mweb_@add@to@cart/%resources%/recorded-artifacts/762f46ca-78d4-463f-b949-f9ec6f5d9dc4.zip"
+    slaProfileEnabled="false" thinkTime="714"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="762f46ca-78d4-463f-b949-f9ec6f5d9dc4">
+    <embedded-action>480b2fc0-9818-4a5c-8ac3-e0885082c56e</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html"
+    eTag="&quot;0a84813e1dcd71:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Fri, 19 Nov 2021 01:02:08 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/undefined" path="/undefined" postType="2"
+    recordedArtifactZipFileName="team/vus/@d@mweb_@add@to@cart/%resources%/recorded-artifacts/762f46ca-78d4-463f-b949-f9ec6f5d9dc4.zip"
+    recordedResponseCode="200" responseSize="11108"
+    serverUid="stage.danmurphys.com.au" slaProfileEnabled="false"
+    uid="480b2fc0-9818-4a5c-8ac3-e0885082c56e" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_480b2fc0-9818-4a5c-8ac3-e0885082c56e.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_480b2fc0-9818-4a5c-8ac3-e0885082c56e.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="AMCV_1124C2D754E497DC0A4C98C6%40AdobeOrg=-1124106680%7CMCIDTS%7C18961%7CvVersion%7C5.2.0; at_check=true; cacheBustKey=1638153380317; unbxd.userId=uid-1638153381848-72995; unbxd.visit=first_time; unbxd.visitId=visitId-1638153381863-73263; mbox=session#277e7bf89f8e47c6853c4576e8b064e0#1638155243"/>
+    <header name="Host" value="stage.danmurphys.com.au"/>
+    <header name="Referer" value="https://stage.danmurphys.com.au/dm/home"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-cache&#xd;
+Content-Length: 4363&#xd;
+Content-Type: text/html&#xd;
+Content-Encoding: gzip&#xd;
+Last-Modified: Fri, 19 Nov 2021 01:02:08 GMT&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: "0a84813e1dcd71:0"&#xd;
+Vary: Accept-Encoding&#xd;
+Server: Microsoft-IIS/10.0&#xd;
+X-Powered-By: ASP.NET&#xd;
+Date: Mon, 29 Nov 2021 02:36:22 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

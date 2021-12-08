@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Transaction_Postman" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="c79a9fd6-6c27-4bd5-b31e-b24a721bb5bc" weightsEnabled="false">
+    <weighted-embedded-action uid="2b07b47a-e4f9-42c0-bc4a-8e3fdc71bafd"/>
+    <weighted-embedded-action uid="a519c002-4e71-4afb-a9b8-c6e3fd1c16ab"/>
+    <weighted-embedded-action uid="43702c2d-9fe7-4bc8-b3b5-a11863324de9"/>
+</basic-logical-action-container>

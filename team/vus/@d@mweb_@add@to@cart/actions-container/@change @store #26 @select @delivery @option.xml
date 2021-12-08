@@ -1,0 +1,14 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Change Store &amp; Select Delivery Option" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="0cd3bc84-d0d1-4f14-b015-e1b99444453a" weightsEnabled="false">
+    <weighted-embedded-action uid="a1917050-854d-47ca-8c37-f899bb7f01f1"/>
+    <weighted-embedded-action uid="18834df6-0307-4be8-9991-b12c5dbc0e53"/>
+    <weighted-embedded-action uid="69b251ed-8704-4fea-b78b-89e8ae445f1b"/>
+    <weighted-embedded-action uid="f26be442-b07b-4e75-b1b5-c1baf5cbfc5d"/>
+    <weighted-embedded-action uid="67ccd054-fbeb-42d5-a4ba-e59e815e0c0e"/>
+    <weighted-embedded-action uid="5f519d06-420e-4480-b357-a1dd5ac3beaf"/>
+    <weighted-embedded-action uid="743900e9-605e-49df-952c-26adda97992a"/>
+    <weighted-embedded-action uid="27ef60ce-9086-4894-8afb-d76d4757f680"/>
+    <weighted-embedded-action uid="fd7eafa7-3124-48aa-853b-7929b664e27c"/>
+</basic-logical-action-container>

@@ -1,0 +1,16 @@
+# Project description file
+
+project.name=POCDanMurphyWeb
+project.version=8.3
+project.original.version=8.3
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=7.11.1
+project.is-open-test-settings-after-upload=false
+project.id=fc4b246c-bfaa-4138-8aea-9854a9994bdf
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+project.workspace=61aecd40ca2d153946f373e5
+project.test-settings=d003db71-82ef-4089-a9eb-b924ed38e413
+team.server.project=/Ankit-EDG/EDG-Neoload-POC.git

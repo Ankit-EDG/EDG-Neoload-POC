@@ -1,0 +1,42 @@
+<http-page executeResourcesDynamically="false"
+    name="/dmo/content/Badges/AndrewCaillard-94.png"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@d@mweb_@add@to@cart/%resources%/recorded-artifacts/63d26296-c7ca-4d66-bb67-7dd899581956.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="63d26296-c7ca-4d66-bb67-7dd899581956">
+    <embedded-action>dd097ec4-0cdd-44f7-b7f1-fb04de4922cc</embedded-action>
+</http-page>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/dmo/content/Badges/AndrewCaillard-94.png"
+    path="/dmo/content/Badges/AndrewCaillard-94.png" postType="2"
+    recordedArtifactZipFileName="team/vus/@d@mweb_@add@to@cart/%resources%/recorded-artifacts/63d26296-c7ca-4d66-bb67-7dd899581956.zip"
+    recordedResponseCode="302" responseSize="0"
+    serverUid="uatmedia.danmurphys.com.au" slaProfileEnabled="false"
+    uid="dd097ec4-0cdd-44f7-b7f1-fb04de4922cc" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_dd097ec4-0cdd-44f7-b7f1-fb04de4922cc</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_dd097ec4-0cdd-44f7-b7f1-fb04de4922cc.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="unbxd.userId=uid-1638153381848-72995; unbxd.visit=first_time; unbxd.visitId=visitId-1638153381863-73263; AMCVS_1124C2D754E497DC0A4C98C6%40AdobeOrg=1; ORA_FPC=id=2cb58f7a48f3b8e181a1637779960${ExtractedVariable_StockOnHand}; WTPERSIST=; s_ecid=MCMID%7C49631252449785994444553633980752165394; fs_uid=rs.fullstory.com#TQCFZ#6723379596124160:4757066069860352#fa42ef37#/1669679047; _fbp=fb.2.1638153396892.1616534574; _gcl_au=1.1.1003948585.1638153397; stg_danmurphys_sf_wdt_session_expiration_session=1638153397219; stg_danmurphys_sf_wdt_customer_id=khufndyyv; stg_danmurphys_sf_wdt_fingerprint=57820638684487; AMCV_1124C2D754E497DC0A4C98C6%40AdobeOrg=-1124106680%7CMCIDTS%7C18961%7CMCMID%7C49631252449785994444553633980752165394%7CMCAAMLH-1638758214%7C8%7CMCAAMB-1638758214%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1638160614s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-18968%7CMCCIDH%7C1052641081%7CvVersion%7C5.2.0; unbxd.pen.click.1638153566492=eyJwaWQiOiI5MDQ5NjAiLCJwciI6NywiZXhwZXJpZW5jZV9wYWdldHlwZSI6Ik5VTEwiLCJ1cmwiOiJodHRwczovL3N0YWdlLmRhbm11cnBoeXMuY29tLmF1L3Byb2R1Y3QvRE1fOTA0OTYwL3BlbmZvbGRzLWtvb251bmdhLWhpbGwtc2hpcmF6IiwicmVmZXJyZXIiOiIiLCJ2aXNpdF90eXBlIjoiZmlyc3RfdGltZSIsInZlciI6IjQuMC4yOCIsIl91ZiI6NzYzNzgyMzAwLCJ2aXNpdElkIjoidmlzaXRJZC0xNjM4MTUzMzgxODYzLTczMjYzIn0%3D; s_nr30=1638153567783-New; rr_rcs=eF5j4cotK8lM4TMzM9A11DVkKU32sDBOSTNPtDTSTUu0tNA1MTRL1DU1MjfVTUwzTTNNNDZPtjA3AwCIuQ4a; BVBRANDID=daa91395-29ef-46e3-81d6-ce2a26c1a797; BVBRANDSID=a11ac249-b466-4791-bf48-8f812c8681c1"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 302&#xd;
+server: AkamaiGHost&#xd;
+Content-Length: 0&#xd;
+location: https://uatmedia.danmurphys.com.au/dmo/default.png&#xd;
+cache-control: max-age=0&#xd;
+expires: Mon, 29 Nov 2021 02:39:33 GMT&#xd;
+date: Mon, 29 Nov 2021 02:39:33 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
