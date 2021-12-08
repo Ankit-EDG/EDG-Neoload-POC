@@ -1,0 +1,5 @@
+<variable-list name="P_UserName1" offset="2" order="3" policy="5" range="1" uid="0ed776dd-d917-4b87-bbd5-430d9e2dfde4" whenOutOfValues="CYCLE_VALUES">
+<column name="col_0" number="0"/>
+<column name="col_1" number="1"/>
+<values><![CDATA[rO0ABXVyABRbW0xqYXZhLmxhbmcuU3RyaW5nOzJNCa2EMuRXAgAAeHAAAAADdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAIXB0ZXN0MTAxODIwMzMwNS44MDBAZG0uZWRnLmNvbS5hdXQACnB0ZXN0MTIzNDV1cQB+AAIAAAACdAAhcHRlc3QxMDE4MTUzNTM0Ljg5NUBkbS5lZGcuY29tLmF1dAAIcHRlc3QxMjN1cQB+AAIAAAACdAAhcHRlc3QxMDE4MTUzNTM0Ljg5NUBkbS5lZGcuY29tLmF1dAAHdGVzdDEyMw==]]></values>
+</variable-list>
