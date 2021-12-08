@@ -15,11 +15,11 @@
     <lg-networkiface description="Microsoft Hyper-V Network Adapter"
         enabled="false" isLoopBack="false" name="eth0">
         <!--****** LG ADDRESSES ******-->
-        <lg-address enabled="false" hostname="azwedglda0002.endeavourgroup.com.au">
-            <ip value="172.29.146.20"/>
+        <lg-address enabled="false" hostname="azwedglda0003.endeavourgroup.com.au">
+            <ip value="172.29.146.31"/>
         </lg-address>
-        <lg-address enabled="false" hostname="fe80:0:0:0:fd34:5ab:9b05:2cad%eth0">
-            <ip value="fe80:0:0:0:fd34:5ab:9b05:2cad%eth0"/>
+        <lg-address enabled="false" hostname="fe80:0:0:0:d599:ac17:9b34:44e5%eth0">
+            <ip value="fe80:0:0:0:d599:ac17:9b34:44e5%eth0"/>
         </lg-address>
         <!--****** END LG ADDRESSES ******-->
     </lg-networkiface>
