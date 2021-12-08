@@ -1,0 +1,14 @@
+<basic-logical-action-container element-number="1" enabled="false"
+    execution-type="0" name="View cart" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="afbd7e27-d5c8-47ec-8dcb-57a1b6b8d973" weightsEnabled="false">
+    <weighted-embedded-action uid="a86e8e71-1275-4b46-ab5d-ec9c7f330e91"/>
+    <weighted-embedded-action uid="b40b6f54-0bd6-4099-b804-71aed0f42d2c"/>
+    <weighted-embedded-action uid="8287b90c-fff1-4619-b403-e4d9d0efeb0b"/>
+    <weighted-embedded-action uid="2f0b9c0d-52f8-44db-91b7-3e7062005db6"/>
+    <weighted-embedded-action uid="b56b07d6-0160-4d9e-a6fb-21b48ff217cc"/>
+    <weighted-embedded-action uid="72bc4750-6c50-492b-b906-ed8b6329391a"/>
+    <weighted-embedded-action uid="a778b430-2885-468d-9503-5593405593bf"/>
+    <weighted-embedded-action uid="f690fca5-a43c-4276-85de-5420ca898f37"/>
+    <weighted-embedded-action uid="ef36fb65-5f22-4884-b30d-d88507b9891b"/>
+</basic-logical-action-container>

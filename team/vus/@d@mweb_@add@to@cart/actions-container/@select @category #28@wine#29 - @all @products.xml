@@ -1,0 +1,14 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Select Category (Wine) - All Products" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="0d002ad4-17e6-4218-99f7-65e80568a843" weightsEnabled="false">
+    <weighted-embedded-action uid="16c6a429-5ef1-4f16-9a06-43dfe49af122"/>
+    <weighted-embedded-action uid="abc684bf-313c-4256-b131-03056241046b"/>
+    <weighted-embedded-action uid="81220344-53b1-4b6e-9bcc-4e889bd988ba"/>
+    <weighted-embedded-action uid="5ed74582-c69b-441a-8aef-660af7875802"/>
+    <weighted-embedded-action uid="f0fda977-421f-426f-9d49-51497d811dee"/>
+    <weighted-embedded-action uid="6bfd11e6-6ccd-43e2-8d6f-666bca71f927"/>
+    <weighted-embedded-action uid="d15e48dd-7d61-4bc2-bfbd-757e788aa37e"/>
+    <weighted-embedded-action uid="7bce86bb-528f-4c76-aae6-8e8f7102db45"/>
+    <weighted-embedded-action uid="b9f9f9e1-746c-4f30-b586-eaba6a9e9ead"/>
+</basic-logical-action-container>

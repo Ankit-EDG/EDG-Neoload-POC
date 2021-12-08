@@ -1,0 +1,44 @@
+<http-page executeResourcesDynamically="false"
+    name="/v1/schemes/validate" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path_@postman/%resources%/recorded-artifacts/43702c2d-9fe7-4bc8-b3b5-a11863324de9.zip"
+    slaProfileEnabled="false" thinkTime="1251"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="43702c2d-9fe7-4bc8-b3b5-a11863324de9">
+    <embedded-action>1c1f92d9-148f-4b81-8af8-0e23d29cdeef</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/v1/schemes/validate"
+    path="/v1/schemes/validate" postType="4"
+    recordedArtifactZipFileName="team/vus/@user@path_@postman/%resources%/recorded-artifacts/43702c2d-9fe7-4bc8-b3b5-a11863324de9.zip"
+    recordedResponseCode="200" responseSize="132"
+    serverUid="api.subscriptions.stg.k8s.edg.com.au"
+    slaProfileEnabled="false" uid="1c1f92d9-148f-4b81-8af8-0e23d29cdeef" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_3085f559-0bb8-47ff-9195-a3cf6b8204f9</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_3085f559-0bb8-47ff-9195-a3cf6b8204f9.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="text/plain"/>
+    <header name="Host" value="api.subscriptions.stg.k8s.edg.com.au"/>
+    <header name="Postman-Token" value="1adb6d2d-7a64-4ca6-a6cd-5d3f52ad902d"/>
+    <header name="User-Agent" value="PostmanRuntime/7.28.4"/>
+    <header name="X-API-Key" value="ORHqtrbW5v8Gdzn"/>
+    <header name="x-edg-api-correlationid" value="postman"/>
+    <header name="X-Transaction-ID" value="123"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Mon, 29 Nov 2021 05:57:27 GMT&#xd;
+Content-Type: application/json; charset=utf-8&#xd;
+Content-Length: 132&#xd;
+Connection: close&#xd;
+X-Transaction-ID: 123&#xd;
+Strict-Transport-Security: max-age=15724800; includeSubDomains&#xd;
+Access-Control-Allow-Origin: *&#xd;
+Access-Control-Allow-Credentials: true</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[Encoded(Base64):ew0KICAgICJDb2RlIjoiU1VCMTIzIg0KfQ==]]></textPostContent>
+</http-action>

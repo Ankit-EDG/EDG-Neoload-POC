@@ -1,0 +1,19 @@
+<basic-logical-action-container element-number="1" enabled="false"
+    execution-type="0" name="Select a Product &amp; Go to Product Page"
+    pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="d2e76f68-40b1-4c1e-b5db-03c2b5dbc7ef" weightsEnabled="false">
+    <weighted-embedded-action uid="47195f0f-6a8d-4776-8086-a99e80c50bbe"/>
+    <weighted-embedded-action uid="4121fcd5-6e9d-487b-a907-da9bcd9369d1"/>
+    <weighted-embedded-action uid="283a6421-f270-4b62-98c9-cfb0383ef964"/>
+    <weighted-embedded-action uid="83262935-0e28-4ac7-8755-8a84d17d2a71"/>
+    <weighted-embedded-action uid="fcae29fb-2457-4501-8f91-9baad7a986eb"/>
+    <weighted-embedded-action uid="ab82d7c2-f435-4e29-b07e-b6ce591885c1"/>
+    <weighted-embedded-action uid="db744aff-969b-4302-86e5-3d268b1f8a11"/>
+    <weighted-embedded-action uid="8cb03ca6-4352-4cd9-9d24-1f4908d43570"/>
+    <weighted-embedded-action uid="02dae248-e230-46c3-b736-7083a70cc56c"/>
+    <weighted-embedded-action uid="7da7d7ba-9aea-46d9-a577-1e917c5e490a"/>
+    <weighted-embedded-action uid="53bf80fd-25ef-4ce9-81c2-2e3c42b1f2f0"/>
+    <weighted-embedded-action uid="af20d4c9-c357-43ed-abc5-d701fa8c5ef6"/>
+    <weighted-embedded-action uid="63d26296-c7ca-4d66-bb67-7dd899581956"/>
+</basic-logical-action-container>

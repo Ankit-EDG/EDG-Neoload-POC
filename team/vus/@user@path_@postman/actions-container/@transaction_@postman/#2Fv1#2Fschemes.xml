@@ -1,0 +1,46 @@
+<http-page executeResourcesDynamically="false" name="/v1/schemes"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path_@postman/%resources%/recorded-artifacts/a519c002-4e71-4afb-a9b8-c6e3fd1c16ab.zip"
+    slaProfileEnabled="false" thinkTime="10072"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="a519c002-4e71-4afb-a9b8-c6e3fd1c16ab">
+    <embedded-action>4cf6d008-d8f1-44f2-9038-0b06c6cab51d</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/v1/schemes" path="/v1/schemes" postType="4"
+    recordedArtifactZipFileName="team/vus/@user@path_@postman/%resources%/recorded-artifacts/a519c002-4e71-4afb-a9b8-c6e3fd1c16ab.zip"
+    recordedResponseCode="200" responseSize="7080"
+    serverUid="api.subscriptions.stg.k8s.edg.com.au"
+    slaProfileEnabled="false" uid="4cf6d008-d8f1-44f2-9038-0b06c6cab51d" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_eb6fc88e-7ca7-4d90-81f3-0505540f31f4</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_eb6fc88e-7ca7-4d90-81f3-0505540f31f4.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="pageNumber"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="pageSize"
+        recordRawValue="100" separator="=" value="100" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="application/json"/>
+    <header name="Host" value="api.subscriptions.stg.k8s.edg.com.au"/>
+    <header name="Postman-Token" value="c4d303f5-6cf3-4064-933b-774e5d728d8d"/>
+    <header name="User-Agent" value="PostmanRuntime/7.28.4"/>
+    <header name="X-API-Key" value="ORHqtrbW5v8Gdzn"/>
+    <header name="x-edg-api-correlationid" value="postman"/>
+    <header name="X-Transaction-ID" value="123456"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Mon, 29 Nov 2021 05:56:40 GMT&#xd;
+Content-Type: application/json; charset=utf-8&#xd;
+Content-Length: 7080&#xd;
+Connection: close&#xd;
+X-Transaction-ID: 123456&#xd;
+Strict-Transport-Security: max-age=15724800; includeSubDomains&#xd;
+Access-Control-Allow-Origin: *&#xd;
+Access-Control-Allow-Credentials: true</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

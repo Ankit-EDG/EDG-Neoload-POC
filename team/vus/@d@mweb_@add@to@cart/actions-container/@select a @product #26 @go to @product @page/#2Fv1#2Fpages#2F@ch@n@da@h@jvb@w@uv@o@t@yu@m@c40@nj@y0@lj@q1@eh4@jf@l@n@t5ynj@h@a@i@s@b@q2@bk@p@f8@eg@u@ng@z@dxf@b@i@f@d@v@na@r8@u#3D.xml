@@ -1,0 +1,101 @@
+<http-page executeResourcesDynamically="false"
+    name="/v1/pages/ChNDaHJvbWUvOTYuMC40NjY0LjQ1Eh4JfLNT5ynjHAISBQ2BkPF8EgUNgZDxfBIFDVNaR8U="
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@d@mweb_@add@to@cart/%resources%/recorded-artifacts/7da7d7ba-9aea-46d9-a577-1e917c5e490a.zip"
+    slaProfileEnabled="false" thinkTime="246"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="7da7d7ba-9aea-46d9-a577-1e917c5e490a">
+    <embedded-action>fb7d6988-0d8e-440a-aeac-162839022200</embedded-action>
+    <embedded-action>3da90dbe-02ff-4132-88f9-f0b528093f54</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/javascript;charset=UTF-8"
+    eTag="&quot;6947c9d2c17c4cd9deec6f984e394fec&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 20 Mar 2019 15:38:43 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/apps/api/api-0.7.3.js"
+    path="/apps/api/api-0.7.3.js" postType="2"
+    recordedArtifactZipFileName="team/vus/@d@mweb_@add@to@cart/%resources%/recorded-artifacts/7da7d7ba-9aea-46d9-a577-1e917c5e490a.zip"
+    recordedResponseCode="200" responseSize="35862"
+    serverUid="apps.bazaarvoice.com" slaProfileEnabled="false"
+    uid="fb7d6988-0d8e-440a-aeac-162839022200" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_fb7d6988-0d8e-440a-aeac-162839022200</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_fb7d6988-0d8e-440a-aeac-162839022200.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: text/javascript;charset=UTF-8&#xd;
+content-length: 10312&#xd;
+date: Tue, 26 Oct 2021 15:33:08 GMT&#xd;
+x-amz-replication-status: COMPLETED&#xd;
+last-modified: Wed, 20 Mar 2019 15:38:43 GMT&#xd;
+etag: "6947c9d2c17c4cd9deec6f984e394fec"&#xd;
+cache-control: max-age=31536000&#xd;
+content-encoding: br&#xd;
+x-amz-version-id: l.C..dhByb34fR53IhLWZdC8Epc1OMHA&#xd;
+accept-ranges: bytes&#xd;
+server: AmazonS3&#xd;
+via: 1.1 2232887ba0422bbe2b2a9f1ebf020f00.cloudfront.net (CloudFront)&#xd;
+age: 2891182&#xd;
+x-cache: Hit from cloudfront&#xd;
+x-amz-cf-pop: SYD62-P1&#xd;
+x-amz-cf-id: DRZiXZI_6A_8vK3pvquHOpKSTnZl-Z5qzkI9BEXVyt-2h3c3_f2Idg==</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript;charset=UTF-8"
+    eTag="&quot;c1ce8718bf8fd5dbf75b703d409ef089&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Thu, 04 Jun 2020 04:04:30 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/deployments/dan-murphys/main_site/staging/en_AU/api-config.js"
+    path="/deployments/dan-murphys/main_site/staging/en_AU/api-config.js"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@d@mweb_@add@to@cart/%resources%/recorded-artifacts/7da7d7ba-9aea-46d9-a577-1e917c5e490a.zip"
+    recordedResponseCode="200" responseSize="420"
+    serverUid="apps.bazaarvoice.com" slaProfileEnabled="false"
+    uid="3da90dbe-02ff-4132-88f9-f0b528093f54" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_3da90dbe-02ff-4132-88f9-f0b528093f54</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_3da90dbe-02ff-4132-88f9-f0b528093f54.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: text/javascript;charset=UTF-8&#xd;
+content-length: 290&#xd;
+x-amz-replication-status: COMPLETED&#xd;
+last-modified: Thu, 04 Jun 2020 04:04:30 GMT&#xd;
+content-encoding: gzip&#xd;
+x-amz-version-id: t7JAVM.0Uod_9GIy5uoggTnsRpLHd91c&#xd;
+accept-ranges: bytes&#xd;
+server: AmazonS3&#xd;
+date: Mon, 29 Nov 2021 02:39:31 GMT&#xd;
+cache-control: max-age=300&#xd;
+etag: "c1ce8718bf8fd5dbf75b703d409ef089"&#xd;
+via: 1.1 2232887ba0422bbe2b2a9f1ebf020f00.cloudfront.net (CloudFront)&#xd;
+x-cache: RefreshHit from cloudfront&#xd;
+x-amz-cf-pop: SYD62-P1&#xd;
+x-amz-cf-id: GYciTNKEbDM80Rpq-EQ3wgFAfLByNun8QWyO6aNoYWetw72PnggUFA==</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

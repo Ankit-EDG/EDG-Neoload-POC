@@ -1,0 +1,54 @@
+<http-page executeResourcesDynamically="false" name="/v2/event/standard"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@d@mweb_@add@to@cart/%resources%/recorded-artifacts/8cb03ca6-4352-4cd9-9d24-1f4908d43570.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="8cb03ca6-4352-4cd9-9d24-1f4908d43570">
+    <embedded-action>bc838b55-3245-4ba3-8d26-a5bb1cc9b45a</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/javascript;charset=UTF-8"
+    eTag="&quot;4477269e16b2302ac854fef851fbdc8f&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Thu, 04 Jun 2020 04:04:35 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/deployments/dan-murphys/main_site/staging/en_AU/bv.js"
+    path="/deployments/dan-murphys/main_site/staging/en_AU/bv.js"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@d@mweb_@add@to@cart/%resources%/recorded-artifacts/8cb03ca6-4352-4cd9-9d24-1f4908d43570.zip"
+    recordedResponseCode="200" responseSize="67299"
+    serverUid="apps.bazaarvoice.com" slaProfileEnabled="false"
+    uid="bc838b55-3245-4ba3-8d26-a5bb1cc9b45a" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_bc838b55-3245-4ba3-8d26-a5bb1cc9b45a</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_bc838b55-3245-4ba3-8d26-a5bb1cc9b45a.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://stage.danmurphys.com.au/"/>
+    <header name="sec-ch-ua" value="&quot; Not A;Brand&quot;;v=&quot;99&quot;, &quot;Chromium&quot;;v=&quot;96&quot;, &quot;Google Chrome&quot;;v=&quot;96&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: text/javascript;charset=UTF-8&#xd;
+content-length: 21069&#xd;
+x-amz-replication-status: COMPLETED&#xd;
+last-modified: Thu, 04 Jun 2020 04:04:35 GMT&#xd;
+content-encoding: gzip&#xd;
+x-amz-version-id: piTvDEHLqWThn8XKvz14zcua4DpcFqRO&#xd;
+accept-ranges: bytes&#xd;
+server: AmazonS3&#xd;
+date: Mon, 29 Nov 2021 02:39:30 GMT&#xd;
+cache-control: max-age=300&#xd;
+etag: "4477269e16b2302ac854fef851fbdc8f"&#xd;
+via: 1.1 2232887ba0422bbe2b2a9f1ebf020f00.cloudfront.net (CloudFront)&#xd;
+x-cache: RefreshHit from cloudfront&#xd;
+x-amz-cf-pop: SYD62-P1&#xd;
+x-amz-cf-id: FCxf1BVh8qz-kdjfSLsi2pO1SuxHFYSXFdzS849wfmDmrFCBQr3SfQ==</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
